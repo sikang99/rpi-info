@@ -4,7 +4,6 @@
 - MMAL(Multi-Media Abstraction Layer)
 
 
-
 ## Commands
 ```
 $ sudo raspi-config
@@ -39,11 +38,15 @@ $ omxplayer video.h264
 - mmaldemo
 
 ### Configuration
-- /etc/os-release
-- /etc/modules
 ```
+$ cat /etc/os-release
+
+$ cat /etc/modules
 snd-bcm2835
 bcm2835-v4l2
+
+$ sudo modprobe -v bcm2835-v4l2
+$ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 ```
 
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
@@ -53,6 +56,8 @@ bcm2835-v4l2
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
+- [technomancers/piCamera](https://github.com/technomancers/piCamera) 
+- [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
 
 
 ## [WebRTC](https://webrtc.org/)
