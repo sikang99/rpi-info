@@ -13,11 +13,14 @@ $ raspistill -vf -hf -o test.jpg
 
 - raspivid
 - omxplayer
+- mmaldemo
 
 ### Configuration
 - /etc/modules
+```
 snd-bcm2835
 bcm2835-v4l2
+```
 
 - 
 
