@@ -22,7 +22,7 @@ snd-bcm2835
 bcm2835-v4l2
 ```
 
-- [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) 
+- [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 
 
 ### Open Source
@@ -45,6 +45,9 @@ bcm2835-v4l2
 - docker-ce
 
 ## Golang
-- golang 1.10.4, 1.11
+- [golang 1.10.4, 1.11](https://golang.org/dl/)
+
+- [fatih/vim-go](https://github.com/fatih/vim-go)
+- [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial)
 
 
