@@ -34,6 +34,7 @@ bcm2835-v4l2
 
 ### Information
 - [Building a Raspberry Pi 2 WebRTC camera](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera) - Janus and gStreamer
+- [WebRTC-streamer](http://www.lib4dev.com/info/mpromonet/webrtc-streamer/27565754)
 
 
 ### Open Source
