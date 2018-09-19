@@ -42,7 +42,7 @@ git g:
 
 git-update gu:
 	git add README.md Makefile
-	git commit -m "1st commit"
+	git commit -m "2nd commit"
 	git push
 
 git-login gl:
