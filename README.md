@@ -7,6 +7,10 @@
 
 ## Tools
 - raspistill
+```
+$ raspistill -vf -hf -o test.jpg
+```
+
 - raspivid
 - omxplayer
 
