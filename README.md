@@ -54,6 +54,12 @@ bcm2835-v4l2
 
 ## Docker
 - docker-ce
+```sh
+$ curl -sSL https://get.docker.com | sh
+$ sudo groupadd docker
+$ sudo gpasswd -a $USER docker
+$ sudo setfacl -m user:$USER:rw /var/run/docker.sock
+```
 
 ## Golang
 - [golang 1.10.4, 1.11](https://golang.org/dl/)
