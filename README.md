@@ -2,7 +2,7 @@
 
 ## Commands
 - sudo raspi-config
-- sudo apt {update,upgrade,dist-upgrade}
+- sudo apt {update,upgrade,dist-upgrade,full-upgrade}
 - sudo rpi-update
 
 ## Tools
@@ -49,6 +49,7 @@ bcm2835-v4l2
 ### Open Source
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
+    - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - WebRTC Server
 
 
