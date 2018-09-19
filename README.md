@@ -1,9 +1,18 @@
 # Raspberry Pi Information
 
 ## Commands
-- sudo raspi-config
-- sudo apt {update,upgrade,dist-upgrade,full-upgrade}
-- sudo rpi-update
+```
+$ sudo raspi-config
+$ sudo apt {update,upgrade,dist-upgrade,full-upgrade}
+$ sudo rpi-update
+```
+
+```
+sudo dpkg -i rws_xxx_armhf.deb
+sudo systemctl {start,stop,status} rws
+sudo journalctl -u rws
+```
+
 
 ## Tools
 - raspistill
