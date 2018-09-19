@@ -16,6 +16,7 @@ $ raspistill -vf -hf -o test.jpg
 - mmaldemo
 
 ### Configuration
+- /etc/os-release
 - /etc/modules
 ```
 snd-bcm2835
