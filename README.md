@@ -1,5 +1,10 @@
 # Raspberry Pi Information
 
+## Terminoloy
+- MMAL(Multi-Media Abstraction Layer)
+
+
+
 ## Commands
 ```
 $ sudo raspi-config
@@ -7,11 +12,15 @@ $ sudo apt {update,upgrade,dist-upgrade,full-upgrade}
 $ sudo rpi-update
 ```
 
+### RPi WebRTC Streamer
 ```
-sudo dpkg -i rws_xxx_armhf.deb
-sudo systemctl {start,stop,status} rws
-sudo journalctl -u rws
-http://localhost:8889/native-peerconnection
+$ sudo dpkg -i rws_xxx_armhf.deb
+$ sudo dpkg -r rws
+
+$ sudo systemctl {start,stop,status} rws
+$ sudo journalctl -u rws
+
+> http://localhost:8889/native-peerconnection
 ```
 
 
@@ -21,7 +30,11 @@ http://localhost:8889/native-peerconnection
 $ raspistill -vf -hf -o test.jpg
 ```
 
-- raspivid
+- raspivid, raspiyuv, raspividyuv
+```
+$ raspivid -t 5000 -o video.h264
+$ omxplayer video.h264
+```
 - omxplayer
 - mmaldemo
 
@@ -39,6 +52,7 @@ bcm2835-v4l2
 
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
+- [limhyon/guvcview](https://github.com/limhyon/guvcview)
 
 
 ## [WebRTC](https://webrtc.org/)
@@ -57,6 +71,8 @@ bcm2835-v4l2
 
 
 ### Open Source
+- [webrtc.googlesource.com/src](https://webrtc.googlesource.com/src) - native code
+- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
     - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
