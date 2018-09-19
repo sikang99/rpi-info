@@ -40,16 +40,14 @@ git g:
 	@echo "make (git) [update|login|tag|status]"
 	@echo ""
 
-git-init gi:
-	git config --global user.email "sikang99@gmail.com"
-	git config --global user.name "Stoney Kang"
-
 git-update gu:
 	git add README.md Makefile
 	git commit -m "1st commit"
 	git push
 
 git-login gl:
+	git config --global user.email "sikang99@gmail.com"
+	git config --global user.name "Stoney Kang"
 	git config credential.helper store
 
 git-tag gt:
