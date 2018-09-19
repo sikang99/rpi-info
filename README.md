@@ -11,6 +11,7 @@ $ sudo rpi-update
 sudo dpkg -i rws_xxx_armhf.deb
 sudo systemctl {start,stop,status} rws
 sudo journalctl -u rws
+http://localhost:8889/native-peerconnection
 ```
 
 
@@ -59,6 +60,7 @@ bcm2835-v4l2
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
     - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
+- [kclyu/rpi-webrtc-streamer-frontend](https://github.com/kclyu/rpi-webrtc-streamer-frontend)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - WebRTC Server
 
 
