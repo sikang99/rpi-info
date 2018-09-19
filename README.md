@@ -35,6 +35,8 @@ bcm2835-v4l2
 - [WebRTC](https://webrtc.org)
 - [LIVE555TM WebRTC Demonstration](http://webrtc.live555.com/)
 	- LIVE555 WebRTC Proxy Server
+- [Interoperating WebRTC and IP cameras](http://www.kurento.org/blog/interoperating-webrtc-and-ip-cameras)
+
 
 ### Information
 - [Building a Raspberry Pi 2 WebRTC camera](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera) - Janus and gStreamer
