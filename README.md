@@ -50,7 +50,17 @@ bcm2835-v4l2
 
 $ sudo modprobe -v bcm2835-v4l2
 $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
+
+$ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
 ```
+
+RPi RTSP Server Test
+```
+$ v4l2rtspserver
+$ vlc rtsp://<ip:8554>/unicast
+```
+
+
 
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
