@@ -9,6 +9,8 @@
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
 - OpenMAX 
+- [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
+
 
 
 ## Commands
@@ -78,6 +80,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
 - [https://github.com/6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
+    - [B101 HDMI to CSI-2 Bridge (15 pin FPC)](https://auvidea.com/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
 
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
