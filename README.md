@@ -91,6 +91,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [LIVE555TM WebRTC Demonstration](http://webrtc.live555.com/)
 	- LIVE555 WebRTC Proxy Server
 - [Interoperating WebRTC and IP cameras](http://www.kurento.org/blog/interoperating-webrtc-and-ip-cameras)
+- [Low-Latency Video Streaming from RPi To Mobile Application](http://www.youngscientistusa.com/archive/10/462/) - Janus gateway, ionic for iOS
 
 
 ### Information
@@ -102,7 +103,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 - [webrtc.googlesource.com/src](https://webrtc.googlesource.com/src) - native code
-- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - tested (Ok)
+- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - tested (Ok with VLC)
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
     - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
