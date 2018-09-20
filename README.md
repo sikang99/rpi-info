@@ -1,5 +1,11 @@
 # Raspberry Pi (3) Information
 
+
+## Awesome
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
+
+
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
 - OpenMAX 
@@ -66,7 +72,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
-- [Category: video Streaming](https://richardstechnotes.com/category/video-streaming) - YOLOv3, AIY Vision Kit
+- richard's technotes [Category: video Streaming](https://richardstechnotes.com/category/video-streaming) - YOLOv3, AIY Vision Kit
 
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU

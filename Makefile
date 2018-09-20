@@ -3,7 +3,6 @@
 #
 all: usage
 
-SCRIPT=go-funcs.sh
 EDITOR=vi
 
 usage:
@@ -17,8 +16,8 @@ edit e:
 	@echo "make (edit) [sh|readme|make]"
 	@echo ""
 
-edit-sh es:
-	$(EDITOR) $(SCRIPT)
+edit-web ew:
+	$(EDITOR) WebMedia.md
 
 edit-readme er:
 	$(EDITOR) README.md
@@ -41,8 +40,8 @@ git g:
 	@echo ""
 
 git-update gu:
-	git add README.md Makefile
-	git commit -m "add some commit"
+	git add README.md WebMedia.md Makefile
+	git commit -m "add WebMmedia.md"
 	git push
 
 git-login gl:
@@ -53,7 +52,7 @@ git-login gl:
 	git config credential.helper store
 
 git-tag gt:
-	git tag v0.0.2
+	git tag v0.0.3
 	git push --tags
 
 git-status gs:
