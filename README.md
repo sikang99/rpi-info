@@ -76,6 +76,8 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
+- [https://github.com/6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
+
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
