@@ -33,6 +33,8 @@ $ raspistill -vf -hf -o test.jpg
 ```
 $ raspivid -t 5000 -o video.h264
 $ omxplayer video.h264
+
+$ raspivid -vf --demo -t 10000
 ```
 - omxplayer
 - mmaldemo
