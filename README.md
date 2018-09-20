@@ -66,7 +66,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
-
+- [Category: video Streaming](https:richardstechnotes.com/category/video-streaming)
 
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
