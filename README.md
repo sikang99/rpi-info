@@ -104,7 +104,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ## Docker
-- docker-ce
+- Installation: docker-ce
 ```sh
 $ curl -sSL https://get.docker.com | sh
 $ sudo groupadd docker
@@ -113,7 +113,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ```
 
 ## Golang
-- [golang 1.10.4, 1.11](https://golang.org/dl/)
+- Download: [golang 1.10.4, 1.11](https://golang.org/dl/) 
 
 ### Open Source
 - [fatih/vim-go](https://github.com/fatih/vim-go)

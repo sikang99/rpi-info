@@ -42,7 +42,7 @@ git g:
 
 git-update gu:
 	git add README.md Makefile
-	git commit -m "2nd commit"
+	git commit -m "3nd commit"
 	git push
 
 git-login gl:
@@ -53,7 +53,7 @@ git-login gl:
 	git config credential.helper store
 
 git-tag gt:
-	git tag v0.0.1
+	git tag v0.0.2
 	git push --tags
 
 git-status gs:
