@@ -2,6 +2,7 @@
 
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
+- OpenMAX 
 
 
 ## Commands
@@ -60,6 +61,9 @@ $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
+- [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo)
+- [sodnpoo/rpi-mmal-opencv-modetect](https://github.com/sodnpoo/rpi-mmal-opencv-modetect)
+
 
 
 ## [WebRTC](https://webrtc.org/)
