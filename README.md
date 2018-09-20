@@ -1,4 +1,4 @@
-# Raspberry Pi Information
+# Raspberry Pi (3) Information
 
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
@@ -11,7 +11,7 @@ $ sudo apt {update,upgrade,dist-upgrade,full-upgrade}
 $ sudo rpi-update
 ```
 
-### RPi WebRTC Streamer
+### [RPi WebRTC Streameri](https://github.com/kclyu/rpi-webrtc-streamer-deb)
 ```
 $ sudo dpkg -i rws_xxx_armhf.deb
 $ sudo dpkg -r rws
