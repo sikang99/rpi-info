@@ -18,7 +18,7 @@ $ sudo apt {update,upgrade,dist-upgrade,full-upgrade}
 $ sudo rpi-update
 ```
 
-### [RPi WebRTC Streameri](https://github.com/kclyu/rpi-webrtc-streamer-deb)
+### [RPi WebRTC Streamer](https://github.com/kclyu/rpi-webrtc-streamer-deb)
 ```
 $ sudo dpkg -i rws_xxx_armhf.deb
 $ sudo dpkg -r rws
@@ -102,7 +102,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 - [webrtc.googlesource.com/src](https://webrtc.googlesource.com/src) - native code
-- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)
+- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - tested (Ok)
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
     - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
