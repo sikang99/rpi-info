@@ -61,6 +61,7 @@ $ sudo modprobe -r bcm2835-v4l2 # remove
 
 $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 
+$ v4l2-ctl -V
 $ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
 ```
 
@@ -75,6 +76,9 @@ $ vlc rtsp://<ip:8554>/unicast
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
 - richard's technotes [Category: video Streaming](https://richardstechnotes.com/category/video-streaming) - YOLOv3, AIY Vision Kit
+- [Raspberry Pi/Camera streaming](https://wiki.marcluerssen.de/index.php?title=Raspberry_Pi/Camera_streaming)
+
+
 
 ### Open Source
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
@@ -86,6 +90,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
 - [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo)
 - [sodnpoo/rpi-mmal-opencv-modetect](https://github.com/sodnpoo/rpi-mmal-opencv-modetect)
+- [mpromonet/rpi](https://github.com/mpromonet/rpi)
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 
