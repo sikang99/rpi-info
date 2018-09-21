@@ -63,6 +63,7 @@ $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 
 $ v4l2-ctl -V
 $ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
+$ v4l2-ctl --set-ctrl=exposure_dynamic_framerate=1 --set-ctrl=scene_mode=8
 ```
 
 RPi RTSP Server Test
