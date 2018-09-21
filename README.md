@@ -44,6 +44,7 @@ $ raspivid -t 5000 -o video.h264
 $ omxplayer video.h264
 
 $ raspivid -vf --demo -t 10000
+$ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 ```
 - omxplayer
 - mmaldemo
@@ -64,6 +65,7 @@ $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 $ v4l2-ctl -V
 $ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
 $ v4l2-ctl --set-ctrl=exposure_dynamic_framerate=1 --set-ctrl=scene_mode=8
+$ v4l2-ctl --list-ctrls-menu -d 0
 ```
 
 RPi RTSP Server Test
