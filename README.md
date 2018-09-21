@@ -8,7 +8,7 @@
 
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
-- OpenMAX 
+- OMX (OpenMAX)
 - [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
 
 
@@ -109,6 +109,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 - [webrtc.googlesource.com/src](https://webrtc.googlesource.com/src) - native code
+- [mpromonet/v4l2tools](https://github.com/mpromonet/v4l2tools) - V4L2 tools using V4L2 C++ wrapper
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - tested (Ok with VLC)
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
 - [kclyu/rpi-webrtc-streamer](https://github.com/kclyu/rpi-webrtc-streamer)
