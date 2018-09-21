@@ -64,7 +64,7 @@ $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 $ v4l2-ctl -V
 $ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
 $ v4l2-ctl --set-ctrl=exposure_dynamic_framerate=1 --set-ctrl=scene_mode=8
-$ v4l2-ctl --list-ctrls-menu -d 0
+$ v4l2-ctl --list-ctrls-menu -d 0 (--device=/dev/video0)
 ```
 
 RPi RTSP Server Test
@@ -76,6 +76,7 @@ $ vlc rtsp://<ip:8554>/unicast
 ### Reference
 
 - [Linux Media Subsystem Documentation](https://linuxtv.org/downloads/v4l-dvb-apis-new/index.html)
+    - [Video for Linux API](https://linuxtv.org/downloads/v4l-dvb-apis-new/uapi/v4l/v4l2.html)
     - [Video4Linux (V4L) driver](https://linuxtv.org/downloads/v4l-dvb-apis-new/v4l-drivers/index.html)
 - [UV4L on Raspbian](http://www.linux-projects.org/uv4l/) - User space Video4Linux
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
