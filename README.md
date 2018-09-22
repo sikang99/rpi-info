@@ -133,7 +133,7 @@ $ vlc rtsp://<ip:8554>/unicast
     - [kclyu/rpi-webrtc-streamer-deb](https://github.com/kclyu/rpi-webrtc-streamer-deb) - Rpi WebRTC Streamer DEB packages
 - [kclyu/rpi-webrtc-streamer-frontend](https://github.com/kclyu/rpi-webrtc-streamer-frontend)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - WebRTC Server
-
+- [DaewoongP/cerule-stream](https://github.com/DaewoongP/cerule-stream) - Application Object detection using Neural Networks, Python and Open CV (with Raspberry pi)
 
 
 ## Docker
