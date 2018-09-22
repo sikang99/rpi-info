@@ -41,6 +41,7 @@ $ sudo journalctl -u rws
 
 
 ## Tools
+- [Ether.io](https://etcher.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 - raspistill
 ```
 $ raspistill -vf -hf -o test.jpg
@@ -161,5 +162,6 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ### Open Source
 - [fatih/vim-go](https://github.com/fatih/vim-go)
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial)
+- [Raspberry Pi Coding in Go: Traffic Lights](https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07)
 
 
