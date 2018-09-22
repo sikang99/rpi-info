@@ -9,7 +9,11 @@
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
 - OMX (OpenMAX)
+
+## Hardware
 - [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
+    - BCM2837B0
+- VideoCore: BCM2835
 - RPi Camera 
     - OV5647: v1.3
     - v2.1
@@ -95,6 +99,7 @@ $ vlc rtsp://<ip:8554>/unicast
 ### Open Source
 
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
+- [6by9/lens_shading](https://github.com/6by9/lens_shading) - Lens shading analysis tool
 - [6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
     - [B101 HDMI to CSI-2 Bridge (15 pin FPC)](https://auvidea.com/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
