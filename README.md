@@ -56,6 +56,10 @@ $ raspivid -vf --demo -t 10000
 $ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 ```
 - omxplayer
+```
+$ omxplayer -o hdmi video.mp4
+$ omxplayer -o local video.mp4
+```
 - mmaldemo
 
 ```
