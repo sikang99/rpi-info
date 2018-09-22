@@ -10,7 +10,9 @@
 - MMAL(Multi-Media Abstraction Layer)
 - OMX (OpenMAX)
 - [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
-- Camera v2.1
+- RPi Camera 
+    - OV5647: v1.3
+    - v2.1
 
 
 ## Commands
