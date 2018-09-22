@@ -5,6 +5,7 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
 - [Devices with Videocore graphics](https://github.com/anholt/linux/wiki/Devices-with-Videocore-graphics)
+- [314 (or so) Awesome Raspberry Pi Resources on Pi Day](https://grantwinney.com/314-awesome-raspberry-pi-resources/)
 
 
 ## Terminoloy
@@ -56,7 +57,7 @@ $ raspivid -vf --demo -t 10000
 $ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 ```
 
-- omxplayer
+- [omxplayer](https://github.com/popcornmix/omxplayer)
 ```
 $ omxplayer -o hdmi video.mp4
 $ omxplayer -o local video.mp4
