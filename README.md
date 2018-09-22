@@ -4,6 +4,7 @@
 ## Awesome
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
+- [Devices with Videocore graphics](https://github.com/anholt/linux/wiki/Devices-with-Videocore-graphics)
 
 
 ## Terminoloy
@@ -13,6 +14,7 @@
 ## Hardware
 - [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
     - BCM2837B0
+    - LAN9514
 - VideoCore: BCM2835
 - RPi Camera 
     - OV5647: v1.3
@@ -81,6 +83,7 @@ $ vlc rtsp://<ip:8554>/unicast
 ```
 
 ### Books
+- [The MagPi](https://www.raspberrypi.org/magpi/)
 
 - 2016 [Raspberry Pi: Amazing Projects from Scratch](https://electrovolt.ir/wp-content/uploads/2018/01/Raspberry_Pi_Amazing_Projects_from_Scratch_ElectroVolt.ir_.pdf)
 
