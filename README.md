@@ -10,6 +10,7 @@
 - MMAL(Multi-Media Abstraction Layer)
 - OMX (OpenMAX)
 - [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
+- Camera v2.1
 
 
 ## Commands
@@ -86,7 +87,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [Building From Source on Raspberry Pi](https://supercollider.github.io/development/building-raspberrypi)
 - richard's technotes [Category: video Streaming](https://richardstechnotes.com/category/video-streaming) - YOLOv3, AIY Vision Kit
 - [Raspberry Pi/Camera streaming](https://wiki.marcluerssen.de/index.php?title=Raspberry_Pi/Camera_streaming)
-
+- [[RaspberryPi3] V4L2를 이용한 영상 스트리밍](http://inmile.tistory.com/24)
 
 
 ### Open Source
