@@ -55,13 +55,13 @@ $ omxplayer video.h264
 $ raspivid -vf --demo -t 10000
 $ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 ```
+
 - omxplayer
 ```
 $ omxplayer -o hdmi video.mp4
 $ omxplayer -o local video.mp4
 ```
-- mmaldemo
-
+- amixer
 ```
 $ sudo amixer cset numid=3 2 (HDMI)
 $ sudo amixer cset numid=3 1 (Audio Jack)
@@ -119,7 +119,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
-- [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo)
+- [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo) - mmaldemo
 - [sodnpoo/rpi-mmal-opencv-modetect](https://github.com/sodnpoo/rpi-mmal-opencv-modetect)
 - [mpromonet/rpi](https://github.com/mpromonet/rpi)
 
