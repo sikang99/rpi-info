@@ -107,6 +107,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - richard's technotes [Category: video Streaming](https://richardstechnotes.com/category/video-streaming) - YOLOv3, AIY Vision Kit
 - [Raspberry Pi/Camera streaming](https://wiki.marcluerssen.de/index.php?title=Raspberry_Pi/Camera_streaming)
 - [[RaspberryPi3] V4L2를 이용한 영상 스트리밍](http://inmile.tistory.com/24)
+- [The Only Raspberry Pi 3 Kodi Tutorial You Will Ever Need](https://mediaexperience.com/raspberry-pi-xbmc-with-raspbmc/)
 
 
 ### Open Source
@@ -167,10 +168,12 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## Golang
 - Download: [golang 1.10.4, 1.11](https://golang.org/dl/) 
+- [Raspberry Pi Coding in Go: Traffic Lights](https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07)
 
 ### Open Source
 - [fatih/vim-go](https://github.com/fatih/vim-go)
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial)
-- [Raspberry Pi Coding in Go: Traffic Lights](https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07)
+- [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio)
+- [d2r2/go-i2c](https://github.com/d2r2/go-i2c)
 
 
