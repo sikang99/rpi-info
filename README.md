@@ -58,6 +58,11 @@ $ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 - omxplayer
 - mmaldemo
 
+```
+$ sudo amixer cset numid=3 2 (HDMI)
+$ sudo amixer cset numid=3 1 (Audio Jack)
+```
+
 ### Configuration
 ```
 $ cat /etc/os-release
