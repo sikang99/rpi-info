@@ -21,6 +21,11 @@
 ### Open Source
 
 - [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
+- [github.com/fippo](https://github.com/fippo)
+    - [fippo/minimal-webrtc](https://github.com/fippo/minimal-webrtc)
+    - []()
+
+- [nash-md/twilio-contact-center](https://github.com/nash-md/twilio-contact-center) - Signal 2017 Modern Contact Center http://www.twilio.com
 
 
 ### Golang
