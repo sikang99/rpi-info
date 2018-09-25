@@ -9,6 +9,7 @@
 ## HTML5 & Media
 
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
+- [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
 
 ## HTML5 Video
 
