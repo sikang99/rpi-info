@@ -127,7 +127,6 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 
-//----
 
 ## [WebRTC](https://webrtc.org/)
 

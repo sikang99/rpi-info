@@ -6,6 +6,9 @@
 - WebRTC
 - WebXR
 
+## HTML5 & Media
+
+- [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
 
 ## HTML5 Video
 
@@ -20,6 +23,7 @@
 
 ### Open Source
 
+- [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript: https://simpl.info
 - [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
 - [github.com/fippo](https://github.com/fippo)
     - [fippo/minimal-webrtc](https://github.com/fippo/minimal-webrtc)
