@@ -9,6 +9,8 @@
 - 2018/06/13 [Content Delivery Acceleration and Cost Reduction with P2P CDN (PCDN)](https://dzone.com/articles/content-delivery-acceleration-and-cost-reduction-w)
 - 2018/04/14 [Play2Live shows how to use P2P CDN for superior streaming results](https://medium.com/play2live/play2live-shows-how-to-use-p2p-cdn-for-superior-streaming-results-be33741dec42)
 
+## Research
+- 2008 [IPTV over P2P streaming networks: The mesh-pull approach](https://www.researchgate.net/publication/3200261_IPTV_over_P2P_streaming_networks_The_mesh-pull_approach)
 
 
 ## Company & Solution
