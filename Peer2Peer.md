@@ -7,6 +7,8 @@
 
 ## Information
 - [Content Delivery Acceleration and Cost Reduction with P2P CDN (PCDN)](https://dzone.com/articles/content-delivery-acceleration-and-cost-reduction-w)
+- 2018/04/14 [Play2Live shows how to use P2P CDN for superior streaming results](https://medium.com/play2live/play2live-shows-how-to-use-p2p-cdn-for-superior-streaming-results-be33741dec42)
+
 
 
 ## Company & Solution
