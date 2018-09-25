@@ -35,6 +35,7 @@
 - [Beaker](https://beakerbrowser.com/) - browser for the peer-to-peer Web
 - [Dat Project](https://datproject.org/) - for A distributed data community
     - [Dat Protocol](https://www.datprotocol.com/) - p2p hypermedia protocol
+    - [Dat Protocol Specification](https://github.com/datprotocol) - fast, versioned, decentralized & p2p file-sync
 
 
 
