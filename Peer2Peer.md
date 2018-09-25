@@ -20,6 +20,11 @@
 - 2008 [IPTV over P2P streaming networks: The mesh-pull approach](https://www.researchgate.net/publication/3200261_IPTV_over_P2P_streaming_networks_The_mesh-pull_approach)
 
 
+## Project
+- [PeerStreamer-ng](http://peerstreamer.org/) - P2P real-time streaming platform
+    - [netCommonsEU/PeerStreamer-ng](https://github.com/netCommonsEU/PeerStreamer-ng)
+
+
 ## Company & Solution
 - [StriveCDN](https://strivecdn.com) - Secure Server-Side Managed P2P Video Delivery
 - [Seedess](https://seedess.com/) - P2P Video Streaming Network
