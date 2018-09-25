@@ -16,6 +16,9 @@ edit e:
 	@echo "make (edit) [sh|readme|make]"
 	@echo ""
 
+edit-peer ep:
+	$(EDITOR) Peer2Peer.md
+
 edit-web ew:
 	$(EDITOR) WebMedia.md
 
@@ -40,8 +43,8 @@ git g:
 	@echo ""
 
 git-update gu:
-	git add README.md WebMedia.md Makefile
-	git commit -m "add WebMmedia.md"
+	git add README.md WebMedia.md Peer2Peer.md Makefile
+	git commit -m "add Peer2Peer.md"
 	git push
 
 git-login gl:
