@@ -30,6 +30,9 @@
 ## Project
 - [PeerStreamer-ng](http://peerstreamer.org/) - P2P real-time streaming platform
     - [netCommonsEU/PeerStreamer-ng](https://github.com/netCommonsEU/PeerStreamer-ng)
+- [louiscenter/hypercast](https://github.com/louiscenter/hypercast) - p2p broadcasting for dat:// enabled web browsers
+- [Beaker](https://beakerbrowser.com/) - browser for the peer-to-peer Web
+- [Dat Project](https://datproject.org/) - for A distributed data community
 
 
 ## Company & Solution
