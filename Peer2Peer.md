@@ -1,5 +1,10 @@
 # Peer to Peer Technology & Industry
 
+
+## Terminology
+- Dynamic Link Exchange Protocol (DLEP)
+
+
 ## Awesome
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources
 - [retrohacker/awesome-p2p](https://github.com/retrohacker/awesome-p2p) - Awesome Decentralization
