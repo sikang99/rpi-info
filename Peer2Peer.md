@@ -27,12 +27,15 @@
 - 2008 [IPTV over P2P streaming networks: The mesh-pull approach](https://www.researchgate.net/publication/3200261_IPTV_over_P2P_streaming_networks_The_mesh-pull_approach)
 
 
+
 ## Project
 - [PeerStreamer-ng](http://peerstreamer.org/) - P2P real-time streaming platform
     - [netCommonsEU/PeerStreamer-ng](https://github.com/netCommonsEU/PeerStreamer-ng)
 - [louiscenter/hypercast](https://github.com/louiscenter/hypercast) - p2p broadcasting for dat:// enabled web browsers
 - [Beaker](https://beakerbrowser.com/) - browser for the peer-to-peer Web
 - [Dat Project](https://datproject.org/) - for A distributed data community
+    - [Dat Protocol](https://www.datprotocol.com/) - p2p hypermedia protocol
+
 
 
 ## Company & Solution
