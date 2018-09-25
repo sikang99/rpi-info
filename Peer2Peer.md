@@ -2,7 +2,8 @@
 
 
 ## Terminology
-- Dynamic Link Exchange Protocol (DLEP)
+- DLEP (Dynamic Link Exchange Protocol)
+- MANET (Mobile Ad-Hoc NETwork)
 
 
 ## Awesome
@@ -21,6 +22,7 @@
 
 
 ## Research
+- 2018 [SDN-enabled Tactical Ad Hoc Networks: Extending Programmable Control to the Edge](https://arxiv.org/pdf/1801.02909.pdf)
 - 2016 [Enhancement of Video Streaming in Distributed Hybrid Architecture](https://www.researchgate.net/publication/295685216_Enhancement_of_Video_Streaming_in_Distributed_Hybrid_Architecture)
 - 2008 [IPTV over P2P streaming networks: The mesh-pull approach](https://www.researchgate.net/publication/3200261_IPTV_over_P2P_streaming_networks_The_mesh-pull_approach)
 
