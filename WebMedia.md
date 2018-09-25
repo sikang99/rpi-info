@@ -22,7 +22,7 @@
 - [HTML5 Animations Tutorial with 10 Beautiful Examples](https://cloudinary.com/blog/creating_html5_animations)
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
-### Open Source
+## Open Source
 
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript: https://simpl.info
 - [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
@@ -33,7 +33,7 @@
 - [nash-md/twilio-contact-center](https://github.com/nash-md/twilio-contact-center) - Signal 2017 Modern Contact Center http://www.twilio.com
 
 
-### Golang
+## Golang
 
 - [qieangel2013/livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services (Tested)
 
