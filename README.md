@@ -113,8 +113,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 
-- xxx
-- [raspberrypi/userland](https://github.com/raspberrypi/userland) for RPi GPU
+- [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
 - [6by9/lens_shading](https://github.com/6by9/lens_shading) - Lens shading analysis tool
 - [6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
@@ -128,7 +127,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 
-
+//----
 
 ## [WebRTC](https://webrtc.org/)
 
