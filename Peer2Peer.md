@@ -4,6 +4,8 @@
 ## Terminology
 - [DLEP (Dynamic Link Exchange Protocol)](https://datatracker.ietf.org/meeting/101/materials/slides-101-ccamp-sessb-1-introduction-to-dlep-dynamic-link-exchange-protocol-and-applicability-to-ccamp-01)
 - MANET (Mobile Ad-Hoc NETwork)
+- DHT (Distributed Hash Table)
+
 
 
 ## Awesome
@@ -23,9 +25,10 @@
 
 ## Research
 - 2018 [SDN-enabled Tactical Ad Hoc Networks: Extending Programmable Control to the Edge](https://arxiv.org/pdf/1801.02909.pdf)
+- 2017 [A Survey of Building Efficient P2P Streaming Systems in SDN]()
 - 2016 [Enhancement of Video Streaming in Distributed Hybrid Architecture](https://www.researchgate.net/publication/295685216_Enhancement_of_Video_Streaming_in_Distributed_Hybrid_Architecture)
 - 2008 [IPTV over P2P streaming networks: The mesh-pull approach](https://www.researchgate.net/publication/3200261_IPTV_over_P2P_streaming_networks_The_mesh-pull_approach)
-
+- [p2p live streaming with hypervision](https://louis.center/p2p-hypervision)
 
 
 ## Project
@@ -46,5 +49,7 @@
 
 
 ## Golang
+
+- [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 
 
