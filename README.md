@@ -132,6 +132,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [WebRTC](https://webrtc.org)
     - [getusermedia](http://simpl.info/getusermedia) - camera test
+    - [getusermedia/sources/](https://simpl.info/getusermedia/sources/) - camera source test
     - [AppRTC](https://apprtc.appspot.com)
 - [LIVE555TM WebRTC Demonstration](http://webrtc.live555.com/)
 	- LIVE555 WebRTC Proxy Server
