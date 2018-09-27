@@ -41,11 +41,15 @@
     - [Dat Protocol Specification](https://github.com/datprotocol) - fast, versioned, decentralized & p2p file-sync
 
 
+## Blockchain
+- [Livepeer](https://livepeer.org/)
+
 
 ## Company & Solution
 - [StriveCDN](https://strivecdn.com) - Secure Server-Side Managed P2P Video Delivery
 - [Seedess](https://seedess.com/) - P2P Video Streaming Network
 - [Peer5](https://www.peer5.com/) - Serverless P2P CDN For Video Live Streaming
+- [P2P Foundation](https://p2pfoundation.net/)
 
 
 ## Golang
