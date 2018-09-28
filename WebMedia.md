@@ -11,6 +11,7 @@
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
 
+
 ## HTML5 Video
 
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
@@ -21,6 +22,14 @@
 
 - [HTML5 Animations Tutorial with 10 Beautiful Examples](https://cloudinary.com/blog/creating_html5_animations)
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
+
+
+## Web Authentication
+- [WebAuthn.io](https://webauthn.io/)
+- [Web Authentication: An API for accessing Public Key Credentials Level 1](https://w3c.github.io/webauthn/)
+- [How Web Authentication May Change the Future of Passwords](https://www.programmableweb.com/news/how-web-authentication-may-change-future-passwords/how-to/2018/07/19)
+
+
 
 ## Open Source
 
@@ -34,4 +43,9 @@
 ## Golang
 
 - [qieangel2013/livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services (Tested)
+- [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn Demo
+- [koesie10/webauthn](https://github.com/koesie10/webauthn)
+- [koesie10/webauthn-demo](https://github.com/koesie10/webauthn-demo)
+
+
 
