@@ -24,7 +24,11 @@
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
 
-## Web Authentication
+## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
+ - [WebRTC Gateway](https://en.wikipedia.org/wiki/WebRTC_Gateway)
+
+
+## [Web Authentication](https://en.wikipedia.org/wiki/WebAuthn)
 - [WebAuthn.io](https://webauthn.io/)
 - [Web Authentication: An API for accessing Public Key Credentials Level 1](https://w3c.github.io/webauthn/)
 - [How Web Authentication May Change the Future of Passwords](https://www.programmableweb.com/news/how-web-authentication-may-change-future-passwords/how-to/2018/07/19)
