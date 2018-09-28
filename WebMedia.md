@@ -5,6 +5,7 @@
 - WebAssembly
 - WebRTC
 - WebXR
+- DASH
 
 ## HTML5 & Media
 
@@ -24,18 +25,6 @@
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
 
-## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
-- [WebRTC Gateway](https://en.wikipedia.org/wiki/WebRTC_Gateway)
-- [WebRTC Tutorial](https://deepstreamhub.com/tutorials)
-    - [A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
-    - [WebRTC in production](https://deepstreamhub.com/tutorials/protocols/webrtc-in-production/)
-- [Gettting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics)
-- [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
-- [WebRTC data channels](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/) - SCTP
-- [WebRTC codelab](https://bitbucket.org/webrtc/codelab)
-
-
-
 ## [Web Authentication](https://en.wikipedia.org/wiki/WebAuthn)
 - [WebAuthn demo](https://webauthn.org/)
     - [apowers313/fido2-server-demo/](https://github.com/apowers313/fido2-server-demo/)
@@ -44,6 +33,21 @@
 - [How Web Authentication May Change the Future of Passwords](https://www.programmableweb.com/news/how-web-authentication-may-change-future-passwords/how-to/2018/07/19)
 - [What is WebAuthn?](https://duo.com/blog/what-is-webauthn) - SEP, TPM, U2F, MFA
 
+
+## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
+- [WebRTC Gateway](https://en.wikipedia.org/wiki/WebRTC_Gateway)
+- [WebRTC Tutorial](https://deepstreamhub.com/tutorials)
+    - [A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
+    - [WebRTC in production](https://deepstreamhub.com/tutorials/protocols/webrtc-in-production/)
+- [Gettting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics)
+- [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
+- [WebRTC data channels](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/) - SCTP
+- [The Hobbit Experience 2014](https://www.html5rocks.com/en/tutorials/casestudies/hobbit2014/)
+- [WebRTC codelab](https://bitbucket.org/webrtc/codelab)
+
+
+## DASH
+- [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
 
 
 ## Open Source
@@ -61,6 +65,5 @@
 - [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn Demo
 - [koesie10/webauthn](https://github.com/koesie10/webauthn)
 - [koesie10/webauthn-demo](https://github.com/koesie10/webauthn-demo)
-
 
 
