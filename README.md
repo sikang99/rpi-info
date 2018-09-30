@@ -10,6 +10,7 @@ $ unxz <file>.xz
 ```
 - [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
 - [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
+- [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
 
 
 
