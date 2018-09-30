@@ -3,6 +3,10 @@
 ## OS Images
 
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
+```
+$ sudo apt-get install xz-utils
+$ unxz <file>.xz
+```
 
 
 ## Awesome
