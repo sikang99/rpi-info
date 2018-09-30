@@ -2,11 +2,15 @@
 
 ## OS Images
 
+- [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
 ```
 $ sudo apt-get install xz-utils
 $ unxz <file>.xz
 ```
+- [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
+- [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
+
 
 
 ## Awesome
