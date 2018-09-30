@@ -7,7 +7,6 @@
 - DHT (Distributed Hash Table)
 
 
-
 ## Awesome
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources
 - [retrohacker/awesome-p2p](https://github.com/retrohacker/awesome-p2p) - Awesome Decentralization
@@ -39,6 +38,8 @@
 - [Dat Project](https://datproject.org/) - for A distributed data community
     - [Dat Protocol](https://www.datprotocol.com/) - p2p hypermedia protocol
     - [Dat Protocol Specification](https://github.com/datprotocol) - fast, versioned, decentralized & p2p file-sync
+- [Announcing Hyperswarm](https://pfrazee.hashbase.io/blog/hyperswarm)
+    - [hyperswarm](https://github.com/hyperswarm) - A distributed networking stack for connecting peers.
 
 
 ## Blockchain
