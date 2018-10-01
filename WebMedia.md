@@ -49,6 +49,9 @@
 ### WebRTC Data Channel
 - [openscreenprotocol](https://webscreens.github.io/openscreenprotocol/)
     - [Data Channel](https://webscreens.github.io/openscreenprotocol/datachannel.html)
+- [“librtcdc”: Tiny WebRTC DataChannel Implementation](https://webrtcmagazine.wordpress.com/2015/09/30/librtcdc-tiny-webrtc-datachannel-implementation/)
+
+
 
 ## DASH
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
