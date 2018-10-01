@@ -58,5 +58,7 @@
 ## Golang
 
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+
 
 
