@@ -59,6 +59,7 @@
 - [Low delay MPEG DASH streaming over the WebRTC data channel](https://www.researchgate.net/publication/308671323_Low_delay_MPEG_DASH_streaming_over_the_WebRTC_data_channel)
 - [Demystifying WebRTC's Data Channel Message Size Limitations](https://lgrahl.de/articles/demystifying-webrtc-dc-size-limit.html)
 - [WebRTC data channels](https://www.linux-projects.org/uv4l/tutorials/webrtc-data-channels)
+- [Towards a WebRTC mesh network with RTCDataChannel](https://swizec.com/blog/towards-webrtc-mesh-network-rtcdatachannel/swizec/8411)
 
 
 ## DASH
