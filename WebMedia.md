@@ -9,6 +9,8 @@
 
 ## HTML5 & Media
 
+- [High Performance Browser Networking](https://hpbn.co/)
+    - [WebRTC](https://hpbn.co/webrtc/)
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
 
@@ -50,6 +52,11 @@
 - [openscreenprotocol](https://webscreens.github.io/openscreenprotocol/)
     - [Data Channel](https://webscreens.github.io/openscreenprotocol/datachannel.html)
 - [“librtcdc”: Tiny WebRTC DataChannel Implementation](https://webrtcmagazine.wordpress.com/2015/09/30/librtcdc-tiny-webrtc-datachannel-implementation/)
+- [Basics of WebRTC data channel](https://www.callstats.io/blog/2015/10/28/basics-webrtc-datachannel)
+- [Implementing SCTP to support WebRTC data channels in pure Rust](https://cafbit.com/post/rust_webrtc_data_channels/)
+- [Performance evaluation of WebRTC data channels](http://cse.aalto.fi/en/midcom-serveattachmentguid-1e5c98ab0819a0cc98a11e59ec1ad6153cbd4ebd4eb/eskola_webrtc.pdf)
+- [Low delay MPEG DASH streaming over the WebRTC data channel](https://www.researchgate.net/publication/308671323_Low_delay_MPEG_DASH_streaming_over_the_WebRTC_data_channel)
+- [Demystifying WebRTC's Data Channel Message Size Limitations](https://lgrahl.de/articles/demystifying-webrtc-dc-size-limit.html)
 
 
 
