@@ -46,6 +46,7 @@
 - [WebRTC data channels](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/) - SCTP
 - [The Hobbit Experience 2014](https://www.html5rocks.com/en/tutorials/casestudies/hobbit2014/)
 - [WebRTC codelab](https://bitbucket.org/webrtc/codelab)
+- [Visions for WebRTC Next Steps: Fine-grained Media Control in the browser](https://www.callstats.io/blog/2017/11/22/webrtc-fine-grained-media-control-and-quic-transport-for-rtp)
 
 
 ### WebRTC Data Channel
