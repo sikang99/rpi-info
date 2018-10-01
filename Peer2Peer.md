@@ -40,6 +40,8 @@
     - [Dat Protocol Specification](https://github.com/datprotocol) - fast, versioned, decentralized & p2p file-sync
 - [Announcing Hyperswarm](https://pfrazee.hashbase.io/blog/hyperswarm)
     - [hyperswarm](https://github.com/hyperswarm) - A distributed networking stack for connecting peers.
+- [IPOP (IP-Over-P2P)](http://ipop-project.org/) - Open-source User-centric Software Virtual Network
+
 
 
 ## Blockchain
