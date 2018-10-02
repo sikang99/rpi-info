@@ -49,9 +49,19 @@
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 
+## QUIC(Quick UDP Internet Connection)
+
+- [IETF QUIC Working Group](https://github.com/quicwg)
+- [GoLangLibs](https://golanglibs.com/) for [quic](https://golanglibs.com/search?q=quic&sort=top&page=1)
+- [Merlin Adds Support for the QUIC protocol](https://medium.com/@Ne0nd0g/merlin-adds-support-for-the-quic-protocol-ee5f8a1e8955)
+
+
+
 ## Blockchain
 - [Livepeer](https://livepeer.org/)
 - [Keep Network](https://keep.network/) - A privacy layer for Ethereum
+- [Theta]()
+
 
 
 ## Company & Solution
@@ -64,7 +74,8 @@
 ## Golang
 
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+- [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
-
+- [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 
 
