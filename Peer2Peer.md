@@ -54,14 +54,15 @@
 - [IETF QUIC Working Group](https://github.com/quicwg)
 - [GoLangLibs](https://golanglibs.com/) for [quic](https://golanglibs.com/search?q=quic&sort=top&page=1)
 - [Merlin Adds Support for the QUIC protocol](https://medium.com/@Ne0nd0g/merlin-adds-support-for-the-quic-protocol-ee5f8a1e8955)
-
+- [The Road to QUIC](https://medium.com/cloudflare-blog/the-road-to-quic-9f100dc57d9d)
+- [Introducing bchd](https://www.yours.org/content/introducing-bchd-aee6a07feb00)
 
 
 ## Blockchain
 - [Livepeer](https://livepeer.org/)
 - [Keep Network](https://keep.network/) - A privacy layer for Ethereum
 - [Theta]()
-
+- [gcash](https://github.com/gcash)
 
 
 ## Company & Solution
