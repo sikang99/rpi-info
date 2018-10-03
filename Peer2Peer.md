@@ -63,6 +63,8 @@
 - [Keep Network](https://keep.network/) - A privacy layer for Ethereum
 - [Theta]()
 - [gcash](https://github.com/gcash)
+- [WorldComputer](https://github.com/WorldComputer)
+- [Ethereum Classic](https://github.com/ethereumclassic)
 
 
 ## Company & Solution
@@ -78,5 +80,20 @@
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+
+
+## AV1 Codec
+
+- 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d)
+- 2018/09/13 [YouTube starts testing AV1 video format](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1536822275)
+- 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
+
+- [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
+- [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
+    - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
+- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
+- [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
+
+
 
 

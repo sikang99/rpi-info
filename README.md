@@ -217,14 +217,17 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## RPi Mining
 
+- 2018/01/28 [Building a mining-stack of Raspberry Pi’s (rev 3 Model B)](https://sharedmemorydump.net/building-a-mining-stack-of-raspberry-pis)
 - 2018/01/20 [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
+- 2018/01/19 [Use A Raspberry Pi And A CPU Miner To Mine Altcoins](https://www.thepolyglotdeveloper.com/2018/01/use-raspberry-pi-cpu-miner-mine-altcoins/)
 
 ### Open Source
 
+- [Cryptocurrency Mining](https://universalcryptonews.com/category/cryptocurrency-mining/)
 - [Cryptocurrency GUI miner 8.3 & Mining Pool](https://minergate.com/)
 - [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer)
 - [novaspirit/wolf-m7m-cpuminer](https://github.com/novaspirit/wolf-m7m-cpuminer)
-
+- [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi)
 
 
 
