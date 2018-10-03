@@ -88,3 +88,16 @@
 - [koesie10/webauthn-demo](https://github.com/koesie10/webauthn-demo)
 
 
+## AV1 Codec
+- 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d)
+- 2018/09/13 [YouTube starts testing AV1 video format](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1536822275)
+- 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
+
+- [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
+- [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
+    - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
+- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
+- [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
+
+
+
