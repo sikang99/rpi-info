@@ -171,6 +171,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [kclyu/rpi-webrtc-streamer-frontend](https://github.com/kclyu/rpi-webrtc-streamer-frontend)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - WebRTC Server
 - [DaewoongP/cerule-stream](https://github.com/DaewoongP/cerule-stream) - Application Object detection using Neural Networks, Python and Open CV (with Raspberry pi)
+- [carlosedp/rpi-media-server](https://github.com/carlosedp/rpi-media-server) - Docker compose files to create a Raspberry Pi Media Server
 
 
 ## Docker
@@ -195,6 +196,9 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ## RPi Cluster
 
 - 2018/07/11 [How to run Kubernetes on Raspberry Pi cluster](https://www.olindata.com/en/blog/2018/07/how-run-kubernetes-raspberry-pi-cluster)
+- 2018/05/02 [Raspberry Pi Kubernetes Cluster - Part 2](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-2/)
+- 2018/04/07 [Raspberry Pi Kubernetes Cluster - Part 1](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-1/)
+- 2018/02/22 [Building an ARM Kubernetes Cluster](https://itnext.io/building-an-arm-kubernetes-cluster-ef31032636f9)
 - 2017/12/21 [Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
 
 
