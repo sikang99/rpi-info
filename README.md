@@ -4,6 +4,7 @@
 
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
+- [armbian](https://www.armbian.com/) - Linux for ARM development boards
 ```
 $ sudo apt-get install xz-utils
 $ unxz <file>.xz
@@ -11,6 +12,7 @@ $ unxz <file>.xz
 - [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
 - [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 - [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
+- [ARM Pi Media Server Installer Images Download Page](https://www.htpcguides.com/arm-pi-media-server-installer-images-download-page/)
 
 
 ## Awesome
@@ -187,14 +189,17 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - Download: [golang 1.10.4, 1.11](https://golang.org/dl/) 
 - [Raspberry Pi Coding in Go: Traffic Lights](https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07)
 
+
 ### Open Source
 - [fatih/vim-go](https://github.com/fatih/vim-go)
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial)
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c)
 
+
 ## RPi Cluster
 
+- 2018/09/28 [Digging into Kubernetes 1.12](https://cloud.google.com/blog/products/containers-kubernetes/digging-into-kubernetes-1-12)
 - 2018/07/11 [How to run Kubernetes on Raspberry Pi cluster](https://www.olindata.com/en/blog/2018/07/how-run-kubernetes-raspberry-pi-cluster)
 - 2018/05/02 [Raspberry Pi Kubernetes Cluster - Part 2](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-2/)
 - 2018/04/07 [Raspberry Pi Kubernetes Cluster - Part 1](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-1/)
