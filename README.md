@@ -13,6 +13,8 @@ $ unxz <file>.xz
 - [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 - [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
 - [ARM Pi Media Server Installer Images Download Page](https://www.htpcguides.com/arm-pi-media-server-installer-images-download-page/)
+- 2018/04/18 [The ASUS Tinker Board is a compelling upgrade from a Raspberry Pi 3 B+](https://www.jeffgeerling.com/blog/2018/asus-tinker-board-compelling-upgrade-raspberry-pi-3-b)
+- 2018/04/15 [Raspberry Pi 3 B+ Review and Performance Comparison](https://www.jeffgeerling.com/blog/2018/raspberry-pi-3-b-review-and-performance-comparison)
 
 
 ## Awesome
@@ -34,7 +36,6 @@ $ unxz <file>.xz
 - RPi Camera 
     - OV5647: v1.3
     - v2.1
-
 
 ## Commands
 ```
@@ -201,9 +202,32 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 - 2018/09/28 [Digging into Kubernetes 1.12](https://cloud.google.com/blog/products/containers-kubernetes/digging-into-kubernetes-1-12)
 - 2018/07/11 [How to run Kubernetes on Raspberry Pi cluster](https://www.olindata.com/en/blog/2018/07/how-run-kubernetes-raspberry-pi-cluster)
+- 2018/06/11 [Raspberry Pi Zero cluster with the ClusterHAT](http://www.knight-of-pi.org/raspberry-pi-zero-cluster-with-the-clusterhat/)
 - 2018/05/02 [Raspberry Pi Kubernetes Cluster - Part 2](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-2/)
 - 2018/04/07 [Raspberry Pi Kubernetes Cluster - Part 1](https://blog.jasonmeridth.com/posts/raspberry-pi-kubernetes-cluster-part-1/)
 - 2018/02/22 [Building an ARM Kubernetes Cluster](https://itnext.io/building-an-arm-kubernetes-cluster-ef31032636f9)
+- 2018/02/22 [Kubernetes 1.9 on a Raspberry Pi Cluster](https://harthoover.com/kubernetes-1.9-on-a-raspberry-pi-cluster/)
 - 2017/12/21 [Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
+
+
+### Open Source
+
+- [PicoCluster](https://www.picocluster.com/)
+- [JestonBlu/Pi-Cluster](https://github.com/JestonBlu/Pi-Cluster) - How to set up a Raspberry Pi Spark Cluster on Arch
+
+## RPi Mining
+
+- 2018/01/20 [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
+
+### Open Source
+
+- [Cryptocurrency GUI miner 8.3 & Mining Pool](https://minergate.com/)
+- [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer)
+- [novaspirit/wolf-m7m-cpuminer](https://github.com/novaspirit/wolf-m7m-cpuminer)
+
+
+
+
+
 
 
