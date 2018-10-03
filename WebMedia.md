@@ -89,7 +89,7 @@
 
 
 ## AV1 Codec
-- 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d)
+- 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d) 
 - 2018/09/13 [YouTube starts testing AV1 video format](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1536822275)
 - 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
 
