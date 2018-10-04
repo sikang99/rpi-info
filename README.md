@@ -15,7 +15,7 @@ $ unxz <file>.xz
 - [ARM Pi Media Server Installer Images Download Page](https://www.htpcguides.com/arm-pi-media-server-installer-images-download-page/)
 - 2018/04/18 [The ASUS Tinker Board is a compelling upgrade from a Raspberry Pi 3 B+](https://www.jeffgeerling.com/blog/2018/asus-tinker-board-compelling-upgrade-raspberry-pi-3-b)
 - 2018/04/15 [Raspberry Pi 3 B+ Review and Performance Comparison](https://www.jeffgeerling.com/blog/2018/raspberry-pi-3-b-review-and-performance-comparison)
-
+- [Setting WiFi up via the command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
 
 ## Awesome
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
@@ -214,12 +214,16 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 - [PicoCluster](https://www.picocluster.com/)
 - [JestonBlu/Pi-Cluster](https://github.com/JestonBlu/Pi-Cluster) - How to set up a Raspberry Pi Spark Cluster on Arch
+- [rak8s.io](https://rak8s.io/) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
+- [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 
 ## RPi Mining
 
 - 2018/01/28 [Building a mining-stack of Raspberry Pi’s (rev 3 Model B)](https://sharedmemorydump.net/building-a-mining-stack-of-raspberry-pis)
 - 2018/01/20 [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
 - 2018/01/19 [Use A Raspberry Pi And A CPU Miner To Mine Altcoins](https://www.thepolyglotdeveloper.com/2018/01/use-raspberry-pi-cpu-miner-mine-altcoins/)
+- 2018/01/19 [My Raspberry Pi Kubernetes Cluster](https://dzone.com/articles/my-raspberry-pi-kubernetes-cluster)
+
 
 ### Open Source
 
@@ -228,9 +232,5 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer)
 - [novaspirit/wolf-m7m-cpuminer](https://github.com/novaspirit/wolf-m7m-cpuminer)
 - [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi)
-
-
-
-
 
 

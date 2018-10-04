@@ -95,7 +95,7 @@
 
 - [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
 - [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
-    - YouTube [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
+    - YouTube: [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 
