@@ -8,7 +8,13 @@
 ```
 $ sudo apt-get install xz-utils
 $ unxz <file>.xz
+$ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX conv=fsync
+$ unzip -p 2018-04-18-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M conv=fsync
+$ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=fsync
 ```
+- [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
+- [Raspbian Update: First-Boot Setup Wizard and More](https://www.raspberrypi.org/blog/raspbian-update-june-2018/)
+
 - [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
 - [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 - [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
