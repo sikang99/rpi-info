@@ -5,8 +5,9 @@
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
     - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/)
     - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - wifi driver
-- [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
+- [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/) - patch required
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
+
 ```
 $ sudo apt-get install xz-utils
 $ unxz <file>.xz
@@ -14,12 +15,13 @@ $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX conv=fsync
 $ unzip -p 2018-04-18-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M conv=fsync
 $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=fsync
 ```
+
 - [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
 - [Raspbian Update: First-Boot Setup Wizard and More](https://www.raspberrypi.org/blog/raspbian-update-june-2018/)
 
 - [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
 - [Installing OS Images on Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
-- [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
+- 2018/06/04 [Install Ubuntu 16.04 MATE or Ubuntu 18.04 On Raspberry Pi](https://linuxconfig.org/install-ubuntu-16-04-mate-or-ubuntu-18-04-on-raspberry-pi)
 - [ARM Pi Media Server Installer Images Download Page](https://www.htpcguides.com/arm-pi-media-server-installer-images-download-page/)
 - 2018/04/18 [The ASUS Tinker Board is a compelling upgrade from a Raspberry Pi 3 B+](https://www.jeffgeerling.com/blog/2018/asus-tinker-board-compelling-upgrade-raspberry-pi-3-b)
 - 2018/04/15 [Raspberry Pi 3 B+ Review and Performance Comparison](https://www.jeffgeerling.com/blog/2018/raspberry-pi-3-b-review-and-performance-comparison)
@@ -248,6 +250,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - 2018/09/11 [DIY How to Build DIY AI Projects Using Google TensorFlow and Raspberry Pi](https://www.makeuseof.com/tag/google-tensorflow-raspberry-pi/)
 
 ### Project
+- [Artificial Intelligence & Machine Learning](https://www.hackster.io/artificial-intelligence/projects)
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
 
