@@ -245,6 +245,9 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## AI Device
 
+- 2018/09/11 [DIY How to Build DIY AI Projects Using Google TensorFlow and Raspberry Pi](https://www.makeuseof.com/tag/google-tensorflow-raspberry-pi/)
+
+### Project
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
 
