@@ -3,6 +3,8 @@
 ## OS Images
 
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
+    - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/)
+    - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/)
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 ```
@@ -147,6 +149,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [mpromonet/rpi](https://github.com/mpromonet/rpi)
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
+- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 
 
 ## [WebRTC](https://webrtc.org/)
