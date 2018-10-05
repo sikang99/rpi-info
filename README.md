@@ -4,7 +4,7 @@
 
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
     - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/)
-    - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/)
+    - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - wifi driver
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/)
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 ```
@@ -150,6 +150,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
+- [gokrazy](https://gokrazy.org] - pure-Go userland for your Raspberry Pi 3 appliances
 
 
 ## [WebRTC](https://webrtc.org/)
@@ -242,4 +243,10 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [novaspirit/wolf-m7m-cpuminer](https://github.com/novaspirit/wolf-m7m-cpuminer)
 - [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi)
 
+
+## AI Device
+
+### Open Source
+
+- [MycroftAI/enclosure-picroft](https://github.com/MycroftAI/enclosure-picroft) - Mycroft interface for Raspberry Pi environment
 
