@@ -18,8 +18,9 @@ $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=f
 
 ### Domestic Information
 
-- [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
 - 2018/08/26 [Raspberry Pi 3 무선랜(WiFi) 설정 방법](http://webnautes.tistory.com/903)
+- 2018/07/14 [라즈베리 파이 문서](https://wikidocs.net/book/483)
+    - [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
 - 2018/06/01 [라즈베리파이3 B+ 개봉 및 부팅테스트](https://m.blog.naver.com/nettrail/221289334287)
 
 
