@@ -149,7 +149,6 @@ $ vlc rtsp://<ip:8554>/unicast
 - [mpromonet/rpi](https://github.com/mpromonet/rpi)
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
-- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [gokrazy](https://gokrazy.org] - pure-Go userland for your Raspberry Pi 3 appliances
 
 
@@ -246,7 +245,12 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## AI Device
 
+- [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
+- [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
+
+
 ### Open Source
 
+- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [MycroftAI/enclosure-picroft](https://github.com/MycroftAI/enclosure-picroft) - Mycroft interface for Raspberry Pi environment
 
