@@ -52,6 +52,8 @@
 
 
 ### WebRTC Data Channel
+- [RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel)
+- [A simple RTCDataChannel sample](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Simple_RTCDataChannel_sample)
 - [openscreenprotocol](https://webscreens.github.io/openscreenprotocol/)
     - [Data Channel](https://webscreens.github.io/openscreenprotocol/datachannel.html)
 - [“librtcdc”: Tiny WebRTC DataChannel Implementation](https://webrtcmagazine.wordpress.com/2015/09/30/librtcdc-tiny-webrtc-datachannel-implementation/)
@@ -65,10 +67,11 @@
 - [WebRTC Data Channel Demo - Sending an Image over Data Channels](https://richard.to/projects/datachannel-demo/)
 - [WebRTC file transfer sample without cheating](https://niccoloterreri.com/webrtc-without-cheating)
     - [nterreri/p2p-file-transfer](https://github.com/nterreri/p2p-file-transfer)
-
 - [brkho/client-server-webrtc-example](https://github.com/brkho/client-server-webrtc-example)
 - 2015/08/27 [Gaming with the WebRTC DataChannel](https://webrtchacks.com/datachannel-multiplayer-game/) – A Walkthrough with Arin Sime
     - [agilityfeat/memory-webrtc-data-channel](https://github.com/agilityfeat/memory-webrtc-data-channel)
+- [WebRTC support for multiplayer games](https://godotengine.org/article/gsoc-2018-progress-report-1#webrtc)
+
 
 
 ## DASH
