@@ -55,6 +55,8 @@ $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=f
 - RPi Camera 
     - OV5647: v1.3
     - v2.1
+- [Best SD card for the Raspberry Pi 3 B+](https://www.androidcentral.com/best-sd-card-raspberry-pi-3-b)
+
 
 ## Commands
 ```
