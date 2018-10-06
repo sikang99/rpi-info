@@ -66,6 +66,10 @@
 - [WebRTC file transfer sample without cheating](https://niccoloterreri.com/webrtc-without-cheating)
     - [nterreri/p2p-file-transfer](https://github.com/nterreri/p2p-file-transfer)
 
+- [brkho/client-server-webrtc-example](https://github.com/brkho/client-server-webrtc-example)
+- 2015/08/27 [Gaming with the WebRTC DataChannel](https://webrtchacks.com/datachannel-multiplayer-game/) – A Walkthrough with Arin Sime
+    - [agilityfeat/memory-webrtc-data-channel](https://github.com/agilityfeat/memory-webrtc-data-channel)
+
 
 ## DASH
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
