@@ -8,6 +8,8 @@
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/) - patch required
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 - [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/)
+- [Flint OS](https://flintos.io/)
+
 
 ```
 $ sudo apt-get install xz-utils
