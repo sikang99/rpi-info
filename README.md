@@ -23,6 +23,13 @@ $ sudo apt-get install --reinstall raspberrypi-bootloader raspberrypi-kernel
 $ sudo BRANCH=stable rpi-update
 ```
 
+To fix the error of firefox on Ubuntu Mate 16.04 for Raspberry Pi
+```
+$ sudo apt-get install firefox=45.0.2+build1-0ubuntu1
+$ sudo apt-mark hold firefox
+```
+
+
 ### Domestic Information
 
 - 2018/08/26 [Raspberry Pi 3 무선랜(WiFi) 설정 방법](http://webnautes.tistory.com/903)
