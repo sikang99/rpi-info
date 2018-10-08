@@ -5,6 +5,9 @@
 
 - 2018/01/31 [What’s the Best Raspberry Pi Camera For Your Project?](https://randomnerdtutorials.com/best-raspberry-pi-camera-for-your-project/)
 
+```
+$ vcgencmd get_camera
+```
 
 
 ## OS Images
@@ -42,9 +45,12 @@ $ sudo apt-mark hold firefox
 
 ### Domestic Information
 
+- [엘레파츠](https://www.eleparts.co.kr/main/index)
+
 - 2018/08/26 [Raspberry Pi 3 무선랜(WiFi) 설정 방법](http://webnautes.tistory.com/903)
 - 2018/07/14 [라즈베리 파이 문서](https://wikidocs.net/book/483)
     - [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
+- 2018/06/25 [Raspberry Pi Camera Module( pi camera ) 사용하는 방법](http://webnautes.tistory.com/929)
 - 2018/06/01 [라즈베리파이3 B+ 개봉 및 부팅테스트](https://m.blog.naver.com/nettrail/221289334287)
 - 2018/03/20 [모니터 없이 라즈베리파이 3 모델 B+의 SSH, VNC 원격접속 설정](https://m.blog.naver.com/PostView.nhn?blogId=specialist0&logNo=221232983680&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
