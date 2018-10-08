@@ -4,6 +4,7 @@
 ## Hardware
 
 - 2018/01/31 [What’s the Best Raspberry Pi Camera For Your Project?](https://randomnerdtutorials.com/best-raspberry-pi-camera-for-your-project/)
+- [NanoPi M4 Raspberry Pi Inspired RK3399 Board Launched for $65 and Up](https://www.cnx-software.com/2018/08/24/nanopi-m4-raspberry-pi-rk3399-board/)
 
 ```
 $ vcgencmd get_camera
@@ -45,7 +46,8 @@ $ sudo apt-mark hold firefox
 
 ### Domestic Information
 
-- [엘레파츠](https://www.eleparts.co.kr/main/index)
+- [엘레파츠](https://www.eleparts.co.kr/)
+- [아이씨뱅크](http://www.icbanq.com/)
 
 - 2018/08/26 [Raspberry Pi 3 무선랜(WiFi) 설정 방법](http://webnautes.tistory.com/903)
 - 2018/07/14 [라즈베리 파이 문서](https://wikidocs.net/book/483)
