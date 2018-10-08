@@ -9,6 +9,7 @@
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 - [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/)
 - [Flint OS](https://flintos.io/)
+    - [Flint Innovations](https://github.com/flintinnovations)
 
 
 ```
