@@ -214,7 +214,7 @@ $ vlc rtsp://<ip:8554>/unicast
 $ curl -sSL https://get.docker.com | sh
 $ sudo groupadd docker
 $ sudo gpasswd -a $USER docker
-$ sudo apt-get install acl -y
+$ sudo apt-get install acl -y   # setfacl
 $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ```
 
