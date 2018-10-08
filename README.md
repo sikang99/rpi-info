@@ -171,7 +171,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [mpromonet/rpi](https://github.com/mpromonet/rpi)
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
-- [gokrazy](https://gokrazy.org] - pure-Go userland for your Raspberry Pi 3 appliances
+- [gokrazy](https://gokrazy.org) - pure-Go userland for your Raspberry Pi 3 appliances
 
 
 ## [WebRTC](https://webrtc.org/)
