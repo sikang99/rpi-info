@@ -7,6 +7,7 @@
     - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - wifi driver
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/) - patch required
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
+- [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/)
 
 ```
 $ sudo apt-get install xz-utils
@@ -14,6 +15,12 @@ $ unxz <file>.xz
 $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX conv=fsync
 $ unzip -p 2018-04-18-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M conv=fsync
 $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=fsync
+```
+
+To get back to the latest stable firmware/kernel
+```
+$ sudo apt-get install --reinstall raspberrypi-bootloader raspberrypi-kernel
+$ sudo BRANCH=stable rpi-update
 ```
 
 ### Domestic Information
@@ -26,6 +33,8 @@ $ dd bs=4M if=2018-04-18-raspbian-stretch.img of=/dev/sdX status=progress conv=f
 
 ### Foreign Information
 
+- [Where to download latest Android and Chromium OS for Rasp Pi3](https://lb.raspberrypi.org/forums/viewtopic.php?t=194047)
+- 2018/06/23 [Getting Started with Chromium OS on Raspberry Pi](https://www.electromaker.io/tutorial/blog/getting-started-with-chromium-os-on-raspberry-pi)
 - [Raspbian Update: First-Boot Setup Wizard and More](https://www.raspberrypi.org/blog/raspbian-update-june-2018/)
 
 - [Creating a bootable Ubuntu USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
