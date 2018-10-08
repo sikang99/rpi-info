@@ -78,6 +78,8 @@
 - [gcash](https://github.com/gcash)
 - [WorldComputer](https://github.com/WorldComputer)
 - [Ethereum Classic](https://github.com/ethereumclassic)
+- [Seele](https://seele.pro/) : [seeleteam](https://github.com/seeleteam)
+    - [seeleteam/go-seele](https://github.com/seeleteam/go-seele)
 
 
 ## Company & Solution
