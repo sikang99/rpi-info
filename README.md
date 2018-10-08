@@ -39,6 +39,7 @@ $ sudo apt-mark hold firefox
 - 2018/07/14 [라즈베리 파이 문서](https://wikidocs.net/book/483)
     - [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
 - 2018/06/01 [라즈베리파이3 B+ 개봉 및 부팅테스트](https://m.blog.naver.com/nettrail/221289334287)
+- 2018/03/20 [모니터 없이 라즈베리파이 3 모델 B+의 SSH, VNC 원격접속 설정](https://m.blog.naver.com/PostView.nhn?blogId=specialist0&logNo=221232983680&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
 
 ### Foreign Information
