@@ -1,5 +1,6 @@
 # Raspberry Pi (3) Information
 
+* Scoop.it! for [Single board computers and embedded Linux](https://www.scoop.it/t/single-board-computers-and-embedded-linux-dev-boards)
 * [FrendlyARM](https://friendlyarm.com/) : [Wiki](http://wiki.friendlyarm.com/wiki/index.php/Main_Page), [Github](https://github.com/friendlyarm)
 * [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
 ![Alt text](RPi3B+.jpg "Raspberry 3 Model B+")
