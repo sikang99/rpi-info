@@ -56,7 +56,7 @@ $ sudo apt-mark hold firefox
 - [아이씨뱅크](http://www.icbanq.com/)
 - [Aliexpress](https://www.aliexpress.com)
     - [Raspberry Pi 3 Model B+](https://www.aliexpress.com/premium/raspberry-pi-3-model-b%252B.html)
-    - [NanoPi M4](https://www.aliexpress.com/premium/nanopi-m4.html)
+    - [NanoPi M4](https://www.aliexpress.com/premium/nanopi-m4.html) - RK3399
 
 
 ### Domestic Information
