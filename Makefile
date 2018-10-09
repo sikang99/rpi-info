@@ -43,7 +43,7 @@ git g:
 	@echo ""
 
 git-update gu:
-	git add README.md WebMedia.md Peer2Peer.md Makefile
+	git add README.md WebMedia.md Peer2Peer.md Makefile *.jpg
 	git commit -m "add Peer2Peer.md"
 	git push
 

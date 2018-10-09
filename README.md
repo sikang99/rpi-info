@@ -1,5 +1,6 @@
 # Raspberry Pi (3) Information
 
+![Alt text](RPi3B+.jpg "Raspberry 3 Model B+")
 
 ## Hardware
 
