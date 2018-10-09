@@ -22,7 +22,7 @@ $ vcgencmd get_camera
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/) - patch required
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 - [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/)
-- [Flint OS](https://flintos.io/) - Open source version of Chromium OS
+- [Flint OS](https://flintos.io/) - Open source version of Chromium OS for PC/TKB/RPi
     - [Flint Innovations](https://github.com/flintinnovations)
 
 
