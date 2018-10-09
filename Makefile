@@ -13,7 +13,7 @@ usage:
 # ---------------------------------------------------------------------------
 edit e:
 	@echo ""
-	@echo "make (edit) [sh|readme|make]"
+	@echo "make (edit) [make|readme|peer|web]"
 	@echo ""
 
 edit-peer ep:
