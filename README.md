@@ -307,4 +307,6 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [MycroftAI/enclosure-picroft](https://github.com/MycroftAI/enclosure-picroft) - Mycroft interface for Raspberry Pi environment
+- [movidius/ncappzoo](https://github.com/movidius/ncappzoo) - Contains examples for the Movidius Neural Compute Stick
+
 
