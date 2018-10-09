@@ -1,5 +1,6 @@
 # Raspberry Pi (3) Information
 
+[Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
 ![Alt text](RPi3B+.jpg "Raspberry 3 Model B+")
 
 ## Hardware
@@ -11,7 +12,6 @@
 ```
 $ vcgencmd get_camera
 ```
-
 
 ## OS Images
 
@@ -83,16 +83,6 @@ $ sudo apt-mark hold firefox
 ## Terminoloy
 - MMAL(Multi-Media Abstraction Layer)
 - OMX (OpenMAX)
-
-## Hardware
-- [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
-    - BCM2837B0
-    - LAN9514
-- VideoCore: BCM2835
-- RPi Camera 
-    - OV5647: v1.3
-    - v2.1
-
 
 ## Commands
 ```
