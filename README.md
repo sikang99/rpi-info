@@ -185,7 +185,9 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Open Source
 
-- [raspberrypi/userland](https://github.com/raspberrypi/userland) - for RPi GPU
+- [raspberrypi](https://github.com/raspberrypi)
+    - [raspberrypi/userland](https://github.com/raspberrypi/userland) - RPi GPU
+    - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - RPi kernel and modules, userspace libraries, and bootloader/GPU firmware 
 - [6by9/lens_shading](https://github.com/6by9/lens_shading) - Lens shading analysis tool
 - [6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
@@ -295,7 +297,10 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## AI Device
 
+- 2018/09/14 [Picroft Migrates to Raspbian Stretch: Picroft Now Available for Raspberry Pi 3 B+](https://www.electromaker.io/blog/article/picroft-migrates-to-raspbian-stretch-picroft-now-available-for-raspberry-pi-3-b)
+    - 2017//12/27 [Make Your Own Virtual Assistant with Mycroft](https://www.electromaker.io/tutorial/blog/make-your-own-virtual-assistant-with-mycroft-47)
 - 2018/09/11 [DIY How to Build DIY AI Projects Using Google TensorFlow and Raspberry Pi](https://www.makeuseof.com/tag/google-tensorflow-raspberry-pi/)
+- 2018/04/04 [How to Develop AI on a Raspberry Pi With Google Colaboratory](https://www.designnews.com/design-hardware-software/how-develop-ai-on-raspberry-pi-google-colaboratory/206379795358509)
 
 ### Project
 - [Artificial Intelligence & Machine Learning](https://www.hackster.io/artificial-intelligence/projects)
