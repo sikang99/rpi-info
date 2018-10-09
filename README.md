@@ -17,8 +17,8 @@ $ vcgencmd get_camera
 ## OS Images
 
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
-    - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/)
-    - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - wifi driver
+    - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/) - RPi 1,2,3
+    - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - patched wifi driver
 - [Ubuntu MATE 16.04.2 (Xenial)](https://ubuntu-mate.org/download/) - patch required
 - [armbian](https://www.armbian.com/) - Linux for ARM development boards
 - [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/)
