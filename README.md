@@ -161,7 +161,7 @@ $ v4l2rtspserver
 $ vlc rtsp://<ip:8554>/unicast
 ```
 
-### Books
+### Magazine & Books
 - [The MagPi](https://www.raspberrypi.org/magpi/)
 
 - 2016 [Raspberry Pi: Amazing Projects from Scratch](https://electrovolt.ir/wp-content/uploads/2018/01/Raspberry_Pi_Amazing_Projects_from_Scratch_ElectroVolt.ir_.pdf)
