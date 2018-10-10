@@ -83,7 +83,6 @@ $ sudo apt-mark hold firefox
 
 
 ## Awesome
-- [Github][Topics: Raspberry Pi](https://github.com/topics/raspberrypi)
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
 - [Devices with Videocore graphics](https://github.com/anholt/linux/wiki/Devices-with-Videocore-graphics)
@@ -185,6 +184,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ### Open Source
+- Github [Topics: Raspberry Pi](https://github.com/topics/raspberrypi)
 - [raspberrypi](https://github.com/raspberrypi)
     - [raspberrypi/userland](https://github.com/raspberrypi/userland) - RPi GPU
     - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - RPi kernel and modules, userspace libraries, and bootloader/GPU firmware 
