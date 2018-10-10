@@ -77,11 +77,10 @@
 ### Open Source for WebRTC
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 ```
-$ git clone https://github.com/keroserene/go-webrtc
+$ git clone --recursive https://github.com/keroserene/go-webrtc
 $ cd go-webrtc
-$ ./build.sh # long time to build
+$ ./build.sh # long time to build, don't use go build
 ```
-
 
 
 ## DASH
