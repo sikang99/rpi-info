@@ -320,4 +320,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [Screenly Open Source Edition](https://www.screenly.io/ose/)
     - [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose)
 
+- [Home Assistant](https://www.home-assistant.io/)
+    - [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant)
+
 
