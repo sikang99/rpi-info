@@ -83,6 +83,7 @@ $ sudo apt-mark hold firefox
 
 
 ## Awesome
+- [Github][Topics: Raspberry Pi](https://github.com/topics/raspberrypi)
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
 - [Devices with Videocore graphics](https://github.com/anholt/linux/wiki/Devices-with-Videocore-graphics)
