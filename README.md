@@ -5,8 +5,8 @@
 * [Raspberry Pi 3 Model B+](https://people.rit.edu/meseec/551-projects/spring2018/2-1.pdf)
 ![Alt text](RPi3B+.jpg "Raspberry 3 Model B+")
 
-## Hardware
 
+## Hardware
 - 2018/09/20 [Best SD card for the Raspberry Pi 3 B+](https://www.androidcentral.com/best-sd-card-raspberry-pi-3-b)
 - 2018/08/24 [NanoPi M4 Raspberry Pi Inspired RK3399 Board Launched for $65 and Up](https://www.cnx-software.com/2018/08/24/nanopi-m4-raspberry-pi-rk3399-board/)
 - 2018/01/31 [What’s the Best Raspberry Pi Camera For Your Project?](https://randomnerdtutorials.com/best-raspberry-pi-camera-for-your-project/)
@@ -16,7 +16,6 @@ $ vcgencmd get_camera
 ```
 
 ## OS Images
-
 - [Raspberry Pi Images](https://www.raspberrypi.org/downloads/)
     - [Raspberry Pi SD image – Raspbian (Linux OS)](http://domoticx.com/raspberry-pi-sd-image-raspbian-linux-os/) - RPi 1,2,3
     - [firmware-nonfree/](https://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/) - patched wifi driver
@@ -60,7 +59,6 @@ $ sudo apt-mark hold firefox
 
 
 ### Domestic Information
-
 - 2018/08/26 [Raspberry Pi 3 무선랜(WiFi) 설정 방법](http://webnautes.tistory.com/903)
 - 2018/07/14 [라즈베리 파이 문서](https://wikidocs.net/book/483)
     - [(1) 리눅스에서 운영 체제 이미지 설치하기](https://wikidocs.net/3275)
@@ -70,7 +68,6 @@ $ sudo apt-mark hold firefox
 
 
 ### Foreign Information
-
 - 2018/09/26 [Install OpenCV 4 on your Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 - [Where to download latest Android and Chromium OS for Rasp Pi3](https://lb.raspberrypi.org/forums/viewtopic.php?t=194047)
 - 2018/06/23 [Getting Started with Chromium OS on Raspberry Pi](https://www.electromaker.io/tutorial/blog/getting-started-with-chromium-os-on-raspberry-pi)
@@ -83,6 +80,7 @@ $ sudo apt-mark hold firefox
 - 2018/04/18 [The ASUS Tinker Board is a compelling upgrade from a Raspberry Pi 3 B+](https://www.jeffgeerling.com/blog/2018/asus-tinker-board-compelling-upgrade-raspberry-pi-3-b)
 - 2018/04/15 [Raspberry Pi 3 B+ Review and Performance Comparison](https://www.jeffgeerling.com/blog/2018/raspberry-pi-3-b-review-and-performance-comparison)
 - [Setting WiFi up via the command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
+
 
 ## Awesome
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
@@ -172,8 +170,8 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - 2016 [Raspberry Pi: Amazing Projects from Scratch](https://electrovolt.ir/wp-content/uploads/2018/01/Raspberry_Pi_Amazing_Projects_from_Scratch_ElectroVolt.ir_.pdf)
 
-### Reference
 
+### Reference
 - [Linux Media Subsystem Documentation](https://linuxtv.org/downloads/v4l-dvb-apis-new/index.html)
     - [Video for Linux API](https://linuxtv.org/downloads/v4l-dvb-apis-new/uapi/v4l/v4l2.html)
     - [Video4Linux (V4L) driver](https://linuxtv.org/downloads/v4l-dvb-apis-new/v4l-drivers/index.html)
@@ -186,7 +184,6 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ### Open Source
-
 - [raspberrypi](https://github.com/raspberrypi)
     - [raspberrypi/userland](https://github.com/raspberrypi/userland) - RPi GPU
     - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - RPi kernel and modules, userspace libraries, and bootloader/GPU firmware 
@@ -262,7 +259,6 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 
 ## RPi Cluster
-
 - 2018/09/28 [Digging into Kubernetes 1.12](https://cloud.google.com/blog/products/containers-kubernetes/digging-into-kubernetes-1-12)
 - 2018/07/11 [How to run Kubernetes on Raspberry Pi cluster](https://www.olindata.com/en/blog/2018/07/how-run-kubernetes-raspberry-pi-cluster)
 - 2018/06/11 [Raspberry Pi Zero cluster with the ClusterHAT](http://www.knight-of-pi.org/raspberry-pi-zero-cluster-with-the-clusterhat/)
@@ -274,14 +270,13 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 
 ### Open Source
-
 - [PicoCluster](https://www.picocluster.com/)
 - [JestonBlu/Pi-Cluster](https://github.com/JestonBlu/Pi-Cluster) - How to set up a Raspberry Pi Spark Cluster on Arch
 - [rak8s.io](https://rak8s.io/) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 
-## RPi Mining
 
+## RPi Mining
 - 2018/01/28 [Building a mining-stack of Raspberry Pi’s (rev 3 Model B)](https://sharedmemorydump.net/building-a-mining-stack-of-raspberry-pis)
 - 2018/01/20 [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
 - 2018/01/19 [Use A Raspberry Pi And A CPU Miner To Mine Altcoins](https://www.thepolyglotdeveloper.com/2018/01/use-raspberry-pi-cpu-miner-mine-altcoins/)
@@ -298,12 +293,12 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 
 ## AI Device
-
 - 2018/09/14 [Picroft Migrates to Raspbian Stretch: Picroft Now Available for Raspberry Pi 3 B+](https://www.electromaker.io/blog/article/picroft-migrates-to-raspbian-stretch-picroft-now-available-for-raspberry-pi-3-b)
     - 2017//12/27 [Make Your Own Virtual Assistant with Mycroft](https://www.electromaker.io/tutorial/blog/make-your-own-virtual-assistant-with-mycroft-47)
 - 2018/09/11 [DIY How to Build DIY AI Projects Using Google TensorFlow and Raspberry Pi](https://www.makeuseof.com/tag/google-tensorflow-raspberry-pi/)
 - 2018/04/04 [How to Develop AI on a Raspberry Pi With Google Colaboratory](https://www.designnews.com/design-hardware-software/how-develop-ai-on-raspberry-pi-google-colaboratory/206379795358509)
 - 2017/11/11 [Movidus Neural Compute Stick and Raspberry 3 - quick start guide](https://medium.com/@hsheil/movidius-neural-compute-stick-and-raspberry-3-quick-start-guide-a89ff5e1d7ca)
+
 
 ### Project
 - [pyimagesearch](https://www.pyimagesearch.com/)
@@ -311,10 +306,18 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
 
-### Open Source
 
+### Open Source
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [MycroftAI/enclosure-picroft](https://github.com/MycroftAI/enclosure-picroft) - Mycroft interface for Raspberry Pi environment
 - [movidius/ncappzoo](https://github.com/movidius/ncappzoo) - Contains examples for the Movidius Neural Compute Stick
+- [shivasiddharth/GassistPi](https://github.com/shivasiddharth/GassistPi) - Google Assistant for all RPi Boards
+
+
+## Digital Signage
+2017/11/21 [Deploy a digital signage application with Screenly OSE and resin.io](https://resin.io/blog/deploy-a-digital-signage-application-with-screenly-and-resin/)
+
+- [Screenly Open Source Edition](https://www.screenly.io/ose/)
+    - [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose)
 
 
