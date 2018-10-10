@@ -71,6 +71,7 @@ $ sudo apt-mark hold firefox
 
 ### Foreign Information
 
+- 2018/09/26 [Install OpenCV 4 on your Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 - [Where to download latest Android and Chromium OS for Rasp Pi3](https://lb.raspberrypi.org/forums/viewtopic.php?t=194047)
 - 2018/06/23 [Getting Started with Chromium OS on Raspberry Pi](https://www.electromaker.io/tutorial/blog/getting-started-with-chromium-os-on-raspberry-pi)
 - [Raspbian Update: First-Boot Setup Wizard and More](https://www.raspberrypi.org/blog/raspbian-update-june-2018/)
@@ -131,7 +132,7 @@ $ raspivid -ex nightpreview -w 1640 -h 1232 -t 10000
 
 - [omxplayer](https://github.com/popcornmix/omxplayer)
 ```
-$ omxplayer -o hdmi video.mp4
+$ omxplayer -p -o hdmi video.mp4
 $ omxplayer -o local video.mp4
 ```
 - amixer
@@ -162,6 +163,7 @@ $ v4l2-ctl --list-ctrls-menu -d 0 (--device=/dev/video0)
 RPi RTSP Server Test
 ```
 $ v4l2rtspserver
+$ v4l2rtspserver -F -W 1920 -H 1080 -P8554 /dev/video0
 $ vlc rtsp://<ip:8554>/unicast
 ```
 
@@ -248,7 +250,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ```
 
 ## Golang
-- Download: [golang 1.10.4, 1.11](https://golang.org/dl/) 
+- Download: [golang 1.10.4, 1.11.1](https://golang.org/dl/) 
 - [Raspberry Pi Coding in Go: Traffic Lights](https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07)
 
 
@@ -303,6 +305,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - 2018/04/04 [How to Develop AI on a Raspberry Pi With Google Colaboratory](https://www.designnews.com/design-hardware-software/how-develop-ai-on-raspberry-pi-google-colaboratory/206379795358509)
 
 ### Project
+- [pyimagesearch](https://www.pyimagesearch.com/)
 - [Artificial Intelligence & Machine Learning](https://www.hackster.io/artificial-intelligence/projects)
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
