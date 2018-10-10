@@ -71,6 +71,7 @@
 - 2015/08/27 [Gaming with the WebRTC DataChannel](https://webrtchacks.com/datachannel-multiplayer-game/) – A Walkthrough with Arin Sime
     - [agilityfeat/memory-webrtc-data-channel](https://github.com/agilityfeat/memory-webrtc-data-channel)
 - [WebRTC support for multiplayer games](https://godotengine.org/article/gsoc-2018-progress-report-1#webrtc)
+- Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
 
 
 ### Open Source for WebRTC
