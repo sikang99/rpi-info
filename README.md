@@ -303,13 +303,13 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
     - 2017//12/27 [Make Your Own Virtual Assistant with Mycroft](https://www.electromaker.io/tutorial/blog/make-your-own-virtual-assistant-with-mycroft-47)
 - 2018/09/11 [DIY How to Build DIY AI Projects Using Google TensorFlow and Raspberry Pi](https://www.makeuseof.com/tag/google-tensorflow-raspberry-pi/)
 - 2018/04/04 [How to Develop AI on a Raspberry Pi With Google Colaboratory](https://www.designnews.com/design-hardware-software/how-develop-ai-on-raspberry-pi-google-colaboratory/206379795358509)
+- 2017/11/11 [Movidus Neural Compute Stick and Raspberry 3 - quick start guide](https://medium.com/@hsheil/movidius-neural-compute-stick-and-raspberry-3-quick-start-guide-a89ff5e1d7ca)
 
 ### Project
 - [pyimagesearch](https://www.pyimagesearch.com/)
 - [Artificial Intelligence & Machine Learning](https://www.hackster.io/artificial-intelligence/projects)
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
-- 2017/11/11 [Movidus Neural Compute Stick and Raspberry 3 - quick start guide]( )
 
 ### Open Source
 
