@@ -49,7 +49,6 @@
 - [Visions for WebRTC Next Steps: Fine-grained Media Control in the browser](https://www.callstats.io/blog/2017/11/22/webrtc-fine-grained-media-control-and-quic-transport-for-rtp)
 - [Scaling WebRTC Based Applications](https://dzone.com/articles/scaling-webrtc-based-applications)
 - [Multiplayer: Peer to Peer (P2P)](https://www.timetocode.org/peer2peer.html)
-- [Github Topic:WebRTC](https://github.com/topics/webrtc)
 
 
 ## WebRTC Data Channel
@@ -75,6 +74,7 @@
 
 
 ### Open Source for WebRTC
+- [Github Topic:WebRTC](https://github.com/topics/webrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 ```
 $ git clone --recursive https://github.com/keroserene/go-webrtc
@@ -92,7 +92,7 @@ $ ./build.sh # long time to build, don't use go build
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
 
 
-## Golang
+### Open Source for Streaming
 
 - [qieangel2013/livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services (Tested)
 - [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn Demo
