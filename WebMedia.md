@@ -81,19 +81,15 @@ $ git clone --recursive https://github.com/keroserene/go-webrtc
 $ cd go-webrtc
 $ ./build.sh # long time to build, don't use go build
 ```
-
-
-## DASH
-- [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
-
-
-## Open Source
-
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript: https://simpl.info
 - [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
 - [github.com/fippo](https://github.com/fippo)
     - [fippo/minimal-webrtc](https://github.com/fippo/minimal-webrtc)
 - [nash-md/twilio-contact-center](https://github.com/nash-md/twilio-contact-center) - Signal 2017 Modern Contact Center http://www.twilio.com
+
+
+## DASH
+- [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
 
 
 ## Golang
