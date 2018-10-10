@@ -309,7 +309,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [Artificial Intelligence & Machine Learning](https://www.hackster.io/artificial-intelligence/projects)
 - [Google AIY Project](https://aiyprojects.withgoogle.com/) - Do-it-yourself artificial intelligence
 - [Mycroft](https://mycroft.ai/) – Open Source Voice Assistant
-
+- 2017/11/11 [Movidus Neural Compute Stick and Raspberry 3 - quick start guide]( )
 
 ### Open Source
 
