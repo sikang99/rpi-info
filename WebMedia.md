@@ -111,6 +111,7 @@ $ ./build.sh # long time to build, don't use go build
 - 2018/09/13 [YouTube starts testing AV1 video format](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1536822275)
 - 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
 
+- Github Topics: [codec](https://github.com/topics/codec)
 - [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
 - [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
     - YouTube: [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
