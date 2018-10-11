@@ -96,6 +96,7 @@ $ ./build.sh # long time to build, don't use go build
 
 ## DASH
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
+- [Streamlink](https://streamlink.github.io/) - Command-line utility that extracts streams from various services and pipes them into a video player of choice
 
 
 ### Open Source for Streaming
