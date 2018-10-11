@@ -112,11 +112,14 @@ $ ./build.sh # long time to build, don't use go build
 - 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
 
 - Github Topics: [codec](https://github.com/topics/codec)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) -A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding) - [WIP] Learn FFmpeg libav the Hard Way
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
 - [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
     - YouTube: [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
+
 
 
 
