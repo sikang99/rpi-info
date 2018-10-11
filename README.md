@@ -155,7 +155,7 @@ $ sudo modprobe -r bcm2835-v4l2 # remove
 $ sudo uv4l --driver raspicam --auto-video_nr --encoding h264
 
 $ v4l2-ctl -V
-$ v4l2-ctl --set-fmt-video=width=640,height=480,pixelformat=4
+$ v4l2-ctl --set-fmt-video=width=1080,height=720,pixelformat=4 # H264(4)
 $ v4l2-ctl --set-ctrl=exposure_dynamic_framerate=1 --set-ctrl=scene_mode=8
 $ v4l2-ctl --list-ctrls-menu -d 0 (--device=/dev/video0)
 ```
