@@ -334,4 +334,14 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [Home Assistant](https://www.home-assistant.io/)
     - [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant)
 
+## GoPro
+
+- 2016/12/31 [How to stream from a GoPro camera](https://medium.com/@konrad_it/how-to-stream-from-a-gopro-camera-f4a164150797)
+
+
+- [https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card](https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card)
+- [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) - Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query
+- [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream)
+
+
 
