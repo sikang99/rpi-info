@@ -195,7 +195,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
     - [B101 HDMI to CSI-2 Bridge (15 pin FPC)](https://auvidea.com/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
-    - [yavta](git://git.ideasonboard.org/yavta.git)
+    - yavta - git://git.ideasonboard.org/yavta.git
     ```
     $ yavta -capture=1000 -n 3 --file=video.h264 -f UYVY -m -T /dev/video0
     ```
