@@ -244,7 +244,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - WebRTC Server
 - [DaewoongP/cerule-stream](https://github.com/DaewoongP/cerule-stream) - Application Object detection using Neural Networks, Python and Open CV (with Raspberry pi)
 - [carlosedp/rpi-media-server](https://github.com/carlosedp/rpi-media-server) - Docker compose files to create a Raspberry Pi Media Server
-- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
 
 
 ## Docker
