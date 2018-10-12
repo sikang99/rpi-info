@@ -197,7 +197,7 @@ $ vlc rtsp://<ip:8554>/unicast
     - [B101 HDMI to CSI-2 Bridge (15 pin FPC)](https://auvidea.com/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
     - yavta - git://git.ideasonboard.org/yavta.git
     ```
-    $ yavta -capture=1000 -n 3 --file=video.h264 -f UYVY -m -T /dev/video0
+    $ yavta -capture=1000 -n 3 --file=video.h264 -f UYVY /dev/video0
     ```
 
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 

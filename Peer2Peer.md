@@ -5,6 +5,7 @@
 - [DLEP (Dynamic Link Exchange Protocol)](https://datatracker.ietf.org/meeting/101/materials/slides-101-ccamp-sessb-1-introduction-to-dlep-dynamic-link-exchange-protocol-and-applicability-to-ccamp-01)
 - MANET (Mobile Ad-Hoc NETwork)
 - DHT (Distributed Hash Table)
+- P2PSP (P2P Streaming Protocol)
 
 
 ## Awesome
@@ -43,6 +44,7 @@
 - [Announcing Hyperswarm](https://pfrazee.hashbase.io/blog/hyperswarm)
     - [hyperswarm](https://github.com/hyperswarm) - A distributed networking stack for connecting peers.
 - [IPOP (IP-Over-P2P)](http://ipop-project.org/) - Open-source User-centric Software Virtual Network
+- [P2PSP](http://www.p2psp.org/en/) - Application layer protocol for the real-time streaming of multimedia content over the Internet
 
 
 ## DHT
