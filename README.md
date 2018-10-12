@@ -195,6 +195,10 @@ $ vlc rtsp://<ip:8554>/unicast
 - [6by9/raspi_tc358743](https://github.com/6by9/raspi_tc358743) - Raspberry Pi Userland app for talking to the TC358743 HDMI to CSI-2 bridge chip
 - [6by9/v4l2_mmal](https://github.com/6by9/v4l2_mmal) - V4L2 source feeding into MMAL for encode and render
     - [B101 HDMI to CSI-2 Bridge (15 pin FPC)](https://auvidea.com/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
+    - [yavta](git://git.ideasonboard.org/yavta.git)
+    ```
+    $ yavta -capture=1000 -n 3 --file=video.h264 -f UYVY -m -T /dev/video0
+    ```
 
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
@@ -224,6 +228,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [WebRTC-streamer](http://www.lib4dev.com/info/mpromonet/webrtc-streamer/27565754)
 - [Browser-based WebRTC stream from RTSP IP camera with low latency](https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low-latency/)
 - [Testing playback of the WebRTC Video stream in an HLS player](https://flashphoner.com/testing-of-a-webrtc-stream-broadcasting-to-hls/)
+- [RTSP to WebRTC Gateway](https://www.gadgeon.com/casestudies/57/rtsp-to-webrtc-gateway)
 
 
 ### Open Source
