@@ -94,6 +94,7 @@
     - [seeleteam/go-seele](https://github.com/seeleteam/go-seele)
 - [Tendermint](https://tendermint.com/)
     - [tendermint/tendermint](https://github.com/tendermint/tendermint) - Tendermint Core (BFT Consensus) in Go
+    - [tendermint/go-amino](https://github.com/tendermint/go-amino) - Protobuf3 with Interface support - Designed for blockchains (deterministic, upgradeable, fast, and compact)
 
 
 ## Company & Solution
