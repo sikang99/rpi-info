@@ -36,9 +36,16 @@
 - [What is WebAuthn?](https://duo.com/blog/what-is-webauthn) - SEP, TPM, U2F, MFA
 
 
+## WebVR
+
+### Open Source
+- [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
+
+
 
 ## WebAssembly
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
+- [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
 ## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
@@ -82,6 +89,9 @@
 ### Open Source for WebRTC
 - Github [Topic:WebRTC](https://github.com/topics/webrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
+- [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment
+- [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
+
 ```
 $ git clone --recursive https://github.com/keroserene/go-webrtc
 $ cd go-webrtc

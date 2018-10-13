@@ -92,6 +92,7 @@
 - [Ethereum Classic](https://github.com/ethereumclassic)
 - [Seele](https://seele.pro/) : [seeleteam](https://github.com/seeleteam)
     - [seeleteam/go-seele](https://github.com/seeleteam/go-seele)
+- [tendermint/tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
 
 ## Company & Solution
