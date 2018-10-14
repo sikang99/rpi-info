@@ -87,6 +87,7 @@
 
 ### Information
 - 2018/05/10 [Cosmos&Tendermint 분석: 블록체인 인터넷 Cosmos Blockchain](https://steemit.com/kr/@bigthumbsup/cosmos-and-tendermint-cosmos-blockchain)
+- 2017/11/07 [Tendermint/Cosmos: Many Chains, Many Tokens, One Ecosystem](https://www.slideshare.net/SunnyAggarwal2/tendermintcosmos-many-chains-many-tokens-one-ecosystem)
 - 2017/10/31 [Light Clients on Ethermint](https://blog.cosmos.network/light-clients-on-ethermint-9ae1f3c6c4f5)
 - 2017/10/28 [A Beginner’s Guide to Ethermint](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 - 2017/09/28 [Using Ethermint with Truffle](https://blog.cosmos.network/using-ethermint-with-truffle-984e6721e30d)
