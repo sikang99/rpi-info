@@ -84,6 +84,16 @@
 
 
 ## Blockchain
+
+### Information
+- 2018/05/10 [Cosmos&Tendermint 분석: 블록체인 인터넷 Cosmos Blockchain](https://steemit.com/kr/@bigthumbsup/cosmos-and-tendermint-cosmos-blockchain)
+- 2017/10/31 [Light Clients on Ethermint](https://blog.cosmos.network/light-clients-on-ethermint-9ae1f3c6c4f5)
+- 2017/10/28 [A Beginner’s Guide to Ethermint](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
+- 2017/09/28 [Using Ethermint with Truffle](https://blog.cosmos.network/using-ethermint-with-truffle-984e6721e30d)
+
+
+
+### Project
 - [Livepeer](https://livepeer.org/)
 - [Keep Network](https://keep.network/) - A privacy layer for Ethereum
 - [Theta]()
@@ -95,6 +105,11 @@
 - [Tendermint](https://tendermint.com/)
     - [tendermint/tendermint](https://github.com/tendermint/tendermint) - Tendermint Core (BFT Consensus) in Go
     - [tendermint/go-amino](https://github.com/tendermint/go-amino) - Protobuf3 with Interface support - Designed for blockchains (deterministic, upgradeable, fast, and compact)
+- [Cosmos.Network](https://cosmos.network/)
+    - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+    - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethereum on Tendermint using Cosmos-SDK
+- [Ethermint](https://ethermint.zone/) - Scalable and interoperable Ethereum, built on Proof-of-Stake
+
 
 
 ## Company & Solution
