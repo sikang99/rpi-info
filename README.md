@@ -52,6 +52,12 @@ $ sudo apt-get install firefox=45.0.2+build1-0ubuntu1
 $ sudo apt-mark hold firefox
 ```
 
+To allow the remote access while avoiding conflict with RealVNC,
+```
+$ sudo apt-get purge realvnc-vnc-server
+$ sudo apt-get install xrdp
+```
+
 ### On-line Stores
 - [엘레파츠](https://www.eleparts.co.kr/)
 - [아이씨뱅크](http://www.icbanq.com/)
