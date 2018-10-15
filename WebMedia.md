@@ -38,7 +38,17 @@
 
 ## WebAudio
 
+- [Web Audio Weekly](https://www.webaudioweekly.com/)
+- [W3C WebAudio API](https://www.w3.org/TR/webaudio/)
+
+### Information
+- 2018/05/17 [Playing with MIDI in JavaScript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
+- 2018/03/19 [Getting Started With The Web MIDI API](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 - 2017/12/12 [WebAudio wasm benchmark pages and tools](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
+
+
+### Open Source
+- [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
 ## WebVR
