@@ -36,6 +36,11 @@
 - [What is WebAuthn?](https://duo.com/blog/what-is-webauthn) - SEP, TPM, U2F, MFA
 
 
+## WebAudio
+
+- 2017/12/12 [WebAudio wasm benchmark pages and tools](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
+
+
 ## WebVR
 
 ### Open Source
