@@ -73,6 +73,7 @@ $ sudo apt-mark hold firefox
 
 
 ### Foreign Information
+- 2016/05/01 [Remote Desktop (xrdp) to Raspberry Pi without Monitor from Ubuntu Desktop(Remminai) over WLAN](http://www.ubuntubuzz.com/2016/05/ubuntu-remote-desktop-xrdp-to-raspberry-pi.html)
 - 2018/09/26 [Install OpenCV 4 on your Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 - [Where to download latest Android and Chromium OS for Rasp Pi3](https://lb.raspberrypi.org/forums/viewtopic.php?t=194047)
 - 2018/06/23 [Getting Started with Chromium OS on Raspberry Pi](https://www.electromaker.io/tutorial/blog/getting-started-with-chromium-os-on-raspberry-pi)
