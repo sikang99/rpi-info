@@ -221,7 +221,6 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ## [WebRTC](https://webrtc.org/)
-
 - [WebRTC](https://webrtc.org)
     - [getusermedia](http://simpl.info/getusermedia) - camera test
     - [getusermedia/sources/](https://simpl.info/getusermedia/sources/) - camera source test, 3B(unstable), 3B+(ok, not fully)
@@ -234,6 +233,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ### Information
+- [FruitNanny: The Raspberry Pi Baby Monitor For Geeks](https://hackaday.com/2017/10/21/fruitnanny-the-raspberry-pi-baby-monitor-for-geeks/)
 - 2015/02/25 [Building a Raspberry Pi 2 WebRTC camera](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera) - Janus and gStreamer
 - [WebRTC-streamer](http://www.lib4dev.com/info/mpromonet/webrtc-streamer/27565754)
 - [Browser-based WebRTC stream from RTSP IP camera with low latency](https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low-latency/)
@@ -254,6 +254,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [DaewoongP/cerule-stream](https://github.com/DaewoongP/cerule-stream) - Application Object detection using Neural Networks, Python and Open CV (with Raspberry pi)
 - [carlosedp/rpi-media-server](https://github.com/carlosedp/rpi-media-server) - Docker compose files to create a Raspberry Pi Media Server
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
+- [ivadim/fruitnanny](https://github.com/ivadim/fruitnanny) - Raspberry PI based baby monitor
 
 
 ## Docker
