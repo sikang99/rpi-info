@@ -136,6 +136,7 @@
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 - [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
+- [GoogleChromeLabs/confluence](https://github.com/GoogleChromeLabs/confluence) - Service and API for Web API Confluence
 
 #### Flutter
 - [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
