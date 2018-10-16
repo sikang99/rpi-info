@@ -27,6 +27,8 @@
 - 2018/04/10 [Using WebRTC for Real-Time Image Filtering](https://sudo.isl.co/webrtc-real-time-image-filtering/)
 - 2014/09/16 [Collaborative Whiteboard with HTML5 Canvas and History](https://www.pubnub.com/blog/2014-09-16-collaborative-whiteboard-with-html5-canvas-and-history/)
 - 2018/03/21 [Chrome 66 Beta: CSS Typed Object Model, Async Clipboard API, AudioWorklet](https://blog.chromium.org/2018/03/chrome-66-beta-css-typed-object-model.html)
+- [Building a Captcha using HTML5 Canvas](https://thejackalofjavascript.com/building-a-captcha-using-html5-canvas/)
+    - [arvindr21/captcha](https://github.com/arvindr21/captcha)
 
 
 
