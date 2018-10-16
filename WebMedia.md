@@ -101,6 +101,12 @@
 - Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
 
 
+## WebRTC Stats
+- [W3C Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/)
+- Kurento: [WebRTC Statistics](https://doc-kurento.readthedocs.io/en/6.6.1/mastering/webrtc_statistics.html)
+
+
+
 ### Open Source for WebRTC
 - Github [Topic:WebRTC](https://github.com/topics/webrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
