@@ -12,6 +12,7 @@
 - [Capture a MediaStream From a Canvas, Video or Audio Element](https://developers.google.com/web/updates/2016/10/capture-stream)
 - [Canvas-Designer/](https://www.webrtc-experiment.com/Canvas-Designer/)
 - [Enhancing webcams with canvas.captureStream()](https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/)
+- 2018/08/01 [OffscreenCanvas — Speed up Your Canvas Operations with a Web Worker](https://developers.google.com/web/updates/2018/08/offscreen-canvas)
 - 2018/06/20 [From an HTML5 Canvas element (whiteboard) in a browser via WebRTC](https://docs.flashphoner.com/display/WCS5EN/From+an+HTML5+Canvas+element+%28whiteboard%29+in+a+browser+via+WebRTC)
 - 2018/04/30 [Flutter Canvas animations](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)
 - 2018/04/10 [Using WebRTC for Real-Time Image Filtering](https://sudo.isl.co/webrtc-real-time-image-filtering/)
