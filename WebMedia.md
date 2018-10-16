@@ -20,7 +20,7 @@
 
 ## MSE (Media Soruce Extension)
 - [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
-    - WebRTC to MSE, RTSP to MSE
+    - WebRTC/RTSP/RTMP to MSE
 
 
 ## HTML5 & Media
