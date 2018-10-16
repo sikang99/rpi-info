@@ -9,6 +9,7 @@
 ## Hardware
 - 2018/09/20 [Best SD card for the Raspberry Pi 3 B+](https://www.androidcentral.com/best-sd-card-raspberry-pi-3-b)
 - 2018/08/24 [NanoPi M4 Raspberry Pi Inspired RK3399 Board Launched for $65 and Up](https://www.cnx-software.com/2018/08/24/nanopi-m4-raspberry-pi-rk3399-board/)
+- 2018/02/08 [How To Connect Bluetooth Headset Or Speaker To Raspberry Pi 3](http://youness.net/raspberry-pi/how-to-connect-bluetooth-headset-or-speaker-to-raspberry-pi-3)
 - 2018/01/31 [What’s the Best Raspberry Pi Camera For Your Project?](https://randomnerdtutorials.com/best-raspberry-pi-camera-for-your-project/)
 - [CNX Software for Raspberry Pi](https://www.cnx-software.com/tag/raspberry-pi/)
 
