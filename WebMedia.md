@@ -12,6 +12,7 @@
 - [Capture a MediaStream From a Canvas, Video or Audio Element](https://developers.google.com/web/updates/2016/10/capture-stream)
 - [Canvas-Designer/](https://www.webrtc-experiment.com/Canvas-Designer/)
 - [Enhancing webcams with canvas.captureStream()](https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/)
+- 2014/09/16 [Collaborative Whiteboard with HTML5 Canvas and History](https://www.pubnub.com/blog/2014-09-16-collaborative-whiteboard-with-html5-canvas-and-history/)
 
 
 ### Open Source
@@ -19,7 +20,7 @@
 
 
 ## MSE (Media Soruce Extension)
-- [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
+- 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE
 
 
@@ -56,6 +57,7 @@
 
 - [Web Audio Weekly](https://www.webaudioweekly.com/)
 - [W3C WebAudio API](https://www.w3.org/TR/webaudio/)
+- [MediaStream Integration](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/webrtc-integration.html) - WebRTC integration with the Web Audio API
 
 ### Information
 - 2018/05/17 [Playing with MIDI in JavaScript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
