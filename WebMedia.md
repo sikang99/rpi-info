@@ -12,6 +12,8 @@
 - [Capture a MediaStream From a Canvas, Video or Audio Element](https://developers.google.com/web/updates/2016/10/capture-stream)
 - [Canvas-Designer/](https://www.webrtc-experiment.com/Canvas-Designer/)
 - [Enhancing webcams with canvas.captureStream()](https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/)
+- 2018/06/20 [From an HTML5 Canvas element (whiteboard) in a browser via WebRTC](https://docs.flashphoner.com/display/WCS5EN/From+an+HTML5+Canvas+element+%28whiteboard%29+in+a+browser+via+WebRTC)
+- 2018/04/10 [Using WebRTC for Real-Time Image Filtering](https://sudo.isl.co/webrtc-real-time-image-filtering/)
 - 2014/09/16 [Collaborative Whiteboard with HTML5 Canvas and History](https://www.pubnub.com/blog/2014-09-16-collaborative-whiteboard-with-html5-canvas-and-history/)
 
 
@@ -95,6 +97,7 @@
 - [Scaling WebRTC Based Applications](https://dzone.com/articles/scaling-webrtc-based-applications)
 - [Multiplayer: Peer to Peer (P2P)](https://www.timetocode.org/peer2peer.html)
 - [Advancing WebRTC](https://blog.mozilla.org/webrtc/)
+- [Mobile First Camera App Template (HTML, CSS, JS and WebRTC)](https://www.kasperkamperman.com/blog/camera-template/)
 
 
 
