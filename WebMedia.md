@@ -127,6 +127,7 @@
 - [WebRTC support for multiplayer games](https://godotengine.org/article/gsoc-2018-progress-report-1#webrtc)
 - Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
 - 2018/04/22 [Easy Multiparty Video Conferencing in 4 Steps](https://dev.to/lucpattyn/easy-multiparty-video-conferencing-with-simple-peer-webrtc-library-2p52)
+- 2013/02/01 [WebRTC: RTCDataChannel demo, API changes... and Chrome talks to Firefox!](https://developers.google.com/web/updates/2013/02/WebRTC-RTCDataChannel-demo-API-changes-and-Chrome-talks-to-Firefox)
 
 
 ## WebRTC Stats
