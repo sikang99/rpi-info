@@ -13,6 +13,7 @@
 - [Canvas-Designer/](https://www.webrtc-experiment.com/Canvas-Designer/)
 - [Enhancing webcams with canvas.captureStream()](https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/)
 - 2018/06/20 [From an HTML5 Canvas element (whiteboard) in a browser via WebRTC](https://docs.flashphoner.com/display/WCS5EN/From+an+HTML5+Canvas+element+%28whiteboard%29+in+a+browser+via+WebRTC)
+- 2018/04/30 [Flutter Canvas animations](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)
 - 2018/04/10 [Using WebRTC for Real-Time Image Filtering](https://sudo.isl.co/webrtc-real-time-image-filtering/)
 - 2014/09/16 [Collaborative Whiteboard with HTML5 Canvas and History](https://www.pubnub.com/blog/2014-09-16-collaborative-whiteboard-with-html5-canvas-and-history/)
 
@@ -73,6 +74,7 @@
 
 ## WebVR
 
+- [The PortARble Museum: Developing Augmented Reality For The Web Using AR.Js](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)
 ### Open Source
 - [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
 
