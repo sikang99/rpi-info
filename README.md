@@ -219,6 +219,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 - [gokrazy](https://gokrazy.org) - pure-Go userland for your Raspberry Pi 3 appliances
+- [lukasjapan/bt-speaker](https://github.com/lukasjapan/bt-speaker) - A simple Bluetooth Speaker Daemon for the Raspberry Pi 3
 
 
 ## [WebRTC](https://webrtc.org/)
