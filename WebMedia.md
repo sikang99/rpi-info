@@ -80,13 +80,14 @@
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
-## WebVR
+## WebVR/AR/MR/XR
 - [WbVR](https://developers.google.com/web/fundamentals/vr/)
 - [The PortARble Museum: Developing Augmented Reality For The Web Using AR.Js](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)
-### Open Source
-- [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
 - 2018/06/17 [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
 - 2018/05/04 [Experimenting with Computer Vision in WebXR](https://blog.mozvr.com/experimenting-with-computer-vision-in-webxr/)
+
+### Open Source
+- [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
 
 
 
