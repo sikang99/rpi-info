@@ -39,9 +39,13 @@
 ## MSE (Media Soruce Extension)
 - 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE
+- 2017/10/24 [Media Source Extension on Webkit (GStreamer Conference 2017)](https://www.slideshare.net/igalia/media-source-extension-on-webkit-gstreamer-conference-2017)
 
 ### Open Source
 - [asafrob/WebRtcShitBlt](https://github.com/asafrob/WebRtcShitBlt) - client side WebRTC lib to add an image / watermark on the MediaSource
+- [acolwell/mse-tools](https://github.com/acolwell/mse-tools) - Media Source Extensions Tools
+
+
 
 ## HTML5 & Media
 
