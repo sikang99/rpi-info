@@ -26,6 +26,8 @@
 - 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE
 
+### Open Source
+- [asafrob/WebRtcShitBlt](https://github.com/asafrob/WebRtcShitBlt) - client side WebRTC lib to add an image / watermark on the MediaSource
 
 ## HTML5 & Media
 
