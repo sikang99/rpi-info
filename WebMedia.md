@@ -2,10 +2,22 @@
 
 
 ## Technology
+- Canvas
 - WebAssembly
 - WebRTC
 - WebXR
 - DASH
+
+## Canvas
+
+- [Capture a MediaStream From a Canvas, Video or Audio Element](https://developers.google.com/web/updates/2016/10/capture-stream)
+- [Canvas-Designer/](https://www.webrtc-experiment.com/Canvas-Designer/)
+- [Enhancing webcams with canvas.captureStream()](https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/)
+
+
+### Open Source
+- [muaz-khan/Canvas-Designer](https://github.com/muaz-khan/Canvas-Designer) - Collaborative, extendable, JavaScript Canvas2D drawing tool
+
 
 ## HTML5 & Media
 
@@ -76,6 +88,8 @@
 - [Visions for WebRTC Next Steps: Fine-grained Media Control in the browser](https://www.callstats.io/blog/2017/11/22/webrtc-fine-grained-media-control-and-quic-transport-for-rtp)
 - [Scaling WebRTC Based Applications](https://dzone.com/articles/scaling-webrtc-based-applications)
 - [Multiplayer: Peer to Peer (P2P)](https://www.timetocode.org/peer2peer.html)
+- [Advancing WebRTC](https://blog.mozilla.org/webrtc/)
+
 
 
 ## WebRTC Data Channel
@@ -99,6 +113,7 @@
     - [agilityfeat/memory-webrtc-data-channel](https://github.com/agilityfeat/memory-webrtc-data-channel)
 - [WebRTC support for multiplayer games](https://godotengine.org/article/gsoc-2018-progress-report-1#webrtc)
 - Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
+- 2018/04/22 [Easy Multiparty Video Conferencing in 4 Steps](https://dev.to/lucpattyn/easy-multiparty-video-conferencing-with-simple-peer-webrtc-library-2p52)
 
 
 ## WebRTC Stats
@@ -112,6 +127,11 @@
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 - [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
+
+#### Flutter
+- [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
+- [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5
+- [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
 
 ```
 $ git clone --recursive https://github.com/keroserene/go-webrtc
