@@ -37,6 +37,7 @@
 
 
 ## MSE (Media Soruce Extension)
+- [Support Opus in mp4 (ISO-BMFF) with Media Source Extensions (MSE)](https://www.chromestatus.com/feature/5100845653819392)
 - 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE
 - 2017/10/24 [Media Source Extension on Webkit (GStreamer Conference 2017)](https://www.slideshare.net/igalia/media-source-extension-on-webkit-gstreamer-conference-2017)
