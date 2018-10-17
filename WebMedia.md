@@ -44,7 +44,8 @@
 ### Open Source
 - [asafrob/WebRtcShitBlt](https://github.com/asafrob/WebRtcShitBlt) - client side WebRTC lib to add an image / watermark on the MediaSource
 - [acolwell/mse-tools](https://github.com/acolwell/mse-tools) - Media Source Extensions Tools
-
+- [kevinGodell/live-stream-media-source-extensions](https://github.com/kevinGodell/live-stream-media-source-extensions) - Live stream h264 encoded mp4 video on media source extensions using ffmpeg, node.js, socket.io, and express
+- [kevinGodell/mse-live-player](https://github.com/kevinGodell/mse-live-player)
 
 
 ## HTML5 & Media
