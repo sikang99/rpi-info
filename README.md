@@ -262,6 +262,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [ivadim/fruitnanny](https://github.com/ivadim/fruitnanny) - Raspberry PI based baby monitor
 - [rajmohanb/webrtc_gw](https://github.com/rajmohanb/webrtc_gw) - RTSP to WebRTC gateway
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - Shinobi Pro - The Next Generation in Open-Source Video Management Software
+- [Shinobi-Systems/Shinobi](https://gitlab.com/Shinobi-Systems/Shinobi)
 
 
 ## Docker
