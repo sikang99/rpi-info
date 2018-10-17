@@ -37,6 +37,8 @@
 
 
 ## MSE (Media Soruce Extension)
+- [W3C Media Source Extensions](https://w3c.github.io/media-source/)
+- [Codec and container switching in MSE Sample](https://googlechrome.github.io/samples/media/sourcebuffer-changetype.html)
 - [Support Opus in mp4 (ISO-BMFF) with Media Source Extensions (MSE)](https://www.chromestatus.com/feature/5100845653819392)
 - 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE

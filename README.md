@@ -222,6 +222,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [gokrazy](https://gokrazy.org) - pure-Go userland for your Raspberry Pi 3 appliances
 - [lukasjapan/bt-speaker](https://github.com/lukasjapan/bt-speaker) - A simple Bluetooth Speaker Daemon for the Raspberry Pi 3
 - [lulop-k/kurento-rtsp2webrtc](https://github.com/lulop-k/kurento-rtsp2webrtc) - Kurento RTSP/HTTP URI to WebRTC example
+- [oweitman/squeezelite-bluetooth](https://github.com/oweitman/squeezelite-bluetooth)
 
 
 ## [WebRTC](https://webrtc.org/)
