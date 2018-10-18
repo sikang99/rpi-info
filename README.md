@@ -246,6 +246,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [Testing playback of the WebRTC Video stream in an HLS player](https://flashphoner.com/testing-of-a-webrtc-stream-broadcasting-to-hls/)
 - [RTSP to WebRTC Gateway](https://www.gadgeon.com/casestudies/57/rtsp-to-webrtc-gateway)
 - [Browser-based WebRTC stream from RTSP IP camera with low latency](https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low-latency/)
+- [7 ways to stream RTSP on the page](https://flashphoner.com/7-ways-to-stream-rtsp-on-the-page/)
 
 
 
