@@ -13,17 +13,20 @@ usage:
 # ---------------------------------------------------------------------------
 edit e:
 	@echo ""
-	@echo "make (edit) [make|readme|peer|web]"
+	@echo "make (edit) [make|readme|peer|web|flutter]"
 	@echo ""
 
-edit-peer ep:
-	$(EDITOR) Peer2Peer.md
+edit-readme er:
+	$(EDITOR) README.md
 
 edit-web ew:
 	$(EDITOR) WebMedia.md
 
-edit-readme er:
-	$(EDITOR) README.md
+edit-peer ep:
+	$(EDITOR) Peer2Peer.md
+
+edit-flutter ef:
+	$(EDITOR) Flutter.md
 
 edit-make em:
 	$(EDITOR) Makefile

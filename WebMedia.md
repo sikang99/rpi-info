@@ -40,9 +40,11 @@
 - [W3C Media Source Extensions](https://w3c.github.io/media-source/)
 - [Codec and container switching in MSE Sample](https://googlechrome.github.io/samples/media/sourcebuffer-changetype.html)
 - [Support Opus in mp4 (ISO-BMFF) with Media Source Extensions (MSE)](https://www.chromestatus.com/feature/5100845653819392)
+- 2018/06/07 [Experimenting with DASH, MSE and EME](https://www.linkedin.com/pulse/experimenting-dash-mse-eme-marc-michel-rochat)
 - 2017/07/13 [hHow to broadcast WebRTC, RTSP and RTMP streams to Media Source Extensions via the Websocket protoco](lttps://flashphoner.com/how-to-broadcast-webrtc-rtsp-and-rtmp-streams-to-media-source-extensions-via-the-websocket-protocol/)
     - WebRTC/RTSP/RTMP to MSE
 - 2017/10/24 [Media Source Extension on Webkit (GStreamer Conference 2017)](https://www.slideshare.net/igalia/media-source-extension-on-webkit-gstreamer-conference-2017)
+- [HLS & DASH](https://www.visualon.com/index.php/hls-dash/) - Media Source Extension for Codecs
 
 ### Open Source
 - [asafrob/WebRtcShitBlt](https://github.com/asafrob/WebRtcShitBlt) - client side WebRTC lib to add an image / watermark on the MediaSource
@@ -215,6 +217,11 @@ $ ./build.sh # long time to build, don't use go build
 - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
+
+
+## Game Streaming
+- 2018/10/16 [A Look at Game Streaming Tech in the Browser](https://blog.parsecgaming.com/game-streaming-tech-in-the-browser-with-parsec-5b70d0f359bc) - BUD, WebAssembly, WebRTC
+    - [parsec-cloud/web-client](https://github.com/parsec-cloud/web-client)
 
 
 
