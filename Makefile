@@ -47,7 +47,7 @@ git g:
 
 git-update gu:
 	git add *.md Makefile *.jpg
-	git commit -m "add Peer2Peer.md"
+	git commit -m "add Flutter.md"
 	git push
 
 git-login gl:
