@@ -1,5 +1,9 @@
 # [Flutter](https://flutter.io/) 
 
+## Notice
+- 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html)
+
+
 ## Awesome
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [basarozcan/awesome-flutter](https://github.com/basarozcan/awesome-flutter) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from Google's Flutter

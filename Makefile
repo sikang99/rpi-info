@@ -28,6 +28,9 @@ edit-peer ep:
 edit-flutter ef:
 	$(EDITOR) Flutter.md
 
+edit-gopro eg:
+	$(EDITOR) GoPro.md
+
 edit-make em:
 	$(EDITOR) Makefile
 
