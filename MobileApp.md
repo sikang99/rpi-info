@@ -1,5 +1,4 @@
-## React native
-
+## React Native by Facebook
 
 
 ### Open Source
@@ -11,7 +10,7 @@
 
 
 
-## [Flutter](https://flutter.io/) 
+## [Flutter](https://flutter.io/) by Google
 
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html)
