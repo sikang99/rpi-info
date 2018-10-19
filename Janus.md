@@ -9,6 +9,8 @@
     - [otalk/getScreenMedia](https://github.com/otalk/getScreenMedia) - A browser module for attempting to get access to a MediaStream of a user's screen. With a nice node-like API.
     - [otalk/attachMediaStream](https://github.com/otalk/attachMediaStream) - Simple abstraction for handling differences between browsers for attaching a media stream to a video element
 
+    - [stephenlb/webrtc-sdk](https://github.com/stephenlb/webrtc-sdk) - WebRTC Simple Calling API + Mobile SDK
+
 
 
 ### History
