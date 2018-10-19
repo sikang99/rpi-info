@@ -135,5 +135,9 @@
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 
+## Rust
+- [simmons/webrtc-demo-client](https://github.com/simmons/webrtc-demo-client)
+- [simmons/webrtc-demo-server](https://github.com/simmons/webrtc-demo-server) - Demonstrate WebRTC data channels with a simple back-end signaling server written in Rust
+- [simmons/webrtc-sctp](https://github.com/simmons/webrtc-sctp) - A pure-Rust userspace SCTP implementation
 
 
