@@ -31,6 +31,9 @@ edit-flutter ef:
 edit-gopro eg:
 	$(EDITOR) GoPro.md
 
+edit-janus ej:
+	$(EDITOR) Janus.md
+
 edit-make em:
 	$(EDITOR) Makefile
 
