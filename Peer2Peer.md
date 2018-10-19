@@ -47,6 +47,11 @@
 - [P2PSP](http://www.p2psp.org/en/) - Application layer protocol for the real-time streaming of multimedia content over the Internet
 
 
+## Player
+- [cdnbye/P2P-DPlayer](https://github.com/cdnbye/P2P-DPlayer) - DPLayer powered by CDNBye P2P Engine
+- [cdnbye/P2P-CKPlayer](https://github.com/cdnbye/P2P-CKPlayer) - 
+
+
 ## DHT
 
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
