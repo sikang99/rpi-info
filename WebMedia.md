@@ -157,12 +157,12 @@
 - Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
 - 2018/04/22 [Easy Multiparty Video Conferencing in 4 Steps](https://dev.to/lucpattyn/easy-multiparty-video-conferencing-with-simple-peer-webrtc-library-2p52)
 - 2013/02/01 [WebRTC: RTCDataChannel demo, API changes... and Chrome talks to Firefox!](https://developers.google.com/web/updates/2013/02/WebRTC-RTCDataChannel-demo-API-changes-and-Chrome-talks-to-Firefox)
+- [otalk/filetransfer](https://github.com/otalk/filetransfer) - filetransfer via a webrtc datachannel
 
 
 ## WebRTC Stats
 - [W3C Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/)
 - Kurento: [WebRTC Statistics](https://doc-kurento.readthedocs.io/en/6.6.1/mastering/webrtc_statistics.html)
-
 
 
 ### Open Source for WebRTC
@@ -173,12 +173,6 @@
 - [GoogleChromeLabs/confluence](https://github.com/GoogleChromeLabs/confluence) - Service and API for Web API Confluence
 
 
-#### Flutter
-- [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
-- [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5
-- [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
-
-```
 $ git clone --recursive https://github.com/keroserene/go-webrtc
 $ cd go-webrtc
 $ ./build.sh # long time to build, don't use go build
