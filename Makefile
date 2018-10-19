@@ -53,7 +53,7 @@ git g:
 
 git-update gu:
 	git add *.md Makefile *.jpg
-	git commit -m "add Janus.md"
+	git commit -m "rename Flutter.md into MobileApp.md"
 	git push
 
 git-login gl:
