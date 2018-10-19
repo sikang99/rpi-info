@@ -1,10 +1,11 @@
 ## Janus
 
-
-[https://skatter.me/](https://skatter.me/) - Simple video collaboration for teams
+- [https://skatter.me/](https://skatter.me/) - Simple video collaboration for teams
+- [mediasoup](https://mediasoup.org/) - Cutting Edge WebRTC Video Conferencing
 
 
 ### History
+- 2018/05/28 [WebRTC Programming Languages and Where they fit](https://bloggeek.me/webrtc-programming-languages/)
 
 
 ### Information
@@ -22,6 +23,7 @@
 
 ### Papers
 - 2018 [WebRTC Communication Portal](https://is.muni.cz/th/vjhke/WebRTC-Communication-Portal.pdf)
+- 2017 [Bringing privacy to the Janus WebRTC server: The PERC way](https://www.researchgate.net/publication/321741303_Bringing_privacy_to_the_Janus_WebRTC_server_The_PERC_way)
 - 2014 [Janus: a general purpose WebRTC gateway](https://www.iris.unina.it/retrieve/handle/11588/656238/86691/iptcomm2014januscameraread)
 
 
@@ -29,5 +31,15 @@
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [ystreet/gst-plugins-bad/](https://github.com/ystreet/gst-plugins-bad/) - gstreamer bad plugins hacking
 - [atyenoria/react-native-webrtc-janus-gateway](https://github.com/atyenoria/react-native-webrtc-janus-gateway) - Video conference system for mobile application. Base technology is react-native-webrtc + Janus Webrtc Gateway
+- [atyenoria/janus-gateway-benchmark](https://github.com/atyenoria/janus-gateway-benchmark) - performance investigation about janus gateway
+- [atyenoria/webrtc-transcoding-experimentation](https://github.com/atyenoria/webrtc-transcoding-experimentation) - [wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image
+- [atyenoria/react-native-webrtc](https://github.com/atyenoria/react-native-webrtc)
+- [oney/react-native-webrtc](https://github.com/oney/react-native-webrtc)
+- [atyenoria/janus-client](https://github.com/atyenoria/janus-client) - javascript library to implement the websocket interface towards the janus server
+- [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player)
+- [atyenoria/MCU-Media-Server](https://github.com/atyenoria/MCU-Media-Server) 
+    - [MCU Media Server](https://sourceforge.net/projects/mcumediaserver/) 
+- [mozilla/janus-plugin-sfu](https://github.com/mozilla/janus-plugin-sfu) - Janus plugin to act as a kind of SFU for game networking data
+
 
 
