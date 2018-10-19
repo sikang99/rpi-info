@@ -2,6 +2,8 @@
 
 - [https://skatter.me/](https://skatter.me/) - Simple video collaboration for teams
 - [mediasoup](https://mediasoup.org/) - Cutting Edge WebRTC Video Conferencing
+- [GitBrowse](https://www.gitbrowse.com/)
+- [flipboard-section-sga66sqmdk4o6mgr](https://flipboard.com/section/flipboard-section-sga66sqmdk4o6mgr)
 
 
 ### History
