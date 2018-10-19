@@ -4,6 +4,10 @@
 - [mediasoup](https://mediasoup.org/) - Cutting Edge WebRTC Video Conferencing
 - [GitBrowse](https://www.gitbrowse.com/)
 - [flipboard-section-sga66sqmdk4o6mgr](https://flipboard.com/section/flipboard-section-sga66sqmdk4o6mgr)
+- [Otalk](https://github.com/otalk)
+    - [otalk/localmedia](https://github.com/otalk/localmedia) - WebRTC abstraction for creating and managing local media streams
+    - [otalk/getScreenMedia](https://github.com/otalk/getScreenMedia) - A browser module for attempting to get access to a MediaStream of a user's screen. With a nice node-like API.
+
 
 
 ### History
