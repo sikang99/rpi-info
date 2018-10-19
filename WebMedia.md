@@ -29,7 +29,7 @@
 - 2018/03/21 [Chrome 66 Beta: CSS Typed Object Model, Async Clipboard API, AudioWorklet](https://blog.chromium.org/2018/03/chrome-66-beta-css-typed-object-model.html)
 - [Building a Captcha using HTML5 Canvas](https://thejackalofjavascript.com/building-a-captcha-using-html5-canvas/)
     - [arvindr21/captcha](https://github.com/arvindr21/captcha)
-
+- [xavierfoucrier/instacam](https://github.com/xavierfoucrier/instacam) - Instant canvas video
 
 
 ### Open Source
