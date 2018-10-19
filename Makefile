@@ -25,8 +25,8 @@ edit-web ew:
 edit-peer ep:
 	$(EDITOR) Peer2Peer.md
 
-edit-flutter ef:
-	$(EDITOR) Flutter.md
+edit-app ea:
+	$(EDITOR) MobileApp.md
 
 edit-gopro eg:
 	$(EDITOR) GoPro.md
