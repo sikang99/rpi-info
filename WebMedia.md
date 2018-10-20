@@ -168,6 +168,7 @@
 ### Open Source for WebRTC
 - Github [Topic:WebRTC](https://github.com/topics/webrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
+- [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport
 - [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
 - [GoogleChromeLabs/confluence](https://github.com/GoogleChromeLabs/confluence) - Service and API for Web API Confluence

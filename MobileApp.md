@@ -1,8 +1,11 @@
 # Mobile App Development
 
 - [WebRTC Native Code](https://webrtc.org/native-code/)
-- [WebRTC source cod](https://webrtc.googlesource.com/src)
+- [WebRTC source code](https://webrtc.googlesource.com/src)
+- [tdhman/HMWebRTC](https://github.com/tdhman/HMWebRTC) - Google WebRTC demo wrapper on iOS + Pod setup
 
+- [AppRTC](https://appr.tc/)
+- [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
 ---
 ## [✦](https://coolsymbol.com/) React Native by Facebook
