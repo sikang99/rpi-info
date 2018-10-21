@@ -13,6 +13,9 @@
 
 
 ### Information
+- [Janus Architecture](https://coiiee.com/blog.php?idx=10)
+- [WebRTC:MediaServer(MCU/SFU) 정리](http://alnova2.tistory.com/1118)
+
 
 
 ### Slides
