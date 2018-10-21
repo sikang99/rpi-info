@@ -6,6 +6,7 @@
 ## GoPro
 
 ### Information
+- [GoPro Live Streaming](https://community.h7.org/topic/577/gopro-live-streaming)
 - [Connect WebRTC to Unofficial GoPro with APIANT](https://apiant.com/connect/WebRTC-to-Unofficial-GoPro)
 - [Livestream broadcast from your GoPro Hero®](https://livestream.com/blog/livestream-broadcast-from-gopro-hero)
 - 2018/09/20 [GoPro launches its first live-streaming camera](https://www.cnbc.com/2018/09/20/gopros-new-hero7-black-camera-introduces-live-streaming.html)
