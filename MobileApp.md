@@ -22,6 +22,8 @@
 ---
 ## ✦ [Flutter](https://flutter.io/) by Google
 
+- [Flutter Weekly](https://flutterweekly.net/)
+
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html)
 
