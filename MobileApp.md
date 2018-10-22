@@ -12,6 +12,8 @@
 ## ✦ [Flutter](https://flutter.io/) by Google
 
 - [Flutter Weekly](https://flutterweekly.net/)
+- Medium for [Flutter](https://medium.com/search?q=flutter)
+
 
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html)
@@ -36,6 +38,8 @@
 - 2018/04/22 [Build your own Plugin for Flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 - 2018/04/18 [Quire: Building a Sophisticated Mobile App With Google Flutter](https://dzone.com/articles/quire-building-a-sophisticated-mobile-app-with-goo)
 - 2018/03/01 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
+- 2018/02/16 [Flutter — 5 reasons why you may love it](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa)
+
 
 
 ### Open Source
