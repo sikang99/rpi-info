@@ -31,6 +31,8 @@
 ### History
 - 2018/09/02 [Awesome Flutter resources collections](https://medium.com/flutterpub/awesome-flutter-resources-collections-b2f4e3e72278?fbclid=IwAR0Xq-E2D6kLrLnGZu-MleET-ukYzIMn1l6CX1HmvZ2aYa8B-Mt3JyJfvP0)
 - 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
+- 2018/05/03 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
+- 2018/05/03 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)
 - 2018/04/22 [Build your own Plugin for Flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 - 2018/04/18 [Quire: Building a Sophisticated Mobile App With Google Flutter](https://dzone.com/articles/quire-building-a-sophisticated-mobile-app-with-goo)
 - 2018/03/01 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
