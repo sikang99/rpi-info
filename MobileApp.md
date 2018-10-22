@@ -28,6 +28,7 @@
 ### Information
 - [Flutter Pub](https://medium.com/flutterpub)
 - [flutter_webrtc 0.0.1](https://pub.dartlang.org/packages/flutter_webrtc)
+- [The Magic of Flutter](https://docs.google.com/presentation/d/1B3p0kP6NV_XMOimRV09Ms75ymIjU5gr6GGIX74Om_DE/edit#slide=id.p)
 
 
 ### History
