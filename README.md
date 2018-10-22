@@ -29,6 +29,8 @@ $ vcgencmd get_camera
 - [Flint OS](https://flintos.io/) - Open source version of Chromium OS for PC/TKB/RPi
     - [Flint Innovations](https://github.com/flintinnovations)
 - ubuntu wiki: [Raspberry Pi](https://wiki.ubuntu.com/ARM/RaspberryPi)
+- SourceForge: [raspberry pi sd image](https://sourceforge.net/directory/os:linux/?q=raspberry+pi+sd+image)
+
 
 ```
 $ sudo apt-get install xz-utils
