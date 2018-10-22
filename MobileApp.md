@@ -7,6 +7,8 @@
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
+- [A deeply detailed but never definitive guide to mobile development architecture](https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528)
+
 
 ---
 ## ✦ [Flutter](https://flutter.io/) by Google
@@ -38,8 +40,9 @@
 - 2018/05/03 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)
 - 2018/04/22 [Build your own Plugin for Flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 - 2018/04/18 [Quire: Building a Sophisticated Mobile App With Google Flutter](https://dzone.com/articles/quire-building-a-sophisticated-mobile-app-with-goo)
-- 2018/03/01 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
+- 2018/02/26 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
 - 2018/02/16 [Flutter — 5 reasons why you may love it](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa)
+- 2017/02/25 [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 
 
 
@@ -47,6 +50,10 @@
 - [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
 - [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
 - [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
+
+
+### [Dart](https://www.dartlang.org/) Programming Language
+
 
 
 ---
