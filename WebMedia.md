@@ -59,6 +59,8 @@
     - [WebRTC](https://hpbn.co/webrtc/)
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
+- [Planet GStreamer](https://gstreamer.freedesktop.org/planet/)
+
 
 
 ## HTML5 Video
