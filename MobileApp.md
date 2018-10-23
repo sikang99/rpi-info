@@ -9,6 +9,7 @@
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
+- [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 - [A deeply detailed but never definitive guide to mobile development architecture](https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528)
 
 
