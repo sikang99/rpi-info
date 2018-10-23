@@ -15,6 +15,7 @@
 - [GoPro 7](https://www.diyphotography.net/gopro-hero-7-specs-leak-shows-hdr-and-live-streaming-video/) - WiFi local
 2016/12/31 [How to stream from a GoPro camera](https://medium.com/@konrad_it/how-to-stream-from-a-gopro-camera-f4a164150797)
 - [HackspaceHat part 1: WebRTC, Janus and Gstreamer](https://planb.nicecupoftea.org/2015/07/28/hackspacehat-part-1-webrtc-janus-and-gstreamer/) - RPi3, raspivid
+- [gstreamer를 활용한 video streaming](https://www.tigiminsight.com/video_streaming/)
 
 
 
