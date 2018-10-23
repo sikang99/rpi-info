@@ -1,5 +1,7 @@
 # Mobile App Development
 
+- [Mobile Dev Weekly](https://mobiledevweekly.com/)
+
 - [WebRTC Native Code](https://webrtc.org/native-code/)
 - [WebRTC source code](https://webrtc.googlesource.com/src)
 - [tdhman/HMWebRTC](https://github.com/tdhman/HMWebRTC) - Google WebRTC demo wrapper on iOS + Pod setup
