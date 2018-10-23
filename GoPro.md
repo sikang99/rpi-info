@@ -19,6 +19,8 @@
 ### Open Source
 - [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) - Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query
 - [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream)
+- [RSATom/janus-gstreamer-plugin](https://github.com/RSATom/janus-gstreamer-plugin)
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
 
 
 - [UVC HDMI Capture Card](https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card)
