@@ -11,12 +11,12 @@
 - 2018/03/17 [Eyepot - Programming](https://chapelierfou.org/blog/eyepot-programming.html) - Raspberry Pi Zero W & Janus
 - 2018/05/28 [WebRTC Programming Languages and Where they fit](https://bloggeek.me/webrtc-programming-languages/)
 - 2017/08/21 [FruitNanny - RaspberryPI based Baby Monitor](https://ivadim.github.io/2017-08-21-fruitnanny/) - Janus WebRTC gateway, NodeJS, Nginx, GStreamer
+- [KensakuKOMATSU/janus_install_memo.md](https://gist.github.com/KensakuKOMATSU/e49c5a3a933b97b39867) - Janus Install Memo
 
 
 ### Information
 - [Janus Architecture](https://coiiee.com/blog.php?idx=10)
 - [WebRTC:MediaServer(MCU/SFU) 정리](http://alnova2.tistory.com/1118)
-
 
 
 ### Slides
