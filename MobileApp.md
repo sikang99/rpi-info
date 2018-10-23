@@ -38,6 +38,7 @@
 
 
 ### History
+- 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
 - 2018/09/02 [Awesome Flutter resources collections](https://medium.com/flutterpub/awesome-flutter-resources-collections-b2f4e3e72278?fbclid=IwAR0Xq-E2D6kLrLnGZu-MleET-ukYzIMn1l6CX1HmvZ2aYa8B-Mt3JyJfvP0)
 - 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
 - 2018/05/03 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
@@ -86,6 +87,9 @@
 ---
 ## ✦ PWA (Progressive Web App)
 
+### History
+- 2018/10/01 [How to Create a PWA Game using Preact in 5 steps (Tutorial)](https://hackernoon.com/how-to-create-a-pwa-game-using-preact-in-5-steps-tutorial-c8b177037c80)
 
+### Open Source
 
 
