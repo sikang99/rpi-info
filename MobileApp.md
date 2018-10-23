@@ -10,7 +10,7 @@
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
 
-- [Mobile App Development Trends for 2019](https://robusttechhouse.com/mobile-app-development-trends-2019-infographic/)
+- [Mobile App Development Trends for 2019](https://robusttechhouse.com/mobile-app-development-trends-2019-infographic/) - Blockchain, AI, AR/VR, ...
 - [Your Guide to Cross-Platform Mobile App Development Tools](https://instabug.com/blog/cross-platform-development/)
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 - [A deeply detailed but never definitive guide to mobile development architecture](https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528)
