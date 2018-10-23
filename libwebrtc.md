@@ -7,6 +7,7 @@
 
 
 ## History
+- 2018/08/25 [webrtcH4cKS: ~ Making WebRTC source building not suck (Alex Gouaillard)](https://webrtchacks.com/building-webrtc-from-source/)
 - 2015/07/30 [Installing libwebrtc](http://webrtcbydralex.com/index.php/2015/07/30/installing-libwebrtc-locally-and-packaging-it/)
 
 
