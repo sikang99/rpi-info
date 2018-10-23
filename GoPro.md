@@ -1,9 +1,15 @@
 # Streaming Device
 
 - [gstreamer](https://gstreamer.freedesktop.org/)
+    - [Gstreamer Conferences video archive](https://gstconf.ubicast.tv/)
+    - [GstWebRTC GStreamer WebRTC Plug-in](https://www.youtube.com/watch?v=vEI6jV9fuJA)
 
 
 ## GoPro
+
+### Accessary
+- [UVC HDMI Capture Card](https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card)
+
 
 ### Information
 - [GoPro Live Streaming](https://community.h7.org/topic/577/gopro-live-streaming)
@@ -20,6 +26,7 @@
 - 2018/02/04 [Building a WebRTC gateway - Hacking with WebRTC native API](https://archive.fosdem.org/2018/schedule/event/webrtc_gateway/)
 - [HackspaceHat part 1: WebRTC, Janus and Gstreamer](https://planb.nicecupoftea.org/2015/07/28/hackspacehat-part-1-webrtc-janus-and-gstreamer/) - RPi3, raspivid
 - 2016/09/05 [gstreamer를 활용한 video streaming](https://www.tigiminsight.com/video_streaming/)
+- 2016/12/28 [Stream hardware-encoded H.264 video from a Raspberry Pi to a web page using WebRTC](http://lektiondestages.blogspot.com/2016/12/stream-hardware-encoded-h264-video-from.html)
 - 2015/04/01 [Performance analysis of the Janus WebRTC gateway](https://www.researchgate.net/publication/300727546_Performance_analysis_of_the_Janus_WebRTC_gateway)
 - 2014/05/14 [Lightweight, Live Video in a Webpage with GStreamer and WebRTC](https://dustinoprea.com/2014/05/21/lightweight-live-video-in-a-webpage-with-gstreamer-and-webrtc/)
 
@@ -31,6 +38,6 @@
 - [RSATom/janus-gstreamer-plugin](https://github.com/RSATom/janus-gstreamer-plugin)
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
 - [evercam/evercam-gateway](https://gitlab.com/evercam/evercam-gateway) - Elixir/Erlang OTP
-- [UVC HDMI Capture Card](https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card)
+- [cudmore/triggercamera](https://github.com/cudmore/triggercamera) - A Raspberry Pi camera that can be triggered to record video during a behavioral experiment
 
 

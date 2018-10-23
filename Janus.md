@@ -36,6 +36,7 @@
 ### Papers
 - 2018 [WebRTC Communication Portal](https://is.muni.cz/th/vjhke/WebRTC-Communication-Portal.pdf)
 - 2017 [Bringing privacy to the Janus WebRTC server: The PERC way](https://www.researchgate.net/publication/321741303_Bringing_privacy_to_the_Janus_WebRTC_server_The_PERC_way)
+- 2015 [Performance analysis of the Janus WebRTC gateway](https://www.researchgate.net/publication/300727546_Performance_analysis_of_the_Janus_WebRTC_gateway)
 - 2014 [Janus: a general purpose WebRTC gateway](https://www.iris.unina.it/retrieve/handle/11588/656238/86691/iptcomm2014januscameraread)
 
 
