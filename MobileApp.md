@@ -1,15 +1,16 @@
 # Mobile App Development
 
+### Commons
 - [Mobile Dev Weekly](https://mobiledevweekly.com/)
 
+### WebRTC
 - [WebRTC Native Code](https://webrtc.org/native-code/)
 - [WebRTC source code](https://webrtc.googlesource.com/src)
 - [tdhman/HMWebRTC](https://github.com/tdhman/HMWebRTC) - Google WebRTC demo wrapper on iOS + Pod setup
-
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
-
+### Trends
 - [Mobile App Development Trends for 2019](https://robusttechhouse.com/mobile-app-development-trends-2019-infographic/) - Blockchain, AI, AR/VR, ...
 - [Your Guide to Cross-Platform Mobile App Development Tools](https://instabug.com/blog/cross-platform-development/)
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
