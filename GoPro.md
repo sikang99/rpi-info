@@ -25,6 +25,7 @@
 - [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream)
 - [RSATom/janus-gstreamer-plugin](https://github.com/RSATom/janus-gstreamer-plugin)
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
+- [evercam/evercam-gateway](https://gitlab.com/evercam/evercam-gateway) - Elixir/Erlang OTP
 
 
 - [UVC HDMI Capture Card](https://www.febon.net/products/usb20-febon168-uvc-driver-free-hdmi-capture-card)
