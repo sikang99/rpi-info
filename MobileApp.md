@@ -35,10 +35,12 @@
 - [Flutter Pub](https://medium.com/flutterpub)
 - [flutter_webrtc 0.0.1](https://pub.dartlang.org/packages/flutter_webrtc)
 - [The Magic of Flutter](https://docs.google.com/presentation/d/1B3p0kP6NV_XMOimRV09Ms75ymIjU5gr6GGIX74Om_DE/edit#slide=id.p)
+- [Coding with Flutter](https://medium.com/coding-with-flutter)
 
 
 ### History
 - 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
+- 2018/09/24 [Flutter: Adding Animated Overlays to Your App](https://medium.com/coding-with-flutter/flutter-adding-animated-overlays-to-your-app-e0bb049eff39)
 - 2018/09/02 [Awesome Flutter resources collections](https://medium.com/flutterpub/awesome-flutter-resources-collections-b2f4e3e72278?fbclid=IwAR0Xq-E2D6kLrLnGZu-MleET-ukYzIMn1l6CX1HmvZ2aYa8B-Mt3JyJfvP0)
 - 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
 - 2018/05/03 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
