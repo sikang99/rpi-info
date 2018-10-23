@@ -34,6 +34,9 @@ edit-gopro eg:
 edit-janus ej:
 	$(EDITOR) Janus.md
 
+edit-lib el:
+	$(EDITOR) libwebrtc.md
+
 edit-make em:
 	$(EDITOR) Makefile
 
@@ -53,6 +56,7 @@ git g:
 
 git-update gu:
 	git add *.md Makefile *.jpg
+	#git remote remove Flutter.md
 	git commit -m "rename Flutter.md into MobileApp.md"
 	git push
 
