@@ -49,7 +49,7 @@
 
 ### Open Source
 - [TensorFlow Android Camera Demoi](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
-
+- [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) - A distributed visual search and visual data analytics platform
 
 
 
