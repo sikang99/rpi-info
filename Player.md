@@ -5,7 +5,9 @@
 
 ### History
 - 2018/05/13 [Build a Video Chat Service with JavaScript, WebRTC, and Okta](https://dzone.com/articles/build-a-video-chat-service-with-javascript-webrtc)
+- 2018/02/05 [What is WebRTC and How to Avoid its 3 Deadliest Pitfalls](https://www.mindk.com/blog/what-is-webrtc-and-how-to-avoid-its-3-deadliest-pitfalls/)
 - 2018/02/02 [Playing with RTCP REMB #WebRTC](https://medium.com/tribe-staff/playing-with-rtcp-remb-webrtc-746f565f750f)
+
 
 
 ### Information
@@ -14,6 +16,7 @@
 
 ### Open Source
 - [rdegges/chatapp](https://github.com/rdegges/chatapp) - A simple WebRTC and Okta front-end app
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 
 
 ---
