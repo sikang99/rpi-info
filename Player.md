@@ -1,10 +1,16 @@
 
 
 ## Video Player
+
+### History
 - 2018/10/16 [5 Open Source HTML5 Video Players for 2018](https://blog.bitsrc.io/5-open-source-html5-video-players-for-2018-38fa85932afb)
 - 2018/09/03 [15 Best HTML5 Video Players in 2018](https://www.alltechnerd.com/best-html5-video-players/)
 - 2018/06/01 [31 Best Free HTML5 Video Players 2018](https://www.edopedia.com/blog/best-free-html5-video-players/)
 - 2017/06/06 [Html5 Video Player 알아보기, 개발하기](https://bkim.tistory.com/11)
+
+
+### Information
+- [hls.js](https://video-dev.github.io/hls.js/latest/) - MSE for HLS
 
 
 ### Open Source
