@@ -1,6 +1,6 @@
 # Streaming Device
 
-- [gstreamer](https://gstreamer.freedesktop.org/)
+- [gstreamer](https://gstreamer.freedesktop.org/) - 1.14.4 (2018/10/02), 1.14.0 (2018/03/19)
     - [Gstreamer Conferences video archive](https://gstconf.ubicast.tv/)
     - [GstWebRTC GStreamer WebRTC Plug-in](https://www.youtube.com/watch?v=vEI6jV9fuJA)
 

@@ -5,7 +5,10 @@
 
 ### History
 - 2018/05/13 [Build a Video Chat Service with JavaScript, WebRTC, and Okta](https://dzone.com/articles/build-a-video-chat-service-with-javascript-webrtc)
-- 
+
+### Information
+- [AppRTC](https://appr.tc/)
+
 
 ### Open Source
 - [rdegges/chatapp](https://github.com/rdegges/chatapp) - A simple WebRTC and Okta front-end app
