@@ -9,7 +9,6 @@
 - 2018/02/02 [Playing with RTCP REMB #WebRTC](https://medium.com/tribe-staff/playing-with-rtcp-remb-webrtc-746f565f750f)
 
 
-
 ### Information
 - [AppRTC](https://appr.tc/)
 
@@ -41,3 +40,18 @@
 - [videojs/videojs-contrib-eme](https://github.com/videojs/videojs-contrib-eme) - Supports Encrypted Media Extensions for playback of encrypted content in Video.js
 - [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player https://plyr.io
+
+
+---
+## Deep Learning
+- 2018/06/05 [WebRTC + TensorFlow Lite + Android](http://leadtosilverlining.blogspot.com/2018/05/android-webrtc-tensorflow-lite.html)
+
+
+### Open Source
+- [TensorFlow Android Camera Demoi](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+
+
+
+
+
+

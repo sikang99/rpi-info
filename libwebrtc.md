@@ -13,6 +13,7 @@
 ## History
 - 2018/10/14 [Libwebrtc is open source, how hard can it be.](https://webrtcbydralex.com/index.php/2018/10/14/libwebrtc-is-open-source-how-hard-can-it-be/) 
 - 2018/02/03 [GStreamer has grown a WebRTC implementation](https://hk.saowen.com/a/adaaff32c420090e04577b2b95afbeb16e4d7aa24f6328cce58a1da5e93651d9)
+- 2017/11/06 [My perspective on Google's WebRTC Project](https://www.linkedin.com/pulse/my-perspective-googles-webrtc-project-michael-ivanov)
 - 2017/08/29 [WebRTC Standards & Implementation Q&A - The Internals of WebRTC Browsers Implementation](https://www.slideshare.net/AmirZ/webrtc-standards-implementation-qa-the-internals-of-webrtc-browsers-implementation)
 - 2015/08/25 [webrtcH4cKS: ~ Making WebRTC source building not suck (Alex Gouaillard)](https://webrtchacks.com/building-webrtc-from-source/)
 - 2015/07/30 [Installing libwebrtc](http://webrtcbydralex.com/index.php/2015/07/30/installing-libwebrtc-locally-and-packaging-it/)
@@ -20,6 +21,7 @@
 
 ### Open Source
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS
+- [sourcey/webrtc-precompiled-builds](https://github.com/sourcey/webrtc-precompiled-builds) - WebRTC precompiled builds for Linux and Windows
 - [llamerada-jp/libwebrtc](https://github.com/llamerada-jp/libwebrtc) - A build script of WebRTC library from Chromium
 - [aisouard/libwebrtc](https://github.com/aisouard/libwebrtc) - Google's WebRTC implementation in a single static library
 - [WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc](https://github.com/WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc)
