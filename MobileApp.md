@@ -2,6 +2,8 @@
 
 ### Commons
 - [Mobile Dev Weekly](https://mobiledevweekly.com/)
+- [Facebook Live Video: The Complete Guide to Live-Streaming for Business](https://blog.hootsuite.com/facebook-live-video/)
+
 
 ### WebRTC
 - [WebRTC Native Code](https://webrtc.org/native-code/)
