@@ -52,6 +52,8 @@
 - [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) - A distributed visual search and visual data analytics platform
 
 
+### Book
+- 2019 [Video Analytics Using Deep Learning](https://www.apress.com/it/book/9781484237922) - Building Applications with TensorFlow, Keras, and YOLO
 
 
 
