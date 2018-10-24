@@ -5,6 +5,8 @@
 
 ### History
 - 2018/05/13 [Build a Video Chat Service with JavaScript, WebRTC, and Okta](https://dzone.com/articles/build-a-video-chat-service-with-javascript-webrtc)
+- 2018/02/02 [Playing with RTCP REMB #WebRTC](https://medium.com/tribe-staff/playing-with-rtcp-remb-webrtc-746f565f750f)
+
 
 ### Information
 - [AppRTC](https://appr.tc/)
