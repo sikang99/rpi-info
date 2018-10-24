@@ -1,6 +1,9 @@
 
 
 ## Video Player
+- 2018/09/03 [15 Best HTML5 Video Players in 2018](https://www.alltechnerd.com/best-html5-video-players/)
+- 2017/06/06 [Html5 Video Player 알아보기, 개발하기](https://bkim.tistory.com/11)
+
 
 ### VideoJS
 - [videojs/video.js](https://github.com/videojs/video.js) - HTML5 & Flash video player http://www.videojs.com
