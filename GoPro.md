@@ -22,6 +22,7 @@
 - 2016/12/31 [How to stream from a GoPro camera](https://medium.com/@konrad_it/how-to-stream-from-a-gopro-camera-f4a164150797)
 
 ## gstreamer & Janus
+- 2018/02/03 [GStreamer has grown a WebRTC implementation](https://www.reddit.com/r/linux/comments/7uzeuv/gstreamer_has_grown_a_webrtc_implementation/)
 - [SkyWay IoT SDK](https://nttcom.github.io/skyway-iot-sdk/)
 - 2018/02/04 [Building a WebRTC gateway - Hacking with WebRTC native API](https://archive.fosdem.org/2018/schedule/event/webrtc_gateway/)
 - [HackspaceHat part 1: WebRTC, Janus and Gstreamer](https://planb.nicecupoftea.org/2015/07/28/hackspacehat-part-1-webrtc-janus-and-gstreamer/) - RPi3, raspivid
