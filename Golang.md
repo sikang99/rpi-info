@@ -8,6 +8,7 @@
 ### Information
 - [Get current resource usage of a pod in Kubernetes with Go client](https://stackoverflow.com/questions/52763291/get-current-resource-usage-of-a-pod-in-kubernetes-with-go-client)
 - [Go (golang) + Vue.js](https://cixtor.com/blog/go-vuejs)
+- [Go serverless](https://goserverless.sg/)
 
 
 ### Open Source
@@ -16,3 +17,5 @@
 - [kaihendry/goserverless.sg](https://github.com/kaihendry/goserverless.sg) - https://goserverless.sg/
 
 
+### Person
+- [Peter Malina](https://medium.com/@petomalina)
