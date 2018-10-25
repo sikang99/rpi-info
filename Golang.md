@@ -15,6 +15,7 @@
 - [alash3al/go-smtpsrv](https://github.com/alash3al/go-smtpsrv) - a tiny package that implements SMTP server for Go projects
 - [HuckRidgeSW/hvue](https://github.com/HuckRidgeSW/hvue) - A GopherJS & go/wasm binding for Vue.js
 - [kaihendry/goserverless.sg](https://github.com/kaihendry/goserverless.sg) - https://goserverless.sg/
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another
 
 
 ### Person
