@@ -40,5 +40,4 @@
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
 - [evercam/evercam-gateway](https://gitlab.com/evercam/evercam-gateway) - Elixir/Erlang OTP
 - [cudmore/triggercamera](https://github.com/cudmore/triggercamera) - A Raspberry Pi camera that can be triggered to record video during a behavioral experiment
-
-
+- [luisbg/synchronised_media_playback](https://github.com/luisbg/synchronised_media_playback) - Synchronised Media Playback

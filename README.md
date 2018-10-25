@@ -84,6 +84,7 @@ $ sudo apt-get install xrdp
 
 
 ### Foreign Information
+- [Trigger Camera](http://blog.cudmore.io/triggercamera/)
 - 2018/10/10 [Download/Install Android 8.1 Oreo On Raspberry Pi 3 (Lineage OS 15.1)]
 - 2018/03/28 [Install Android on his Raspberry Pi](https://howtoraspberrypi.com/install-android-raspberry-pi/)
 - 2016/05/01 [Remote Desktop (xrdp) to Raspberry Pi without Monitor from Ubuntu Desktop(Remminai) over WLAN](http://www.ubuntubuzz.com/2016/05/ubuntu-remote-desktop-xrdp-to-raspberry-pi.html)
