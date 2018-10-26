@@ -17,6 +17,10 @@
 - [kaihendry/goserverless.sg](https://github.com/kaihendry/goserverless.sg) - https://goserverless.sg/
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript
+- [go-boostio/boostio](https://github.com/go-boostio/boostio) - Serialization library compatible with C++ Boost Serialization
+
+#### Image
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows
 
 #### Security
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using AVX512 and AVX2 for Intel and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core) in comparison to AVX2
