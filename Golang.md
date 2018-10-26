@@ -21,8 +21,10 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript
 - [go-boostio/boostio](https://github.com/go-boostio/boostio) - Serialization library compatible with C++ Boost Serialization
+- [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [mdlayher/ndp](https://github.com/mdlayher/ndp) - Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861
+- [Pragma-Innovation/bgpflowspectool](https://github.com/Pragma-Innovation/bgpflowspectool) - BGP flowspec (RFC 5575) tool for DDoS mitigation
 
 #### Image
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows
