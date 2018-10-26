@@ -47,4 +47,7 @@
 - [dazzl-tv/ruby-rabbitmq-janus](https://github.com/dazzl-tv/ruby-rabbitmq-janus) - Ruby Gem for Janus WebRTC Gateway integration using RabbitMQ message queue
 - [voxbone-workshop/janus_orchestration](https://github.com/voxbone-workshop/janus_orchestration) - 
 - [mquander/janus-helloworld-plugin](https://github.com/mquander/janus-helloworld-plugin) - Simplest possible plugin for Janus. Intended as a instructional sample for plugin builders
+- [mozilla/minijanus.js](https://github.com/mozilla/minijanus.js) - A small Javascript wrapper for talking to the Janus WebRTC signalling API
+- [mozilla/janus-plugin-rs](https://github.com/mozilla/janus-plugin-rs) - Rust crate for wrapping the Janus C plugin API, so you can build Janus plugins in Rust
+
 
