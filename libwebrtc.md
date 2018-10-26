@@ -22,6 +22,7 @@
 
 ### Open Source
 - [webrtc](https://github.com/webrtc)
+    - [webrtc/adapter](https://github.com/webrtc/adapter)
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS
 - [sourcey/webrtc-precompiled-builds](https://github.com/sourcey/webrtc-precompiled-builds) - WebRTC precompiled builds for Linux and Windows
 - [llamerada-jp/libwebrtc](https://github.com/llamerada-jp/libwebrtc) - A build script of WebRTC library from Chromium
