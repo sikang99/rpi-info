@@ -36,6 +36,7 @@
 - [jchavanton/kamailio_mod_rtcgw](https://github.com/jchavanton/kamailio_mod_rtcgw) - Kamailio module to exchange SDP with webrtc RTC_GW
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - Janus Video Room plugin
     - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - [OBS Studio](https://obsproject.com/)
+- [Topic for Janus](https://github.com/topics/janus)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [atyenoria/webrtc-transcoding-experimentation](https://github.com/atyenoria/webrtc-transcoding-experimentation) - Docker Image for Media Streaming Expert User with Janus
 - [linagora/docker-janus-gateway](https://github.com/linagora/docker-janus-gateway) - Run janus gateway well configure for hublin in a Docker container
@@ -45,5 +46,5 @@
 - [esteoh/janus-webrtc-videochat-poc](https://github.com/esteoh/janus-webrtc-videochat-poc) - POC - Video + Text ChatRoom based on Janus WebRTC Gateway SFU
 - [dazzl-tv/ruby-rabbitmq-janus](https://github.com/dazzl-tv/ruby-rabbitmq-janus) - Ruby Gem for Janus WebRTC Gateway integration using RabbitMQ message queue
 - [voxbone-workshop/janus_orchestration](https://github.com/voxbone-workshop/janus_orchestration) - 
-
+- [mquander/janus-helloworld-plugin](https://github.com/mquander/janus-helloworld-plugin) - Simplest possible plugin for Janus. Intended as a instructional sample for plugin builders
 
