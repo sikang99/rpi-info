@@ -44,6 +44,6 @@
 - [Akagi201/janusplugin](https://github.com/Akagi201/janusplugin) - Janus plugin development template
 - [esteoh/janus-webrtc-videochat-poc](https://github.com/esteoh/janus-webrtc-videochat-poc) - POC - Video + Text ChatRoom based on Janus WebRTC Gateway SFU
 - [dazzl-tv/ruby-rabbitmq-janus](https://github.com/dazzl-tv/ruby-rabbitmq-janus) - Ruby Gem for Janus WebRTC Gateway integration using RabbitMQ message queue
-
+- [voxbone-workshop/janus_orchestration](https://github.com/voxbone-workshop/janus_orchestration) - 
 
 
