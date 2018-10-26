@@ -26,6 +26,6 @@
 - [aisouard/libwebrtc](https://github.com/aisouard/libwebrtc) - Google's WebRTC implementation in a single static library
 - [WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc](https://github.com/WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go wrapper
-- [https://github.com/jremmons/pywebrtc](https://github.com/jremmons/pywebrtc) - python wrapper around the native webRTC API
+- [jremmons/pywebrtc](https://github.com/jremmons/pywebrtc) - python wrapper around the native webRTC API
 
 
