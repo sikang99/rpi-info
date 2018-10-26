@@ -23,7 +23,7 @@
 ### Open Source
 - [webrtc](https://github.com/webrtc)
     - [webrtc/adapter](https://github.com/webrtc/adapter)
-    - [webrtc/testrtc](https://github.com/webrtc/testrtc) - [WebRTC Troubleshooter](https://test.webrtc.org/
+    - [webrtc/testrtc](https://github.com/webrtc/testrtc) - [WebRTC Troubleshooter](https://test.webrtc.org/)
 - [webrtc-uwp](https://github.com/webrtc-uwp) - WebRTC for the Universal Windows Platform
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS
 - [sourcey/webrtc-precompiled-builds](https://github.com/sourcey/webrtc-precompiled-builds) - WebRTC precompiled builds for Linux and Windows
