@@ -41,7 +41,8 @@
 - [linagora/docker-janus-gateway](https://github.com/linagora/docker-janus-gateway) - Run janus gateway well configure for hublin in a Docker container
 - [janusvr/janusweb](https://github.com/janusvr/janusweb) - Build, share, and explore the 3D web
 - [feixiao/janus-go](https://github.com/feixiao/janus-go) - janus gateway golang api
-
+- [Akagi201/janusplugin](https://github.com/Akagi201/janusplugin) - Janus plugin development template
+- [esteoh/janus-webrtc-videochat-poc](https://github.com/esteoh/janus-webrtc-videochat-poc) - POC - Video + Text ChatRoom based on Janus WebRTC Gateway SFU
 
 
 
