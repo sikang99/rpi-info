@@ -49,5 +49,6 @@
 - [mquander/janus-helloworld-plugin](https://github.com/mquander/janus-helloworld-plugin) - Simplest possible plugin for Janus. Intended as a instructional sample for plugin builders
 - [mozilla/minijanus.js](https://github.com/mozilla/minijanus.js) - A small Javascript wrapper for talking to the Janus WebRTC signalling API
 - [mozilla/janus-plugin-rs](https://github.com/mozilla/janus-plugin-rs) - Rust crate for wrapping the Janus C plugin API, so you can build Janus plugins in Rust
+- [mozilla/janus-plugin-sfu](https://github.com/mozilla/janus-plugin-sfu) - Janus plugin to act as a kind of SFU for game networking data
 
 
