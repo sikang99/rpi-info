@@ -23,6 +23,7 @@
 ### Open Source
 - [webrtc](https://github.com/webrtc)
     - [webrtc/adapter](https://github.com/webrtc/adapter)
+    - [webrtc/testrtc](https://github.com/webrtc/testrtc)
 - [webrtc-uwp](https://github.com/webrtc-uwp) - WebRTC for the Universal Windows Platform
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS
 - [sourcey/webrtc-precompiled-builds](https://github.com/sourcey/webrtc-precompiled-builds) - WebRTC precompiled builds for Linux and Windows
@@ -31,5 +32,8 @@
 - [WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc](https://github.com/WebKit/webkit/tree/master/Source/ThirdParty/libwebrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go wrapper
 - [jremmons/pywebrtc](https://github.com/jremmons/pywebrtc) - python wrapper around the native webRTC API
+- [jchavanton/rtc_gw](https://github.com/jchavanton/rtc_gw) - Webrtc Gateway to SIP/RTP (experimental work in progress)
+- [jchavanton/kamailio_mod_rtcgw](https://github.com/jchavanton/kamailio_mod_rtcgw) - Kamailio module to exchange SDP with webrtc RTC_GW
+
 
 
