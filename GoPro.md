@@ -3,6 +3,7 @@
 - [gstreamer](https://gstreamer.freedesktop.org/) - 1.14.4 (2018/10/02), [1.14.0](https://gstreamer.freedesktop.org/releases/1.14/) (2018/03/19)
     - [Gstreamer Conferences video archive](https://gstconf.ubicast.tv/)
     - [GstWebRTC GStreamer WebRTC Plug-in](https://www.youtube.com/watch?v=vEI6jV9fuJA)
+    - NVidia [Accelerated Gstreamer User Guide](https://developer.download.nvidia.com/embedded/L4T/r28_Release_v2.0/DP/Docs/Jetson_TX1_and_TX2_Accelerated_GStreamer_User_Guide.pdf)
 
 
 ## GoPro
