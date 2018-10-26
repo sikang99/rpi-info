@@ -38,6 +38,10 @@
     - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - [OBS Studio](https://obsproject.com/)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [atyenoria/webrtc-transcoding-experimentation](https://github.com/atyenoria/webrtc-transcoding-experimentation) - Docker Image for Media Streaming Expert User with Janus
+- [linagora/docker-janus-gateway](https://github.com/linagora/docker-janus-gateway) - Run janus gateway well configure for hublin in a Docker container
+- [janusvr/janusweb](https://github.com/janusvr/janusweb) - Build, share, and explore the 3D web
+- [feixiao/janus-go](https://github.com/feixiao/janus-go) - janus gateway golang api
+
 
 
 
