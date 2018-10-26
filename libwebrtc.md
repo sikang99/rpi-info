@@ -35,7 +35,7 @@
 - [jchavanton/rtc_gw](https://github.com/jchavanton/rtc_gw) - Webrtc Gateway to SIP/RTP (experimental work in progress)
 - [jchavanton/kamailio_mod_rtcgw](https://github.com/jchavanton/kamailio_mod_rtcgw) - Kamailio module to exchange SDP with webrtc RTC_GW
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - Janus Video Room plugin
-    - [https://github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio) - [OBS Studio](https://obsproject.com/)
+    - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - [OBS Studio](https://obsproject.com/)
 
 
 
