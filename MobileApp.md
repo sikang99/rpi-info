@@ -12,6 +12,7 @@
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 
+
 ### Trends
 - [Mobile App Development Trends for 2019](https://robusttechhouse.com/mobile-app-development-trends-2019-infographic/) - Blockchain, AI, AR/VR, ...
 - [Your Guide to Cross-Platform Mobile App Development Tools](https://instabug.com/blog/cross-platform-development/)
@@ -36,6 +37,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [basarozcan/awesome-flutter](https://github.com/basarozcan/awesome-flutter) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from Google's Flutter
 - [Flutter Packages Widgets Architecture](https://www.scoop.it/t/flutter-packages-widgets-architecture)
+- [Awesome Flutter](http://awesomeflutter.com/index.php)
 
 
 ### Information
@@ -68,6 +70,8 @@
 - [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
 - [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter, including FlutterFire
+- [putraxor/flutter-book-app](https://github.com/putraxor/flutter-book-app) - A Flutter project of book app UI
+- [putraxor/flutter-login-ui](https://github.com/putraxor/flutter-login-ui) - Create a clean and simple login UI screen with a basic hero animation in Flutter
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
@@ -76,8 +80,9 @@
 
 
 ### Person
-- [felangel](https://github.com/felangel)
+- [Felix Angelov](https://github.com/felangel)
 - [Brian Egan](https://github.com/brianegan) 
+- [Ardiansyah Putra](https://github.com/putraxor)
 
 
 ---
