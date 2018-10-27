@@ -73,6 +73,8 @@
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter, including FlutterFire
 - [putraxor/flutter-book-app](https://github.com/putraxor/flutter-book-app) - A Flutter project of book app UI
 - [putraxor/flutter-login-ui](https://github.com/putraxor/flutter-login-ui) - Create a clean and simple login UI screen with a basic hero animation in Flutter
+- [OneSignal/OneSignal-Flutter-SDK](https://github.com/OneSignal/OneSignal-Flutter-SDK) - OneSignal is a free push notification service for mobile apps
+- [IhorKlimov/Flutter-One-Signal](https://github.com/IhorKlimov/Flutter-One-Signal) - [Unsupported] Flutter plugin for native OneSignal Android and iOS SDK's
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
