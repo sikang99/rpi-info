@@ -43,6 +43,7 @@
 - [flutter_webrtc 0.0.1](https://pub.dartlang.org/packages/flutter_webrtc)
 - [The Magic of Flutter](https://docs.google.com/presentation/d/1B3p0kP6NV_XMOimRV09Ms75ymIjU5gr6GGIX74Om_DE/edit#slide=id.p)
 - [Coding with Flutter](https://medium.com/coding-with-flutter) - Medium Blog
+- [Flutter Architecture Samples](http://fluttersamples.com/) - A gallery of app architectures
 
 
 ### History
@@ -62,7 +63,6 @@
 - 2017/02/25 [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 
 
-
 ### Open Source
 - [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
 - [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
@@ -77,6 +77,7 @@
 
 ### Person
 - [felangel](https://github.com/felangel)
+- [Brian Egan](https://github.com/brianegan) 
 
 
 ---
@@ -88,6 +89,7 @@
 - [shiguredo/sora-webrtc-build](https://github.com/shiguredo/sora-webrtc-build) - WebRTC Build Tool for iOS / Android
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
 - [triniwiz/nativescript-webrtc](https://github.com/triniwiz/nativescript-webrtc)
+- [brianegan/chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
 
 
 ---
