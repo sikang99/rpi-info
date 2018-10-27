@@ -25,6 +25,7 @@
 - [Flutter Weekly](https://flutterweekly.net/)
 - Medium for [Flutter](https://medium.com/search?q=flutter)
 - Flipboard for [Flutter](https://flipboard.com/search/flutter)
+- [Flutter Community](https://medium.com/flutter-community) - Articles and Stories from the Flutter Community
 
 
 ### Notice
