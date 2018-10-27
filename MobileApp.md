@@ -75,6 +75,7 @@
 - [putraxor/flutter-login-ui](https://github.com/putraxor/flutter-login-ui) - Create a clean and simple login UI screen with a basic hero animation in Flutter
 - [OneSignal/OneSignal-Flutter-SDK](https://github.com/OneSignal/OneSignal-Flutter-SDK) - OneSignal is a free push notification service for mobile apps
 - [IhorKlimov/Flutter-One-Signal](https://github.com/IhorKlimov/Flutter-One-Signal) - [Unsupported] Flutter plugin for native OneSignal Android and iOS SDK's
+- [MOLPay/molpay-mobile-xdk-flutter-beta](https://github.com/MOLPay/molpay-mobile-xdk-flutter-beta) - MOLPay mobile payment for Flutter (Dart)
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
