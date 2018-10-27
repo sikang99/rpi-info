@@ -46,6 +46,7 @@
 
 ### History
 - 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
+- 2018/10/07 [Flutter PlatformView: How to create Widgets from Native Views](https://medium.com/flutter-community/flutter-platformview-how-to-create-flutter-widgets-from-native-views-366e378115b6)
 - 2018/09/24 [Flutter: Adding Animated Overlays to Your App](https://medium.com/coding-with-flutter/flutter-adding-animated-overlays-to-your-app-e0bb049eff39)
 - 2018/09/02 [Awesome Flutter resources collections](https://medium.com/flutterpub/awesome-flutter-resources-collections-b2f4e3e72278?fbclid=IwAR0Xq-E2D6kLrLnGZu-MleET-ukYzIMn1l6CX1HmvZ2aYa8B-Mt3JyJfvP0)
 - 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
