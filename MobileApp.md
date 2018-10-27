@@ -21,7 +21,7 @@
 
 ---
 ## ✦ [Flutter](https://flutter.io/) by Google
-
+- [Docs for Flutter SDK](https://docs.flutter.io/index.html)    
 - [Flutter Weekly](https://flutterweekly.net/)
 - Medium for [Flutter](https://medium.com/search?q=flutter)
 - Flipboard for [Flutter](https://flipboard.com/search/flutter)
@@ -72,6 +72,10 @@
 ### [Dart](https://www.dartlang.org/) Programming Language
 - [Dart 2](https://www.dartlang.org/dart-2)
 - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)
+
+
+### Person
+- [felangel](https://github.com/felangel)
 
 
 ---
