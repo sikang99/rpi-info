@@ -24,9 +24,10 @@
 ## ✦ [Flutter](https://flutter.io/) by Google
 - [Docs for Flutter SDK](https://docs.flutter.io/index.html)    
 - [Flutter Weekly](https://flutterweekly.net/)
+- [Flutter Community](https://medium.com/flutter-community) - Articles and Stories from the Flutter Community
 - Medium for [Flutter](https://medium.com/search?q=flutter)
 - Flipboard for [Flutter](https://flipboard.com/search/flutter)
-- [Flutter Community](https://medium.com/flutter-community) - Articles and Stories from the Flutter Community
+- Libraries.io for [Flutter](https://libraries.io/search?q=flutter)
 
 
 ### Notice
