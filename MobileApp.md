@@ -63,6 +63,7 @@
 - [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
 - [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
 - [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
+- [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter, including FlutterFire
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
