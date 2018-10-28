@@ -76,6 +76,8 @@
 - [OneSignal/OneSignal-Flutter-SDK](https://github.com/OneSignal/OneSignal-Flutter-SDK) - OneSignal is a free push notification service for mobile apps
 - [IhorKlimov/Flutter-One-Signal](https://github.com/IhorKlimov/Flutter-One-Signal) - [Unsupported] Flutter plugin for native OneSignal Android and iOS SDK's
 - [MOLPay/molpay-mobile-xdk-flutter-beta](https://github.com/MOLPay/molpay-mobile-xdk-flutter-beta) - MOLPay mobile payment for Flutter (Dart)
+- [thekeenant/fcharts](https://github.com/thekeenant/fcharts) - [wip] Create beautiful, responsive, animated charts using a simple and intuitive API
+- [Salvatore-Giordano/CountryCodePicker](https://github.com/Salvatore-Giordano/CountryCodePicker) - A flutter package for showing a country code selector
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
