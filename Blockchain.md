@@ -1,5 +1,6 @@
 # Blockchain
 
+---
 ## Smart Contracts
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
 - 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
@@ -14,18 +15,22 @@
 - [Libraries.io](https://libraries.io/) for [WebAssembly](https://libraries.io/languages/WebAssembly)
 
 
+---
 ## Public Blockchain
 
 ### Information
 - [Ethereum](https://www.ethereum.org/)
 
 
+---
 ## Private / Enterprise Blockchain
+- 2018/10/29 [JP Morgan’s Ethereum Blockchain based Platform “Quorum” to Enable Tokenization of Assets](https://www.blockchainreporter.net/2018/10/29/jp-morgans-ethereum-blockchain-based-platform-quorum-to-enable-tokenization-of-assets/)
+- 2018/10/29 [JP Morgan's Quorum blockchain opens new world of trading opportunities](https://www.afr.com/technology/jp-morgans-quorum-blockchain-opens-new-world-of-trading-opportunities-20181027-h176fs)
+- 2018/10/26 [Quorum Blockchain Consensus Algorithms](https://medium.com/coinmonks/quorum-blockchain-consensus-algorithms-ab38790091)
 - 2018/10/19 [WTF is Hyperledger?](https://hackernoon.com/wtf-is-hyperledger-e433818b16aa)
 - 2018/09/14 [Enterprise Blockchain: Which platform?](https://blog.goodaudience.com/enterprise-blockchain-which-are-enterprise-ready-46bd4b49dd02)
 - 2018/05/09 [Enterprise Blockchain Has Arrived](https://medium.com/crypto-oracle/enterprise-blockchain-has-arrived-2d2e4d8ec0d)
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
-
 
 
 ### Information
