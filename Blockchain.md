@@ -3,6 +3,7 @@
 ## Smart Contracts
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
 - 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
+    - an EVM user chaincode, and a web3 provider Fab3
 - 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
 - 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
 
