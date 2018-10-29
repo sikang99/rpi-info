@@ -44,7 +44,7 @@
     - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
     - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethereum on Tendermint using Cosmos-SDK
 - [Quorum](https://www.jpmorgan.com/country/US/en/Quorum)  by JP Morgan
-
+    - [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy
 
 ### Project
 - [Livepeer](https://livepeer.org/)
