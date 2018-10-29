@@ -4,7 +4,7 @@
 ## Smart Contracts
 
 ### Information
-- [eWASM]()
+- [eWASM](https://github.com/ewasm) - Ethereum flavored WebAssembly
 
 ### History
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
@@ -26,6 +26,7 @@
 ### Information
 - Bitcoin
 - [Ethereum](https://www.ethereum.org/)
+    - [Ethereum Foundation Blog](https://blog.ethereum.org/)
     - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum) - Proof-of-Authority (PoA)
 - EOSIO
 
