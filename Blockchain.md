@@ -21,6 +21,7 @@
 ### Information
 - Bitcoin
 - [Ethereum](https://www.ethereum.org/)
+    - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum) - Proof-of-Authority (PoA)
 - EOSIO
 
 
@@ -31,6 +32,7 @@
 - 2018/10/26 [Quorum Blockchain Consensus Algorithms](https://medium.com/coinmonks/quorum-blockchain-consensus-algorithms-ab38790091)
 - 2018/10/19 [WTF is Hyperledger?](https://hackernoon.com/wtf-is-hyperledger-e433818b16aa)
 - 2018/09/14 [Enterprise Blockchain: Which platform?](https://blog.goodaudience.com/enterprise-blockchain-which-are-enterprise-ready-46bd4b49dd02)
+- 2018/08/08 [Microsoft’s New Ethereum Blockchain Product Gets Rid of Mining](https://www.ccn.com/microsofts-new-ethereum-blockchain-product-gets-rid-of-mining/)
 - 2018/05/09 [Enterprise Blockchain Has Arrived](https://medium.com/crypto-oracle/enterprise-blockchain-has-arrived-2d2e4d8ec0d)
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
 
