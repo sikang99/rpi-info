@@ -1,6 +1,14 @@
 ## Ubuntu Diary
 
 
+
+2018/10/28: to install Ubuntu drivers automatically
+```
+sudo ubuntu-drivers autoinstall
+```
+
+
+
 2018/10/26: Docker error on Linux Kernel 4.15.x
 - [SOLVED: Docker and kernel 4.15.1 issue - can't run some containers](https://bbs.archlinux.org/viewtopic.php?id=234282)
 
