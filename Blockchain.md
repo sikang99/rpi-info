@@ -24,6 +24,12 @@
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
 
 
+### Information
+- [Hyperledger](https://www.hyperledger.org/)
+    - [Fabric](https://www.hyperledger.org/fabric/)
+    - [Brrows](https://www.hyperledger.org/burrows/))
+
+
 ### Project
 - [Livepeer](https://livepeer.org/)
 - [Keep Network](https://keep.network/) - A privacy layer for Ethereum
