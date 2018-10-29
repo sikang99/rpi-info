@@ -19,7 +19,9 @@
 ## Public Blockchain
 
 ### Information
+- Bitcoin
 - [Ethereum](https://www.ethereum.org/)
+- EOSIO
 
 
 ---
