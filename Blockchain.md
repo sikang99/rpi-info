@@ -26,7 +26,7 @@
 
 ### Information
 - [Hyperledger](https://www.hyperledger.org/) by [Linux Foundation](https://www.linuxfoundation.org)
-    - [Fabric](https://www.hyperledger.org/projects/fabric)
+    - [Fabric](https://www.hyperledger.org/projects/fabric) - DLT, smart contract engine
     - [Burrow](https://www.hyperledger.org/projects/hyperledger-burrow) - permissioned smart contract application engine
 
 
