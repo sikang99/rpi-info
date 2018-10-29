@@ -41,7 +41,7 @@
 - [Cosmos.Network](https://cosmos.network/)
     - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
     - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethereum on Tendermint using Cosmos-SDK
-- Quorum
+- [Quorum](https://www.jpmorgan.com/country/US/en/Quorum)  by JP Morgan
 
 
 ### Project
