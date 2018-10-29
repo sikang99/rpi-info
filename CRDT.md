@@ -7,6 +7,8 @@
 
 
 ### Project
+- OpenPaaS NG - P2P Collaborative platform
+- [DaSciM](http://www.lix.polytechnique.fr/dascim/) - Data Science and Mining
 - [Coast](https://team.inria.fr/coast/) - Web Scale Trustworthy Collaborative Service Systems
     - [François Charoy](https://www.slideshare.net/charoy?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 
