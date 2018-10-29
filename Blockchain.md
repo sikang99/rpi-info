@@ -25,9 +25,9 @@
 
 
 ### Information
-- [Hyperledger](https://www.hyperledger.org/)
-    - [Fabric](https://www.hyperledger.org/fabric/)
-    - [Brrows](https://www.hyperledger.org/burrows/))
+- [Hyperledger](https://www.hyperledger.org/) by Linux Foundation
+    - [Fabric](https://www.hyperledger.org/projects/fabric)
+    - [Burrow](https://www.hyperledger.org/projects/hyperledger-burrow) - permissioned smart contract application engine
 
 
 ### Project
