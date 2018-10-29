@@ -1,6 +1,8 @@
 # Blockchain
 
 ## Smart Contracts
+- 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
+- 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
 
 
 ## Public Blockchain
