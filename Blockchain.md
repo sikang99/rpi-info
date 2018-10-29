@@ -1,12 +1,14 @@
 # Blockchain
 
 ## Smart Contracts
+- 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
+- 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
 - 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
 - 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
 
 
 ### Open Source
-- [Libraries.io for WebAssembly](https://libraries.io/languages/WebAssembly)
+- [Libraries.io](https://libraries.io/) for [WebAssembly](https://libraries.io/languages/WebAssembly)
 
 
 ## Public Blockchain
@@ -16,6 +18,7 @@
 
 
 ## Private / Enterprise Blockchain
+- 2018/09/14 [Enterprise Blockchain: Which platform?](https://blog.goodaudience.com/enterprise-blockchain-which-are-enterprise-ready-46bd4b49dd02)
 - 2018/05/09 [Enterprise Blockchain Has Arrived](https://medium.com/crypto-oracle/enterprise-blockchain-has-arrived-2d2e4d8ec0d)
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
 
