@@ -80,6 +80,8 @@
 - [MOLPay/molpay-mobile-xdk-flutter-beta](https://github.com/MOLPay/molpay-mobile-xdk-flutter-beta) - MOLPay mobile payment for Flutter (Dart)
 - [thekeenant/fcharts](https://github.com/thekeenant/fcharts) - [wip] Create beautiful, responsive, animated charts using a simple and intuitive API
 - [Salvatore-Giordano/CountryCodePicker](https://github.com/Salvatore-Giordano/CountryCodePicker) - A flutter package for showing a country code selector
+- [pszklarska/FlutterShoppingCart](https://github.com/pszklarska/FlutterShoppingCart) - Flutter example of shopping app using Redux architecture
+- [swat-cat/reduxsample](https://github.com/swat-cat/reduxsample) - redux sample
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
