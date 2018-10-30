@@ -58,6 +58,7 @@
 - 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
 - 2018/05/03 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
 - 2018/05/03 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)
+- 2018/05/02 [Flutter + Redux — How to make Shopping List App?](https://hackernoon.com/flutter-redux-how-to-make-shopping-list-app-1cd315e79b65)
 - 2018/04/22 [Build your own Plugin for Flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 - 2018/04/18 [Quire: Building a Sophisticated Mobile App With Google Flutter](https://dzone.com/articles/quire-building-a-sophisticated-mobile-app-with-goo)
 - 2018/04/16 [Flutter 初体验：WebRTC DataChannel P2P Chat](http://www.10tiao.com/html/141/201804/2650204042/1.html)
