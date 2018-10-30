@@ -40,6 +40,7 @@
 - [Flutter Packages Widgets Architecture](https://www.scoop.it/t/flutter-packages-widgets-architecture)
 - [Awesome Flutter](http://awesomeflutter.com/index.php)
 - [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
+- [Hitchhiker's guide to the Flutter](https://speakerdeck.com/ibhavikmakwana/hitchhikers-guide-to-the-flutter)
 
 
 ### Information
@@ -84,6 +85,8 @@
 - [pszklarska/FlutterShoppingCart](https://github.com/pszklarska/FlutterShoppingCart) - Flutter example of shopping app using Redux architecture
 - [swat-cat/reduxsample](https://github.com/swat-cat/reduxsample) - redux sample
 - [pedromassango/xtimer-flutter-app](https://github.com/pedromassango/xtimer-flutter-app) - Flutter timer app
+- [ibhavikmakwana/Fluttery-Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb
+
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
@@ -95,6 +98,7 @@
 - [Felix Angelov](https://github.com/felangel)
 - [Brian Egan](https://github.com/brianegan) 
 - [Ardiansyah Putra](https://github.com/putraxor)
+- [Bhavik Makwana](https://github.com/ibhavikmakwana)
 
 
 ---
