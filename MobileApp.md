@@ -39,6 +39,7 @@
 - [basarozcan/awesome-flutter](https://github.com/basarozcan/awesome-flutter) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from Google's Flutter
 - [Flutter Packages Widgets Architecture](https://www.scoop.it/t/flutter-packages-widgets-architecture)
 - [Awesome Flutter](http://awesomeflutter.com/index.php)
+- [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
 
 
 ### Information
