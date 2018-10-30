@@ -5,6 +5,9 @@
 
 ### Information
 - [eWASM](https://github.com/ewasm) - Ethereum flavored WebAssembly
+- [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
+- [quoscient/octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly module and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+
 
 ### History
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)

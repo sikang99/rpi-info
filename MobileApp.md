@@ -50,6 +50,7 @@
 
 
 ### History
+- 2018/10/28 [Implementing Redux Architecture with Flutter]()
 - 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
 - 2018/10/07 [Flutter PlatformView: How to create Widgets from Native Views](https://medium.com/flutter-community/flutter-platformview-how-to-create-flutter-widgets-from-native-views-366e378115b6)
 - 2018/09/24 [Flutter: Adding Animated Overlays to Your App](https://medium.com/coding-with-flutter/flutter-adding-animated-overlays-to-your-app-e0bb049eff39)
