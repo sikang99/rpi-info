@@ -83,6 +83,7 @@
 - [Salvatore-Giordano/CountryCodePicker](https://github.com/Salvatore-Giordano/CountryCodePicker) - A flutter package for showing a country code selector
 - [pszklarska/FlutterShoppingCart](https://github.com/pszklarska/FlutterShoppingCart) - Flutter example of shopping app using Redux architecture
 - [swat-cat/reduxsample](https://github.com/swat-cat/reduxsample) - redux sample
+- [pedromassango/xtimer-flutter-app](https://github.com/pedromassango/xtimer-flutter-app) - Flutter timer app
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
