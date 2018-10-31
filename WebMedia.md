@@ -17,9 +17,16 @@
 
 ---
 ## WebCrypto
-- [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-- [Web Cryptography API](https://www.w3.org/TR/WebCryptoAPI/) - W3C Recommendation 26 January 2017
+- Wikipedia [Web cryptography API](https://en.wikipedia.org/wiki/Web_cryptography_API)
+- W3C [Web Cryptography API](https://www.w3.org/TR/WebCryptoAPI/) - W3C Recommendation 26 January 2017
+- Mozilla [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
+- The Chromium Projects for [WebCrypto](https://www.chromium.org/blink/webcrypto)
+- 2015 [HTML5 암호기술이용 안내서](http://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=259&dno=95&fseq=1)
 
+
+### Open Source
+- [anvilresearch/webcrypto](https://github.com/anvilresearch/webcrypto) - W3C Web Cryptography API for Node.js
+- [PeculiarVentures/webcrypto-local](https://github.com/PeculiarVentures/webcrypto-local) - webcrypto-local is a cross platform service that provides access to PKCS#11 implementations over a protocol we call webcrypto-socket
 
 
 ## Canvas
