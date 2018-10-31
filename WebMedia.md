@@ -19,7 +19,7 @@
 
 
 ---
-## Web Worker
+## Web / Service Worker
 - [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
 - [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
 - [Service Worker: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
