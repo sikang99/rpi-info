@@ -8,7 +8,7 @@
 - WebAssembly
 - [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
-- [CanIUse](https://caniuse.com/) 
+- [Can I Use](https://caniuse.com/) 
     - [WebRTC](https://caniuse.com/#search=webrtc)
     - [Web Workers](https://caniuse.com/#search=web%20workers)
     - [Service Workers](https://caniuse.com/#search=service%20workers)
@@ -34,6 +34,7 @@
 - [The Service Worker Cookbook](https://serviceworke.rs/)
 - [HTML5 Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
 - [HTML5 Worker Test](https://html5workertest.com/)
+- Chrome Platform Status for [Servie Worker](https://www.chromestatus.com/feature/6561526227927040)
 
 
 ### History
