@@ -1,13 +1,13 @@
-# WebMedia (Audio / Video / Data)
-
+# Web Media (Audio / Video / Data)
 
 ## Technology
 - Canvas
+- WebXR
+- Web Worker
+- WebCrypto
 - WebAssembly
 - [WebRTC](https://medium.com/search?q=webrtc)
-- WebXR
 - DASH
-- WebCrypto
 
 ---
 ## Common
@@ -38,6 +38,7 @@
 - 2018/02/18 [An Introduction to Service Workers in JavaScript](https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2)
 - 2018/01/26 [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
     - 3 types : Dedicated / Shared / Service workers
+- 2018/01/05 [How to use Web Workers to schedule consistent asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
 - 2017/12/19 [Service Workers: Going beyond the page](https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/)
 - 2017/12/11 [Web Workers vs Service Workers in JavaScript](https://tech.ovoenergy.com/web-workers-vs-service-workers/)
 - 2015/07/20 [The difference between Service Workers, Web Workers and WebSockets](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
