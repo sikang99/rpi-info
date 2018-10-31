@@ -245,8 +245,7 @@
     - [gortc/sctp](https://github.com/gortc/sctp) - WIP RFC 4960 Stream Control Transmission Protocol in golang
     - [gortc/dev](https://github.com/gortc/dev)
     - [gortc/api](https://github.com/gortc/api) - go API check tool fork
-
-
+```
 $ git clone --recursive https://github.com/keroserene/go-webrtc
 $ cd go-webrtc
 $ ./build.sh # long time to build, don't use go build
