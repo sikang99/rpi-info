@@ -60,6 +60,8 @@
     - WebRTC/RTSP/RTMP to MSE
 - 2017/10/24 [Media Source Extension on Webkit (GStreamer Conference 2017)](https://www.slideshare.net/igalia/media-source-extension-on-webkit-gstreamer-conference-2017)
 - [HLS & DASH](https://www.visualon.com/index.php/hls-dash/) - Media Source Extension for Codecs
+- [Streaming Using WebSockets](http://docs.evostream.com/2.0/html5players_wsdemo.html)
+
 
 ### Open Source
 - [asafrob/WebRtcShitBlt](https://github.com/asafrob/WebRtcShitBlt) - client side WebRTC lib to add an image / watermark on the MediaSource
@@ -136,6 +138,7 @@
 - 2018/10/27 [Compiling an Existing C Module to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/existing_C_to_wasm)
 - 2018/10/23 [Is WebAssembly faster than JavaScript?](https://lemire.me/blog/2018/10/23/is-webassembly-faster-than-javascript/)
 - 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
+- 2018/10/01 [The dark side of WebAssembly](https://www.virusbulletin.com/virusbulletin/2018/10/dark-side-webassembly/)
 
 
 ### Open Source
