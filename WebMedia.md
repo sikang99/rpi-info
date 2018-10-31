@@ -33,8 +33,10 @@
 
 ### History
 - 2018/08/30 [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
+- 2018/08/26 [Service Workers](https://frontendian.co/service-workers)
 - 2018/08/12 [Service Workers](https://hackernoon.com/service-workers-62a7b14aa63a)
 - 2018/05/13 [Multithreading Javascript: Web Workers and Service Workers](https://medium.com/@sergiturbadenas/multithreading-javascript-web-workers-and-service-workers-ee2868001bc)
+- 2018/03/27 [Using web workers for safe, concurrent JavaScript](https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2)
 - 2018/02/18 [An Introduction to Service Workers in JavaScript](https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2)
 - 2018/01/26 [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
     - 3 types : Dedicated / Shared / Service workers
