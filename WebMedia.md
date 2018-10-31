@@ -8,6 +8,10 @@
 - WebAssembly
 - [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
+- [CanIUse](https://caniuse.com/) 
+    - [WebRTC](https://caniuse.com/#search=webrtc)
+    - [Web Workers](https://caniuse.com/#search=web%20workers)
+    - [Service Workers](https://caniuse.com/#search=service%20workers)
 
 ---
 ## Common
@@ -40,6 +44,7 @@
 - 2018/05/13 [Multithreading Javascript: Web Workers and Service Workers](https://medium.com/@sergiturbadenas/multithreading-javascript-web-workers-and-service-workers-ee2868001bc)
 - 2018/03/27 [Using web workers for safe, concurrent JavaScript](https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2)
 - 2018/03/16 [Monthly Web Development Update 3/2018: Service Workers, Building A CDN, And Cheating At Design](https://www.smashingmagazine.com/2018/03/monthly-web-development-update-3-2018/)
+- 2018/03/13 [Everyone can now run JavaScript on Cloudflare with Workers](https://blog.cloudflare.com/cloudflare-workers-unleashed/)
 - 2018/02/18 [An Introduction to Service Workers in JavaScript](https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2)
 - 2018/02/07 [Workers at Your Service](https://webkit.org/blog/8090/workers-at-your-service/)
 - 2018/01/26 [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
