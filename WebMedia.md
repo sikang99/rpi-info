@@ -117,11 +117,13 @@
 
 
 ### History
+- 2018/10/27 [Compiling an Existing C Module to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/existing_C_to_wasm)
 - 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 
 
 ### Open Source
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - Cloudflare Workers WebAssembly Demo
+- [webmproject/libwebp](https://github.com/webmproject/libwebp) 
 
 
 ---
