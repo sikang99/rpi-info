@@ -23,9 +23,20 @@
 - [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
 - [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
 - [Service Worker: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [Web worker](https://en.wikipedia.org/wiki/Web_worker)
+- 2016 [Demystifying Web Workers and Service Workers](https://nolanlawson.github.io/cascadia-2016/)
+- [Getting Started with Service Workers](https://alligator.io/js/service-workers/)
+- [Servie Worker Exaplained](https://flaviocopes.com/service-workers/)
+- [The Service Worker Cookbook](https://serviceworke.rs/)
+- [HTML5 Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
+
 
 ### History
+- 2018/08/12 [Service Workers](https://hackernoon.com/service-workers-62a7b14aa63a)
 - 2018/05/13 [Multithreading Javascript: Web Workers and Service Workers](https://medium.com/@sergiturbadenas/multithreading-javascript-web-workers-and-service-workers-ee2868001bc)
+- 2018/02/18 [An Introduction to Service Workers in JavaScript](https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2)
+- 2018/01/26 [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+    - 3 types : Dedicated / Shared / Service workers
 - 2017/12/11 [Web Workers vs Service Workers in JavaScript](https://tech.ovoenergy.com/web-workers-vs-service-workers/)
 - 2015/07/20 [The difference between Service Workers, Web Workers and WebSockets](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
 
