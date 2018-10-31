@@ -15,12 +15,20 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+
+---
+## Web Worker
+- [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
+- [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
+
+### History
 - 2018/05/13 [Multithreading Javascript: Web Workers and Service Workers](https://medium.com/@sergiturbadenas/multithreading-javascript-web-workers-and-service-workers-ee2868001bc)
 - 2017/12/11 [Web Workers vs Service Workers in JavaScript](https://tech.ovoenergy.com/web-workers-vs-service-workers/)
 - 2015/07/20 [The difference between Service Workers, Web Workers and WebSockets](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
-    - [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
-    - [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
 
+### Open Source
+- [acacha/TinkeringWebWorkers](https://github.com/acacha/TinkeringWebWorkers) 
 
 
 ---
