@@ -110,12 +110,21 @@
 - [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
 
 
-
+---
 ## WebAssembly
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
+### History
+- 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
+
+
+### Open Source
+- [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - Cloudflare Workers WebAssembly Demo
+
+
+---
 ## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
 - [WebRTC Gateway](https://en.wikipedia.org/wiki/WebRTC_Gateway)
 - [WebRTC Tutorial](https://deepstreamhub.com/tutorials)
