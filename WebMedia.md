@@ -29,6 +29,7 @@
 - [Servie Worker Exaplained](https://flaviocopes.com/service-workers/)
 - [The Service Worker Cookbook](https://serviceworke.rs/)
 - [HTML5 Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
+- [HTML5 Worker Test](https://html5workertest.com/)
 
 
 ### History
@@ -38,6 +39,7 @@
 - 2018/05/17 [Understanding The Service worker LifeCycle](https://dev.to/achiengcindy/understanding-the-service-worker-lifecycle-47d5)
 - 2018/05/13 [Multithreading Javascript: Web Workers and Service Workers](https://medium.com/@sergiturbadenas/multithreading-javascript-web-workers-and-service-workers-ee2868001bc)
 - 2018/03/27 [Using web workers for safe, concurrent JavaScript](https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2)
+- 2018/03/16 [Monthly Web Development Update 3/2018: Service Workers, Building A CDN, And Cheating At Design](https://www.smashingmagazine.com/2018/03/monthly-web-development-update-3-2018/)
 - 2018/02/18 [An Introduction to Service Workers in JavaScript](https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2)
 - 2018/02/07 [Workers at Your Service](https://webkit.org/blog/8090/workers-at-your-service/)
 - 2018/01/26 [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
