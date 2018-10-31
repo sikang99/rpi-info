@@ -104,7 +104,6 @@
 
 
 ## HTML5 & Media
-
 - [High Performance Browser Networking](https://hpbn.co/)
     - [WebRTC](https://hpbn.co/webrtc/)
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
@@ -114,13 +113,11 @@
 
 
 ## HTML5 Video
-
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 - [Camera stream in Web](https://jolicode.com/blog/camera-stream-in-web)
 
 
 ## HTML5 Animation
-
 - [HTML5 Animations Tutorial with 10 Beautiful Examples](https://cloudinary.com/blog/creating_html5_animations)
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
@@ -135,7 +132,6 @@
 
 
 ## WebAudio
-
 - [Web Audio Weekly](https://www.webaudioweekly.com/)
 - [W3C WebAudio API](https://www.w3.org/TR/webaudio/)
 - [MediaStream Integration](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/webrtc-integration.html) - WebRTC integration with the Web Audio API
@@ -196,7 +192,6 @@
 - [Multiplayer: Peer to Peer (P2P)](https://www.timetocode.org/peer2peer.html)
 - [Advancing WebRTC](https://blog.mozilla.org/webrtc/)
 - [Mobile First Camera App Template (HTML, CSS, JS and WebRTC)](https://www.kasperkamperman.com/blog/camera-template/)
-
 - [WebRTC:Janus-Gateway (MCU) 에 대해서 #1 개요, 설치](http://alnova2.tistory.com/1119)
 
 
