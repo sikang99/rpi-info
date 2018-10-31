@@ -112,12 +112,14 @@
 
 ---
 ## WebAssembly
+- Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
 ### History
 - 2018/10/27 [Compiling an Existing C Module to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/existing_C_to_wasm)
+- 2018/10/23 [Is WebAssembly faster than JavaScript?](https://lemire.me/blog/2018/10/23/is-webassembly-faster-than-javascript/)
 - 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 
 
