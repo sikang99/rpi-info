@@ -14,6 +14,7 @@
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
 - 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
     - an EVM user chaincode, and a web3 provider Fab3
+- 2018/10/19 [DBXChain Completes Its Virtual Machine Utilising WebAssembly For Mass Adoption Of DApps](https://medium.com/@dbxchain/dbxchain-completes-its-virtual-machine-utilising-webassembly-for-mass-adoption-of-dapps-5b2250086e01)
 - 2018/09/07 [WebAssembly & The Future of Blockchain Computing](https://medium.com/zkcapital/webassembly-the-future-of-blockchain-computing-1a0ae28f7e40)
 - 2018/08/30 [Understanding Web 3 — A User Controlled Internet](https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3)
 - 2018/08/16 [The Web3 Video Stack](https://tokeneconomy.co/web3videostack-c423481c32a5)
