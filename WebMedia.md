@@ -22,6 +22,7 @@
 - Mozilla [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 - The Chromium Projects for [WebCrypto](https://www.chromium.org/blink/webcrypto)
 - 2015 [HTML5 암호기술이용 안내서](http://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=259&dno=95&fseq=1)
+- [MSR JavaScript Cryptography Library](https://www.microsoft.com/en-us/download/details.aspx?id=52439)
 
 
 ### Open Source
