@@ -18,6 +18,7 @@
 - [Your Guide to Cross-Platform Mobile App Development Tools](https://instabug.com/blog/cross-platform-development/)
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 - [A deeply detailed but never definitive guide to mobile development architecture](https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528)
+- [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 
 
 ---
@@ -28,6 +29,8 @@
 - Medium for [Flutter](https://medium.com/search?q=flutter)
 - Flipboard for [Flutter](https://flipboard.com/search/flutter)
 - Libraries.io for [Flutter](https://libraries.io/search?q=flutter)
+- [Flutter by Example](https://flutterbyexample.com/)
+
 
 
 ### Notice
@@ -125,6 +128,7 @@
 
 
 ### Open Source
+- [mappum/electron-webrtc](https://github.com/mappum/electron-webrtc) - Use WebRTC in Node.js via a hidden Electron process
 
 
 ---

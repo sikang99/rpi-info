@@ -128,3 +128,16 @@
 - 2018/09/04 [A Peer-to-Peer Architecture for Distributed Data Monetization in Fog Computing Scenarios]()
 
 
+## WebRTC
+- [Learning WebRTC peer-to-peer communication, part 1](https://swizec.com/blog/learning-webrtc-peer-peer-communication-part-1/swizec/8359)
+- 2018/08/31 [Blockchain + WebRTC: A Decentralized Video Recorder](https://medium.com/@frederikriedel/blockchain-webrtc-a-decentralized-video-recorder-b1b8905665b0)
+- 2017/05/08 [Blockchain Will Change Everything, Even VoIP](https://getvoip.com/blog/2017/05/08/blockchain-and-voip/)
+- 2016/08/19 [Bringing cryptocurrency to a wider audience via the browser + WebRTC](https://steemit.com/blockchain/@ummjackson/bringing-cryptocurrency-to-a-wider-audience-via-the-browser-webrtc)
+
+
+### Open Source
+- [aiham/webrtc-blockchain](https://github.com/aiham/webrtc-blockchain)
+- [mappum/webcoin](https://github.com/mappum/webcoin) - SPV Bitcoin client for Node.js and the browser
+
+
+
