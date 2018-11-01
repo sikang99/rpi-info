@@ -8,6 +8,7 @@
 - WebAssembly
 - [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
+- WebGPU
 - [Can I Use](https://caniuse.com/) 
     - [WebRTC](https://caniuse.com/#search=webrtc)
     - [Web Workers](https://caniuse.com/#search=web%20workers)
@@ -20,6 +21,15 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+---
+## WebGPU
+- [GPU for the Web Community Group](https://www.w3.org/community/gpu/)
+
+
+### Open Source
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU on the Web work happens!
+- [gpuweb/WHLSL](https://github.com/gpuweb/WHLSL) - Web HLSL
 
 
 ---
