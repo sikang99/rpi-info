@@ -70,7 +70,12 @@
 
 ### Book
 - 2018 [Ethereum Smart Contract Development](http://www.davidpascal.com/downloads/Ethereum_smart_contract_development.pdf)
+- 2018 [Mastering Blockchain]()
 
+
+### History
+- 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
+- 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1)
 
 ### Open Source
 
