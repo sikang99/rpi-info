@@ -68,6 +68,10 @@
     - [Github](https://github.com/OpenBazaar)
 
 
+### Book
+- 2018 [Ethereum Smart Contract Development](http://www.davidpascal.com/downloads/Ethereum_smart_contract_development.pdf)
+
+
 ### Open Source
 
 
@@ -110,6 +114,7 @@
 - [Ethermint](https://ethermint.zone/) - Scalable and interoperable Ethereum, built on Proof-of-Stake
 
 
-
+## IoT
+- 2018/09/04 [A Peer-to-Peer Architecture for Distributed Data Monetization in Fog Computing Scenarios]()
 
 
