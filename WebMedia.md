@@ -24,7 +24,12 @@
 
 ---
 ## WebGPU
+- [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 - [GPU for the Web Community Group](https://www.w3.org/community/gpu/)
+
+
+### History
+- 2018/02/10 [Feasibility of low-level GPU access on the Web](http://kvark.github.io/web/gpu/2018/02/10/low-level-gpu-web.html)
 
 
 ### Open Source

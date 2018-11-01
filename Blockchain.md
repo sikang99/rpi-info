@@ -74,6 +74,7 @@
 
 
 ### History
+- 2018/07/03 [OpenBazaar 2.0 Review](https://steemit.com/cryptocurrency/@cryptoshoppe/openbazaar-2-0-review)
 - 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
 - 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1)
 - 2018/05/03 [The Rise Of Decentralized Marketplaces](https://medium.com/@Market_space_/the-rise-of-decentralized-marketplaces-99ddf0df88e5)

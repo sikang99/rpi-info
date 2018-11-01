@@ -19,6 +19,9 @@ edit e:
 edit-readme er:
 	$(EDITOR) README.md
 
+edit-block eb:
+	$(EDITOR) Blockchain.md
+
 edit-web ew:
 	$(EDITOR) WebMedia.md
 
