@@ -76,8 +76,7 @@
 ### History
 - 2018/07/03 [OpenBazaar 2.0 Review](https://steemit.com/cryptocurrency/@cryptoshoppe/openbazaar-2-0-review)
 - 2018/03/22 [How Blockchain Will Revolutionize Online Marketplaces](https://hackernoon.com/how-blockchain-will-revolutionize-online-marketplaces-64fd6101bbf0)
-- 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
-- 2018/03/06 [dApp 알아보기: OpenBazaar 알아보기 1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1)
+- 2018/03/06 dApp 알아보기: OpenBazaar 알아보기 [1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1), [2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
 - 2018/05/03 [The Rise Of Decentralized Marketplaces](https://medium.com/@Market_space_/the-rise-of-decentralized-marketplaces-99ddf0df88e5)
 - 2018/01/01 [Decentralized Blockchain-Based Electronic Marketplaces](https://cacm.acm.org/magazines/2018/1/223888-decentralized-blockchain-based-electronic-marketplaces/abstract)
 
