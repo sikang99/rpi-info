@@ -1,12 +1,26 @@
 # Blockchain
 
+
+---
+## Overview
+- 2018/10/12 [Decentralized Applications: The Blockchain-Empowered Software System](https://arxiv.org/pdf/1810.05365.pdf)
+- 2018/03/21 [Blockchain: The Next Breakthrough in the Rapid Progress of AI](https://juniperpublishers.com/raej/pdf/RAEJ.MS.ID.555592.pdf)
+
+
 ---
 ## Smart Contracts
 
 ### Information
+- [quoscient/octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly module and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+- [Blockchain and Smart Contracts](https://www.pepperlaw.com/resource/23887/4H3)
+
+
+### Virtual Machine
 - [eWASM](https://github.com/ewasm) - Ethereum flavored WebAssembly
 - [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
-- [quoscient/octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly module and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+
+
+### Interface
 - [Web3 Foundation](https://web3.foundation/)
 
 
@@ -24,6 +38,8 @@
 
 ### Open Source
 - [Libraries.io](https://libraries.io/) for [WebAssembly](https://libraries.io/languages/WebAssembly)
+- [john-light/decentralized-marketplaces](https://github.com/john-light/decentralized-marketplaces)
+- [jasonwalsh/awesome-dapps](https://github.com/jasonwalsh/awesome-dapps)
 
 
 ---
@@ -47,6 +63,13 @@
     - [Ethereum Foundation Blog](https://blog.ethereum.org/)
     - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum) - Proof-of-Authority (PoA)
 - EOSIO
+- [OpenBazzar](https://openbazaar.org/)
+    - [Blog](https://openbazaar.org/blog/)
+    - [Github](https://github.com/OpenBazaar)
+
+
+### Open Source
+
 
 
 ---
