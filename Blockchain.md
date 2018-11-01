@@ -95,6 +95,7 @@
 - 2018/09/14 [Enterprise Blockchain: Which platform?](https://blog.goodaudience.com/enterprise-blockchain-which-are-enterprise-ready-46bd4b49dd02)
 - 2018/08/08 [Microsoft’s New Ethereum Blockchain Product Gets Rid of Mining](https://www.ccn.com/microsofts-new-ethereum-blockchain-product-gets-rid-of-mining/)
 - 2018/05/09 [Enterprise Blockchain Has Arrived](https://medium.com/crypto-oracle/enterprise-blockchain-has-arrived-2d2e4d8ec0d)
+- 2018/05/11 [Tendermint Explained — Bringing BFT-based PoS to the Public Blockchain Domain](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
 
 
