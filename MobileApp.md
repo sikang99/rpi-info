@@ -32,6 +32,7 @@
 
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html) - Under active development
+- 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
 - 2018/05/17 [번역: Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 
 
@@ -93,6 +94,7 @@
 ### [Dart](https://www.dartlang.org/) Programming Language
 - [Dart 2](https://www.dartlang.org/dart-2)
 - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)
+- [Dart Code](https://dartcode.org/) - Dart & Flutter support for Visual Studio Code
 
 
 ### Person
