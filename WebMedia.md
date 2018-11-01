@@ -30,6 +30,7 @@
 ### Open Source
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU on the Web work happens!
 - [gpuweb/WHLSL](https://github.com/gpuweb/WHLSL) - Web HLSL
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal
 
 
 ---
