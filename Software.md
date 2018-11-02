@@ -11,6 +11,7 @@
 ### Device
 - [RICOH THETA Live Streaming](http://theta360.guide/community-document/live-streaming.html)
 - [Using a Mac for Live Streaming w/ Multiple Cameras](https://www.broadfield.com/news/using-a-mac-for-live-streaming-w-multiple-cameras/)
+- 2018/10/08 [How to Use OBS for Professional Video Streaming](https://www.dacast.com/blog/how-to-use-obs-professional-video-streaming/)
 - 2018/05/25 [Optimized Settings for Facebook Live in OBS](https://support.streamspot.com/hc/en-us/articles/222848108-Optimized-Settings-for-Facebook-Live-in-OBS)
 - 2018/05/09 [How to use OBS (Open Broadcaster Software)](https://www.techadvisor.co.uk/how-to/game/how-use-obs-open-broadcaster-software-3676910/)
 - 2018/11/01 [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
