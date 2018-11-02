@@ -224,12 +224,12 @@ $ vlc rtsp://<ip:8554>/unicast
 - [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo) - mmaldemo
 - [sodnpoo/rpi-mmal-opencv-modetect](https://github.com/sodnpoo/rpi-mmal-opencv-modetect)
 - [mpromonet/rpi](https://github.com/mpromonet/rpi)
-
 - [limhyon/guvcview](https://github.com/limhyon/guvcview)
 - [gokrazy](https://gokrazy.org) - pure-Go userland for your Raspberry Pi 3 appliances
 - [lukasjapan/bt-speaker](https://github.com/lukasjapan/bt-speaker) - A simple Bluetooth Speaker Daemon for the Raspberry Pi 3
 - [lulop-k/kurento-rtsp2webrtc](https://github.com/lulop-k/kurento-rtsp2webrtc) - Kurento RTSP/HTTP URI to WebRTC example
 - [oweitman/squeezelite-bluetooth](https://github.com/oweitman/squeezelite-bluetooth)
+- [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 
 
 ## [WebRTC](https://webrtc.org/)
