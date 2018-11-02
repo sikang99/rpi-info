@@ -265,6 +265,7 @@
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport
 - [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
+- [stephenlb/webrtc-sdk](https://github.com/stephenlb/webrtc-sdk) - WebRTC Simple Calling API + Mobile SDK
 - [GoogleChromeLabs/confluence](https://github.com/GoogleChromeLabs/confluence) - Service and API for Web API Confluence
 - [gortc](https://github.com/gortc)
     - [gortc/stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
