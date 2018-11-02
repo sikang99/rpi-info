@@ -13,6 +13,7 @@
 ### Information
 - [quoscient/octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly module and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 - [Blockchain and Smart Contracts](https://www.pepperlaw.com/resource/23887/4H3)
+- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - Smart Contract Security Best Practices
 
 
 ### Virtual Machine
