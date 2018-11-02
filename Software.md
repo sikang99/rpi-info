@@ -4,16 +4,19 @@
 - [Open Broadcaster Software](https://obsproject.com/) - OBS Studio
 - [OBS Remote](http://www.obsremote.com/) - A remote streaming control for Open Broadcaster Software
 - [OBS Table Remote](http://t2t2.github.io/obs-tablet-remote/)
+- [Streamlabs](https://streamlabs.com/) - Fast, reliable & feature packed streaming app
 
 
 ### Device
 - [RICOH THETA Live Streaming](http://theta360.guide/community-document/live-streaming.html)
 - [Using a Mac for Live Streaming w/ Multiple Cameras](https://www.broadfield.com/news/using-a-mac-for-live-streaming-w-multiple-cameras/)
+- 2018/11/01 [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
 - 2018/03/30 [How to Live Your Webcam Video on Youtube Through OBS](https://www.oodlestechnologies.com/blogs/How-to-Live-Your-Webcam-Video-on-Youtube-Through-OBS)
 
 
 ### Open Source
 - [Libraries.io for OBS](https://libraries.io/github/search?keywords=obs)
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc)
 - [t2t2/obs-tablet-remote](https://github.com/t2t2/obs-tablet-remote) - Tablet optimised OBS Remote
 - [KirillMysnik/obs-ws-rc](https://github.com/KirillMysnik/obs-ws-rc) - OBS WebSocket Remote Control
@@ -31,6 +34,9 @@
 - [SammyJames/obs-script](https://github.com/SammyJames/obs-script) 
 - [Necroforger/krigoapp](https://github.com/Necroforger/krigoapp) - something made for a friend to track window title names to display the currently playing song in OBS
 - [pendo324/EssentialNowPlaying](https://github.com/pendo324/EssentialNowPlaying) - A now playing tool intended to be used with OBS
+- [dzy321/file-upload](https://github.com/dzy321/file-upload)
+- [MarcusOy/ScoreBoardBlocksOBS](https://github.com/MarcusOy/ScoreBoardBlocksOBS) - A modular scoreboard for streaming programs like OBS
+
 
 
 
