@@ -5,11 +5,13 @@
 - [OBS Remote](http://www.obsremote.com/) - A remote streaming control for Open Broadcaster Software
 - [OBS Table Remote](http://t2t2.github.io/obs-tablet-remote/)
 - [Streamlabs](https://streamlabs.com/) - Fast, reliable & feature packed streaming app
+- [OBS Studio Portable](https://portableapps.com/apps/music_video/obs-studio-portable)
 
 
 ### Device
 - [RICOH THETA Live Streaming](http://theta360.guide/community-document/live-streaming.html)
 - [Using a Mac for Live Streaming w/ Multiple Cameras](https://www.broadfield.com/news/using-a-mac-for-live-streaming-w-multiple-cameras/)
+- 2018/05/25 [Optimized Settings for Facebook Live in OBS](https://support.streamspot.com/hc/en-us/articles/222848108-Optimized-Settings-for-Facebook-Live-in-OBS)
 - 2018/11/01 [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
 - 2018/03/30 [How to Live Your Webcam Video on Youtube Through OBS](https://www.oodlestechnologies.com/blogs/How-to-Live-Your-Webcam-Video-on-Youtube-Through-OBS)
 
