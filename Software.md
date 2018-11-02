@@ -22,6 +22,8 @@
 - [Libraries.io for OBS](https://libraries.io/github/search?keywords=obs)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc)
+- [CoSMoSoftware/CSM-IE-WebRTC-plugin-shim](https://github.com/CoSMoSoftware/CSM-IE-WebRTC-plugin-shim) - WebRTC shim for IE
+- [CoSMoSoftware/sfu](https://github.com/CoSMoSoftware/sfu) - Medooze SFU
 - [t2t2/obs-tablet-remote](https://github.com/t2t2/obs-tablet-remote) - Tablet optimised OBS Remote
 - [KirillMysnik/obs-ws-rc](https://github.com/KirillMysnik/obs-ws-rc) - OBS WebSocket Remote Control
 - [dmadison/OBS-ChatSpam](https://github.com/dmadison/OBS-ChatSpam) - Python script for OBS Studio that posts messages in Twitch chat 

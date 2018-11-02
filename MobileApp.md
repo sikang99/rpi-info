@@ -142,6 +142,8 @@
 - 2018 [Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications](http://cps.kaist.ac.kr/papers/18CCS-PPP.pdf)
 
 ### Open Source
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing https://snapdrop.net
+
 
 
 ---
