@@ -23,6 +23,19 @@
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
 
 ---
+## WebDriver
+- [WebDriver](https://www.w3.org/TR/webdriver1/) - W3C Recommendation 05 June 2018
+- [WebDriver](https://w3c.github.io/webdriver/) - Living Document
+- [MDN WebDriver](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+
+### History
+- 2018/01/09 [What is Selenium WebDriver?](https://medium.com/@mindfiresolutions.usa/what-is-selenium-webdriver-62b6136f2c0c) 
+
+### Open Source
+- [w3c/webdriver](https://github.com/w3c/webdriver)
+
+
+---
 ## WebGPU
 - [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 - [GPU for the Web Community Group](https://www.w3.org/community/gpu/)

@@ -143,4 +143,13 @@
 - [mappum/webcoin](https://github.com/mappum/webcoin) - SPV Bitcoin client for Node.js and the browser
 
 
+## Interoperability
+- [Interchain](https://interchain.io/)
+- [Interledger](https://interledger.org/)
+
+
+
+
+
+
 
