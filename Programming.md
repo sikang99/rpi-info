@@ -6,6 +6,7 @@
 ### History
 - 2018/10/23 [Build a Single-Page App with Go and Vue](https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue)
 - 2018/10/21 [Rendering a map using Go, Mapbox and OpenStreetMap](https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/)
+- 2018/06/18 [Experiments with image manipulation in WASM using Go](https://agniva.me/wasm/2018/06/18/shimmer-wasm.html)
 
 
 ### Information
@@ -29,6 +30,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mb-14/gomarkov](https://github.com/mb-14/gomarkov) - Markov chains in golang
+- [agnivade/shimmer](https://github.com/agnivade/shimmer) - Image transformation in wasm using Go
 
 
 #### Image
