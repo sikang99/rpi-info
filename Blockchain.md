@@ -131,6 +131,7 @@
 - 2018/09/04 [A Peer-to-Peer Architecture for Distributed Data Monetization in Fog Computing Scenarios]()
 
 
+---
 ## WebRTC
 - [Learning WebRTC peer-to-peer communication, part 1](https://swizec.com/blog/learning-webrtc-peer-peer-communication-part-1/swizec/8359)
 - 2018/08/31 [Blockchain + WebRTC: A Decentralized Video Recorder](https://medium.com/@frederikriedel/blockchain-webrtc-a-decentralized-video-recorder-b1b8905665b0)
@@ -143,12 +144,16 @@
 - [mappum/webcoin](https://github.com/mappum/webcoin) - SPV Bitcoin client for Node.js and the browser
 
 
+---
 ## Interoperability
 - [Interchain](https://interchain.io/)
 - [Interledger](https://interledger.org/)
+- [Polkadot](https://polkadot.network/)
 
 
-
+### History
+- 2018/06/06 [What Makes Crypto Protocols Valuable?](https://hackernoon.com/what-makes-crypto-protocols-valuable-957bdadd4ac0)
+- 2016/09/09 [Chain Interoperability](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/5886800ecd0f68de303349b1/1485209617040/Chain+Interoperability.pdf)
 
 
 
