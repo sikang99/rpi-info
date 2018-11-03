@@ -4,6 +4,7 @@
 ## Golang
 
 ### History
+- 2018/10/24 [Pathologies of Go Package Management](https://fossa.io/blog/pathologies-of-go-package-management/)
 - 2018/10/23 [Build a Single-Page App with Go and Vue](https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue)
 - 2018/10/21 [Rendering a map using Go, Mapbox and OpenStreetMap](https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/)
 - 2018/06/18 [Experiments with image manipulation in WASM using Go](https://agniva.me/wasm/2018/06/18/shimmer-wasm.html)
