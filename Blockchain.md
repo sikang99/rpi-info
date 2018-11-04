@@ -20,6 +20,7 @@
 ### Virtual Machine
 - [eWASM](https://github.com/ewasm) - Ethereum flavored WebAssembly
 - [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
+- [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
 
 
 ### Interface
