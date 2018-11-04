@@ -124,6 +124,7 @@
 - [PeculiarVentures/webcrypto-local](https://github.com/PeculiarVentures/webcrypto-local) - webcrypto-local is a cross platform service that provides access to PKCS#11 implementations over a protocol we call webcrypto-socket
 
 
+---
 ## Canvas
 - [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/)
@@ -145,6 +146,7 @@
 - [muaz-khan/Canvas-Designer](https://github.com/muaz-khan/Canvas-Designer) - Collaborative, extendable, JavaScript Canvas2D drawing tool
 
 
+---
 ## MSE (Media Soruce Extension)
 - [W3C Media Source Extensions](https://w3c.github.io/media-source/)
 - [Codec and container switching in MSE Sample](https://googlechrome.github.io/samples/media/sourcebuffer-changetype.html)
@@ -164,6 +166,7 @@
 - [kevinGodell/mse-live-player](https://github.com/kevinGodell/mse-live-player)
 
 
+---
 ## HTML5 & Media
 - [High Performance Browser Networking](https://hpbn.co/)
     - [WebRTC](https://hpbn.co/webrtc/)
@@ -172,17 +175,19 @@
 - [Planet GStreamer](https://gstreamer.freedesktop.org/planet/)
 
 
-
+---
 ## HTML5 Video
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 - [Camera stream in Web](https://jolicode.com/blog/camera-stream-in-web)
 
 
+---
 ## HTML5 Animation
 - [HTML5 Animations Tutorial with 10 Beautiful Examples](https://cloudinary.com/blog/creating_html5_animations)
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
 
+---
 ## [Web Authentication](https://en.wikipedia.org/wiki/WebAuthn)
 - [WebAuthn demo](https://webauthn.org/)
     - [apowers313/fido2-server-demo/](https://github.com/apowers313/fido2-server-demo/)
@@ -192,6 +197,7 @@
 - [What is WebAuthn?](https://duo.com/blog/what-is-webauthn) - SEP, TPM, U2F, MFA
 
 
+---
 ## WebAudio
 - [Web Audio Weekly](https://www.webaudioweekly.com/)
 - [W3C WebAudio API](https://www.w3.org/TR/webaudio/)
@@ -206,7 +212,7 @@
 ### Open Source
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
-
+---
 ## WebVR/AR/MR/XR
 - [WbVR](https://developers.google.com/web/fundamentals/vr/)
 - [The PortARble Museum: Developing Augmented Reality For The Web Using AR.Js](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)
