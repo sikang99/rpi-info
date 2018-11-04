@@ -40,6 +40,7 @@
 
 ### Open Source
 - [fluster/web-google-maps](https://github.com/fluster/web-google-maps) - A Web Component to easily integrate Google Maps into any web applications
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples
 
 
 ---
