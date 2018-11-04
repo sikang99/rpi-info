@@ -59,6 +59,7 @@
 - [gpuweb/WHLSL](https://github.com/gpuweb/WHLSL) - Web HLSL
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal
 - [kvark/webgpu-servo](https://github.com/kvark/webgpu-servo) - WebGPU prototope in Servo browser
+- [DanRuta/GPGPU](https://github.com/DanRuta/GPGPU) - Small library for running arbitrary computations on the GPU, using JavaScript or WebAssembly
 
 
 ---
