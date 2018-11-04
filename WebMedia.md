@@ -233,7 +233,6 @@
 - [WebAeembly Rocks](https://www.wasmrocks.com/)
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
-- [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
 ### History
@@ -248,6 +247,7 @@
 ### Open Source
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - Cloudflare Workers WebAssembly Demo
 - [webmproject/libwebp](https://github.com/webmproject/libwebp) 
+- [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
 
 ---
