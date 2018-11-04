@@ -169,6 +169,7 @@
 - [kevinGodell/live-stream-media-source-extensions](https://github.com/kevinGodell/live-stream-media-source-extensions) - Live stream h264 encoded mp4 video on media source extensions using ffmpeg, node.js, socket.io, and express
 - [kevinGodell/mse-live-player](https://github.com/kevinGodell/mse-live-player)
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
+- [https://github.com/linkingvision/h5stream](https://github.com/linkingvision/h5stream) - HTML5 RTSP paly a HTML5 streaming server
 
 
 ---
@@ -391,6 +392,7 @@ $ ./build.sh # long time to build, don't use go build
 - [Rune Dalton/Snoost Cloud Gaming](https://bitbucket.org/runedalton/snoost-cloud-gaming)
 
 ### Paper
+- 2018 [Cloud Gaming With Foveated Graphics](https://arxiv.org/pdf/1809.05823.pdf)
 - 2016 [A Survey on Cloud Gaming: Future of Computer Games](https://www.researchgate.net/publication/306006176_A_Survey_on_Cloud_Gaming_Future_of_Computer_Games)
 
 
