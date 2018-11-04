@@ -16,6 +16,7 @@
 [WebRTC](https://caniuse.com/#search=webrtc),
 [Web Workers](https://caniuse.com/#search=web%20workers),
 [Service Workers](https://caniuse.com/#search=service%20workers),
+[Shadow DOM](https://caniuse.com/#search=shadow%20dom),
 
 ---
 ## Common
