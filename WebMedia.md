@@ -369,8 +369,10 @@ $ ./build.sh # long time to build, don't use go build
 
 ---
 ## Game Streaming
-- Google [Project Stream](https://projectstream.google.com/)
+- [wiki/Cloud Gaming](https://en.wikipedia.org/wiki/Cloud_gaming)
+- Google [Project Stream](https://projectstream.google.com/) - WebRTC
 - [GamingAnywhere](http://gaminganywhere.org/)
+- [Parsec](https://parsecgaming.com/) - Connect to a gaming PC from anywhere
 
 ### History
 - 2018/10/02 [Google Announces Project Stream, a Game-Streaming Service for Chrome](https://www.extremetech.com/gaming/277982-google-announces-project-stream-a-game-streaming-service-for-chrome)
