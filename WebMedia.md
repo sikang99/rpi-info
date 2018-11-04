@@ -2,12 +2,13 @@
 
 ## Technology
 - Canvas
-- WebXR
+- Web Component
 - Web Worker
 - WebCrypto
 - WebAssembly
 - [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
+- WebXR
 - WebGPU
 - [Can I Use](https://caniuse.com/) 
     - [WebRTC](https://caniuse.com/#search=webrtc)
@@ -21,6 +22,14 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+
+---
+## Web Component
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - Custom elements, Shadow DOM, HTML templates
+
+
+
 
 ---
 ## WebDriver
@@ -202,6 +211,7 @@
 
 ---
 ## WebAssembly
+- [WebAssembly Weekly](https://wasmweekly.news/)
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
