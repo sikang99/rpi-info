@@ -212,6 +212,7 @@
 ---
 ## WebAssembly
 - [WebAssembly Weekly](https://wasmweekly.news/)
+- [WebAeembly Rocks](https://www.wasmrocks.com/)
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
