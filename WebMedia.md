@@ -26,9 +26,16 @@
 
 ---
 ## Web Component
+- [Web Components - Wikipedia](https://en.wikipedia.org/wiki/Web_Components)
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - Custom elements, Shadow DOM, HTML templates
+- [Web Component Essentials](https://leanpub.com/web-component-essentials)
 
+### History
+- 2018/07/06 [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- 2018/01/24 [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 
+### Open Source
+- [fluster/web-google-maps](https://github.com/fluster/web-google-maps) - A Web Component to easily integrate Google Maps into any web applications
 
 
 ---
