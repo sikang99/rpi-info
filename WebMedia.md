@@ -10,10 +10,12 @@
 - DASH
 - WebXR
 - WebGPU
-- [Can I Use](https://caniuse.com/):  
-[WebRTC](https://caniuse.com/#search=webrtc)
-[Web Workers](https://caniuse.com/#search=web%20workers)
-[Service Workers](https://caniuse.com/#search=service%20workers)
+
+## Status
+- [Can I Use](https://caniuse.com/):
+[WebRTC](https://caniuse.com/#search=webrtc),
+[Web Workers](https://caniuse.com/#search=web%20workers),
+[Service Workers](https://caniuse.com/#search=service%20workers),
 
 ---
 ## Common
