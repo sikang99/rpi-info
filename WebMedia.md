@@ -369,8 +369,14 @@ $ ./build.sh # long time to build, don't use go build
 
 ---
 ## Game Streaming
+- Google [Project Stream](https://projectstream.google.com/)
+
+### History
+- 2018/10/02 [Google Announces Project Stream, a Game-Streaming Service for Chrome](https://www.extremetech.com/gaming/277982-google-announces-project-stream-a-game-streaming-service-for-chrome)
 - 2018/10/16 [A Look at Game Streaming Tech in the Browser](https://blog.parsecgaming.com/game-streaming-tech-in-the-browser-with-parsec-5b70d0f359bc) - BUD, WebAssembly, WebRTC
-    - [parsec-cloud/web-client](https://github.com/parsec-cloud/web-client)
+
+### Open Source
+- [parsec-cloud/web-client](https://github.com/parsec-cloud/web-client)
 
 
 
