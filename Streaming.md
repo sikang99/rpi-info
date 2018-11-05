@@ -19,3 +19,4 @@
 
 
 ## Etc
+- 2018/10/05 [This Open Source Video Streaming Protocol is Completely Disrupting the Broadcast News Industry](https://www.haivision.com/blog/live-video-streaming/open-source-video-streaming-protocol-disrupting-broadcast-news/)
