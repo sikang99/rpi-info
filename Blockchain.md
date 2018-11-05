@@ -64,6 +64,14 @@
 
 ---
 ## Public Blockchain
+### History
+- 2018/10/31 [OPINIONOpenBazaar Offers Crypto-Earning Potential](https://hacked.com/openbazaar-offers-crypto-earning-potential/)
+- 2018/07/03 [OpenBazaar 2.0 Review](https://steemit.com/cryptocurrency/@cryptoshoppe/openbazaar-2-0-review)
+- 2018/03/22 [How Blockchain Will Revolutionize Online Marketplaces](https://hackernoon.com/how-blockchain-will-revolutionize-online-marketplaces-64fd6101bbf0)
+- 2018/03/06 dApp 알아보기: OpenBazaar 알아보기 [1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1), [2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
+- 2018/05/03 [The Rise Of Decentralized Marketplaces](https://medium.com/@Market_space_/the-rise-of-decentralized-marketplaces-99ddf0df88e5)
+- 2018/01/01 [Decentralized Blockchain-Based Electronic Marketplaces](https://cacm.acm.org/magazines/2018/1/223888-decentralized-blockchain-based-electronic-marketplaces/abstract)
+
 
 ### Information
 - Bitcoin
@@ -84,22 +92,13 @@
 - 2018 [Ethereum Smart Contract Development](http://www.davidpascal.com/downloads/Ethereum_smart_contract_development.pdf)
 - 2018 [Mastering Blockchain]()
 
-
-### History
-- 2018/10/31 [OPINIONOpenBazaar Offers Crypto-Earning Potential](https://hacked.com/openbazaar-offers-crypto-earning-potential/)
-- 2018/07/03 [OpenBazaar 2.0 Review](https://steemit.com/cryptocurrency/@cryptoshoppe/openbazaar-2-0-review)
-- 2018/03/22 [How Blockchain Will Revolutionize Online Marketplaces](https://hackernoon.com/how-blockchain-will-revolutionize-online-marketplaces-64fd6101bbf0)
-- 2018/03/06 dApp 알아보기: OpenBazaar 알아보기 [1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1), [2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
-- 2018/05/03 [The Rise Of Decentralized Marketplaces](https://medium.com/@Market_space_/the-rise-of-decentralized-marketplaces-99ddf0df88e5)
-- 2018/01/01 [Decentralized Blockchain-Based Electronic Marketplaces](https://cacm.acm.org/magazines/2018/1/223888-decentralized-blockchain-based-electronic-marketplaces/abstract)
-
-
 ### Open Source
-
 
 
 ---
 ## Private / Enterprise Blockchain
+### History
+- 2018/10/31 [Why We Rebuilt Ethereum from Scratch](https://media.consensys.net/why-we-rebuilt-ethereum-from-scratch-9e38b6ebd4a2)
 - 2018/10/29 [JP Morgan’s Ethereum Blockchain based Platform “Quorum” to Enable Tokenization of Assets](https://www.blockchainreporter.net/2018/10/29/jp-morgans-ethereum-blockchain-based-platform-quorum-to-enable-tokenization-of-assets/)
 - 2018/10/29 [JP Morgan's Quorum blockchain opens new world of trading opportunities](https://www.afr.com/technology/jp-morgans-quorum-blockchain-opens-new-world-of-trading-opportunities-20181027-h176fs)
 - 2018/10/26 [Quorum Blockchain Consensus Algorithms](https://medium.com/coinmonks/quorum-blockchain-consensus-algorithms-ab38790091)
@@ -121,6 +120,8 @@
     - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethereum on Tendermint using Cosmos-SDK
 - [Quorum](https://www.jpmorgan.com/country/US/en/Quorum)  by JP Morgan
     - [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [PegaSys](https://pegasys.tech/) Pantheon - Ethereum for the Enterprise
+
 
 ### Project
 - [Livepeer](https://livepeer.org/)
@@ -136,7 +137,11 @@
     - [tendermint/go-amino](https://github.com/tendermint/go-amino) - Protobuf3 with Interface support - Designed for blockchains (deterministic, upgradeable, fast, and compact)
 - [Ethermint](https://ethermint.zone/) - Scalable and interoperable Ethereum, built on Proof-of-Stake
 
+### Open Source
+- [PegaSysEng/pantheon](https://github.com/PegaSysEng/pantheon)
 
+
+---
 ## IoT
 - 2018/09/04 [A Peer-to-Peer Architecture for Distributed Data Monetization in Fog Computing Scenarios]()
 
@@ -162,7 +167,10 @@
 
 
 ### History
+- 2018/07/09 [Interoperability: Cross-Chain Smart Contracts](https://komodoplatform.com/interoperability-cross-chain-smart-contracts/)
 - 2018/06/06 [What Makes Crypto Protocols Valuable?](https://hackernoon.com/what-makes-crypto-protocols-valuable-957bdadd4ac0)
+- 2018/01/01 [Comparison of Inter-Blockchain Communication Technologies](http://troubles.md/posts/comparison-of-inter-blockchain-communication-technologies/)
+- 2017/11/21 [Integration of the Bancor Protocol for Inter-Chain Liquidity](https://blog.ins.world/integration-of-the-bancor-protocol-for-inter-chain-liquidity-2c0abe8dcb98)
 - 2016/09/09 [Chain Interoperability](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/5886800ecd0f68de303349b1/1485209617040/Chain+Interoperability.pdf)
 
 
