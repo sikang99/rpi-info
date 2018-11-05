@@ -1,5 +1,6 @@
 # Blockchain
 
+- [Smart Contracts](#Smart Contracts)
 - [Oracle](#Oracle)
 
 ---
@@ -70,6 +71,8 @@
     - [Ethereum Foundation Blog](https://blog.ethereum.org/)
     - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum)
 - [Consensys](https://github.com/ConsenSys)    
+    - [ConsenSys/awesome-ethereum](https://github.com/ConsenSys/awesome-ethereum)
+    - [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - Proof-of-Authority (PoA)
 - EOSIO
 - [OpenBazzar](https://openbazaar.org/)
