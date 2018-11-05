@@ -23,6 +23,7 @@
 
 ### History
 - 2018/10/05 [This Open Source Video Streaming Protocol is Completely Disrupting the Broadcast News Industry](https://www.haivision.com/blog/live-video-streaming/open-source-video-streaming-protocol-disrupting-broadcast-news/)
+- 2018/02/02 [8 Free & Best Open source Video Streaming Servers Software](https://www.how2shout.com/tools/free-best-open-source-video-streaming-servers-software.html)
 
 ### Open Source
 - [https://github.com/Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
