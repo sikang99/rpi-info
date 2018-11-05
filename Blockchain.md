@@ -64,7 +64,9 @@
 - Bitcoin
 - [Ethereum](https://www.ethereum.org/)
     - [Ethereum Foundation Blog](https://blog.ethereum.org/)
-    - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum) - Proof-of-Authority (PoA)
+    - [Ethereum on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-ethereum)
+- [Consensys](https://github.com/ConsenSys)    
+- Proof-of-Authority (PoA)
 - EOSIO
 - [OpenBazzar](https://openbazaar.org/)
     - [Blog](https://openbazaar.org/blog/)
