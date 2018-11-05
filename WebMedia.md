@@ -9,7 +9,7 @@
 - [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
 - WebXR
-- WebGPU
+- [WebGPU](#WebGPU)
 
 ## Status
 - [Can I Use](https://caniuse.com/):
