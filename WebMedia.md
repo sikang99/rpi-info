@@ -6,9 +6,9 @@
 - Web Worker
 - WebCrypto
 - WebAssembly
-- [WebRTC](https://medium.com/search?q=webrtc)
 - DASH
 - WebXR
+- [WebRTC](#WebRTC)
 - [WebGPU](#WebGPU)
 
 ## Status
@@ -255,6 +255,7 @@
 
 ---
 ## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
+- [Medium for WebRTC](https://medium.com/search?q=webrtc)
 - [WebRTC Gateway](https://en.wikipedia.org/wiki/WebRTC_Gateway)
 - [WebRTC Tutorial](https://deepstreamhub.com/tutorials)
     - [A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
