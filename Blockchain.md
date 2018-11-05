@@ -53,6 +53,8 @@
 - Chainlink
     - Medium Blog for [Chainlink]()
 - [Zap](https://www.zap.org/) - Access Oracles That Bring Real-World Data to Smart Contracts
+    - [OracleMarketCap](https://oraclemarketcap.com/)
+
 
 ### History
 - 2018/10/29 [Chainlink — The Missing Piece To The God Protocol](https://blog.goodaudience.com/chainlink-the-missing-piece-to-the-god-protocol-fd455dde92ab) - A Complete Guide To Understanding Chainlink
