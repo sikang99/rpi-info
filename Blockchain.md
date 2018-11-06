@@ -4,7 +4,7 @@
 - [Smart Contracts](#Smart-Contracts)
 - [Oracle](#Oracle)
 - [Public Blockchain](#public-blockchain)
-- [Private / Enterprise Blockchain](#public--enterprise-blockchain)
+- [Private / Enterprise Blockchain](#private--enterprise-blockchain)
 
 ---
 ## Overview
@@ -54,7 +54,7 @@
 ## Oracle 
 
 ### Information
-- Chainlink
+- [Chainlink](https://chain.link/)
     - Medium Blog for [Chainlink]()
 - [Zap](https://www.zap.org/) - Access Oracles That Bring Real-World Data to Smart Contracts
     - [OracleMarketCap](https://oraclemarketcap.com/)
