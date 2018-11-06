@@ -183,5 +183,8 @@
 ### Token Economy
 - [Radical Markets](http://radicalmarkets.com/)
 
+## History
+- 2018/10/12 [Radical Markets in the Arts](https://www.slideshare.net/SimondelaRouviere1/radical-markets-in-the-arts)
+
 
 
