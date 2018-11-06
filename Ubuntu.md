@@ -2,6 +2,11 @@
 
 
 
+2018/11/06 install minrStick USB formatter
+- [Easily Format A USB Flash Drive On Ubuntu 18.04 Using USB Stick Formatter](https://www.linuxuprising.com/2018/09/easily-format-usb-flash-drive-on-ubuntu.html)
+- [minstick deb packages](http://packages.linuxmint.com/pool/main/m/mintstick/)
+
+
 2018/10/28: to install Ubuntu drivers automatically
 ```
 sudo ubuntu-drivers autoinstall
