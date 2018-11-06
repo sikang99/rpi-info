@@ -186,7 +186,6 @@ $ vlc rtsp://<ip:8554>/unicast
 
 ### Magazine & Books
 - [The MagPi](https://www.raspberrypi.org/magpi/)
-
 - 2016 [Raspberry Pi: Amazing Projects from Scratch](https://electrovolt.ir/wp-content/uploads/2018/01/Raspberry_Pi_Amazing_Projects_from_Scratch_ElectroVolt.ir_.pdf)
 
 
@@ -217,7 +216,6 @@ $ vlc rtsp://<ip:8554>/unicast
     ```
     $ yavta -capture=1000 -n 3 --file=video.h264 -f UYVY /dev/video0
     ```
-
 - [technomancers/piCamera](https://github.com/technomancers/piCamera) 
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware)
 - [tasanakorn/rpi-mmal-demo](https://github.com/tasanakorn/rpi-mmal-demo) - mmaldemo
@@ -231,6 +229,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 
 
+---
 ## [WebRTC](https://webrtc.org/)
 - [WebRTC](https://webrtc.org)
     - [getusermedia](http://simpl.info/getusermedia) - camera test
