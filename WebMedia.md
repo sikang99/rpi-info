@@ -57,6 +57,7 @@
 
 ### Open Source
 - [w3c/webdriver](https://github.com/w3c/webdriver)
+- [webdriverio](https://github.com/webdriverio) - Webdriver/Selenium 2.0 JavaScript bindings for Node.js
 
 
 ---
