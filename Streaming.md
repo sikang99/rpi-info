@@ -26,6 +26,6 @@
 - 2018/02/02 [8 Free & Best Open source Video Streaming Servers Software](https://www.how2shout.com/tools/free-best-open-source-video-streaming-servers-software.html)
 
 ### Open Source
-- [https://github.com/Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
+- [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 
 
