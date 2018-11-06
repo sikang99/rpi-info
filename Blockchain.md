@@ -5,6 +5,8 @@
 - [Oracle](#Oracle)
 - [Public Blockchain](#public-blockchain)
 - [Private / Enterprise Blockchain](#private--enterprise-blockchain)
+- [Token Economy](#token-economy)
+
 
 ---
 ## Overview
@@ -176,6 +178,10 @@
 - 2017/11/21 [Integration of the Bancor Protocol for Inter-Chain Liquidity](https://blog.ins.world/integration-of-the-bancor-protocol-for-inter-chain-liquidity-2c0abe8dcb98)
 - 2016/09/09 [Chain Interoperability](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/5886800ecd0f68de303349b1/1485209617040/Chain+Interoperability.pdf)
 
+
+---
+### Token Economy
+- [Radical Markets](http://radicalmarkets.com/)
 
 
 
