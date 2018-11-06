@@ -1,7 +1,10 @@
 # Blockchain
 
+## Contents
 - [Smart Contracts](#Smart-Contracts)
 - [Oracle](#Oracle)
+- [Public Blockchain](#public-blockchain)
+- [Private / Enterprise Blockchain](#public--enterprise-blockchain)
 
 ---
 ## Overview
