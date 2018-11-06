@@ -1,7 +1,7 @@
 # Blockchain
 
-- [Smart Contracts](#Smart Contracts)
-- [Oracle](#Oracle)
+- [Smart Contracts](##Smart Contracts)
+- [Oracle](##Oracle)
 
 ---
 ## Overview
