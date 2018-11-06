@@ -256,7 +256,6 @@ $ vlc rtsp://<ip:8554>/unicast
     - [paullouisageneau/eyepot](https://github.com/paullouisageneau/eyepot) - A four-legged teapot robot
 
 
-
 ### Open Source
 - [webrtc.googlesource.com/src](https://webrtc.googlesource.com/src) - native code
 - [mpromonet/v4l2tools](https://github.com/mpromonet/v4l2tools) - V4L2 tools using V4L2 C++ wrapper
@@ -276,6 +275,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [Shinobi-Systems/Shinobi](https://gitlab.com/Shinobi-Systems/Shinobi)
 
 
+---
 ## Docker
 - Installation: docker-ce
 ```sh
@@ -324,7 +324,6 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 
 ### Open Source
-
 - [Cryptocurrency Mining](https://universalcryptonews.com/category/cryptocurrency-mining/)
 - [Cryptocurrency GUI miner 8.3 & Mining Pool](https://minergate.com/)
 - [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer)
@@ -356,7 +355,6 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 
 ## Digital Signage
 2017/11/21 [Deploy a digital signage application with Screenly OSE and resin.io](https://resin.io/blog/deploy-a-digital-signage-application-with-screenly-and-resin/)
-
 - [Screenly Open Source Edition](https://www.screenly.io/ose/)
     - [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose)
 - [Home Assistant](https://www.home-assistant.io/)
