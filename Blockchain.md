@@ -154,7 +154,7 @@
 - 2018/09/05 [The IoT Is Spreading Like Wildfire with Real-time Communication](https://www.callstats.io/blog/2018/09/05/the-internet-of-things-iot-is-spreading-like-wildfire-with-real-time-communications-verticals-series)
 - 2018/03/26 [How WebRTC Can Create Powerful Communication for the IoT](https://www.callstats.io/blog/2018/03/26/how-webrtc-can-create-powerful-communication-for-the-iot)
 - [Web-based Attacks on Local IoT Devices](http://conferences.sigcomm.org/sigcomm/2018/files/slides/iot/paper_3.1.pdf)
-- FIWARE: [Media Streams](https://fiware-tutorials.readthedocs.io/en/latest/media-streams/index.html)
+- FIWARE: [Media Streams](https://fiware-tutorials.readthedocs.io/en/latest/media-streams/index.html) - Kurento
 
 
 
