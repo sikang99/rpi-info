@@ -13,7 +13,7 @@ usage:
 # ---------------------------------------------------------------------------
 edit e:
 	@echo ""
-	@echo "make (edit) [make|readme|peer|web|flutter]"
+	@echo "make (edit) [make|readme|peer|web|flutter|blockchain]"
 	@echo ""
 
 edit-readme er:
