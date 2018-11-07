@@ -26,7 +26,8 @@
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
 - [WebAssembly Working Group](https://www.w3.org/wasm/)
 - [WebAssembly Core Specification](https://www.w3.org/TR/wasm-core-1/) - W3C Working Draft, 4 September 2018
-
+- [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) - W3C Candidate Recommendation 27 September 2018
+- [Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/) - W3C Candidate Recommendation 03 July 2018
 
 
 ---
