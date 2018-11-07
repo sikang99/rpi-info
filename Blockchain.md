@@ -192,8 +192,9 @@
 - [Radical Markets](http://radicalmarkets.com/)
 
 ### History
-- 2017/06/13 [Token Network Effects](https://medium.freecodecamp.org/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862)
 - 2018/10/12 [Radical Markets in the Arts](https://www.slideshare.net/SimondelaRouviere1/radical-markets-in-the-arts)
+- 2017/11/26 [Telcos can be Disruptive Again by Creating “New Paradigm of Voice”](https://medium.com/@PankajSinghV/telcos-can-be-disruptive-again-by-creating-new-paradigm-of-voice-829948923d0f)
+- 2017/06/13 [Token Network Effects](https://medium.freecodecamp.org/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862)
 
 
 
