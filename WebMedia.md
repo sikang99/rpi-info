@@ -21,6 +21,15 @@
 [Shadow DOM](https://caniuse.com/#search=shadow%20dom),
 
 ---
+## [W3C](https://www.w3.org/)
+- [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
+- [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
+- [WebAssembly Working Group](https://www.w3.org/wasm/)
+- [WebAssembly Core Specification](https://www.w3.org/TR/wasm-core-1/) - W3C Working Draft, 4 September 2018
+
+
+
+---
 ## Common
 - 2017/11/19 [Real-Time Collaboration On Your Website With TogetherJS](https://www.hongkiat.com/blog/togetherjs-real-time-collaboration/)
     - [TogetherJS](https://togetherjs.com/)
