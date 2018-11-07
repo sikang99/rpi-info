@@ -30,6 +30,7 @@
 - Flipboard for [Flutter](https://flipboard.com/search/flutter)
 - Libraries.io for [Flutter](https://libraries.io/search?q=flutter)
 - [Flutter by Example](https://flutterbyexample.com/)
+- [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/index.html)
 
 
 
