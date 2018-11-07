@@ -7,6 +7,7 @@
 - 2018/10/18 [The Pros and Cons of Coupled, Decoupled, and Headless CMS Platforms](https://www.brightspot.com/blog/decoupled-cms-and-headless-cms-platforms)
 - 2018/07/06 [Top 10 Best Video Content Management Platforms](https://hackernoon.com/top-10-best-video-content-management-platforms-4a73b4b6dd90)
 - 2018/06/19 [Top 15 Enterprise Video Content Management Systems](https://www.cmswire.com/customer-experience/top-15-enterprise-video-content-management-systems/)
+- 2018/04/12 [Why “Headless CMS” Is Becoming So Popular?](https://medium.com/tech-tajawal/why-headless-cms-is-becoming-so-popular-57d262b1e096)
 - 2018/04/06 [5 Best & Free Open Source CMSs for Video Sharing Websites](https://www.purelythemes.com/5-best-free-open-sources-video-cms-for-a-video-sharing-website/)
 - 2018/03/02 [What Is a Headless CMS and Should You Be Using One?](https://www.keycdn.com/blog/headless-cms)
 
