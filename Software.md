@@ -15,7 +15,7 @@
 
 ### Information
 - [Kaltura](https://www.kaltura.org/)
-- [Directus](https://directus.io/)
+- [Directus](https://directus.io/)*
 
 
 ### Open Source
