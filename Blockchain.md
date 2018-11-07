@@ -188,10 +188,10 @@
 
 
 ---
-### Token Economy
+## Token Economy
 - [Radical Markets](http://radicalmarkets.com/)
 
-## History
+### History
 - 2017/06/13 [Token Network Effects](https://medium.freecodecamp.org/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862)
 - 2018/10/12 [Radical Markets in the Arts](https://www.slideshare.net/SimondelaRouviere1/radical-markets-in-the-arts)
 
