@@ -149,6 +149,8 @@
 ---
 ## IoT
 - 2018/09/04 [A Peer-to-Peer Architecture for Distributed Data Monetization in Fog Computing Scenarios]()
+- [Vizia Live by Avempace](http://www.avempace-wireless.com/en/project/vizia-live-webrtc/) - WebRTC For Things software stack
+- 2018/11/01 [The Best Smart Doorbell Camera](https://thewirecutter.com/reviews/best-smart-doorbell-camera/)
 
 
 ---
