@@ -12,6 +12,7 @@
 ## Overview
 - 2018/10/12 [Decentralized Applications: The Blockchain-Empowered Software System](https://arxiv.org/pdf/1810.05365.pdf)
 - 2018/03/21 [Blockchain: The Next Breakthrough in the Rapid Progress of AI](https://juniperpublishers.com/raej/pdf/RAEJ.MS.ID.555592.pdf)
+- 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 
 
 ---
@@ -191,6 +192,7 @@
 - [Radical Markets](http://radicalmarkets.com/)
 
 ## History
+- 2017/06/13 [Token Network Effects](https://medium.freecodecamp.org/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862)
 - 2018/10/12 [Radical Markets in the Arts](https://www.slideshare.net/SimondelaRouviere1/radical-markets-in-the-arts)
 
 
