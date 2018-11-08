@@ -5,8 +5,8 @@
 - Web Component
 - Web Worker
 - WebCrypto
-- WebAssembly
 - DASH
+- [WebAssembly](#webassembly)
 - [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
 - [WebRTC](#WebRTC)
 - [WebGPU](#WebGPU)
