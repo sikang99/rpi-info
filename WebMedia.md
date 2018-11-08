@@ -240,7 +240,7 @@
 
 ### History
 - 2018/10/29 [Using WebRTC for Multi-Party, Cross-Platform Virtual Reality Experiences](https://www.frozenmountain.com/developers/blog/archive/using-webrtc-for-multi-party-cross-platform-virtual-reality-experiences/)
-- [2018/10/26 Background removal with Intel® RealSense™ Depth Camera, WebRTC, and WebGL](https://01.org/blogs/astojilj/2018/background-removal-intel-realsense-depth-camera-webrtc-and-webgl)
+- 2018/10/26 [Background removal with Intel® RealSense™ Depth Camera, WebRTC, and WebGL](https://01.org/blogs/astojilj/2018/background-removal-intel-realsense-depth-camera-webrtc-and-webgl)
 - 2018/06/17 [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
 - 2018/05/04 [Experimenting with Computer Vision in WebXR](https://blog.mozvr.com/experimenting-with-computer-vision-in-webxr/)
 
