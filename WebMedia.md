@@ -7,7 +7,7 @@
 - WebCrypto
 - WebAssembly
 - DASH
-- [WebGL, WebXR](#webgl-webxrarmr)
+- [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
 - [WebRTC](#WebRTC)
 - [WebGPU](#WebGPU)
 - [WebDriver](#webdriver)
