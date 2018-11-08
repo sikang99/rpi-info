@@ -8,7 +8,7 @@
 - DASH
 - [WebAssembly](#webassembly)
 - [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
-- [WebRTC](#WebRTC)
+- [WebRTC](#webrtc)
 - [WebGPU](#WebGPU)
 - [WebDriver](#webdriver)
 
@@ -272,7 +272,8 @@
 
 
 ---
-## [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
+## WebRTC
+- [wiki/WebRTC](https://en.wikipedia.org/wiki/WebRTC)
 - [WebRTC World](http://www.webrtcworld.com/)
 - [WebRTC in WebKit](http://www.webrtcinwebkit.org/)
 - [Medium for WebRTC](https://medium.com/search?q=webrtc)
