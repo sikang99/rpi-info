@@ -5,7 +5,7 @@
 - Web Component
 - Web Worker
 - WebCrypto
-- DASH
+- [HLS, DASH](#hls-dash)
 - [WebAssembly](#webassembly)
 - [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
 - [WebRTC](#webrtc)
@@ -363,7 +363,7 @@ $ ./build.sh # long time to build, don't use go build
 - [webdriverio/webdriverrtc](https://github.com/webdriverio/webdriverrtc) - WebRTC testing tool for WebdriverIO
 
 ---
-## DASH
+## HLS, DASH
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
 - [Streamlink](https://streamlink.github.io/) - Command-line utility that extracts streams from various services and pipes them into a video player of choice
 
