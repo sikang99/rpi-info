@@ -246,6 +246,7 @@
 
 ### Open Source
 - [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
+- [01org/depth-camera-web-demo](https://github.com/01org/depth-camera-web-demo) - Depth camera capture in HTML5
 
 
 ---
