@@ -319,6 +319,9 @@
     - [agilityfeat/memory-webrtc-data-channel](https://github.com/agilityfeat/memory-webrtc-data-channel)
 - [WebRTC support for multiplayer games](https://godotengine.org/article/gsoc-2018-progress-report-1#webrtc)
 - Codelab: [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
+
+### History
+- 2018/05/16 [Explaining the Secure Real-time Transport Protocol (SRTP)](https://www.callstats.io/blog/2018/05/16/a-explaining-the-secure-real-time-transport-protocol-srtp)
 - 2018/04/22 [Easy Multiparty Video Conferencing in 4 Steps](https://dev.to/lucpattyn/easy-multiparty-video-conferencing-with-simple-peer-webrtc-library-2p52)
 - 2013/02/01 [WebRTC: RTCDataChannel demo, API changes... and Chrome talks to Firefox!](https://developers.google.com/web/updates/2013/02/WebRTC-RTCDataChannel-demo-API-changes-and-Chrome-talks-to-Firefox)
 - [otalk/filetransfer](https://github.com/otalk/filetransfer) - filetransfer via a webrtc datachannel
