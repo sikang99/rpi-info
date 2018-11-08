@@ -13,7 +13,8 @@
 - [StriveCDN](https://strivetech.io/) - The New Standard For Live Video Delivery
 
 ### Solution
-- [Dead Simple Sscreen Sharing](https://www.deadsimplescreensharing.com/) - Screen Sharing and audio/video conferencing right from your browser
+- [Dead Simple Screen Sharing](https://www.deadsimplescreensharing.com/) - Screen Sharing and audio/video conferencing right from your browser
+- [Mitel](https://www.mitel.com)
 
 
 
