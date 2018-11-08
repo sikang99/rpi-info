@@ -60,7 +60,7 @@ git g:
 git-update gu:
 	git add *.md Makefile *.jpg
 	#git remote remove Flutter.md
-	git commit -m "rename Flutter.md into MobileApp.md"
+	git commit -m "add some new *.md"
 	git push
 
 git-login gl:
