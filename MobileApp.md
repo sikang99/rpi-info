@@ -36,6 +36,7 @@
 - [Flutter by Example](https://flutterbyexample.com/)
 - [Codelabs for Flutter](https://codelabs.developers.google.com/?cat=Flutter)
     - [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/index.html)
+- [Reddit for Flutter Dev](https://www.reddit.com/r/FlutterDev/)
 
 
 ### Notice
