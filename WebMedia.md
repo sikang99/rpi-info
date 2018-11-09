@@ -263,6 +263,7 @@
 - [WebAeembly Rocks](https://www.wasmrocks.com/)
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
+- Reddit for [WebAssembly](https://www.reddit.com/r/WebAssembly/)
 
 
 ### History
