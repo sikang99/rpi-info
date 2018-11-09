@@ -7,6 +7,9 @@
 
 
 ## Theta
+- [theta360.guide/](http://theta360.guide/)
+- [theta360developers](THETA Developers Community)
+- [lyokato/theta-plugin-sora-experimental](https://github.com/lyokato/theta-plugin-sora-experimental) - THETA V PluginでWebRTC SFU Sora
 
 
 ## GoPro
