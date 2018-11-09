@@ -11,7 +11,7 @@
 - [WebRTC](#webrtc)
 - [WebGPU](#WebGPU)
 - [WebDriver](#webdriver)
-- [WebPush](#webpush) - [RFC8030](https://tools.ietf.org/html/rfc8030)
+- [Web Push](#web-push) - [RFC8030](https://tools.ietf.org/html/rfc8030)
 
 ## Status
 - [Can I Use](https://caniuse.com/):
@@ -38,6 +38,13 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+
+---
+## Web Push
+
+### History
+- 2018/03/02 [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
 
 
 ---
