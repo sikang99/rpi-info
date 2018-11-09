@@ -4,6 +4,8 @@
 ## Contact Center
 - [VCC.Live/](https://vcc.live/) - Contact Center Software
 
+### History
+- 2018/11/08 [An Easy Guide to 5 Contact Center as a Service Use Cases](https://www.callstats.io/blog/an-easy-guide-to-5-contact-center-as-a-service-use-cases)
 
 ---
 ## VCMS (Video Contents Management System)
