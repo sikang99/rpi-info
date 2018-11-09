@@ -34,6 +34,7 @@
 
 ### Interface
 - [Web3 Foundation](https://web3.foundation/)
+    - [Medium for Web3](https://medium.com/web3foundation)
 
 
 ### History
