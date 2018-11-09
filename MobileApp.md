@@ -11,6 +11,7 @@
 - [tdhman/HMWebRTC](https://github.com/tdhman/HMWebRTC) - Google WebRTC demo wrapper on iOS + Pod setup
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
+- 2017/12/22 [How to build a scalable and flexible VoIP architecture](https://medium.com/makingtuenti/how-to-build-a-scalable-and-flexible-voip-architecture-fbdedff99015)
 - 2017/07/20 [Hybrid WebRTC App vs. Native WebRTC App](https://xbsoftware.com/blog/hybrid-webrtc-app-vs-native-webrtc-app/)
 - 2017/03/16 [How to Build a Cross-Browser/Hybrid Video Chat App with WebRTC](https://xbsoftware.com/blog/howto-build-cross-browser-hybrid-video-chat-app-webrtc/)
 
@@ -34,7 +35,6 @@
 - [Flutter by Example](https://flutterbyexample.com/)
 - [Codelabs for Flutter](https://codelabs.developers.google.com/?cat=Flutter)
     - [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/index.html)
-
 
 
 ### Notice
@@ -80,6 +80,7 @@
 
 
 ### Open Source
+- [flutter/flutter](https://github.com/flutter/flutter)
 - [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
 - [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
 - [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
