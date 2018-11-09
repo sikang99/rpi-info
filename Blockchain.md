@@ -22,7 +22,8 @@
 - [quoscient/octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly module and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 - [Blockchain and Smart Contracts](https://www.pepperlaw.com/resource/23887/4H3)
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - Smart Contract Security Best Practices
-- [ConsenSys/eventeum](https://github.com/ConsenSys/eventeum) - A bridge between your Ethereum smart contract events and backend microservices.
+- [ConsenSys/eventeum](https://github.com/ConsenSys/eventeum) - A bridge between your Ethereum smart contract events and backend microservices
+- [Wavelet: Pre-Alpha Launch](https://medium.com/perlin-network/wavelet-pre-alpha-launch-7e6c042a0768) - Smart Contract SDKs, Graph Explorer, 10,000 TPS and more
 
 
 ### Virtual Machine
@@ -92,6 +93,7 @@
 - [OpenBazzar](https://openbazaar.org/)
     - [Blog](https://openbazaar.org/blog/)
     - [Github](https://github.com/OpenBazaar)
+- [Perin](https://www.perlin.net/)
 
 
 ### Book
@@ -99,6 +101,7 @@
 - 2018 [Mastering Blockchain]()
 
 ### Open Source
+- [perlin-network/](https://github.com/perlin-network/)
 
 
 ---
