@@ -22,6 +22,7 @@
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 - [A deeply detailed but never definitive guide to mobile development architecture](https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528)
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
+- 2017/08/25 [Why Mobile App Architecture is Vital for Mobile App Development?](https://blog.heliossolutions.in/mobile-app-architecture-vital-mobile-app-development/)
 
 
 ---
@@ -96,6 +97,7 @@
 - [swat-cat/reduxsample](https://github.com/swat-cat/reduxsample) - redux sample
 - [pedromassango/xtimer-flutter-app](https://github.com/pedromassango/xtimer-flutter-app) - Flutter timer app
 - [ibhavikmakwana/Fluttery-Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb
+- [roughike/inKino](https://github.com/roughike/inKino) - a multiplatform Dart project with code sharing between Flutter and web (40%)
 
 
 
