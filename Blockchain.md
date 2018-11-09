@@ -195,6 +195,8 @@
 ---
 ## Token Economy
 - [Radical Markets](http://radicalmarkets.com/)
+- 2018/07/12 [Disrupting OTT video: video on the blockchain](http://www.witbe.net/2018/07/12/disrupting-ott-video-video-blockchain/)
+- 2017/09/27 [What Is Decentralized Escrow and Why Do We Need That?](https://blog.opporty.com/what-is-decentralized-escrow-and-why-do-we-need-that-cb2136c71f15)
 
 ### History
 - 2018/10/12 [Radical Markets in the Arts](https://www.slideshare.net/SimondelaRouviere1/radical-markets-in-the-arts)
