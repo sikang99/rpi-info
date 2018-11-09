@@ -12,6 +12,7 @@
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
 - 2017/07/20 [Hybrid WebRTC App vs. Native WebRTC App](https://xbsoftware.com/blog/hybrid-webrtc-app-vs-native-webrtc-app/)
+- 2017/03/16 [How to Build a Cross-Browser/Hybrid Video Chat App with WebRTC](https://xbsoftware.com/blog/howto-build-cross-browser-hybrid-video-chat-app-webrtc/)
 
 
 ### Trends
