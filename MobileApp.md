@@ -11,6 +11,7 @@
 - [tdhman/HMWebRTC](https://github.com/tdhman/HMWebRTC) - Google WebRTC demo wrapper on iOS + Pod setup
 - [AppRTC](https://appr.tc/)
 - [NextRTC](https://nextrtc.org/) - Signalling Server written in Java
+- 2017/07/20 [Hybrid WebRTC App vs. Native WebRTC App](https://xbsoftware.com/blog/hybrid-webrtc-app-vs-native-webrtc-app/)
 
 
 ### Trends
