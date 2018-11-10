@@ -8,6 +8,7 @@
 ---
 ## New Internet
 - [A Beginner's Guide to the Decentralized Internet](http://www.electronicbeats.net/a-beginners-guide-to-the-decentralized-internet/)
+- 2017/11/26 [Telcos can be Disruptive Again by Creating “New Paradigm of Voice”](https://medium.com/@PankajSinghV/telcos-can-be-disruptive-again-by-creating-new-paradigm-of-voice-829948923d0f)
 
 
 ---
