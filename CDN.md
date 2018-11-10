@@ -1,3 +1,15 @@
+# Infrastructure
+
+## Contents
+- OTT
+- CDN
+
+## OTT (Over The Top)
+
+
+### History
+- 2018/07/11 [Disrupting OTT video technology: decentralized video on the blockchain](https://www.linkedin.com/pulse/disrupting-ott-video-technology-decentralized-luke-carriere)
+
 
 ## CDN (Contents Delivery Network)
 
