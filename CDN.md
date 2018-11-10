@@ -9,6 +9,8 @@
 
 ### History
 - 2018/07/11 [Disrupting OTT video technology: decentralized video on the blockchain](https://www.linkedin.com/pulse/disrupting-ott-video-technology-decentralized-luke-carriere)
+- 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
+
 
 
 ## CDN (Contents Delivery Network)
