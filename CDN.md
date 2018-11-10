@@ -4,6 +4,12 @@
 - OTT
 - CDN
 
+
+---
+## New Internet
+- [A Beginner's Guide to the Decentralized Internet](http://www.electronicbeats.net/a-beginners-guide-to-the-decentralized-internet/)
+
+
 ---
 ## OTT (Over The Top)
 
