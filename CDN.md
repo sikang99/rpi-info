@@ -11,7 +11,7 @@
 - [Teleport Media](https://teleport.media) - WebRTC Live Streaming
 - [SkyLink](https://skylink.io/) - Unlimited WebRTC and all the tools
 - [StriveCDN](https://strivetech.io/) - The New Standard For Live Video Delivery
-- [The Pipe](https://addpipe.com/)
+- [The Pipe](https://addpipe.com/) - Video & Audio Recording Clients + Infrastructure
 
 
 ### Solution
