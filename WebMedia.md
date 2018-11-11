@@ -46,6 +46,8 @@
 ## Web5G
 - [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
 - [W3C Workshop on Web5G](https://www.w3.org/2017/11/web5g-workshop/) - Aligning evolutions of network and Web technologies
+- 2018/07/09 [WebXR, if X = 5G](https://www.slideshare.net/DiegoGonzlezZiga/webxr-if-x-5g)
+- 2018/05/17 [Web5Gとはなんなのか](https://asnokaze.hatenablog.com/entry/2018/05/17/015136)
 
 
 ---
