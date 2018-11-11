@@ -31,6 +31,7 @@
 - [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) - W3C Candidate Recommendation 27 September 2018
 - [Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/) - W3C Candidate Recommendation 03 July 2018
 - [Report from the World Wide Web Consortium](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8444999)
+- [Monthly Web](https://mozaic.fm/)
 
 
 ---
@@ -40,6 +41,11 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+
+---
+## WebAudio
+
 
 
 ---
@@ -253,6 +259,7 @@
 
 ---
 ## WebGL, WebVR/AR/MR/XR
+- [WebGL Fundamentals](https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 - [WbVR](https://developers.google.com/web/fundamentals/vr/)
 - [The PortARble Museum: Developing Augmented Reality For The Web Using AR.Js](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)
 
