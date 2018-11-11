@@ -32,6 +32,7 @@
 
 
 ### History
+- 2018/03/23 [Ultra Low Latency Video Streaming: The Current State](https://www.zender.tv/news/2018/3/23/ultra-low-latency-streaming-the-current-state)
 - [The State of WebRTC and Streaming Media 2018](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-WebRTC-and-Streaming-Media-2018-124068.aspx)
 - 2018/09/13 [Limelight Promises Sub-Second Live Video Latency Using WebRTC](http://www.streamingmedia.com/Articles/News/Online-Video-News/Limelight-Promises-Sub-Second-Live-Video-Latency-Using-WebRTC--127392.aspx)
 
