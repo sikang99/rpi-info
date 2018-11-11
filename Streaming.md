@@ -15,7 +15,7 @@
 
 
 ### Paper
-- 2018 [What you pay is what you get?](https://link.springer.com/content/pdf/10.1007%2Fs41233-018-0018-9.pdf)
+- 2018 **[What you pay is what you get?](https://link.springer.com/content/pdf/10.1007%2Fs41233-018-0018-9.pdf)**
     - Fundamentals of charging Internet services based on end user Quality of Experience
 
 
