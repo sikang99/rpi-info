@@ -14,6 +14,11 @@
 - [Salsify/](https://snr.stanford.edu/salsify/) - Video is better when the codec and transport work together
 
 
+### Paper
+- 2018 [What you pay is what you get?](https://link.springer.com/content/pdf/10.1007%2Fs41233-018-0018-9.pdf)
+    - Fundamentals of charging Internet services based on end user Quality of Experience
+
+
 ---
 ## Youtube Live
 
