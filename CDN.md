@@ -46,6 +46,7 @@
 - [StriveCDN](https://strivetech.io/) - The New Standard For Live Video Delivery
     - [Blog](https://strivetech.io/blog/): [WebRTC](https://strivetech.io/blog/webrtc/)
 - [The Pipe](https://addpipe.com/) - Video & Audio Recording Clients + Infrastructure
+- [Zender](https://www.zender.tv/) - plug & play interactive live formats
 
 
 ### Solution
