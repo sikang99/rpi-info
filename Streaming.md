@@ -18,6 +18,7 @@
 - 2018 **[What you pay is what you get?](https://link.springer.com/content/pdf/10.1007%2Fs41233-018-0018-9.pdf)**
     - Fundamentals of charging Internet services based on end user Quality of Experience
 - 2018 [Quality of Experience Estimation for WebRTC-based Video Streaming](https://www.researchgate.net/profile/Yevgeniya_Sulema/publication/327633696_Quality_of_Experience_Estimation_for_WebRTC-based_Video_Streaming/links/5b9ab565299bf13e602c1eee/Quality-of-Experience-Estimation-for-WebRTC-based-Video-Streaming.pdf)
+- 2018 [Can WebRTC QoS Work? - A DSCP Measurement Study](https://itc-conference.org/_Resources/Persistent/780df4482d0fe80f6180f523ebb9482c6869e98b/Barik18ITC30.pdf)
 - 2016 [Analysis of challenges faced by WebRTC videoconferencing and a remedial architecture](https://arxiv.org/abs/1701.09182)
 
 
