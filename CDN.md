@@ -27,6 +27,7 @@
 ## CDN (Contents Delivery Network)
 
 ### History
+- [The State of WebRTC and Streaming Media 2018](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-WebRTC-and-Streaming-Media-2018-124068.aspx)
 
 
 ### Information
