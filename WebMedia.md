@@ -23,12 +23,14 @@
 
 ---
 ## [W3C](https://www.w3.org/)
-- [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
+- [Framework for Web technology roadmaps](https://github.com/w3c/web-roadmaps)
+    - [web-roadmaps - Framework for Web technology roadmaps](https://w3c.github.io/web-roadmaps/)
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
 - [WebAssembly Working Group](https://www.w3.org/wasm/)
 - [WebAssembly Core Specification](https://www.w3.org/TR/wasm-core-1/) - W3C Working Draft, 4 September 2018
 - [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) - W3C Candidate Recommendation 27 September 2018
 - [Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/) - W3C Candidate Recommendation 03 July 2018
+- [Report from the World Wide Web Consortium](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8444999)
 
 
 ---
@@ -38,6 +40,12 @@
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
+
+
+---
+## Web5G
+- [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
+- [W3C Workshop on Web5G](https://www.w3.org/2017/11/web5g-workshop/) - Aligning evolutions of network and Web technologies
 
 
 ---
