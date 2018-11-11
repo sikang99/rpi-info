@@ -26,9 +26,9 @@
 ---
 ## CDN (Contents Delivery Network)
 
-- Akamai
+- [Akamai](https://www.akamai.com/)
 - [Limelight Networks](https://www.limelight.com)
-- CDNetworks
+- [CDNetworks](https://www.kr.cdnetworks.com/)
 
 
 ### History
