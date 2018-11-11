@@ -26,8 +26,14 @@
 ---
 ## CDN (Contents Delivery Network)
 
+- Akamai
+- Limelight
+- CDNetworks
+
+
 ### History
 - [The State of WebRTC and Streaming Media 2018](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-WebRTC-and-Streaming-Media-2018-124068.aspx)
+- 2018/09/13 [Limelight Promises Sub-Second Live Video Latency Using WebRTC](http://www.streamingmedia.com/Articles/News/Online-Video-News/Limelight-Promises-Sub-Second-Live-Video-Latency-Using-WebRTC--127392.aspx)
 
 
 ### Information
