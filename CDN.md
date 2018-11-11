@@ -27,7 +27,7 @@
 ## CDN (Contents Delivery Network)
 
 - Akamai
-- Limelight
+- [Limelight Networks](https://www.limelight.com)
 - CDNetworks
 
 
