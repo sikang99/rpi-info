@@ -12,6 +12,7 @@
 
 ### Open Source
 - [containernetworking](https://github.com/containernetworking)
+- [Filirom1/cri.md](https://gist.github.com/Filirom1/df6bc4ad205c1ea9473817e014686913) - CRI-O and CRI-Containerd
 
 
 ---
@@ -20,6 +21,6 @@
 
 ---
 ## Kubernetes
-
+- [Kubernetes](https://kubernetes.io/) : [Documentation](https://kubernetes.io/docs/home/)
 
 
