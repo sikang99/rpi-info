@@ -66,9 +66,15 @@
 
 
 ### History
+- [Ethereum Oracle Contracts: Setup and Orientation](https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1)
 - 2018/10/29 [Chainlink — The Missing Piece To The God Protocol](https://blog.goodaudience.com/chainlink-the-missing-piece-to-the-god-protocol-fd455dde92ab) - A Complete Guide To Understanding Chainlink
 - 2018/09/29 [The State of Decentralized Oracles](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d)
 - 2017/10/18 [Blockchain Oracles, Explained](https://cointelegraph.com/explained/blockchain-oracles-explained)
+
+
+### Open Source
+- [jrkosinski/oracle-example](https://github.com/jrkosinski/oracle-example/tree/part1-step1)
+
 
 
 ---
@@ -112,6 +118,8 @@
 ---
 ## Private / Enterprise Blockchain
 ### History
+- 2018/11/12 [ERC20 token as Hyperledger Fabric Golang chaincode](https://medium.com/coinmonks/erc20-token-as-hyperledger-fabric-golang-chaincode-d09dfd16a339)
+- 2018/11/11 [Private Blockchains Could Be Compatible with EU Privacy Rules, Research Shows](https://altcointoday.com/private-blockchains-could-be-compatible-with-eu-privacy-rules-research-shows/)
 - 2018/10/31 [Why We Rebuilt Ethereum from Scratch](https://media.consensys.net/why-we-rebuilt-ethereum-from-scratch-9e38b6ebd4a2)
 - 2018/10/29 [JP Morgan’s Ethereum Blockchain based Platform “Quorum” to Enable Tokenization of Assets](https://www.blockchainreporter.net/2018/10/29/jp-morgans-ethereum-blockchain-based-platform-quorum-to-enable-tokenization-of-assets/)
 - 2018/10/29 [JP Morgan's Quorum blockchain opens new world of trading opportunities](https://www.afr.com/technology/jp-morgans-quorum-blockchain-opens-new-world-of-trading-opportunities-20181027-h176fs)
