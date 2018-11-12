@@ -56,3 +56,24 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 
 
+---
+## Simulcast
+
+### History
+- 2018/09/12 [How WebRTC Scales](https://blog.crowdcast.io/post/how-webrtc-scales)
+- 2018/08/14 [Simulcast が動いた日](https://medium.com/@voluntas/simulcast-9cae58e4e74e)
+- 2018/02/06 Twillo [Working with VP8 Simulcast](https://www.twilio.com/docs/video/tutorials/working-with-vp8-simulcast)
+- 2017/07/31 [A playground for Simulcast without an SFU](https://webrtchacks.com/a-playground-for-simulcast-without-an-sfu/)
+- [MANTIS SCALING WEBRTC TO MULTIPARTY](http://aullman.github.io/webrtc-developer-meetup-mantis/)
+- KITE [SimulcastTest overview](https://kiteboard.herokuapp.com/public?testname=SimulcastTest)
+
+
+### Open Source
+- [fippo/simulcast-playground](https://github.com/fippo/simulcast-playground) - single-page simulcast tests
+- [voluntas/webrtc_sfu_simulcast.rst](https://gist.github.com/voluntas/9d8a04ea62251b9d51fa2d83cb263f12)
+
+
+
+
+
+
