@@ -75,6 +75,7 @@
 ## Public Blockchain
 ### History
 - 2018/10/31 [OPINIONOpenBazaar Offers Crypto-Earning Potential](https://hacked.com/openbazaar-offers-crypto-earning-potential/)
+- 2018/10/25 [The Ethereum Blockchain and ERC20 Tokens: Technical Challenges and Solutions for 2019 and Beyond](https://medium.com/ethex-market/the-ethereum-blockchain-and-erc20-tokens-technical-challenges-and-solutions-for-2019-and-beyond-4335514c2a3)
 - 2018/07/03 [OpenBazaar 2.0 Review](https://steemit.com/cryptocurrency/@cryptoshoppe/openbazaar-2-0-review)
 - 2018/03/22 [How Blockchain Will Revolutionize Online Marketplaces](https://hackernoon.com/how-blockchain-will-revolutionize-online-marketplaces-64fd6101bbf0)
 - 2018/03/06 dApp 알아보기: OpenBazaar 알아보기 [1탄](https://steemit.com/kr/@hslife/dapp-openbazaar-1), [2탄](https://steemit.com/kr/@hslife/dapp-openbazaar-2)
