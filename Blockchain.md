@@ -143,6 +143,7 @@
 - [Quorum](https://www.jpmorgan.com/country/US/en/Quorum)  by JP Morgan
     - [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [PegaSys](https://pegasys.tech/) Pantheon - Ethereum for the Enterprise
+- [Insolar](https://insolar.io/) - Distributed business networks
 
 
 ### Project
@@ -161,6 +162,7 @@
 
 ### Open Source
 - [PegaSysEng/pantheon](https://github.com/PegaSysEng/pantheon)
+- [insolar/insolar](https://github.com/insolar/insolar) - Enterprise-ready blockchain platform 
 
 
 ---
