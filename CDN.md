@@ -16,6 +16,8 @@
 
 ### History
 - 2018/07/11 [Disrupting OTT video technology: decentralized video on the blockchain](https://www.linkedin.com/pulse/disrupting-ott-video-technology-decentralized-luke-carriere)
+- 2018/04/16 [NAB 2018 in Review: OTT, AI, Machine-Learning, IP Top Digital Highlights](https://www.sportsvideo.org/2018/04/16/nab-show-in-review-ott-ai-machine-learning-ip-reign-as-digital-highlights/)
+    - Direct-to-consumer streaming strategies
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 - [How Blockchain technology is reinventing media and OTT industry](https://streamhash.com/how-blockchain-technology-is-reinventing-media-and-ott-industry/)
 
