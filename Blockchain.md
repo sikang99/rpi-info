@@ -210,6 +210,7 @@
 
 ### History
 - 2018/10/01 [An Overview of TLS 1.3 – Faster and More Secure](https://kinsta.com/blog/tls-1-3/)
+- 2018/09/24 [Improving web performance & security with TLS 1.3](https://www.cdn77.com/blog/latest-tls-improving-https/)
 - 2018/08/26 [Deploying TLS 1.3](https://www.internetsociety.org/blog/2018/08/deploying-tls-1-3/)
 - 2017/07/13 [Encrypting the Internet with Go - Tutorial](https://about.sourcegraph.com/go/encrypting-the-internet-with-go-tutorial)
 - 2017/09/01 [SIDH in Go for quantum-resistant TLS 1.3](https://blog.cloudflare.com/sidh-go/)
