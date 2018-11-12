@@ -96,6 +96,7 @@
     - [Blog](https://openbazaar.org/blog/)
     - [Github](https://github.com/OpenBazaar)
 - [Perin](https://www.perlin.net/)
+- [GoChain](https://gochain.io/) - 100% Ethereum Compatible, 100x Faster
 
 
 ### Book

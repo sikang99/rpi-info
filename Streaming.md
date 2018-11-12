@@ -62,11 +62,13 @@
 ### History
 - 2018/09/12 [How WebRTC Scales](https://blog.crowdcast.io/post/how-webrtc-scales)
 - 2018/08/14 [Simulcast が動いた日](https://medium.com/@voluntas/simulcast-9cae58e4e74e)
+- 2018/04/11 [Webrtc Codec vs Media Engines: Implementation Status and why you should care](http://webrtcbydralex.com/index.php/2018/04/11/900/)
 - 2018/02/06 Twillo [Working with VP8 Simulcast](https://www.twilio.com/docs/video/tutorials/working-with-vp8-simulcast)
 - 2018/01/15 [How Many Users Can Fit in a WebRTC Call?](https://bloggeek.me/how-many-users-webrtc-call/)
 - 2017/07/31 [A playground for Simulcast without an SFU](https://webrtchacks.com/a-playground-for-simulcast-without-an-sfu/)
 - [MANTIS SCALING WEBRTC TO MULTIPARTY](http://aullman.github.io/webrtc-developer-meetup-mantis/)
 - KITE [SimulcastTest overview](https://kiteboard.herokuapp.com/public?testname=SimulcastTest)
+- [KITE for webrtc testing, 04-2018 Update](https://www.w3.org/2011/04/webrtc/wiki/images/6/65/KITE-Update-2018-05-22.pdf)
 - Using Simulcast in SDP and RTP Sessions - [draft-ietf-mmusic-sdp-simulcast-13](https://tools.ietf.org/html/draft-ietf-mmusic-sdp-simulcast-13)
 - WebRTC Glossary: [Simulcast](https://webrtcglossary.com/simulcast/)
 
@@ -74,6 +76,7 @@
 ### Open Source
 - [fippo/simulcast-playground](https://github.com/fippo/simulcast-playground) - single-page simulcast tests
 - [voluntas/webrtc_sfu_simulcast.rst](https://gist.github.com/voluntas/9d8a04ea62251b9d51fa2d83cb263f12)
+- [twauters/WebRTC_dynamic_SFU](https://github.com/twauters/WebRTC_dynamic_SFU) - jitsi-videobridge
 
 
 
