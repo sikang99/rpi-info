@@ -16,11 +16,11 @@ edit e:
 	@echo "make (edit) [make|readme|peer|web|flutter|blockchain]"
 	@echo ""
 
-edit-readme er:
-	$(EDITOR) README.md
-
 edit-block eb:
 	$(EDITOR) Blockchain.md
+
+edit-container ec:
+	$(EDITOR) Container.md
 
 edit-web ew:
 	$(EDITOR) WebMedia.md
@@ -39,6 +39,9 @@ edit-janus ej:
 
 edit-lib el:
 	$(EDITOR) libwebrtc.md
+
+edit-readme er:
+	$(EDITOR) README.md
 
 edit-make em:
 	$(EDITOR) Makefile
