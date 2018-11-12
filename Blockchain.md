@@ -166,6 +166,7 @@
 
 ---
 ## WebRTC
+- 2018/08/16 [VoIB — Voice over Internet & Blockchain](https://medium.com/@elagerway/voib-voice-over-internet-blockchain-69a1e93fab3e)
 - [Learning WebRTC peer-to-peer communication, part 1](https://swizec.com/blog/learning-webrtc-peer-peer-communication-part-1/swizec/8359)
 - 2018/08/31 [Blockchain + WebRTC: A Decentralized Video Recorder](https://medium.com/@frederikriedel/blockchain-webrtc-a-decentralized-video-recorder-b1b8905665b0)
 - 2017/05/08 [Blockchain Will Change Everything, Even VoIP](https://getvoip.com/blog/2017/05/08/blockchain-and-voip/)
