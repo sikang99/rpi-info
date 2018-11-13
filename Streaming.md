@@ -14,6 +14,7 @@
 - [Standards and Research Publications](https://www.callstats.io/research/)
 - [Salsify/](https://snr.stanford.edu/salsify/) - Video is better when the codec and transport work together
 - [MONROE project](https://github.com/MONROE-PROJECT/)
+- [Live streaming web audio and video](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_delivery/Live_streaming_web_audio_and_video)
 
 
 ### Paper : [Google Scholar Search](https://scholar.google.co.kr/schhp)
@@ -50,6 +51,7 @@
 
 ### History
 - 2018/10/05 [This Open Source Video Streaming Protocol is Completely Disrupting the Broadcast News Industry](https://www.haivision.com/blog/live-video-streaming/open-source-video-streaming-protocol-disrupting-broadcast-news/)
+- 2018/02/16 [SRT in GStreamer](https://www.collabora.com/news-and-blog/blog/2018/02/16/srt-in-gstreamer/)
 - 2018/02/02 [8 Free & Best Open source Video Streaming Servers Software](https://www.how2shout.com/tools/free-best-open-source-video-streaming-servers-software.html)
 
 ### Open Source
