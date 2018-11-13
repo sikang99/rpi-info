@@ -22,6 +22,7 @@
     - Direct-to-consumer streaming strategies
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 - [How Blockchain technology is reinventing media and OTT industry](https://streamhash.com/how-blockchain-technology-is-reinventing-media-and-ott-industry/)
+- 2017/11/21 [You Down with OTT? Yeah, You Know Me](https://medium.com/@terezdotcc/you-down-with-ott-yeah-you-know-me-a88bfd338d7b)
 
 ### Open Source
 - [streamproject](https://github.com/streamproject)
@@ -50,7 +51,7 @@
     - [Blog](https://strivetech.io/blog/): [WebRTC](https://strivetech.io/blog/webrtc/)
 - [The Pipe](https://addpipe.com/) - Video & Audio Recording Clients + Infrastructure
 - [Zender](https://www.zender.tv/) - plug & play interactive live formats
-
+- [nanoStream](https://www.nanocosmos.de/) - Live Video Streaming Software and Services
 
 ### Solution
 - [Dead Simple Screen Sharing](https://www.deadsimplescreensharing.com/) - Screen Sharing and audio/video conferencing right from your browser
