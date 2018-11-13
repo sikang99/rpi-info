@@ -4,7 +4,6 @@
 - OTT
 - CDN
 
-
 ---
 ## New Internet
 - [A Beginner's Guide to the Decentralized Internet](http://www.electronicbeats.net/a-beginners-guide-to-the-decentralized-internet/)
@@ -13,6 +12,9 @@
 
 ---
 ## OTT (Over The Top)
+- [Bitmovin](https://bitmovin.com/)
+    - [Blog](https://bitmovin.com/blog/):[R&D](https://bitmovin.com/research/)
+
 
 ### History
 - 2018/07/11 [Disrupting OTT video technology: decentralized video on the blockchain](https://www.linkedin.com/pulse/disrupting-ott-video-technology-decentralized-luke-carriere)
@@ -27,7 +29,6 @@
 
 ---
 ## CDN (Contents Delivery Network)
-
 - [Akamai](https://www.akamai.com/)
 - [Limelight Networks](https://www.limelight.com)
 - [CDNetworks](https://www.kr.cdnetworks.com/)
@@ -43,7 +44,7 @@
 - [Restream](https://restream.io/)
 - [Streamroot](https://streamroot.io/)
 - [Millicast](https://millicast.com/) - Real-time CDN
-- [Teleport Media](https://teleport.media) - WebRTC Live Streaming
+- **[Teleport Media](https://teleport.media)** - WebRTC Live Streaming using Decentralized CDNs:w
 - [SkyLink](https://skylink.io/) - Unlimited WebRTC and all the tools
 - [StriveCDN](https://strivetech.io/) - The New Standard For Live Video Delivery
     - [Blog](https://strivetech.io/blog/): [WebRTC](https://strivetech.io/blog/webrtc/)
