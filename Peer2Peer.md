@@ -53,7 +53,7 @@
 - [cdnbye/P2P-CKPlayer](https://github.com/cdnbye/P2P-CKPlayer) - 
 - [flexconstructor/openvidu-tutorial](https://github.com/flexconstructor/openvidu-tutorial)
 - [flexconstructor/go_player](https://github.com/flexconstructor/go_player) - pseudo-streaming live video player with golang
-- [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - P2P Media Loader - engine for Hls.js and Shaka Player
+- **[Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader)** - P2P Media Loader - engine for Hls.js and Shaka Player
 - [mingyiz/videojs-rtc](https://github.com/mingyiz/videojs-rtc)
 - [shanebloomer/webrtc-link](https://github.com/shanebloomer/webrtc-link)
 
