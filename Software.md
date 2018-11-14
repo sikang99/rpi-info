@@ -33,6 +33,10 @@
 - [kaltura](https://github.com/kaltura)
 - [directus/directus](https://github.com/directus/directus) - Future-Proof Headless CMS & API for Custom Databases
 
+---
+## Broadcasting
+- LiveStream: [Studio 5](https://livestream.com/studio/)
+
 
 ---
 ## OBS (Open Broascasting Software)
