@@ -246,9 +246,12 @@
 ## Evalution 
 
 ### Paper
+- 2017 [A Survey on Various Reputation Assesement Techniques](https://www.irjet.net/archives/V4/i2/IRJET-V4I2196.pdf)
 - 2017 [From Personal Experience to Global Reputation for Trust Evaluation in the Social Internet of Things](https://www.researchgate.net/publication/321527299_From_Personal_Experience_to_Global_Reputation_for_Trust_Evaluation_in_the_Social_Internet_of_Things)
 - 2014 [A Method of Evaluating Trust and Reputation for Online Transactions](https://pdfs.semanticscholar.org/bdeb/e34dfb9a40f6a5419a328f2b6f3c631165a1.pdf)
+- 2014 [Reputation systems: A survey and taxonomy](https://www.researchgate.net/publication/264983117_Reputation_systems_A_survey_and_taxonomy)
 - 2010 [A Blogger Reputation Evaluation Model Based on Opinion Analysis](https://www.computer.org/csdl/proceedings/apscc/2010/9396/00/05708550.pdf)
+- 2007 [Reputation-based Governance: a Primer](https://www.researchgate.net/publication/228387162_Reputation-based_Governance_a_Primer)
 
 
 

@@ -77,21 +77,20 @@
 
 
 ## QUIC(Quick UDP Internet Connection)
-
 - [IETF QUIC Working Group](https://github.com/quicwg)
 - [GoLangLibs](https://golanglibs.com/) for [quic](https://golanglibs.com/search?q=quic&sort=top&page=1)
 - [Merlin Adds Support for the QUIC protocol](https://medium.com/@Ne0nd0g/merlin-adds-support-for-the-quic-protocol-ee5f8a1e8955)
 - [The Road to QUIC](https://medium.com/cloudflare-blog/the-road-to-quic-9f100dc57d9d)
 - [Introducing bchd](https://www.yours.org/content/introducing-bchd-aee6a07feb00)
 
-## P2PSP (Peer to Peer Straightforward Protocol)
 
+## P2PSP (Peer to Peer Straightforward Protocol)
 - [P2PSP/core](https://github.com/P2PSP/core)
 - [P2PSP/p2psp-console](https://github.com/P2PSP/p2psp-console)
 - [P2PSP/WebRTC](https://github.com/P2PSP/WebRTC)
 - [P2PSP/WebRTC-lib](https://github.com/P2PSP/WebRTC-lib)
 - [cristobalmedinalopez/p2psp-webrtc-experiments](https://github.com/cristobalmedinalopez/p2psp-webrtc-experiments)
-
+- [lucasmenendez/gop2p](https://github.com/lucasmenendez/gop2p) - Simple Peer-to-Peer implementation in go
 
 
 ## Blockchain
