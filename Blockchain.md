@@ -244,6 +244,7 @@
 
 ---
 ## Evalution 
+- [wiki/Reputation system](https://en.wikipedia.org/wiki/Reputation_system)
 
 ### Paper
 - 2017 [A Survey on Various Reputation Assesement Techniques](https://www.irjet.net/archives/V4/i2/IRJET-V4I2196.pdf)
