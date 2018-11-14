@@ -36,6 +36,7 @@
 ---
 ## Broadcasting
 - LiveStream: [Studio 5](https://livestream.com/studio/)
+- [Smart Shooter](https://kuvacode.com/) - Multi-Camera Control
 
 
 ---
