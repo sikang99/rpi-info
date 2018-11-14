@@ -80,6 +80,8 @@
 - [fippo/simulcast-playground](https://github.com/fippo/simulcast-playground) - single-page simulcast tests
 - [voluntas/webrtc_sfu_simulcast.rst](https://gist.github.com/voluntas/9d8a04ea62251b9d51fa2d83cb263f12)
 - [twauters/WebRTC_dynamic_SFU](https://github.com/twauters/WebRTC_dynamic_SFU) - jitsi-videobridge
+- [CoSMoSoftware/simulcast-testsuite](https://github.com/CoSMoSoftware/simulcast-testsuite) - Simulcast Compliance Test Suite
+- [https://github.com/CoSMoSoftware/webrtc-h264-simulcast](https://github.com/CoSMoSoftware/webrtc-h264-simulcast)
 
 
 

@@ -45,6 +45,11 @@
 
 
 ---
+## Web Push
+- [The Definitive Guide to Web Push Notifications (Updated 2018)](https://blog.sendx.io/definitive-guide-to-browser-push-notifications/)
+
+
+---
 ## WebAudio
 - [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 
@@ -274,6 +279,9 @@
 ### Open Source
 - [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
 - [01org/depth-camera-web-demo](https://github.com/01org/depth-camera-web-demo) - Depth camera capture in HTML5
+
+### Paper
+- 2018 [Distributed Architecture for Remote Collaborative Modification of Parametric CAD Data](https://hal.inria.fr/hal-01849289/document)
 
 
 ---

@@ -242,6 +242,13 @@
 - [bifurcation/mint](https://github.com/bifurcation/mint) - A Minimal TLS 1.3 Implementation in Go
 
 
+---
+## Evalution 
+
+### Paper
+- 2017 [From Personal Experience to Global Reputation for Trust Evaluation in the Social Internet of Things](https://www.researchgate.net/publication/321527299_From_Personal_Experience_to_Global_Reputation_for_Trust_Evaluation_in_the_Social_Internet_of_Things)
+- 2014 [A Method of Evaluating Trust and Reputation for Online Transactions](https://pdfs.semanticscholar.org/bdeb/e34dfb9a40f6a5419a328f2b6f3c631165a1.pdf)
+- 2010 [A Blogger Reputation Evaluation Model Based on Opinion Analysis](https://www.computer.org/csdl/proceedings/apscc/2010/9396/00/05708550.pdf)
 
 
 
