@@ -252,6 +252,7 @@
 - 2014 [A Method of Evaluating Trust and Reputation for Online Transactions](https://pdfs.semanticscholar.org/bdeb/e34dfb9a40f6a5419a328f2b6f3c631165a1.pdf)
 - 2014 [Reputation systems: A survey and taxonomy](https://www.researchgate.net/publication/264983117_Reputation_systems_A_survey_and_taxonomy)
 - 2010 [A Blogger Reputation Evaluation Model Based on Opinion Analysis](https://www.computer.org/csdl/proceedings/apscc/2010/9396/00/05708550.pdf)
+- 2008 [Evaluating trust in electronic commerce: a study based on the information provided on merchants' websites](http://usir.salford.ac.uk/910/1/JORS_Final.pdf)
 - 2007 [Reputation-based Governance: a Primer](https://www.researchgate.net/publication/228387162_Reputation-based_Governance_a_Primer)
 
 
