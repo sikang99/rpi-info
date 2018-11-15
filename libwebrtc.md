@@ -11,6 +11,7 @@
 - [WebRTC Standard Status by Amir Zmora](https://www.slideshare.net/AmirZ?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 - [WebRTC by Dr Alex](https://webrtcbydralex.com/)
 - [Colin Perkins](https://csperkins.org/)
+- [gist.github.com/voluntas](https://gist.github.com/voluntas) - Summary, Status
 
 
 
