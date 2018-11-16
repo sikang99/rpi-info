@@ -67,6 +67,7 @@
 - [Mitel](https://www.mitel.com)
 
 ### Paper
+- 2018 [A Distributed Caching Architecture for Over-the-Top Content Distribution](http://dl.ifip.org/db/conf/wons/wons2018/02-17-A-Distributed-Dias-5189263.pdf)
 - 2018 [Secure Incentivization for Decentralized Content Delivery](https://arxiv.org/pdf/1808.00826.pdf)
     - Proof of Delivery Chain (PoDC)
 - 2017 [Hybrid P2P/CDN solutions This section explains the delivery of video content over the Internet within the Future Media Internet](https://tel.archives-ouvertes.fr/tel-01661592/document)
