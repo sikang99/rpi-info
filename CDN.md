@@ -64,9 +64,11 @@
 
 ### Paper
 - 2017 [Hybrid P2P/CDN solutions This section explains the delivery of video content over the Internet within the Future Media Internet](https://tel.archives-ouvertes.fr/tel-01661592/document)
+- 2016 [CDNPatch: a cost-effective failover mechanism for hybrid CDN-P2P live streaming systems](http://speed.cis.nctu.edu.tw/~ydlin/CDNPatch.pdf)
 - 2014 [Understanding Hybrid CDN-P2P Video-on-demand Streaming](https://www.researchgate.net/publication/273161823_Unreeling_Xunlei_Kankan_Understanding_Hybrid_CDN-P2P_Video-on-demand_Streaming)    
 - 2008 [Understanding Hybrid CDN-P2P: Why Limelight Needs its Own Red Swoosh](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.1651&rep=rep1&type=pdf)
 - 2006 [Analysis of a CDN–P2P hybrid architecture for cost-effective streaming media distribution](https://friends.cs.purdue.edu/pubs/MMSJ06.pdf)
+- [A novel Hybrid CDN-P2P mechanism For effective real-time media streaming](https://www-npa.lip6.fr/~fourmaux/Stages/HA.ACM_Rapport.pdf)
 
 
 ### Etc
