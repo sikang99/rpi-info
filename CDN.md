@@ -68,6 +68,7 @@
 - 2014 [Understanding Hybrid CDN-P2P Video-on-demand Streaming](https://www.researchgate.net/publication/273161823_Unreeling_Xunlei_Kankan_Understanding_Hybrid_CDN-P2P_Video-on-demand_Streaming)    
 - 2012 [Content Delivery Architectures for Live Video Streaming: Hybrid CDN-P2P as the best option](https://www.thinkmind.org/download.php?articleid=ctrq_2012_2_10_10086)
 - 2012 [A novel Hybrid CDN-P2P mechanism For effective real-time media streaming](https://www-npa.lip6.fr/~fourmaux/Stages/HA.ACM_Rapport.pdf)
+- 2011 [An Anallysis and Comparison of CDN-P2P-bybrid Content Delivery Systema and Model](http://www.paper.edu.cn/scholar/showpdf/MUT2EN0IMTD0Axzh)
 - 2008 [Understanding Hybrid CDN-P2P: Why Limelight Needs its Own Red Swoosh](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.1651&rep=rep1&type=pdf)
 - 2006 [Analysis of a CDN–P2P hybrid architecture for cost-effective streaming media distribution](https://friends.cs.purdue.edu/pubs/MMSJ06.pdf)
 
