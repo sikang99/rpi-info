@@ -33,6 +33,7 @@
 - [Akamai](https://www.akamai.com/)
 - [Limelight Networks](https://www.limelight.com)
 - [CDNetworks](https://www.kr.cdnetworks.com/)
+- [CloudFlare](https://www.cloudflare.com/)
 
 
 ### History
@@ -64,6 +65,7 @@
 
 ### Paper
 - 2018 [Secure Incentivization for Decentralized Content Delivery](https://arxiv.org/pdf/1808.00826.pdf)
+    - Proof of Delivery Chain (PoDC)
 - 2017 [Hybrid P2P/CDN solutions This section explains the delivery of video content over the Internet within the Future Media Internet](https://tel.archives-ouvertes.fr/tel-01661592/document)
 - 2016 [CDNPatch: a cost-effective failover mechanism for hybrid CDN-P2P live streaming systems](http://speed.cis.nctu.edu.tw/~ydlin/CDNPatch.pdf)
 - 2014 [Understanding Hybrid CDN-P2P Video-on-demand Streaming](https://www.researchgate.net/publication/273161823_Unreeling_Xunlei_Kankan_Understanding_Hybrid_CDN-P2P_Video-on-demand_Streaming)    
