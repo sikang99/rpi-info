@@ -70,7 +70,6 @@
 - 2012 [A novel Hybrid CDN-P2P mechanism For effective real-time media streaming](https://www-npa.lip6.fr/~fourmaux/Stages/HA.ACM_Rapport.pdf)
 - 2008 [Understanding Hybrid CDN-P2P: Why Limelight Needs its Own Red Swoosh](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.1651&rep=rep1&type=pdf)
 - 2006 [Analysis of a CDN–P2P hybrid architecture for cost-effective streaming media distribution](https://friends.cs.purdue.edu/pubs/MMSJ06.pdf)
-Hybrid CDN-P2P as the best option](https://www.thinkmind.org/download.php?articleid=ctrq_2012_2_10_10086)
 
 ### Patent
 - [Hybrid content delivery network (cdn) and peer-to-peer (p2p) network](https://patents.google.com/patent/EP2080105A2) - EP2080105A2
