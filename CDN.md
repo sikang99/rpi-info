@@ -22,10 +22,15 @@
     - Direct-to-consumer streaming strategies
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 - [How Blockchain technology is reinventing media and OTT industry](https://streamhash.com/how-blockchain-technology-is-reinventing-media-and-ott-industry/)
+- 2017/11/29 [Scaling our many-to-many video infrastructure](https://blog.propsproject.com/scaling-our-many-to-many-video-infrastructure-157042ab9cb7)
 - 2017/11/21 [You Down with OTT? Yeah, You Know Me](https://medium.com/@terezdotcc/you-down-with-ott-yeah-you-know-me-a88bfd338d7b)
 
 ### Open Source
 - [streamproject](https://github.com/streamproject)
+
+### Paper
+- 2018 [A Survey on Adaptive Video Streaming Techniques with Cloud](https://acadpubl.eu/jsi/2018-118-16-17/articles/17/12.pdf)
+
 
 
 ---
