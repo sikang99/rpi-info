@@ -130,6 +130,7 @@
 - 2018/05/09 [Enterprise Blockchain Has Arrived](https://medium.com/crypto-oracle/enterprise-blockchain-has-arrived-2d2e4d8ec0d)
 - 2018/05/11 [Tendermint Explained — Bringing BFT-based PoS to the Public Blockchain Domain](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)
 - 2018/00/00 [What is an Enterprise Blockchain Smart Contract?](https://blockapps.net/enterprise-blockchain-smart-contract/)
+- 2017/03/16 [Permissioned/Private Blockchains and Databases](https://www.facebook.com/notes/mohan-c-mohan/permissionedprivate-blockchains-and-databases/10155027556287295/)
 
 
 ### Information
