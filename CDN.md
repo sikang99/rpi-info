@@ -62,6 +62,10 @@
 - [Dead Simple Screen Sharing](https://www.deadsimplescreensharing.com/) - Screen Sharing and audio/video conferencing right from your browser
 - [Mitel](https://www.mitel.com)
 
+### Paper
+- [Hybrid P2P/CDN solutions This section explains the delivery of video content over the Internet within the Future Media Internet](https://tel.archives-ouvertes.fr/tel-01661592/document)
+    
+
 
 ### Etc
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
