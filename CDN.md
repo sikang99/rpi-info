@@ -30,10 +30,7 @@
 
 ---
 ## CDN (Contents Delivery Network)
-- [Akamai](https://www.akamai.com/)
-- [Limelight Networks](https://www.limelight.com)
-- [CDNetworks](https://www.kr.cdnetworks.com/)
-- [CloudFlare](https://www.cloudflare.com/)
+- [The Best CDN Hosting: Who's The Best For Your Site? [Updated: 2018])(https://www.whoishostingthis.com/compare/cdn/)
 
 
 ### History
@@ -43,7 +40,13 @@
 - 2016/08/09 [Bringing Web-Performance to the Next Level — An Overview of Baqend](https://medium.baqend.com/bringing-web-performance-to-the-next-level-an-overview-of-baqend-be3521bc2faf)
 
 
-### Information
+### Major
+- [Akamai](https://www.akamai.com/)
+- [Limelight Networks](https://www.limelight.com)
+- [CDNetworks](https://www.kr.cdnetworks.com/)
+- [CloudFlare](https://www.cloudflare.com/)
+
+### Newer
 - [Restream](https://restream.io/)
 - [Streamroot](https://streamroot.io/)
 - [Millicast](https://millicast.com/) - Real-time CDN
