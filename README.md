@@ -298,6 +298,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c)
 - [aykevl/tinygo](https://github.com/aykevl/tinygo) - Go compiler for small devices, based on LLVM
+- [ziutek/emgo](https://github.com/ziutek/emgo) - Emgo: Bare metal Go (language for programming embedded systems)
 
 
 ## RPi Cluster
