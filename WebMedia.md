@@ -286,6 +286,7 @@
 
 ---
 ## WebAssembly
+- [wiki/WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [WebAeembly Rocks](https://www.wasmrocks.com/)
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
@@ -303,6 +304,7 @@
 - 2018/10/08 [How to take off with WebAssembly for Go in React](https://medium.freecodecamp.org/taking-off-with-webassembly-for-go-in-react-7c099bd907fa)
 - 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 - 2018/10/01 [The dark side of WebAssembly](https://www.virusbulletin.com/virusbulletin/2018/10/dark-side-webassembly/)
+- 2018/07/02 [The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html)
 
 
 ### Open Source
