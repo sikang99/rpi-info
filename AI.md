@@ -19,6 +19,8 @@
 ### Open Source
 - [voice-engine/make-a-smart-speaker](https://github.com/voice-engine/make-a-smart-speaker) - A collection of resources to make a smart speaker
 - [evalphobia/google-home-client-go](https://github.com/evalphobia/google-home-client-go) - Google Home client for golang
+- [plutov/packagemain](https://github.com/plutov/packagemain) - Collection of materials for my Youtube Channel about Go
+    - [plutov/packagemain/tree/master/10-ghome-aqi](https://github.com/plutov/packagemain/tree/master/10-ghome-aqi) - Building Google Home Action with Go
 
 
 ---
