@@ -291,9 +291,12 @@
 - Mozilla [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Github [Topics: WebAssembly](https://github.com/topics/webassembly)
 - Reddit for [WebAssembly](https://www.reddit.com/r/WebAssembly/)
+- [WebAssembly Worker Based Threads](https://www.chromestatus.com/feature/5724132452859904)
+    - [WebAssembly/threads](https://github.com/WebAssembly/threads)
 
 
 ### History
+- 2018/11/13 [Using WebAssembly and Threads (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=zgOGZgAPUjQ)
 - 2018/10/27 [Compiling an Existing C Module to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/existing_C_to_wasm)
 - 2018/10/24 [Multithreading Rust and Wasm](https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html)
 - 2018/10/23 [Is WebAssembly faster than JavaScript?](https://lemire.me/blog/2018/10/23/is-webassembly-faster-than-javascript/)
