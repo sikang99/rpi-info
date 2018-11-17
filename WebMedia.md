@@ -306,6 +306,7 @@
 - 2018/10/01 [WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 - 2018/10/01 [The dark side of WebAssembly](https://www.virusbulletin.com/virusbulletin/2018/10/dark-side-webassembly/)
 - 2018/07/02 [The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html)
+- 2018/06/15 [Introduction to WebAssembly](https://www.afasterweb.com/2018/06/15/introduction-to-webassembly/)
 
 
 ### Open Source
