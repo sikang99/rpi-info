@@ -297,6 +297,7 @@ $ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial)
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c)
+- [aykevl/tinygo](https://github.com/aykevl/tinygo) - Go compiler for small devices, based on LLVM
 
 
 ## RPi Cluster
