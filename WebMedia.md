@@ -294,6 +294,7 @@
 - Reddit for [WebAssembly](https://www.reddit.com/r/WebAssembly/)
 - [WebAssembly Worker Based Threads](https://www.chromestatus.com/feature/5724132452859904)
     - [WebAssembly/threads](https://github.com/WebAssembly/threads)
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem
 
 
 ### History
