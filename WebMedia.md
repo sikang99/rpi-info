@@ -295,6 +295,9 @@
 - [WebAssembly Worker Based Threads](https://www.chromestatus.com/feature/5724132452859904)
     - [WebAssembly/threads](https://github.com/WebAssembly/threads)
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem
+- [0326/Awesome-WebAssembly](https://github.com/0326/Awesome-WebAssembly)
+- [trending/webassembly](https://github.com/trending/webassembly) - Trending for WebAssembly
+- [rustwasm](https://github.com/rustwasm) - Rust and WebAssembly
 
 
 ### History
