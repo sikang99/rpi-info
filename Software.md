@@ -40,7 +40,8 @@
 - [Prism Live Studio](http://prismlive.com/ko_kr/mapp/)
 
 ### Open Source
-- [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software)
+- [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web (WBS) [Demo](https://t-mullen.github.io/Web-Broadcasting-Software/)
+- [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite
 
 
 ---
