@@ -15,6 +15,7 @@
 
 
 ### Open Source
+- [pjreddie/darknet](https://github.com/pjreddie/darknet) - Darknet
 - [t-mullen/video-object-detection](https://github.com/t-mullen/video-object-detection) - Realtime object detection with TensorFlow [Demo](https://t-mullen.github.io/video-object-detection/index.html)
 - [ModelDepot/tfjs-yolo-tiny](https://github.com/ModelDepot/tfjs-yolo-tiny) - In-Browser Object Detection using Tiny YOLO on Tensorflow.js [Demo](https://modeldepot.io/mikeshi/tiny-yolo-in-javascript)
 
