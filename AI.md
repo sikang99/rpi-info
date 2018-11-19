@@ -7,6 +7,10 @@
 ### History
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 
+### Open Source
+- [t-mullen/video-object-detection](https://github.com/t-mullen/video-object-detection) - 
+Realtime object detection with TensorFlow [Demo](https://t-mullen.github.io/video-object-detection/index.html)
+
 
 ---
 ## Assistant
