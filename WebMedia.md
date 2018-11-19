@@ -296,8 +296,10 @@
     - [WebAssembly/threads](https://github.com/WebAssembly/threads)
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem
 - [0326/Awesome-WebAssembly](https://github.com/0326/Awesome-WebAssembly)
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [trending/webassembly](https://github.com/trending/webassembly) - Trending for WebAssembly
 - [rustwasm](https://github.com/rustwasm) - Rust and WebAssembly
+- [softprops/awesome-mdbook](https://github.com/softprops/awesome-mdbook) - a card catalog of mdbooks for your reading curiosity
 
 
 ### History
