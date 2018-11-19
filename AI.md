@@ -7,6 +7,8 @@
 - 2018/10/22 [Build An Alexa Skill With Golang And AWS Lambda](https://www.thepolyglotdeveloper.com/2018/10/build-alexa-skill-golang-aws-lambda/)
 - 2018/08/08 [One-way Conversational Devices are Taking Off Using WebRTC and RTC]](https://www.callstats.io/blog/2018/08/08/one-way-conversational-devices-are-taking-off-using-webrtc-real-time-communication-verticals-series)
 - 2018/03/15 [WebRTC AI solution wants to Optimize your calling experience](https://appdevelopermagazine.com/webrtc-ai-solution-wants-to-optimize-your-calling-experience/)
+- 2018/01/16 [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b)
+
 
 ### Domestic
 - 2018/02/23 [SK텔레콤, MWC 2018 - 홀로그램 AI 스피커 '홀로박스 (HoloBox)' 공개](https://www.netmanias.com/ko/post/operator_news/13235)
