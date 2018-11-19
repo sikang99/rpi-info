@@ -85,6 +85,9 @@
 - [MarcusOy/ScoreBoardBlocksOBS](https://github.com/MarcusOy/ScoreBoardBlocksOBS) - A modular scoreboard for streaming programs like OBS
 
 
+## Video Editor
+- [Basic Real-time AV Editor](https://www.ctolib.com/bbc-brave.html)
+
 
 
 
