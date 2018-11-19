@@ -8,9 +8,11 @@
     - [YOLO with Webcam](https://ml5js.org/docs/yolo-webcam)
 - [Machine Learning for Artists](https://ml4a.github.io/ml4a/)
     - [YOLO Live](https://ml4a.github.io/guides/YoloLive/)
+- [OpenYOLO for Android](https://openid.net/specs/openyolo-android-03.html)
 
 
 ### History
+- [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
@@ -21,6 +23,9 @@
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Darknet
 - [t-mullen/video-object-detection](https://github.com/t-mullen/video-object-detection) - Realtime object detection with TensorFlow [Demo](https://t-mullen.github.io/video-object-detection/index.html)
 - [ModelDepot/tfjs-yolo-tiny](https://github.com/ModelDepot/tfjs-yolo-tiny) - In-Browser Object Detection using Tiny YOLO on Tensorflow.js [Demo](https://modeldepot.io/mikeshi/tiny-yolo-in-javascript)
+- [openid/OpenYOLO-Android](https://github.com/openid/OpenYOLO-Android) - Android protocol for credential exchange and update - YOLO
+- [openid/OpenYOLO-Web](https://github.com/openid/OpenYOLO-Web) Web protocol for credential exchange and update - YOLO
+
 
 
 ### Papers
