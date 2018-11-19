@@ -37,6 +37,7 @@
 ## Broadcasting
 - LiveStream: [Studio 5](https://livestream.com/studio/)
 - [Smart Shooter](https://kuvacode.com/) - Multi-Camera Control
+- [Prism Live Studio](http://prismlive.com/ko_kr/mapp/)
 
 
 ---
@@ -92,9 +93,11 @@
 
 
 ### History
+- 2018/11/15 [The best video editing software 2018: free and paid](https://www.techradar.com/news/best-video-editing-software-paid-and-free)
 - 2018/08/15 [The 16 Best Video Editing Apps You Must Use In 2018](https://adespresso.com/blog/best-video-editing-apps/)
 - 2018/07/20 [20 Best Free Video Editing Software Programs in 2018](https://www.oberlo.com/blog/best-free-video-editing-software)
 - 2018/06/05 [20 Best Free Video Editing Software Tools in 2018](https://learn.g2crowd.com/11-best-free-video-editor-tools-beginners/)
+- 2018/04/09 [The current state of Linux video editing 2018](https://opensource.com/article/18/4/new-state-video-editing-linux)
 
 
 ### Open Source
