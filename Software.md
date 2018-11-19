@@ -86,7 +86,20 @@
 
 
 ## Video Editor
-- [Basic Real-time AV Editor](https://www.ctolib.com/bbc-brave.html)
+- [wiki/Real-time_video_editing](https://en.wikipedia.org/wiki/Real-time_video_editing)
+- [Basic Real-time AV Editor - Brave](https://www.ctolib.com/bbc-brave.html)
+- [Snowmixer](https://snowmix.sourceforge.io/) - Live Video Mixer 
+
+
+### History
+- 2018/08/15 [The 16 Best Video Editing Apps You Must Use In 2018](https://adespresso.com/blog/best-video-editing-apps/)
+- 2018/07/20 [20 Best Free Video Editing Software Programs in 2018](https://www.oberlo.com/blog/best-free-video-editing-software)
+- 2018/06/05 [20 Best Free Video Editing Software Tools in 2018](https://learn.g2crowd.com/11-best-free-video-editor-tools-beginners/)
+
+
+### Open Source
+- [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic) - Extend FFmpeg with run time control and audio/video process dynamic composition
+- [voc/voctomix](https://github.com/voc/voctomix) - Full-HD Software Live-Video-Mixer in python
 
 
 
