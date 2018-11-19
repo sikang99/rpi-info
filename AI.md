@@ -1,5 +1,13 @@
 # Artificial Intelligence
 
+
+--- 
+## Object Detection
+
+### History
+- 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
+
+
 ---
 ## Assistant
 
