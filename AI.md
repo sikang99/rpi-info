@@ -19,6 +19,7 @@
 - 2018/08/20 [Deep Learning based Object Detection using YOLOv3 with OpenCV (Python/C++)](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/06/07 [YOLO for Real-Time Food Detection](http://bennycheung.github.io/yolo-for-real-time-food-detection)
+- 2018/06/04 [Implementing YOLO v3 in Tensorflow (TF-Slim)](https://itnext.io/implementing-yolo-v3-in-tensorflow-tf-slim-c3c55ff59dbe)
 - 2018/04/23 [What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
@@ -41,6 +42,10 @@
 - 2018 [YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers](https://arxiv.org/pdf/1811.05588.pdf)
 - 2018 [Mobile Object Detection using TensorFlow Lite and Transfer Learning](http://kth.diva-portal.org/smash/get/diva2:1242627/FULLTEXT01.pdf)
 - 2018 [LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022018/)
+- 2018 [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+
+### Slide
+- 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
 
 
 ---
