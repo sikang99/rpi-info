@@ -20,6 +20,7 @@
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
 - 2017/12/28 [How To Implement Object Recognition on Live Stream](https://www.iotforall.com/objects-recognition-live-stream-yolo-model/)
+- 2017/11/11 [Optimization of Real-Time Object Detection on Intel® Xeon® Scalable Processors](https://colfaxresearch.com/yolo-optimization/)
 - 2017/10/27 [Announcing OpenYOLO: the Power of a Password Manager for Your Android Apps](https://blog.dashlane.com/openyolo-password-managers-in-android-apps/)
 
 
