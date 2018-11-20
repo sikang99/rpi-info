@@ -60,7 +60,6 @@
 
 
 ## DHT
-
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 
@@ -83,6 +82,10 @@
 - [Merlin Adds Support for the QUIC protocol](https://medium.com/@Ne0nd0g/merlin-adds-support-for-the-quic-protocol-ee5f8a1e8955)
 - [The Road to QUIC](https://medium.com/cloudflare-blog/the-road-to-quic-9f100dc57d9d)
 - [Introducing bchd](https://www.yours.org/content/introducing-bchd-aee6a07feb00)
+
+### History
+- 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
+
 
 
 ## P2PSP (Peer to Peer Straightforward Protocol)
