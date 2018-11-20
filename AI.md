@@ -13,6 +13,7 @@
 
 
 ### History
+- 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
