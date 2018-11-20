@@ -15,6 +15,7 @@
 ### History
 - [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
+- 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
@@ -28,6 +29,7 @@
 - [ModelDepot/tfjs-yolo-tiny](https://github.com/ModelDepot/tfjs-yolo-tiny) - In-Browser Object Detection using Tiny YOLO on Tensorflow.js [Demo](https://modeldepot.io/mikeshi/tiny-yolo-in-javascript)
 - [openid/OpenYOLO-Android](https://github.com/openid/OpenYOLO-Android) - Android protocol for credential exchange and update - YOLO
 - [openid/OpenYOLO-Web](https://github.com/openid/OpenYOLO-Web) Web protocol for credential exchange and update - YOLO
+- [ColfaxResearch/YOLO-Object-Detection](https://github.com/ColfaxResearch/YOLO-Object-Detection) - YOLO-Object-Detection optimization on Xeon scalable processors
 
 
 
