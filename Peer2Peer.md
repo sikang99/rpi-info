@@ -59,12 +59,13 @@
 - [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p) - ssh p2p tunneling server and client
 
 
+---
 ## DHT
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 
+---
 ## ICE  (Interactive Connectivity Establishment)
-
 - 2018/01/29 [Orchestrating TURN Servers for Cloud Deployment](https://www.microsoft.com/developerblog/2018/01/29/orchestrating-turn-servers-cloud-deployment/)
     - [coturn/coturn](https://github.com/coturn/coturn) - full spec TURN server
 - 2017/12/05 [Three Things You Need To Know About ICE](https://temasys.io/webrtc-three-things-need-know-ice/)
@@ -74,8 +75,7 @@
 - IETF [Trickle ICE](https://datatracker.ietf.org/doc/draft-ietf-ice-trickle/)
     - Incremental Provisioning of Candidates for the Interactive Connectivity Establishment (ICE) Protocol
 
-
-
+---
 ## QUIC(Quick UDP Internet Connection)
 - [IETF QUIC Working Group](https://github.com/quicwg)
 - [GoLangLibs](https://golanglibs.com/) for [quic](https://golanglibs.com/search?q=quic&sort=top&page=1)
@@ -86,8 +86,7 @@
 ### History
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
 
-
-
+---
 ## P2PSP (Peer to Peer Straightforward Protocol)
 - [P2PSP/core](https://github.com/P2PSP/core)
 - [P2PSP/p2psp-console](https://github.com/P2PSP/p2psp-console)
@@ -97,6 +96,7 @@
 - [lucasmenendez/gop2p](https://github.com/lucasmenendez/gop2p) - Simple Peer-to-Peer implementation in go
 
 
+---
 ## Blockchain
 
 ### Information
@@ -105,7 +105,6 @@
 - 2017/10/31 [Light Clients on Ethermint](https://blog.cosmos.network/light-clients-on-ethermint-9ae1f3c6c4f5)
 - 2017/10/28 [A Beginner’s Guide to Ethermint](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 - 2017/09/28 [Using Ethermint with Truffle](https://blog.cosmos.network/using-ethermint-with-truffle-984e6721e30d)
-
 
 
 ### Project
@@ -126,16 +125,15 @@
 - [Ethermint](https://ethermint.zone/) - Scalable and interoperable Ethereum, built on Proof-of-Stake
 
 
-
+---
 ## Company & Solution
 - [StriveCDN](https://strivecdn.com) - Secure Server-Side Managed P2P Video Delivery
 - [Seedess](https://seedess.com/) - P2P Video Streaming Network
 - [Peer5](https://www.peer5.com/) - Serverless P2P CDN For Video Live Streaming
 - [P2P Foundation](https://p2pfoundation.net/)
 
-
+---
 ## Golang
-
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
