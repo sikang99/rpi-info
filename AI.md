@@ -16,6 +16,7 @@
 - [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
+- 2018/08/20 [Deep Learning based Object Detection using YOLOv3 with OpenCV (Python/C++)](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/06/07 [YOLO for Real-Time Food Detection](http://bennycheung.github.io/yolo-for-real-time-food-detection)
 - 2018/04/23 [What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
@@ -33,11 +34,13 @@
 - [openid/OpenYOLO-Android](https://github.com/openid/OpenYOLO-Android) - Android protocol for credential exchange and update - YOLO
 - [openid/OpenYOLO-Web](https://github.com/openid/OpenYOLO-Web) Web protocol for credential exchange and update - YOLO
 - [ColfaxResearch/YOLO-Object-Detection](https://github.com/ColfaxResearch/YOLO-Object-Detection) - YOLO-Object-Detection optimization on Xeon scalable processors
-
+- [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 
 
 ### Papers
 - 2018 [YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers](https://arxiv.org/pdf/1811.05588.pdf)
+- 2018 [Mobile Object Detection using TensorFlow Lite and Transfer Learning](http://kth.diva-portal.org/smash/get/diva2:1242627/FULLTEXT01.pdf)
+- 2018 [LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022018/)
 
 
 ---
