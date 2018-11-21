@@ -86,6 +86,9 @@
 ### History
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
 
+### Paper
+- 2014 [Evaluation of QUIC on Web Page Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1005.6738&rep=rep1&type=pdf)
+
 ---
 ## P2PSP (Peer to Peer Straightforward Protocol)
 - [P2PSP/core](https://github.com/P2PSP/core)
