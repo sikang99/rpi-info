@@ -43,7 +43,7 @@
 ### Open Source
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web (WBS) [Demo](https://t-mullen.github.io/Web-Broadcasting-Software/)
 - [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite
-
+- [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - Free and open source streaming software built on OBS and Electron
 
 ---
 ## OBS (Open Broascasting Software)
