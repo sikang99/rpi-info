@@ -51,7 +51,7 @@
 - [OBS Remote](http://www.obsremote.com/) - A remote streaming control for Open Broadcaster Software
 - [OBS Table Remote](http://t2t2.github.io/obs-tablet-remote/)
 - [Streamlabs](https://streamlabs.com/) - Fast, reliable & feature packed streaming app
-- [OBS Studio Portable](https://portableapps.com/apps/music_video/obs-studio-portable)
+- [OBS Studio Portable](https://portableapps.com/apps/music_video/obs-studio-portable) - Streamlabs OBS
 
 
 ### Device
