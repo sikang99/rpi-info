@@ -48,6 +48,7 @@
 - [ColfaxResearch/YOLO-Object-Detection](https://github.com/ColfaxResearch/YOLO-Object-Detection) - YOLO-Object-Detection optimization on Xeon scalable processors
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [opencv-wasm-knnmatch-demo](https://github.com/Quramy/opencv-wasm-knnmatch-demo)
+- [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 
 
 ### Papers
