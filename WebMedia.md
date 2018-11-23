@@ -76,6 +76,7 @@
 - [Web Component Essentials](https://leanpub.com/web-component-essentials)
 
 ### History
+- 2018/11/15 [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - 2018/07/06 [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - 2018/01/24 [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 
