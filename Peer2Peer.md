@@ -85,6 +85,13 @@
 
 ### History
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
+- 2018/03/29 [Multicast QUIC for video content delivery](https://www.slideshare.net/JISC/multicast-quic-for-video-content-delivery)
+
+### Open Source
+- [bbc/nghq](https://github.com/bbc/nghq) - A HTTP/QUIC mapping layer built atop ngtcp2
+
+
+
 
 ### Paper
 - 2018 [Efficient Delivery of Multimedia Content over Multipath Network](https://smartech.gatech.edu/bitstream/handle/1853/60272/HAYES-DISSERTATION-2018.pdf)

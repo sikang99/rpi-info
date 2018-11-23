@@ -107,6 +107,7 @@
 ### Open Source
 - [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic) - Extend FFmpeg with run time control and audio/video process dynamic composition
 - [voc/voctomix](https://github.com/voc/voctomix) - Full-HD Software Live-Video-Mixer in python
+- [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud : WebRTC preview
 
 
 

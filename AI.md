@@ -2,6 +2,13 @@
 
 
 --- 
+## Face Detection
+
+### History
+- 2018/03/12 [Face detection & recognition with Javascript](https://blog.beautifulinteractions.com/face-detection-and-recognition-with-javascript-9e0b51b1c012)
+
+
+--- 
 ## Object Detection
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 - [Friendly Machine Learning for the Web](https://ml5js.org/)

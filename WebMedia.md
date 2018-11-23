@@ -275,6 +275,8 @@
 - 2018/10/26 [Background removal with Intel® RealSense™ Depth Camera, WebRTC, and WebGL](https://01.org/blogs/astojilj/2018/background-removal-intel-realsense-depth-camera-webrtc-and-webgl)
 - 2018/06/17 [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
 - 2018/05/04 [Experimenting with Computer Vision in WebXR](https://blog.mozvr.com/experimenting-with-computer-vision-in-webxr/)
+- 2018/05/04 [Computer Vision and WebXR](https://blairmacintyre.me/2018/05/04/webxr-cv)
+
 
 ### Open Source
 - [AquiGorka/adventures-with-webvr](https://github.com/AquiGorka/adventures-with-webvr) - Experimenting with WebVR & A-Frame
