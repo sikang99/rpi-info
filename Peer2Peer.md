@@ -82,9 +82,13 @@
 - [Merlin Adds Support for the QUIC protocol](https://medium.com/@Ne0nd0g/merlin-adds-support-for-the-quic-protocol-ee5f8a1e8955)
 - [The Road to QUIC](https://medium.com/cloudflare-blog/the-road-to-quic-9f100dc57d9d)
 - [Introducing bchd](https://www.yours.org/content/introducing-bchd-aee6a07feb00)
+- [Multipath QUIC](https://multipath-quic.org/)
 
 ### History
+- 2018/11/11 [HTTP/3](https://daniel.haxx.se/blog/2018/11/11/http-3/)
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
+- 2018/06/08 [QUIC WG INTERIM KISTA](https://daniel.haxx.se/blog/2018/06/08/quic-wg-interim-kista/)
+- 2018/05/10 [Scalable media delivery on the Web with HTTP Server Push](https://www.w3.org/2018/Talks/web5g/BBC_Scalable_media_delivery_on_the_Web_with_HTTP_Server_Push_20180510.pdf)
 - 2018/03/29 [Multicast QUIC for video content delivery](https://www.slideshare.net/JISC/multicast-quic-for-video-content-delivery)
 
 ### Open Source
