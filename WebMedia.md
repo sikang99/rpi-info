@@ -448,6 +448,7 @@ $ ./build.sh # long time to build, don't use go build
 - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
+- [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
 
 
 ---
