@@ -39,6 +39,7 @@
 - [openid/OpenYOLO-Web](https://github.com/openid/OpenYOLO-Web) Web protocol for credential exchange and update - YOLO
 - [ColfaxResearch/YOLO-Object-Detection](https://github.com/ColfaxResearch/YOLO-Object-Detection) - YOLO-Object-Detection optimization on Xeon scalable processors
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
+- [opencv-wasm-knnmatch-demo](https://github.com/Quramy/opencv-wasm-knnmatch-demo)
 
 
 ### Papers
@@ -87,3 +88,15 @@
 
 ### Open Source
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees
+
+
+---
+## WebML
+- [AngeloKai/ml-for-web](https://github.com/AngeloKai/ml-for-web) - Explainer: API Sets for Machine Learning on the Web
+
+### Open Source
+- [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Web Machine Learning (ML) API polyfill and examples
+- [huningxin/webml-examples](https://github.com/huningxin/webml-examples) - Host WebML examples
+
+
+
