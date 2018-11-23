@@ -87,6 +87,7 @@
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
 
 ### Paper
+- 2018 [Efficient Delivery of Multimedia Content over Multipath Network](https://smartech.gatech.edu/bitstream/handle/1853/60272/HAYES-DISSERTATION-2018.pdf)
 - 2014 [Evaluation of QUIC on Web Page Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1005.6738&rep=rep1&type=pdf)
 
 ---
