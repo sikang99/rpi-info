@@ -93,6 +93,9 @@
 - [SIPCapture](http://sipcapture.org/) - OSS SIP/VoIP/ RTC Packet Capture & Monitoring
 
 
+### History
+- 2016/07/25 [WebRTC in FreeSWITCH](https://hub.packtpub.com/webrtc-freeswitch/)
+
 ### Open Source
 - [powerpbx](https://github.com/powerpbx)
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER:100% Open-Source SIP / VoIP Packet Capture & Monitoring 
