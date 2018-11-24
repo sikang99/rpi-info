@@ -1,5 +1,5 @@
 # Currency, Money
-
+- 2017 [Digital Fiat Currency The true alternative to physical currency](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/dfc/201710/Documents/1.%20S4.Dharmapalan.pdf)
 
 ---
 ## Stellar
