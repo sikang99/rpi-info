@@ -2,6 +2,7 @@
 - 2017 [Digital Fiat Currency The true alternative to physical currency](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/dfc/201710/Documents/1.%20S4.Dharmapalan.pdf)
 - [Central Bank Digital Currency (CBDC)](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp)
 - [PositiveMoney](https://positivemoney.org)
+- 2018 [Cryptocurrencies - Monetary system consequences and Regulatory reponse](https://www.samfunnsokonomene.no/content/uploads/2018/04/Cryptochallenges_NB_260418.pdf)
 
 
 ---
