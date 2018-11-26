@@ -89,6 +89,7 @@
 
 ---
 ## Fuchsia
+- 2018/11/26 [화웨이, 안드로이드 탈피?...'퓨시아 OS' 테스트](http://m.zdnet.co.kr/news_view.asp?article_id=20181126070930&re=zdk#imadnews)
 - 2018/02/12 [On FuchsiaOS, AI assistants and software optimisation](https://hackernoon.com/whats-hot-in-2018-or-why-fuschia-is-my-favourite-colour-6b3f993c776f)
 
 
