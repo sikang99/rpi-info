@@ -89,6 +89,8 @@
 - [FreeSWITCH](https://freeswitch.org/)
     - [wiki/FreeSWITCH](https://en.wikipedia.org/wiki/FreeSWITCH)
     - [wikivisually/FreeSWITCH](https://wikivisually.com/wiki/FreeSWITCH)
+    - PopFlock [FreeSWITCH](http://www.popflock.com/learn?s=FreeSWITCH)
+    - [PacktPublishing]((https://github.com/PacktPublishing/)/[FreeSWITCH-1.8](https://github.com/PacktPublishing/FreeSWITCH-1.8)
 - [Asterisk](https://www.asterisk.org/)
 - [SIPCapture](http://sipcapture.org/) - OSS SIP/VoIP/ RTC Packet Capture & Monitoring
 

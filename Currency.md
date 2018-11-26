@@ -3,7 +3,12 @@
 - [Central Bank Digital Currency (CBDC)](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp)
 - [PositiveMoney](https://positivemoney.org)
 - 2018 [Cryptocurrencies - Monetary system consequences and Regulatory reponse](https://www.samfunnsokonomene.no/content/uploads/2018/04/Cryptochallenges_NB_260418.pdf)
-- [Bank of England](https://www.bankofengland.co.uk/)
+
+
+---
+## Central Banks
+- [The Bank of England](https://www.bankofengland.co.uk/)
+- [Norges Bank](https://www.norges-bank.no/en/)
 
 
 ---
