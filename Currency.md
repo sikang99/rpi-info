@@ -1,5 +1,21 @@
 # Currency, Money
 - 2017 [Digital Fiat Currency The true alternative to physical currency](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/dfc/201710/Documents/1.%20S4.Dharmapalan.pdf)
+- [Central Bank Digital Currency (CBDC)](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp)
+
+
+---
+## CBDC: central bank-issued digital currencies
+- 2018 [Cryptocurrencies, central bank digital currencies and DLT: developments, implications and security](http://www.nbrm.mk/content/Platni%20sistemi/1.%20Ayse%20Zoodsma-Sungur,%20De%20Nederlandsche%20Bank%20-%20Cryptocurrencies,%20central%20bank%20digital%20currencies%20and%20DLT%20developments,%20implications%20and%20security.pdf)
+- 2018 [Monetary policy implications of central bank-issued digital currency](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/ArticulosAnaliticos/2018/T3/Files/beaa1803-art21e.pdf)
+- 2018 [Central bank digital currencies](https://www.bis.org/cpmi/publ/d174.pdf)
+- 2017 [Central Bank Digital Currency: Motivations and Implications](https://www.bankofcanada.ca/wp-content/uploads/2017/11/sdp2017-16.pdf)
+- 2017 [Central bank digital currency in Denmark?](https://www.nationalbanken.dk/en/publications/Documents/2017/12/Analysis%20-%20Central%20bank%20digital%20currency%20in%20Denmark.pdf)
+- 2017 [Designing New Money - The Policy Trilemma of Central Bank Digital Currency](https://openarchive.cbs.dk/bitstream/handle/10398/9497/Designing%20New%20Money%20-%20The%20policy%20trilemma%20of%20central%20bank%20digital%20currency.pdf)
+
+### History
+- 2018/10/25 [Central Bank-Issued Digital Currencies: Why Governments May (or May Not) Need Them](https://cointelegraph.com/news/central-bank-issued-digital-currencies-why-governments-may-or-may-not-need-them)
+- 2018/03/15 [A primer on blockchain-based versions of central-bank money](https://www.economist.com/finance-and-economics/2018/03/15/a-primer-on-blockchain-based-versions-of-central-bank-money)
+
 
 ---
 ## Stellar
