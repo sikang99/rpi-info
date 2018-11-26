@@ -1,10 +1,12 @@
 # Currency, Money
 - 2017 [Digital Fiat Currency The true alternative to physical currency](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/dfc/201710/Documents/1.%20S4.Dharmapalan.pdf)
 - [Central Bank Digital Currency (CBDC)](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp)
+- [PositiveMoney](https://positivemoney.org)
 
 
 ---
 ## CBDC: central bank-issued digital currencies
+- 2018 [Broadening narrow money: monetary policy with a central bank digital currency](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2018/broadening-narrow-money-monetary-policy-with-a-central-bank-digital-currency.pdf)
 - [Central Bank Digital Currency and its impact on the banking system](https://www.bankinghub.eu/innovation-digital/central-bank-digital-currency)
 - 2018 [Cryptocurrencies, central bank digital currencies and DLT: developments, implications and security](http://www.nbrm.mk/content/Platni%20sistemi/1.%20Ayse%20Zoodsma-Sungur,%20De%20Nederlandsche%20Bank%20-%20Cryptocurrencies,%20central%20bank%20digital%20currencies%20and%20DLT%20developments,%20implications%20and%20security.pdf)
 - 2018 [Monetary policy implications of central bank-issued digital currency](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/ArticulosAnaliticos/2018/T3/Files/beaa1803-art21e.pdf)
