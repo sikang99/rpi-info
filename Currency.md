@@ -5,6 +5,7 @@
 
 ---
 ## CBDC: central bank-issued digital currencies
+- [Central Bank Digital Currency and its impact on the banking system](https://www.bankinghub.eu/innovation-digital/central-bank-digital-currency)
 - 2018 [Cryptocurrencies, central bank digital currencies and DLT: developments, implications and security](http://www.nbrm.mk/content/Platni%20sistemi/1.%20Ayse%20Zoodsma-Sungur,%20De%20Nederlandsche%20Bank%20-%20Cryptocurrencies,%20central%20bank%20digital%20currencies%20and%20DLT%20developments,%20implications%20and%20security.pdf)
 - 2018 [Monetary policy implications of central bank-issued digital currency](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/ArticulosAnaliticos/2018/T3/Files/beaa1803-art21e.pdf)
 - 2018 [Central bank digital currencies](https://www.bis.org/cpmi/publ/d174.pdf)
