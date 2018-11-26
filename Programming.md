@@ -10,6 +10,8 @@
 - 2018/10/21 [Rendering a map using Go, Mapbox and OpenStreetMap](https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/)
 - 2018/06/19 [Creating Web Components in Go + wasm](https://matthewphillips.info/programming/wasm-golang-ce.html)
 - 2018/06/18 [Experiments with image manipulation in WASM using Go](https://agniva.me/wasm/2018/06/18/shimmer-wasm.html)
+- 2018/01/02 [Sending files via gRPC](https://ops.tips/blog/sending-files-via-grpc/)
+- [HTTP File Upload and Download with Go](https://zupzup.org/go-http-file-upload-download/)
 
 
 ### Information
@@ -34,6 +36,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mb-14/gomarkov](https://github.com/mb-14/gomarkov) - Markov chains in golang
 - [agnivade/shimmer](https://github.com/agnivade/shimmer) - Image transformation in wasm using Go
+- [zupzup/golang-http-file-upload-download](https://github.com/zupzup/golang-http-file-upload-download)
 
 
 
