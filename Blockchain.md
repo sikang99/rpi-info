@@ -260,6 +260,7 @@
 ## Stablecoins
 - 코인위키 [스테이블코인](http://wiki.hash.kr/index.php/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8)
 - 디콘 [스테이블코인](http://kim-mj.tistory.com/96)
+- [DECON Cryptoeconomics Lab](https://medium.com/decon-lab)
 
 
 ### History
@@ -269,6 +270,7 @@
 - 2018/10/08 [스테이블코인의 이해_#3: 암호자산 담보 스테이블코인]()
 - [디콘의 암호경제학 개론: 드디어 스테이블코인이 이해되기 시작했다(1)]()
 - [디콘의 암호경제학 개론: 드디어 스테이블코인이 이해되기 시작했다(2)]()
+- 2018/11/03 [The World of Stablecoins : 스테이블코인 대동여지도 (3)](https://medium.com/decon-lab/the-world-of-stablecoins-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84-3-2cfe5ded033c)
 - 2018/08/28 [The World of Stablecoins : 스테이블코인 대동여지도 (2)](https://medium.com/decon-lab/the-world-of-stablecoins-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84-2-f4b33faea4ba)
 - 2018/06/23 [The World of Stablecoins : 스테이블코인 대동여지도 (1)](https://medium.com/decon-lab/stablecoin-%ED%95%98%EB%82%98%ED%95%98%EB%82%98-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-1-d69f431117d9)
 - 2018/04/01 [외계어 없이 스테이블코인(stablecoin) 이해하기](https://brunch.co.kr/@bumgeunsong/55)
