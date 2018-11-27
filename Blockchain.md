@@ -258,11 +258,13 @@
 
 ---
 ## Stablecoins
+- 코인위키 [스테이블코인](http://wiki.hash.kr/index.php/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8)
+- 디콘 [스테이블코인](http://kim-mj.tistory.com/96)
 
 
 ### History
 - 2018/11/27 [스테이블코인의 이해_#6: 무담보 스테이블코인의 장단점](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_6-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8/)
-- [스테이블코인의 이해_#5: 무담보 스테이블코인](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_5-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8/)
+- 2018/11/08 [스테이블코인의 이해_#5: 무담보 스테이블코인](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_5-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8/)
 - 2018/04/01 [외계어 없이 스테이블코인(stablecoin) 이해하기](https://brunch.co.kr/@bumgeunsong/55)
 
 
