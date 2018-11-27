@@ -261,12 +261,15 @@
 ## Stablecoins
 - 코인위키 [스테이블코인](http://wiki.hash.kr/index.php/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8)
 - 디콘 [스테이블코인](http://kim-mj.tistory.com/96)
+- [암호화폐 필수용어, 스테이블코인](https://1boon.kakao.com/upbit/5b2b5e78f3a1d40001d38635)
 - [DECON Cryptoeconomics Lab](https://medium.com/decon-lab)
+- [MILE: 자유롭고, 빠르며, 안전한 스테이블코인](https://cdn.mile.global/kr/mile.techpaper.kr.v1.pdf)
 
 
 ### History
 - 2018/10/17 [“한 개에 $1” 스테이블코인의 이상과 현실](https://www.coindeskkorea.com/1dollarstablecoin/)
 - 2018/08/08 [스테이블코인(Stable Coin) 이란?](https://steemit.com/stablecoin/@icofront/stable-coin)
+- 2018/08/03 [스테이블코인 프로젝트 MILE, 실물경제코인으로 주목](http://www.etnews.com/20180831000076)
 - 2018/09/12 [UC버클리 경제학 교수 "스테이블코인, 가격변동성 해결책 아니다"](https://www.tokenpost.kr/article-4149)
 - 2018/09/11 [미국 정부 허가 받은 첫 스테이블코인 나왔다](http://www.thebchain.co.kr/news/articleView.html?idxno=1681)
 - 2018/10/01 [스테이블코인이 암호화폐 혁신으로 이어지기 위한 조건](http://www.thebchain.co.kr/news/articleView.html?idxno=1861)
