@@ -47,6 +47,7 @@
 - 2018/08/16 [The Web3 Video Stack](https://tokeneconomy.co/web3videostack-c423481c32a5)
 - 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
 - 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
+- 2017/04/01 [The Law and Legality of Smart Contracts](https://georgetownlawtechreview.org/the-law-and-legality-of-smart-contracts/GLTR-04-2017/)
 
 
 ### Open Source
@@ -265,6 +266,7 @@
 
 ### History
 - 2018/08/08 [스테이블코인(Stable Coin) 이란?](https://steemit.com/stablecoin/@icofront/stable-coin)
+- 2018/09/12 [UC버클리 경제학 교수 "스테이블코인, 가격변동성 해결책 아니다"](https://www.tokenpost.kr/article-4149)
 - 2018/09/11 [미국 정부 허가 받은 첫 스테이블코인 나왔다](http://www.thebchain.co.kr/news/articleView.html?idxno=1681)
 - 2018/10/01 [스테이블코인이 암호화폐 혁신으로 이어지기 위한 조건](http://www.thebchain.co.kr/news/articleView.html?idxno=1861)
 - 2018/11/27 [스테이블코인의 이해_#6: 무담보 스테이블코인의 장단점](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_6-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8/)
