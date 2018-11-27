@@ -256,6 +256,13 @@
 - 2008 [Evaluating trust in electronic commerce: a study based on the information provided on merchants' websites](http://usir.salford.ac.uk/910/1/JORS_Final.pdf)
 - 2007 [Reputation-based Governance: a Primer](https://www.researchgate.net/publication/228387162_Reputation-based_Governance_a_Primer)
 
+---
+## Stablecoins
+
+
+### History
+- 2018/11/27 [스테이블코인의 이해_#6: 무담보 스테이블코인의 장단점](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_6-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8/)
+- [스테이블코인의 이해_#5: 무담보 스테이블코인](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_5-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8/)
 
 
 
