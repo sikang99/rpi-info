@@ -266,10 +266,8 @@
 ### History
 - 2018/11/27 [스테이블코인의 이해_#6: 무담보 스테이블코인의 장단점](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_6-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8/)
 - 2018/11/08 [스테이블코인의 이해_#5: 무담보 스테이블코인](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_5-%EB%AC%B4%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8/)
-- 2018/10/23 [스테이블코인의 이해_#4: 암호자산 담보 스테이블코인]()
+- 2018/10/23 [스테이블코인의 이해_#4: 암호자산 담보 스테이블코인](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4_4-%EC%95%94%ED%98%B8%EC%9E%90%EC%82%B0-%EB%8B%B4%EB%B3%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8/)
 - 2018/10/08 [스테이블코인의 이해_#3: 암호자산 담보 스테이블코인]()
-- [디콘의 암호경제학 개론: 드디어 스테이블코인이 이해되기 시작했다(1)]()
-- [디콘의 암호경제학 개론: 드디어 스테이블코인이 이해되기 시작했다(2)]()
 - 2018/11/03 [The World of Stablecoins : 스테이블코인 대동여지도 (3)](https://medium.com/decon-lab/the-world-of-stablecoins-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84-3-2cfe5ded033c)
 - 2018/08/28 [The World of Stablecoins : 스테이블코인 대동여지도 (2)](https://medium.com/decon-lab/the-world-of-stablecoins-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84-2-f4b33faea4ba)
 - 2018/06/23 [The World of Stablecoins : 스테이블코인 대동여지도 (1)](https://medium.com/decon-lab/stablecoin-%ED%95%98%EB%82%98%ED%95%98%EB%82%98-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-1-d69f431117d9)
