@@ -86,7 +86,7 @@
 
 ---
 ## Telephone, SIP
-- [FreeSWITCH](https://freeswitch.org/)
+- [FreeSWITCH](https://freeswitch.org/) - 1.8.2
     - [wiki/FreeSWITCH](https://en.wikipedia.org/wiki/FreeSWITCH)
     - [wikivisually/FreeSWITCH](https://wikivisually.com/wiki/FreeSWITCH)
     - PopFlock [FreeSWITCH](http://www.popflock.com/learn?s=FreeSWITCH)
