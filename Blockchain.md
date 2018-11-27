@@ -267,6 +267,7 @@
 
 
 ### History
+- 2018/07/18 [IBM이 만들고 미 예보공사가 보증하는 스테이블코인 ‘달러 앵커’ 출시](https://www.coindeskkorea.com/ibm%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%AF%B8-%EC%98%88%EB%B3%B4%EA%B3%B5%EC%82%AC%EA%B0%80-%EB%B3%B4%EC%A6%9D%ED%95%98%EB%8A%94-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8B%AC/)
 - 2018/10/17 [“한 개에 $1” 스테이블코인의 이상과 현실](https://www.coindeskkorea.com/1dollarstablecoin/)
 - 2018/08/08 [스테이블코인(Stable Coin) 이란?](https://steemit.com/stablecoin/@icofront/stable-coin)
 - 2018/08/03 [스테이블코인 프로젝트 MILE, 실물경제코인으로 주목](http://www.etnews.com/20180831000076)
