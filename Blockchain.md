@@ -265,6 +265,7 @@
 
 
 ### History
+- 2018/10/17 [“한 개에 $1” 스테이블코인의 이상과 현실](https://www.coindeskkorea.com/1dollarstablecoin/)
 - 2018/08/08 [스테이블코인(Stable Coin) 이란?](https://steemit.com/stablecoin/@icofront/stable-coin)
 - 2018/09/12 [UC버클리 경제학 교수 "스테이블코인, 가격변동성 해결책 아니다"](https://www.tokenpost.kr/article-4149)
 - 2018/09/11 [미국 정부 허가 받은 첫 스테이블코인 나왔다](http://www.thebchain.co.kr/news/articleView.html?idxno=1681)
@@ -277,6 +278,7 @@
 - 2018/08/28 [The World of Stablecoins : 스테이블코인 대동여지도 (2)](https://medium.com/decon-lab/the-world-of-stablecoins-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84-2-f4b33faea4ba)
 - 2018/06/23 [The World of Stablecoins : 스테이블코인 대동여지도 (1)](https://medium.com/decon-lab/stablecoin-%ED%95%98%EB%82%98%ED%95%98%EB%82%98-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-1-d69f431117d9)
 - 2018/04/01 [외계어 없이 스테이블코인(stablecoin) 이해하기](https://brunch.co.kr/@bumgeunsong/55)
+- 2018/07/27 [스테이블코인: 가격변동성 완화보다 더 중요한 의미](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EA%B0%80%EA%B2%A9%EB%B3%80%EB%8F%99%EC%84%B1-%EC%99%84%ED%99%94%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%98%EB%AF%B8/)
 
 
 
