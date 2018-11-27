@@ -106,6 +106,8 @@
 - [Dart 2](https://www.dartlang.org/dart-2)
 - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)
 - [Dart Code](https://dartcode.org/) - Dart & Flutter support for Visual Studio Code
+- 2018/11/19 [Google releases Dart programming language version 2.1, teases Flutter 1.0](https://9to5google.com/2018/11/19/dart-programming-language-2-1/)
+
 
 
 ### Person
