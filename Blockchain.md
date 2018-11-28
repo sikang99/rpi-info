@@ -265,9 +265,12 @@
 - [암호화폐 필수용어, 스테이블코인](https://1boon.kakao.com/upbit/5b2b5e78f3a1d40001d38635)
 - [DECON Cryptoeconomics Lab](https://medium.com/decon-lab)
 - [MILE: 자유롭고, 빠르며, 안전한 스테이블코인](https://cdn.mile.global/kr/mile.techpaper.kr.v1.pdf)
+- [Terra](https://terra.money/)
 
 
 ### History
+- 2018/08/28 [What is a stablecoin and how will it affect cryptocurrency?](https://www.ig.com/au/news-and-trade-ideas/forex-news/what-is-a-stablecoin-and-how-will-it-affect-cryptocurrency--180828)
+- 2018/07/07 [“Stablecoins” are trending, but they may ignore basic economics](https://www.technologyreview.com/s/611370/stablecoins-are-trending-but-they-may-ignore-basic-economics/)
 - 2018/06/28 [2018 — The Year of the Stablecoin](https://hackernoon.com/2018-the-year-of-the-stablecoin-6a6ca5d3637b)
 - 2018/06/12 [How does a “Stablecoin” make money?](https://medium.com/coinmonks/how-does-a-stablecoin-make-money-21e7d57cb775)
 - 2018/05/14 [Stable Coins Analysis: Is There A Viable Solution For The Future?](https://cointelegraph.com/news/stable-coins-analysis-is-there-a-viable-solution-for-the-future)
