@@ -270,6 +270,8 @@
 ### History
 - 2018/06/28 [2018 — The Year of the Stablecoin](https://hackernoon.com/2018-the-year-of-the-stablecoin-6a6ca5d3637b)
 - 2018/06/12 [How does a “Stablecoin” make money?](https://medium.com/coinmonks/how-does-a-stablecoin-make-money-21e7d57cb775)
+- 2018/05/14 [Stable Coins Analysis: Is There A Viable Solution For The Future?](https://cointelegraph.com/news/stable-coins-analysis-is-there-a-viable-solution-for-the-future)
+
 
 ### History (Domestic)
 - 2018/07/18 [IBM이 만들고 미 예보공사가 보증하는 스테이블코인 ‘달러 앵커’ 출시](https://www.coindeskkorea.com/ibm%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%AF%B8-%EC%98%88%EB%B3%B4%EA%B3%B5%EC%82%AC%EA%B0%80-%EB%B3%B4%EC%A6%9D%ED%95%98%EB%8A%94-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8B%AC/)
