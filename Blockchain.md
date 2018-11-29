@@ -297,6 +297,10 @@
 
 
 ## Token Offering
+- ICO : Initial Coin Offering
+- IEO : Initial Exchange Offering
+- STO : Security Token Offering
+- DSO : Digital Security Offering
 
 ### History
 - 2018/09/26 [ICO vs STO: Struggle For The Markets of The Future](https://bitnewstoday.com/news/technology/ico-vs-sto-struggle-for-the-markets-of-the-future/)
