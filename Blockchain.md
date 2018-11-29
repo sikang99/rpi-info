@@ -296,4 +296,14 @@
 - 2018/07/27 [스테이블코인: 가격변동성 완화보다 더 중요한 의미](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EA%B0%80%EA%B2%A9%EB%B3%80%EB%8F%99%EC%84%B1-%EC%99%84%ED%99%94%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%98%EB%AF%B8/)
 
 
+## Token Offering
+
+### History
+- 2018/09/05 [The Security Token Offering (STO) – It’s a Trap!](https://cryptoslate.com/the-security-token-offering-sto-its-a-trap/)
+- 2018/08/30 [ICO or STO: Who Wins?](https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d)
+- 2018/05/15 [What’s the Difference Between a Regulated ICO and an STO?](https://medium.com/@w12_io/whats-the-difference-between-a-regulated-ico-and-an-sto-2b4bf8903701)
+- 2018/02/28 [STO is the New IPO](https://blog.icoalert.com/sto-is-the-new-ipo)
+
+
+
 
