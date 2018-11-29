@@ -274,6 +274,7 @@
 - 2018/06/28 [2018 — The Year of the Stablecoin](https://hackernoon.com/2018-the-year-of-the-stablecoin-6a6ca5d3637b)
 - 2018/06/12 [How does a “Stablecoin” make money?](https://medium.com/coinmonks/how-does-a-stablecoin-make-money-21e7d57cb775)
 - 2018/05/14 [Stable Coins Analysis: Is There A Viable Solution For The Future?](https://cointelegraph.com/news/stable-coins-analysis-is-there-a-viable-solution-for-the-future)
+- 2018/04/18 [How Stablecoins Work and the Balance They Strike for Managing Price Volatility](https://coincentral.com/how-stablecoins-work-and-the-balance-they-strike-for-managing-price-volatility/)
 
 
 ### History (Domestic)
