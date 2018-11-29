@@ -313,5 +313,7 @@
 - 2018/02/28 [STO is the New IPO](https://blog.icoalert.com/sto-is-the-new-ipo)
 
 
+### History (Domestic)
+- 2018/11/29 [증권형 토큰 발행(STO)에 대한 오해가 너무 많다](https://www.coindeskkorea.com/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%97%85%EA%B3%84%EC%97%90-sto%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4%EA%B0%80-%EB%84%88%EB%AC%B4-%EB%A7%8E%EB%8B%A4/)
 
 
