@@ -307,6 +307,7 @@
 - 2018/09/06 [The Startup Dream; ICO’s vs STO’s.](https://blog.goodaudience.com/the-startup-dream-icos-vs-sto-s-f065fe803597)
 - 2018/09/05 [The Security Token Offering (STO) – It’s a Trap!](https://cryptoslate.com/the-security-token-offering-sto-its-a-trap/)
 - 2018/08/30 [ICO or STO: Who Wins?](https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d)
+- 2018/06/12 [ICO & STO](http://icodesigner.com/blog/ico-sto/)
 - 2018/05/15 [What’s the Difference Between a Regulated ICO and an STO?](https://medium.com/@w12_io/whats-the-difference-between-a-regulated-ico-and-an-sto-2b4bf8903701)
 - 2018/03/30 [How to create the perfect ICO/STO marketing strategy](https://www.cointelligence.com/content/ico-marketing-strategy/)
 - 2018/02/28 [STO is the New IPO](https://blog.icoalert.com/sto-is-the-new-ipo)
