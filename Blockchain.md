@@ -321,9 +321,10 @@
 ---
 ## Economy
 - [P2PF/Wiki/Sharing Economy](http://wiki.p2pfoundation.net/Sharing_Economy)
+- [Sharing Cities: Activating the Urban Commons](https://www.shareable.net/sharing-cities)
 - 2017 [Collaboration in Cities: From Sharing to ‘Sharing Economy’](http://www3.weforum.org/docs/White_Paper_Collaboration_in_Cities_report_2017.pdf)
 - 2017 [Value in the Commons Economy: Developments in Open and Contributory Value Accounting](https://www.boell.de/en/2017/02/01/value-commons-economy-developments-open-and-contributory-value-accounting)
-- [Sharing Cities: Activating the Urban Commons](https://www.shareable.net/sharing-cities)
+- 2017 [Creating new urban commons; Governing the micro-scale transportation system](https://www.iasc2017.org/wp-content/uploads/2017/06/12K_Wookseob-Jeong.pdf)
 
 
 ### History
