@@ -296,6 +296,7 @@
 - 2018/07/27 [스테이블코인: 가격변동성 완화보다 더 중요한 의미](https://www.coindeskkorea.com/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EA%B0%80%EA%B2%A9%EB%B3%80%EB%8F%99%EC%84%B1-%EC%99%84%ED%99%94%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%98%EB%AF%B8/)
 
 
+---
 ## Token Offering
 - ICO : Initial Coin Offering, 2017
 - IEO : Initial Exchange Offering
@@ -317,11 +318,12 @@
 - 2018/11/29 [증권형 토큰 발행(STO)에 대한 오해가 너무 많다](https://www.coindeskkorea.com/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%97%85%EA%B3%84%EC%97%90-sto%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4%EA%B0%80-%EB%84%88%EB%AC%B4-%EB%A7%8E%EB%8B%A4/)
 
 
-
+---
 ## Economy
 - [P2PF/Wiki/Sharing Economy](http://wiki.p2pfoundation.net/Sharing_Economy)
 - 2017 [Collaboration in Cities: From Sharing to ‘Sharing Economy’](http://www3.weforum.org/docs/White_Paper_Collaboration_in_Cities_report_2017.pdf)
 - 2017 [Value in the Commons Economy: Developments in Open and Contributory Value Accounting](https://www.boell.de/en/2017/02/01/value-commons-economy-developments-open-and-contributory-value-accounting)
+- [Sharing Cities: Activating the Urban Commons](https://www.shareable.net/sharing-cities)
 
 
 ### History
