@@ -269,6 +269,7 @@
 
 
 ### History
+- 2018/11/27 [Reliable money in DeFi: stablecoins](https://blog.zerion.io/defi-and-reliable-money-stablecoins-9d87098b495d)
 - 2018/08/28 [What is a stablecoin and how will it affect cryptocurrency?](https://www.ig.com/au/news-and-trade-ideas/forex-news/what-is-a-stablecoin-and-how-will-it-affect-cryptocurrency--180828)
 - 2018/07/07 [“Stablecoins” are trending, but they may ignore basic economics](https://www.technologyreview.com/s/611370/stablecoins-are-trending-but-they-may-ignore-basic-economics/)
 - 2018/06/28 [2018 — The Year of the Stablecoin](https://hackernoon.com/2018-the-year-of-the-stablecoin-6a6ca5d3637b)
