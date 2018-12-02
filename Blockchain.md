@@ -15,7 +15,10 @@
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 
 ### Information
-- Medium Topic for [Cryptocurrency](https://medium.com/topic/cryptocurrency), [Blockchain](https://medium.com/topic/blockchain)
+- Medium Topic for 
+[Economy](https://medium.com/topic/economy), 
+[Cryptocurrency](https://medium.com/topic/cryptocurrency), 
+[Blockchain](https://medium.com/topic/blockchain)
 
 
 ---
