@@ -14,6 +14,9 @@
 - 2018/03/21 [Blockchain: The Next Breakthrough in the Rapid Progress of AI](https://juniperpublishers.com/raej/pdf/RAEJ.MS.ID.555592.pdf)
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
 
+### Information
+- Medium Topic for [Cryptocurrency](https://medium.com/topic/cryptocurrency), [Blockchain](https://medium.com/topic/blockchain)
+
 
 ---
 ## Smart Contracts
@@ -222,9 +225,7 @@
 
 ---
 ## Security
-
 - CDN77 [TLS Checker](https://www.cdn77.com/tls-test)
-
 
 ### History
 - 2018/10/01 [An Overview of TLS 1.3 – Faster and More Secure](https://kinsta.com/blog/tls-1-3/)
@@ -256,6 +257,7 @@
 - 2010 [A Blogger Reputation Evaluation Model Based on Opinion Analysis](https://www.computer.org/csdl/proceedings/apscc/2010/9396/00/05708550.pdf)
 - 2008 [Evaluating trust in electronic commerce: a study based on the information provided on merchants' websites](http://usir.salford.ac.uk/910/1/JORS_Final.pdf)
 - 2007 [Reputation-based Governance: a Primer](https://www.researchgate.net/publication/228387162_Reputation-based_Governance_a_Primer)
+
 
 ---
 ## Stablecoins
