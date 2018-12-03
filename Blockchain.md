@@ -271,6 +271,7 @@
 - [DECON Cryptoeconomics Lab](https://medium.com/decon-lab)
 - [MILE: 자유롭고, 빠르며, 안전한 스테이블코인](https://cdn.mile.global/kr/mile.techpaper.kr.v1.pdf)
 - [Terra](https://terra.money/)
+- [The Stablecoin Index](https://stablecoinindex.com/)
 
 
 ### History
