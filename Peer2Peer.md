@@ -74,6 +74,9 @@
 - [WebRTC samples Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)
 - IETF [Trickle ICE](https://datatracker.ietf.org/doc/draft-ietf-ice-trickle/)
     - Incremental Provisioning of Candidates for the Interactive Connectivity Establishment (ICE) Protocol
+- WebRTC samples [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)
+- 2015 [WebRTC Peer Discovery: A Love Story](https://marconijr.com/posts/webrtc-peer-discovery/)
+
 
 ---
 ## QUIC(Quick UDP Internet Connection)
