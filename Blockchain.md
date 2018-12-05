@@ -30,6 +30,7 @@
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - Smart Contract Security Best Practices
 - [ConsenSys/eventeum](https://github.com/ConsenSys/eventeum) - A bridge between your Ethereum smart contract events and backend microservices
 - [Wavelet: Pre-Alpha Launch](https://medium.com/perlin-network/wavelet-pre-alpha-launch-7e6c042a0768) - Smart Contract SDKs, Graph Explorer, 10,000 TPS and more
+- [Kadena](https://kadena.io/) Pact Smart Contract
 
 
 ### Virtual Machine
