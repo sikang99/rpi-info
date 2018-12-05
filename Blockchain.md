@@ -59,6 +59,8 @@
 - 2018/08/30 [Understanding Web 3 — A User Controlled Internet](https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3)
 - 2018/08/16 [The Web3 Video Stack](https://tokeneconomy.co/web3videostack-c423481c32a5)
 - 2018/07/19 [**ContractPedia: An Encyclopedia of 40 Smart Contract Platforms**](https://hackernoon.com/contractpedia-an-encyclopedia-of-40-smart-contract-platforms-4867f66da1e5)
+- 2018/06/23 [HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
+- 2018/06/08 [ethers.js: Human-Readable Contract ABIs](https://blog.ricmoo.com/human-readable-contract-abis-in-ethers-js-141902f4d917)
 - 2018/05/18 [**Introduction to Ricardian Contracts**](https://www.eoscanada.com/en/introduction-to-ricardian-contracts)
 - 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
 - 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
