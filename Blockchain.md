@@ -64,6 +64,7 @@
 - 2018/05/18 [**Introduction to Ricardian Contracts**](https://www.eoscanada.com/en/introduction-to-ricardian-contracts)
 - 2018/04/26 [Building Apps With EOS.IO](https://objectcomputing.com/files/2515/2483/6632/Building_Apps_With_EOS_April_26th_Workshop.pdf)
 - 2018/03/21 [What Is A Smart Contract?](https://www.investinblockchain.com/what-is-a-smart-contract/)
+- 2018/02/26 [EverContract: Smart Ricardian Contracts for Blockchain](http://www.digitalinsuranceagenda.com/203/evercontract-smart-ricardian-contracts-for-blockchain/)
 - 2017/04/17 [Trust Contracts: Human Readable, Machine Readable Smart Contracts](https://medium.com/boscoin/trust-contracts-human-readable-machine-readable-smart-contracts-4cec25453a30)
 - 2017/04/01 [The Law and Legality of Smart Contracts](https://georgetownlawtechreview.org/the-law-and-legality-of-smart-contracts/GLTR-04-2017/)
 - [Will Smart Contracts Eat the World?](https://taylorpearson.me/smart-contract-applications/)
