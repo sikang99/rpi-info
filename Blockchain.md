@@ -57,6 +57,7 @@
 - 2018/10/01 [Smart Contracts 101: Unleashing The Power Of Blockchain](https://hackernoon.com/smart-contracts-101-unleashing-the-power-of-blockchain-348a742d2a23)
 - 2018/09/07 [WebAssembly & The Future of Blockchain Computing](https://medium.com/zkcapital/webassembly-the-future-of-blockchain-computing-1a0ae28f7e40)
 - 2018/08/30 [Understanding Web 3 — A User Controlled Internet](https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3)
+- 2018/08/20 [Interacting with Ethereum Smart Contract Events in Go with the Civil Events Crawler](https://blog.joincivil.com/interacting-with-ethereum-smart-contract-events-in-go-with-the-civil-events-crawler-7db484a78d5f)
 - 2018/08/16 [The Web3 Video Stack](https://tokeneconomy.co/web3videostack-c423481c32a5)
 - 2018/07/19 [**ContractPedia: An Encyclopedia of 40 Smart Contract Platforms**](https://hackernoon.com/contractpedia-an-encyclopedia-of-40-smart-contract-platforms-4867f66da1e5)
 - 2018/06/23 [HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
