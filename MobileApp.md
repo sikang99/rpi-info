@@ -42,6 +42,7 @@
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html) - Under active development
 - 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
+- 2018/07/13 [Reflectly — From React Native to Flutter](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
 - 2018/05/17 [번역: Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 
 
