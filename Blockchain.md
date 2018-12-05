@@ -45,6 +45,7 @@
 
 
 ### History
+- 2018/11/20 [Ricardian Contracts can become the next generation of Smart Contracts](https://www.datadriveninvestor.com/2018/11/20/ricardian-contracts-can-become-the-next-generation-of-smart-contracts/)
 - 2018/11/16 [Improving Smart Contract development with Tenderly and human readable stack traces](https://medium.com/tenderly/improving-smart-contract-development-with-tenderly-and-human-readable-stack-traces-16abfad5dd15)
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
 - 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
