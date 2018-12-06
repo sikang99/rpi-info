@@ -94,6 +94,7 @@
 
 
 ### History
+- 2018/11/19 [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/)
 - [Ethereum Oracle Contracts: Setup and Orientation](https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1)
 - 2018/10/29 [Chainlink — The Missing Piece To The God Protocol](https://blog.goodaudience.com/chainlink-the-missing-piece-to-the-god-protocol-fd455dde92ab) - A Complete Guide To Understanding Chainlink
 - 2018/09/29 [The State of Decentralized Oracles](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d)
