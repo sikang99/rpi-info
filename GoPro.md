@@ -4,6 +4,7 @@
     - [Gstreamer Conferences video archive](https://gstconf.ubicast.tv/)
     - [GstWebRTC GStreamer WebRTC Plug-in](https://www.youtube.com/watch?v=vEI6jV9fuJA)
     - NVidia [Accelerated Gstreamer User Guide](https://developer.download.nvidia.com/embedded/L4T/r28_Release_v2.0/DP/Docs/Jetson_TX1_and_TX2_Accelerated_GStreamer_User_Guide.pdf)
+- [GstWebRTC 1.0 (1.14.4)](https://lazka.github.io/pgi-docs/GstWebRTC-1.0/index.html)
 
 
 ## Theta
@@ -48,3 +49,6 @@
 - [evercam/evercam-gateway](https://gitlab.com/evercam/evercam-gateway) - Elixir/Erlang OTP
 - [cudmore/triggercamera](https://github.com/cudmore/triggercamera) - A Raspberry Pi camera that can be triggered to record video during a behavioral experiment
 - [luisbg/synchronised_media_playback](https://github.com/luisbg/synchronised_media_playback) - Synchronised Media Playback
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
+
+
