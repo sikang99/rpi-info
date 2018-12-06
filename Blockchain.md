@@ -31,6 +31,7 @@
 - [ConsenSys/eventeum](https://github.com/ConsenSys/eventeum) - A bridge between your Ethereum smart contract events and backend microservices
 - [Wavelet: Pre-Alpha Launch](https://medium.com/perlin-network/wavelet-pre-alpha-launch-7e6c042a0768) - Smart Contract SDKs, Graph Explorer, 10,000 TPS and more
 - [Kadena](https://kadena.io/) Pact Smart Contract
+- [The EVM Jello Paper](https://jellopaper.org/)
 
 
 ### Virtual Machine
@@ -45,9 +46,11 @@
 
 
 ### History
+- 2018/11/20 [Smart Contracts](https://legal-revolution.com/en/the-legal-revolutionary/it/smart-contracts)
 - 2018/11/20 [Ricardian Contracts can become the next generation of Smart Contracts](https://www.datadriveninvestor.com/2018/11/20/ricardian-contracts-can-become-the-next-generation-of-smart-contracts/)
     - OpenBazzar, SciDex, BOSCoin, Kadena
 - 2018/11/16 [Improving Smart Contract development with Tenderly and human readable stack traces](https://medium.com/tenderly/improving-smart-contract-development-with-tenderly-and-human-readable-stack-traces-16abfad5dd15)
+- 2018/11/08 [Smart Contracts 101](http://aboveandbeyondkm.com/2018/11/smart-contracts-101.html)
 - 2018/10/28 [**What are Ricardian Contracts? A Complete Guide**](https://101blockchains.com/ricardian-contracts/)
 - 2018/10/27 [Hyperledger Fabric integrates Ethereum smart contracts](https://www.ledgerinsights.com/hyperledger-fabric-integrates-ethereum-smart-contracts-evm-blockchain/)
 - 2018/10/26 [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
