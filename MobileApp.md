@@ -17,6 +17,7 @@
 
 
 ### Trends
+- [React Native Vs. Xamarin Vs. Ionic Vs. Flutter: Which Is Best For Cross-Platform Mobile App Development?](https://www.apptunix.com/frameworks-cross-platform-mobile-app-development/)
 - [Mobile App Development Trends for 2019](https://robusttechhouse.com/mobile-app-development-trends-2019-infographic/) - Blockchain, AI, AR/VR, ...
 - [Your Guide to Cross-Platform Mobile App Development Tools](https://instabug.com/blog/cross-platform-development/)
 - [React Native vs Flutter vs Ionic vs NativeScript vs PWA](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
