@@ -103,6 +103,18 @@
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER:100% Open-Source SIP / VoIP Packet Capture & Monitoring 
 
 
+---
+## Audio
+
+
+### History
+- 2017/10/10 [Ambisonics Explained: A Guide for Sound Engineers](https://www.waves.com/ambisonics-explained-guide-for-sound-engineers)
+- 2017/04/04 [Introduction to Ambisonics - 360 degree audio](https://www.pathpartnertech.com/introduction-ambisonics-360-degree-audio/)
+
+
+### Open Source
+- [videolabs/libspatialaudio](https://github.com/videolabs/libspatialaudio) - Ambisonic encoding / decoding and binauralization library
+
 
 
 
