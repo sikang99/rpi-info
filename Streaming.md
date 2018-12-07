@@ -7,6 +7,7 @@
 ## Common
 - 2018/08/10 [UDP-Based Streaming Modes Battle For Traction as Paths to Low Latency](http://www.screenplaysmag.com/2018/08/14/udp-based-streaming-modes-battle-for-traction-as-paths-to-low-latency/)
 - 2018/05/25 [Re-Engineering Real-Time Video Delivery](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Re-Engineering-Real-Time-Video-Delivery-125300.aspx)
+- 2018/03/16 [Live video in Browser](https://medium.com/@cybillshepherd1985/live-video-in-browser-e2a8d534c182)
 - 2018/01/05 [Streamlabs OBS — Livestreaming Reinvented](https://blog.streamlabs.com/streamlabs-obs-livestreaming-reinvented-4ddf8324f395)
 - [Streaming Protocol Suite](https://slideplayer.com/slide/13148126/) - RTSP/RTP/RTCP
 
