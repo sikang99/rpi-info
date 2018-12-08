@@ -89,6 +89,7 @@
 - [pendo324/EssentialNowPlaying](https://github.com/pendo324/EssentialNowPlaying) - A now playing tool intended to be used with OBS
 - [dzy321/file-upload](https://github.com/dzy321/file-upload)
 - [MarcusOy/ScoreBoardBlocksOBS](https://github.com/MarcusOy/ScoreBoardBlocksOBS) - A modular scoreboard for streaming programs like OBS
+- [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web. (WBS)
 
 
 ## Video Editor
