@@ -244,6 +244,7 @@ $ vlc rtsp://<ip:8554>/unicast
 
 
 ### Information
+- 2018/09/21 [How-To: Using an RTSP Stream as a Source for a WebRTC application](https://www.mgraves.org/2018/09/how-to-using-an-rtsp-stream-as-a-source-for-a-webrtc-application/)
 - [FruitNanny: The Raspberry Pi Baby Monitor For Geeks](https://hackaday.com/2017/10/21/fruitnanny-the-raspberry-pi-baby-monitor-for-geeks/)
 - 2015/02/25 [Building a Raspberry Pi 2 WebRTC camera](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera) - Janus and gStreamer
 - [WebRTC-streamer](http://www.lib4dev.com/info/mpromonet/webrtc-streamer/27565754)
