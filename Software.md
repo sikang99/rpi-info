@@ -26,7 +26,7 @@
 
 ### Information
 - [Kaltura](https://www.kaltura.org/)
-- [Directus](https://directus.io/) [**]
+- [**Directus**](https://directus.io/)
 
 
 ### Open Source
@@ -44,6 +44,9 @@
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web (WBS) [Demo](https://t-mullen.github.io/Web-Broadcasting-Software/)
 - [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite
 - [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - Free and open source streaming software built on OBS and Electron
+
+### History
+- 2018/11/20 [6 Video Streaming Software Compatible with your Live Streaming Platform](https://www.dacast.com/blog/6-video-streaming-software-compatible/)
 
 ---
 ## OBS (Open Broascasting Software)
