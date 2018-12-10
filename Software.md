@@ -94,6 +94,7 @@
 - [dzy321/file-upload](https://github.com/dzy321/file-upload)
 - [MarcusOy/ScoreBoardBlocksOBS](https://github.com/MarcusOy/ScoreBoardBlocksOBS) - A modular scoreboard for streaming programs like OBS
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web. (WBS)
+- [clevertech/OBS-studio-webrtc](https://github.com/clevertech/OBS-studio-webrtc)
 
 
 ## Video Editor
