@@ -98,8 +98,6 @@
 - [bbc/nghq](https://github.com/bbc/nghq) - A HTTP/QUIC mapping layer built atop ngtcp2
 
 
-
-
 ### Paper
 - 2018 [Efficient Delivery of Multimedia Content over Multipath Network](https://smartech.gatech.edu/bitstream/handle/1853/60272/HAYES-DISSERTATION-2018.pdf)
 - 2014 [Evaluation of QUIC on Web Page Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1005.6738&rep=rep1&type=pdf)
@@ -112,6 +110,21 @@
 - [P2PSP/WebRTC-lib](https://github.com/P2PSP/WebRTC-lib)
 - [cristobalmedinalopez/p2psp-webrtc-experiments](https://github.com/cristobalmedinalopez/p2psp-webrtc-experiments)
 - [lucasmenendez/gop2p](https://github.com/lucasmenendez/gop2p) - Simple Peer-to-Peer implementation in go
+
+
+---
+## IPFS
+- [IPFS](https://ipfs.io/) : [Blog](https://blog.ipfs.io/) - Weekly
+- [IPFS Live Streaming](https://objectaaron.com/)
+
+### History
+- 2018/11/13 [Streaming with IPFS](https://medium.com/revotic/streaming-with-ipfs-2145e6df5a4e) - Static and Live Videos streaming with IPFS and HLS
+- 2018/05/03 [How IPFS is Challenging the Web as We Know It](https://blog.rubiksdigital.com/how-ipfs-is-disrupting-the-web-e10857397822)
+
+
+### Open Source
+- [kisulken/ipfs-livestream](https://github.com/kisulken/ipfs-livestream)
+- [tomeshnet/ipfs-live-streaming](https://github.com/tomeshnet/ipfs-live-streaming)
 
 
 ---
