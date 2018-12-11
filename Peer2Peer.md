@@ -117,6 +117,7 @@
 - [IPFS](https://ipfs.io/) : [Blog](https://blog.ipfs.io/) - Weekly
 - [IPFS Live Streaming](https://objectaaron.com/)
 - [Filecoin](https://filecoin.io)
+- [Toronto Mesh](https://tomesh.net) : [Current Projects](https://tomesh.net/projects/)
 
 
 ### History
