@@ -241,7 +241,7 @@
 
 ---
 ## Web Authentication
-- [wiki/WebAuthn(https://en.wikipedia.org/wiki/WebAuthn)
+- [wiki/WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
 - [WebAuthn demo](https://webauthn.org/)
     - [apowers313/fido2-server-demo/](https://github.com/apowers313/fido2-server-demo/)
 - [WebAuthn.io](https://webauthn.io/)
@@ -249,6 +249,9 @@
 - [How Web Authentication May Change the Future of Passwords](https://www.programmableweb.com/news/how-web-authentication-may-change-future-passwords/how-to/2018/07/19)
 - [What is WebAuthn?](https://duo.com/blog/what-is-webauthn) - SEP, TPM, U2F, MFA
 
+
+### History
+- 2018/11/20 [All about FIDO2, CTAP2 and WebAuthn](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/All-about-FIDO2-CTAP2-and-WebAuthn/ba-p/288910)
 
 ---
 ## WebAudio
