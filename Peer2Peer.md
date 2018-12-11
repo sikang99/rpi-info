@@ -116,10 +116,19 @@
 ## IPFS
 - [IPFS](https://ipfs.io/) : [Blog](https://blog.ipfs.io/) - Weekly
 - [IPFS Live Streaming](https://objectaaron.com/)
+- [Filecoin](https://filecoin.io)
+
 
 ### History
 - 2018/11/13 [Streaming with IPFS](https://medium.com/revotic/streaming-with-ipfs-2145e6df5a4e) - Static and Live Videos streaming with IPFS and HLS
+- 2018/09/05 [A Beginner’s Guide To The Decentralized Internet](https://www.electronicbeats.net/a-beginners-guide-to-the-decentralized-internet/)
 - 2018/05/03 [How IPFS is Challenging the Web as We Know It](https://blog.rubiksdigital.com/how-ipfs-is-disrupting-the-web-e10857397822)
+- 2018/02/01 [CTO Predictions: Containerization, Quality Optimization and Other Key Trends to Watch in 2018](https://bitmovin.com/containerization-technology-quality-optimization-2018/)
+- 2018/01/20 [Decentralized Mesh Computing](https://blog.computes.com/decentralized-mesh-computing-e1b5d1e9dc9b)
+
+### History (Domestic)
+- 2018/10/24 [탈중앙화로 가는길, 왜 IPFS를 주목해야 하나](https://brunch.co.kr/@delight412/212)
+- 2018/07/04 [IPFS VS SWARM: 블록체인 스토리지 분석 (3) - 스토리지(STORJ)](https://coinforu.io/coin/board/read/8371/)
 
 
 ### Open Source
