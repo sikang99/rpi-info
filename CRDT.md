@@ -2,7 +2,7 @@
 
 
 ## CRDT: conflict-free replicated data type
-- [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- wiki/[Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 - GoLangLibs for [CRDT](https://golanglibs.com/search?q=crdt&sort=top)
 
 
