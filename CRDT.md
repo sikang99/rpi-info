@@ -14,6 +14,7 @@
 
 
 ### History
+- [CRDTs explained - supercharge your serverless with CRDTs at the Edge](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
 - 2018/08/20 [A Look at Conflict-Free Replicated Data Types (CRDT)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
 - 2018/02/27 [Computes is Not Your Daddy’s Blockchain Computer](https://blog.computes.com/computes-is-not-your-daddys-blockchain-computer-d0309f05eb0f)
 - 2017/12/18 [An introduction to state-based CRDTs](https://bartoszsypytkowski.com/the-state-of-a-state-based-crdts/)
