@@ -442,6 +442,7 @@ $ ./build.sh # long time to build, don't use go build
 ---
 ## AV1 Codec
 ### History
+- 2018/12/18 [How to Play AV1 Videos in Windows 10 With the Free AV1 Codec](https://www.tekrevue.com/tip/play-av1-windows-10/)
 - 2018/11/22 [dav1d to release soon with all features of AV1, and better performance than libaom](https://hub.packtpub.com/dav1d-to-release-soon-with-all-features-of-av1-and-better-performance-than-libaom/)
 - 2018/10/04 [Presenting dav1d, a new lightweight AV1 decoder, by VideoLAN and FFmpeg](https://hub.packtpub.com/presenting-dav1d-a-new-lightweight-av1-decoder-by-videolan-and-ffmpeg/)
 - 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d) 
