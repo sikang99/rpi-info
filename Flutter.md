@@ -1,30 +1,55 @@
-# [Flutter](https://flutter.io/) 
+# Dart (2) and Flutter, Fuchisia
 
-## Notice
-- 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html)
+## Information
+
+- [Dart](https://www.dartlang.org/)
+    - [Dart 2](https://www.dartlang.org/dart-2)
+    - [DartPad](https://dartpad.dartlang.org/)
+    - [Github](https://github.com/dart-lang)
+    - Features  
+        - Garbage Collection
+        - Async-await
+        - Strong typing
+        - Rich standard library like generics
+
+- [Flutter](https://flutter.io/)
+
+- [Fuchsia](https://github.com/fuchsia-mirror)
+    - [Github](https://github.com/fuchisia-mirror)
+    - [Unofficial Google Fuchsia Wiki](https://fuchsia.miraheze.org/wiki/Main_Page)
+    - [Flipboard for Fuschsia OS](https://flipboard.com/topic/fuchsiaos)
 
 
 ## Awesome
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [basarozcan/awesome-flutter](https://github.com/basarozcan/awesome-flutter) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from Google's Flutter
-- [Flutter Packages Widgets Architecture](https://www.scoop.it/t/flutter-packages-widgets-architecture)
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 
 
-## Information
-- [Flutter Pub](https://medium.com/flutterpub)
-- [flutter_webrtc 0.0.1](https://pub.dartlang.org/packages/flutter_webrtc)
+## Learning
+- 2018/07/09: [DART2 Prima Plus - Tutorial 1](https://www.codeproject.com/Articles/1251136/DART-Prima-Plus-Tutorial)
+- [Dart by Example](http://jpryan.me/dartbyexample/)
+- [Dart Programming Tutorial](https://www.tutorialspoint.com/dart_programming/index.htm) - 1.21.0 SDK
+  
+
+## Video
+- 2018/07/02: [React Native vs Flutter](https://www.youtube.com/watch?v=bnYJRYFsrSw)
+- 2018/07/02: [React Native vs Flutter - Which to Learn?](https://www.youtube.com/watch?v=tSyXb0sHBoE)
+
+
+## Paper
+- 2018/03/01:[React Native vs Flutter, cross-platform mobile application frameworks](https://www.theseus.fi/bitstream/handle/10024/146232/thesis.pdf?sequence=1)
 
 
 ## History
-- 2018/09/02 [Awesome Flutter resources collections](https://medium.com/flutterpub/awesome-flutter-resources-collections-b2f4e3e72278?fbclid=IwAR0Xq-E2D6kLrLnGZu-MleET-ukYzIMn1l6CX1HmvZ2aYa8B-Mt3JyJfvP0)
-- 2018/05/14 [Building Beautiful UI with Flutter](https://blog.geekyants.com/building-beautiful-ui-with-flutter-3b54ef6947a8)
-- 2018/04/18 [Quire: Building a Sophisticated Mobile App With Google Flutter](https://dzone.com/articles/quire-building-a-sophisticated-mobile-app-with-goo)
-- 2018/03/01 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
-
-
-## Open Source
-- [cloudwebrtc/flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - Flutter WebRTC plugin for iOS/Android
-- [cloudwebrtc/flutter-webrtc-server](https://github.com/cloudwebrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc and html5.
-- [cloudwebrtc/flutter-webrtc-demo](https://github.com/cloudwebrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
-
+- 2018/12/08 [An Introduction to Flutter: The Basics](https://medium.freecodecamp.org/an-introduction-to-flutter-the-basics-9fe541fd39e2)
+- 2018/08/22 [Google Fuchsia release date, news and rumors](https://www.techradar.com/news/google-fuchsia)
+- 2018/08/21 [How I Got Started with Flutter](https://pspdfkit.com/blog/2018/starting-with-flutter/)
+- 2018/08/20 [Flutter; 네이티브 메소드 호출 (MethodChannel)](https://blog.wonhada.com/?p=3522)
+- 2018/08/16 [How Flutter Is Going To Change Mobile Development In the Coming Days](https://www.mobileappdaily.com/2018/08/16/flutter-mobile-development)
+- 2018/08/10 [Google Flutter From Scratch: Grids, Lists, and Data Sources](https://code.tutsplus.com/tutorials/google-flutter-from-scratch-grids-lists-and-data-sources--cms-31624)
+- 2018/08/08 [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)
+- 2018/07/25 [What is Fuchsia, and why should you care?](https://www.androidcentral.com/fuchsia)
+- 2018/05/04 [A Flutter Approach for MVC](https://proandroiddev.com/flutter-in-mvc-437ed7cead2e)
+- 2018/02/23 [Announcing Dart 2: Optimized for Client-Side Development](https://medium.com/dartlang/announcing-dart-2-80ba01f43b6)
+- 2018/02/26 [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+    - AOT (Ahead Of Time), JIT (Just In Time) 
 
