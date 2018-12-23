@@ -15,6 +15,7 @@
 - [Flutter](https://flutter.io/)
     - [Docs](https://flutter.io/docs)
     - [Marerial Design](https://material.io/develop/flutter/) for [Flutter](https://material.io/develop/flutter/)
+    - [wiki/Flutter](https://en.wikipedia.org/wiki/Flutter_(software))
 
 - [Fuchsia](https://github.com/fuchsia-mirror)
     - [Github](https://github.com/fuchisia-mirror)
@@ -24,6 +25,12 @@
 
 ## Awesome
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
+
+## Hummingbird
+- 2018/12/05 [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
+- 2018/12/05 [Meet Hummingbird, Flutter’s web platform prototype](https://jaxenter.com/flutter-web-hummingbird-152715.html)
+- 2018/12/04 [Google announces ‘Hummingbird’ project to bring Flutter applications to the web](https://9to5google.com/2018/12/04/google-hummingbird-flutter-web/)
+
 
 
 ## Learning
@@ -37,12 +44,9 @@
 - 2018/07/02: [React Native vs Flutter - Which to Learn?](https://www.youtube.com/watch?v=tSyXb0sHBoE)
 
 
-## Paper
-- 2018/03/01:[React Native vs Flutter, cross-platform mobile application frameworks](https://www.theseus.fi/bitstream/handle/10024/146232/thesis.pdf?sequence=1)
-
-
 ## History
 - 2018/12/08 [An Introduction to Flutter: The Basics](https://medium.freecodecamp.org/an-introduction-to-flutter-the-basics-9fe541fd39e2)
+- 2018/12/02 [Flutter on desktop, a real competitor to Electron](https://medium.com/flutter-community/flutter-on-desktop-a-real-competitor-to-electron-4f049ea6b061)
 - 2018/11/01 [The Good and the Bad of Flutter App Development](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-flutter-app-development/)
 - 2018/08/22 [Google Fuchsia release date, news and rumors](https://www.techradar.com/news/google-fuchsia)
 - 2018/08/21 [How I Got Started with Flutter](https://pspdfkit.com/blog/2018/starting-with-flutter/)
@@ -55,4 +59,8 @@
 - 2018/02/23 [Announcing Dart 2: Optimized for Client-Side Development](https://medium.com/dartlang/announcing-dart-2-80ba01f43b6)
 - 2018/02/26 [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
     - AOT (Ahead Of Time), JIT (Just In Time) 
+
+## Paper
+- 2018/03/01:[React Native vs Flutter, cross-platform mobile application frameworks](https://www.theseus.fi/bitstream/handle/10024/146232/thesis.pdf?sequence=1)
+
 
