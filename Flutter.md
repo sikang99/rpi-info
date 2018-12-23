@@ -13,6 +13,8 @@
         - Rich standard library like generics
 
 - [Flutter](https://flutter.io/)
+    - [Docs](https://flutter.io/docs)
+    - [Marerial Design](https://material.io/develop/flutter/) for [Flutter](https://material.io/develop/flutter/)
 
 - [Fuchsia](https://github.com/fuchsia-mirror)
     - [Github](https://github.com/fuchisia-mirror)
@@ -41,6 +43,7 @@
 
 ## History
 - 2018/12/08 [An Introduction to Flutter: The Basics](https://medium.freecodecamp.org/an-introduction-to-flutter-the-basics-9fe541fd39e2)
+- 2018/11/01 [The Good and the Bad of Flutter App Development](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-flutter-app-development/)
 - 2018/08/22 [Google Fuchsia release date, news and rumors](https://www.techradar.com/news/google-fuchsia)
 - 2018/08/21 [How I Got Started with Flutter](https://pspdfkit.com/blog/2018/starting-with-flutter/)
 - 2018/08/20 [Flutter; 네이티브 메소드 호출 (MethodChannel)](https://blog.wonhada.com/?p=3522)
