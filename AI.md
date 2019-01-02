@@ -81,6 +81,7 @@
 
 
 ### Open Source
+- [agilityfeat/video-streaming-alexa-skill](https://github.com/agilityfeat/video-streaming-alexa-skill) - Echo Show
 - [voice-engine/make-a-smart-speaker](https://github.com/voice-engine/make-a-smart-speaker) - A collection of resources to make a smart speaker
 - [evalphobia/google-home-client-go](https://github.com/evalphobia/google-home-client-go) - Google Home client for golang
 - [plutov/packagemain](https://github.com/plutov/packagemain) - Collection of materials for my Youtube Channel about Go

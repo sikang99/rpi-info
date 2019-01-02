@@ -26,11 +26,11 @@
 ## Awesome
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 
+
 ## Hummingbird
 - 2018/12/05 [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 - 2018/12/05 [Meet Hummingbird, Flutter’s web platform prototype](https://jaxenter.com/flutter-web-hummingbird-152715.html)
 - 2018/12/04 [Google announces ‘Hummingbird’ project to bring Flutter applications to the web](https://9to5google.com/2018/12/04/google-hummingbird-flutter-web/)
-
 
 
 ## Learning
@@ -55,6 +55,7 @@
 - 2018/08/10 [Google Flutter From Scratch: Grids, Lists, and Data Sources](https://code.tutsplus.com/tutorials/google-flutter-from-scratch-grids-lists-and-data-sources--cms-31624)
 - 2018/08/08 [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)
 - 2018/07/25 [What is Fuchsia, and why should you care?](https://www.androidcentral.com/fuchsia)
+- 2018/06/21 [Using Google’s Flutter For Truly Cross-Platform Mobile Development](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)
 - 2018/05/04 [A Flutter Approach for MVC](https://proandroiddev.com/flutter-in-mvc-437ed7cead2e)
 - 2018/02/23 [Announcing Dart 2: Optimized for Client-Side Development](https://medium.com/dartlang/announcing-dart-2-80ba01f43b6)
 - 2018/02/26 [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
