@@ -330,6 +330,7 @@
 
 ---
 ## WebRTC
+- [Awesome WebRTC](https://github.com/openrtc-io/awesome-webrtc)
 - [wiki/WebRTC](https://en.wikipedia.org/wiki/WebRTC)
 - [Reddit for WebRTC](https://www.reddit.com/r/WebRTC/)
 - [WebRTC World](http://www.webrtcworld.com/)
