@@ -101,6 +101,8 @@
 
 
 ### Paper
+- 2018 [nQUIC: Noise-Based QUIC Packet Protection](http://delivery.acm.org/10.1145/3290000/3284854/p22-Hall-Andersen.pdf)
+- 2018 [Towards QUIC debuggability](https://uhdspace.uhasselt.be/dspace/bitstream/1942/27511/2/QUIC_debuggability_Published_04dec2018.pdf)
 - 2018 [Efficient Delivery of Multimedia Content over Multipath Network](https://smartech.gatech.edu/bitstream/handle/1853/60272/HAYES-DISSERTATION-2018.pdf)
 - 2014 [Evaluation of QUIC on Web Page Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1005.6738&rep=rep1&type=pdf)
 
