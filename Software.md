@@ -46,6 +46,7 @@
 - [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - Free and open source streaming software built on OBS and Electron
 
 ### History
+- 2018/05/18 [The best free streaming software 2019](https://www.techradar.com/news/the-best-free-streaming-software)
 - 2018/11/20 [6 Video Streaming Software Compatible with your Live Streaming Platform](https://www.dacast.com/blog/6-video-streaming-software-compatible/)
 
 ---
