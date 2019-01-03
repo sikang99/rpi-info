@@ -96,6 +96,7 @@
 - [MarcusOy/ScoreBoardBlocksOBS](https://github.com/MarcusOy/ScoreBoardBlocksOBS) - A modular scoreboard for streaming programs like OBS
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web. (WBS)
 - [clevertech/OBS-studio-webrtc](https://github.com/clevertech/OBS-studio-webrtc)
+- [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - [StreamLab OBS](https://streamlabs.com/streamlabs-obs)
 
 
 ## Video Editor
