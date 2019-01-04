@@ -32,13 +32,15 @@
 
 ---
 ## Serverless
+- [Serverless Status](https://serverless.email/)
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 - [serverless.com](https://serverless.com/)
 - CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
-- 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
 - 2018/09/12 [How we migrated to serverless in a weekend?](https://medium.com/daily-now/how-we-migrated-to-serverless-in-a-weekend-948c3b3ca76c)
+- 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
+- 2018/02/01 [Serverless Middleware](https://medium.com/front-end-weekly/serverless-middleware-5a839f906acd) - Dynamic CSS and more at the CloudFront Edge
 
 ### Open Source
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
