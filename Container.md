@@ -2,7 +2,7 @@
 
 ---
 ## General
-- CNAB (Cloud Native Application Bundle) - an open source, cloud-agnostic specification for packaging and running distributed applications
+- [CNAB](https://cnab.io/) (Cloud Native Application Bundle) - an open source, cloud-agnostic specification for packaging and running distributed applications
 - CNCF (Cloud Native Computing Foundation)
 - OCI (Open Container Initiative)
 - SDN (Software Defined Networking)
