@@ -31,6 +31,8 @@
 
 ### History
 - 2019/01/01 [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
+- 2018/12/19 [Kubernetes in 2019: 6 developments to expect](https://enterprisersproject.com/article/2018/12/kubernetes-2019-6-developments-expect)
+
 
 --- 
 ## SDN
