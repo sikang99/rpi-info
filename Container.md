@@ -38,6 +38,7 @@
 
 ### History
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
+- 2018/09/12 [How we migrated to serverless in a weekend?](https://medium.com/daily-now/how-we-migrated-to-serverless-in-a-weekend-948c3b3ca76c)
 
 ### Open Source
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
