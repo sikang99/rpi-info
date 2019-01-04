@@ -26,6 +26,9 @@
 ## Kubernetes
 - [Kubernetes](https://kubernetes.io/) : [Documentation](https://kubernetes.io/docs/home/)
 
+### History
+- 2019/01/01 [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
+
 --- 
 ## SDN
 
@@ -38,6 +41,7 @@
 - CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
+- 2018/11/09 [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
 - 2018/09/12 [How we migrated to serverless in a weekend?](https://medium.com/daily-now/how-we-migrated-to-serverless-in-a-weekend-948c3b3ca76c)
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
 - 2018/03/05 [Google Flutter with AWS Lambda to build a serverless mobile app for movie listings](https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd)
