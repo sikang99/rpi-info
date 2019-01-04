@@ -41,7 +41,7 @@
 
 ### Open Source
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
-
+- [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers)
 
 
 
