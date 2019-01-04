@@ -40,6 +40,7 @@
 ### History
 - 2018/09/12 [How we migrated to serverless in a weekend?](https://medium.com/daily-now/how-we-migrated-to-serverless-in-a-weekend-948c3b3ca76c)
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
+- 2018/03/05 [Google Flutter with AWS Lambda to build a serverless mobile app for movie listings](https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd)
 - 2018/02/01 [Serverless Middleware](https://medium.com/front-end-weekly/serverless-middleware-5a839f906acd) - Dynamic CSS and more at the CloudFront Edge
 
 ### Open Source
