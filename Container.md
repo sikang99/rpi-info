@@ -33,8 +33,8 @@
 ---
 ## Serverless
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
-- [serverless](https://serverless.com/)
-
+- [serverless.com](https://serverless.com/)
+- CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
