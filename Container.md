@@ -31,3 +31,10 @@
 --- 
 ## SDN
 
+
+---
+## Serverless
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+
+
+
