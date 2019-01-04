@@ -28,6 +28,7 @@
 ### Information
 - [Kaltura](https://www.kaltura.org/)
 - [**Directus**](https://directus.io/)
+- [backbee](http://www.backbee.org/) - A NextGen CMS
 
 
 ### Open Source
