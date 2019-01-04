@@ -43,6 +43,7 @@
 - 2018/02/01 [Serverless Middleware](https://medium.com/front-end-weekly/serverless-middleware-5a839f906acd) - Dynamic CSS and more at the CloudFront Edge
 
 ### Open Source
+- [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless)
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
 - [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers)
 
