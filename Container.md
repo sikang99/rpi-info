@@ -2,12 +2,15 @@
 
 ---
 ## General
+- CNAB (Cloud Native Application Bundle) - an open source, cloud-agnostic specification for packaging and running distributed applications
 - CNCF (Cloud Native Computing Foundation)
 - OCI (Open Container Initiative)
 - SDN (Software Defined Networking)
 
 
 ### History
+- 2019/01/02 [What we learned about containers last year](https://opensource.com/article/19/1/best-of-containers)
+- 2018/12/04 [Announcing Cloud Nativve Application Bundle](https://blog.docker.com/2018/12/announcing-cloud-native-application-bundle-cnab/)
 - 2018/11/12 [Goodbye Docker, hello Containers](https://blog.worldline.tech/2018/02/19/goodbye-docker-hello-containers.html?fbclid=IwAR25PeVcW3vcThnPBjpV9vdfWVbFDKDXfogAuCA4-fRc0WHS-eYexwwRheQ)
     - runc by OCI
 
