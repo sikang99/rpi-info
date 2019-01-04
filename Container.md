@@ -39,6 +39,11 @@
 ### History
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
 
+### Open Source
+- [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
+
+
+
 
 
 
