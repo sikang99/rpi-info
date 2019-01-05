@@ -78,6 +78,7 @@
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc)
 - [CoSMoSoftware/CSM-IE-WebRTC-plugin-shim](https://github.com/CoSMoSoftware/CSM-IE-WebRTC-plugin-shim) - WebRTC shim for IE
 - [CoSMoSoftware/sfu](https://github.com/CoSMoSoftware/sfu) - Medooze SFU
+- [CoSMoSoftware/webrtc-h264-simulcast](https://github.com/CoSMoSoftware/webrtc-h264-simulcast)
 - [t2t2/obs-tablet-remote](https://github.com/t2t2/obs-tablet-remote) - Tablet optimised OBS Remote
 - [KirillMysnik/obs-ws-rc](https://github.com/KirillMysnik/obs-ws-rc) - OBS WebSocket Remote Control
 - [dmadison/OBS-ChatSpam](https://github.com/dmadison/OBS-ChatSpam) - Python script for OBS Studio that posts messages in Twitch chat 
@@ -99,6 +100,12 @@
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web. (WBS)
 - [clevertech/OBS-studio-webrtc](https://github.com/clevertech/OBS-studio-webrtc)
 - [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs) - [Streamlabs OBS](https://streamlabs.com/streamlabs-obs)
+- [CatxFish/obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
+- [CatxFish/obs-text-directwrite](https://github.com/CatxFish/obs-text-directwrite) - A text source plugin for OBS-Studio rendered by DirectWrite
+- [AgoraIO/Basic-Video-Broadcasting](https://github.com/AgoraIO/Basic-Video-Broadcasting)
+- [AgoraIO/Advanced-Video](https://github.com/AgoraIO/Advanced-Video)
+- [AgoraIO/Advanced-Interactive-Broadcasting](https://github.com/AgoraIO/Advanced-Interactive-Broadcasting)
+
 
 
 ## Video Editor
