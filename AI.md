@@ -50,6 +50,7 @@
 - [opencv-wasm-knnmatch-demo](https://github.com/Quramy/opencv-wasm-knnmatch-demo)
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research
 - [aicamcam/aicamcam.github.io](https://github.com/aicamcam/aicamcam.github.io) - Object detection and recording video
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - face detection and face recognition
 
 
 ### Papers
