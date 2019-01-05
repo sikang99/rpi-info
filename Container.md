@@ -44,6 +44,7 @@
 ### History
 - 2018/12/31 [5 things you didn't know about Istio](https://opensource.com/article/18/12/you-didnt-know-about-istio)
 
+
 ---
 ## Serverless
 - [Serverless Status](https://serverless.email/)
@@ -52,6 +53,8 @@
 - CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
+- 2018/12/12 [Serverless is Not a Bubble; It’s a Spectrum](https://www.cloudzero.com/blog/serverless-is-not-a-bubble-its-a-spectrum)
+- 2018/11/28 [Accelerate Innovation and Maximize Business Value with Serverless Applications](https://www.slideshare.net/AmazonWebServices/accelerate-innovation-and-maximize-business-value-with-serverless-applications-srv212r1-aws-reinvent-2018)
 - 2018/11/09 [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
 - 2018/09/12 [How we migrated to serverless in a weekend?](https://medium.com/daily-now/how-we-migrated-to-serverless-in-a-weekend-948c3b3ca76c)
 - 2018/03/25 [Serverless and Flogo: A Perfect Match](https://hackernoon.com/serverless-and-flogo-a-perfect-match-aea01117f21f)
