@@ -28,6 +28,7 @@
 ---
 ## Kubernetes
 - [Kubernetes](https://kubernetes.io/) : [Documentation](https://kubernetes.io/docs/home/)
+- Digital Ocean [Kubernetes](https://www.digitalocean.com/community/tags/kubernetes)
 
 ### History
 - 2019/01/01 [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
