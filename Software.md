@@ -70,6 +70,8 @@
 - 2018/11/01 [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
 - 2018/03/30 [How to Live Your Webcam Video on Youtube Through OBS](https://www.oodlestechnologies.com/blogs/How-to-Live-Your-Webcam-Video-on-Youtube-Through-OBS)
 - 2018/02/07 [23 open source audio-visual production tools](https://opensource.com/article/18/2/open-source-audio-visual-production-tools)
+- 2017/09/23 [NinjaStreamer HQ Simulcast Streaming feat OBS/ReLive, Ngnix & FFMPEG](https://nwgat.ninja/ninjastreamer/)
+
 
 
 ### Open Source
