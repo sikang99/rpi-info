@@ -41,9 +41,11 @@
 
 ---
 ## Microservices
+- [Microservice.com](https://www.microservices.com) - [Reference Architecture](https://www.microservices.com/reference-architecture/)
 
 ### History
 - 2018/12/31 [5 things you didn't know about Istio](https://opensource.com/article/18/12/you-didnt-know-about-istio)
+- 2016/02/24 [Microservices Ending up as a Distributed Monolith](https://www.infoq.com/news/2016/02/services-distributed-monolith)
 
 
 ---
