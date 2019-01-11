@@ -448,9 +448,11 @@ $ ./build.sh # long time to build, don't use go build
 - 2018/10/04 [Presenting dav1d, a new lightweight AV1 decoder, by VideoLAN and FFmpeg](https://hub.packtpub.com/presenting-dav1d-a-new-lightweight-av1-decoder-by-videolan-and-ffmpeg/)
 - 2018/10/01 [Introducing dav1d: a new AV1 decoder](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d) 
 - 2018/09/13 [YouTube starts testing AV1 video format](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1536822275)
+- 2018/04/05 [Commentary: HEVC and AV1—A Behind-the-Scenes Look at the Video Codec Race](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Commentary-HEVC-and-AV1-A-Behind-the-Scenes-Look-at-the-Video-Codec-Race-124245.aspx)
 - 2018/02/09 [AV1 Bitstream Analyzer](https://hackernoon.com/av1-bitstream-analyzer-d25f1c27072b)
 
 ### Information
+- [wiki/AV1](https://en.wikipedia.org/wiki/AV1)
 - Github Topics: [codec](https://github.com/topics/codec)
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) -A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding) - [WIP] Learn FFmpeg libav the Hard Way
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
