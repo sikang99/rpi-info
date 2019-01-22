@@ -110,6 +110,7 @@
 - 2018/10/02 [18 Tips for Training your own Tensorflow.js Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091) - Training efficient Image Classifiers and Object Detectors for the Web with Tensorflow.js
 - 2018/08/07 [Machine Learning in Node.js With TensorFlow.js](http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/)
 - 2018/07/26 [Get to know TensorFlow.js in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
+- 2018/07/24 [The Future of Machine Learning in the Browser with TensorFlow.js](https://www.intermix.io/blog/machine-learning-in-the-browser/)
 - 2018/06/13 [TensorFlow.js — a practical guide](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
 - 2018/06/07 [50 TensorFlow.js API Explained in 5 Minutes | TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
 - 2018/06/02 [Machine Learning for Dummies with TensorFlow.js](https://blog.usejournal.com/machine-learning-for-dummies-with-tensorflow-js-44795d3d825c)
