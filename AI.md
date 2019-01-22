@@ -112,6 +112,8 @@
 - 2018/07/26 [Get to know TensorFlow.js in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
 - 2018/06/13 [TensorFlow.js — a practical guide](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
 - 2018/06/07 [50 TensorFlow.js API Explained in 5 Minutes | TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
+- 2018/06/02 [Machine Learning for Dummies with TensorFlow.js](https://blog.usejournal.com/machine-learning-for-dummies-with-tensorflow-js-44795d3d825c)
+- 2018/05/17 [Hello World with Tensorflow.js](https://thekevinscott.com/tensorflowjs-hello-world/)
 - 2018/04/08 [Introducing TensorFlow.js](https://hackernoon.com/introducing-tensorflow-js-3f31d70f5904)
 - 2018/03/31 [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 - 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
