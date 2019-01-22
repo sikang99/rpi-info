@@ -103,6 +103,13 @@
 ### Open Source
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees
 
+----
+## [Tensorflow.js](https://js.tensorflow.org/)
+- 2018/10/02 [18 Tips for Training your own Tensorflow.js Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091) - Training efficient Image Classifiers and Object Detectors for the Web with Tensorflow.js
+- 2018/07/26 [Get to know TensorFlow.js in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
+- 2018/04/08 [Introducing TensorFlow.js](https://hackernoon.com/introducing-tensorflow-js-3f31d70f5904)
+- 2018/03/31 [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+
 
 ---
 ## WebML
@@ -111,6 +118,7 @@
 ### Open Source
 - [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Web Machine Learning (ML) API polyfill and examples
 - [huningxin/webml-examples](https://github.com/huningxin/webml-examples) - Host WebML examples
+
 
 
 
