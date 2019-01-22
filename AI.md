@@ -99,6 +99,7 @@
 
 ---
 ## Tensorflow
+- 2019/01/17 [TensorFlow Lite Now Faster with Mobile GPUs (Developer Preview)](https://medium.com/tensorflow/tensorflow-lite-now-faster-with-mobile-gpus-developer-preview-e15797e6dee7)
 
 ### Open Source
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees
