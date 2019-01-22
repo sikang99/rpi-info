@@ -114,6 +114,8 @@
 - 2018/06/07 [50 TensorFlow.js API Explained in 5 Minutes | TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
 - 2018/04/08 [Introducing TensorFlow.js](https://hackernoon.com/introducing-tensorflow-js-3f31d70f5904)
 - 2018/03/31 [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+- 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
+
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
