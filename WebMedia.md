@@ -463,6 +463,7 @@ $ ./build.sh # long time to build, don't use go build
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
+- [MSU Video Codec Comparison](http://compression.ru/video/codec_comparison/index_en.html)
 
 
 ---
@@ -495,7 +496,6 @@ $ ./build.sh # long time to build, don't use go build
 ---
 ## 3D Streaming
 - [3D Streaming Toolkit Documentation](https://3dstreamingtoolkit.github.io/docs-3dstk/) - WebRTC, Unity/WebGL/DX, NVENC
-
 
 ### Open Source
 - [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit)
