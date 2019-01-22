@@ -45,6 +45,7 @@
 
 ### History
 - 2018/12/31 [5 things you didn't know about Istio](https://opensource.com/article/18/12/you-didnt-know-about-istio)
+- 2017/09/15 [Microservices Layered Architecture](https://medium.com/microservices-in-practice/microservices-layered-architecture-88a7fc38d3f1?fbclid=IwAR3VZ2Qig8x2YAW39ioIc0JoJoCGJP35MezWqlqNDsOG6reSAJ0g1y_ihCA)
 - 2016/02/24 [Microservices Ending up as a Distributed Monolith](https://www.infoq.com/news/2016/02/services-distributed-monolith)
 
 
