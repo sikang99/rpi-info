@@ -121,6 +121,7 @@
 - 2018/02/21 [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 
 ### Information
+- Medium for [Tensorflow](https://medium.com/tensorflow)
 - cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
 - [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
 
