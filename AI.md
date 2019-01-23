@@ -118,6 +118,8 @@
 - 2018/04/08 [Introducing TensorFlow.js](https://hackernoon.com/introducing-tensorflow-js-3f31d70f5904)
 - 2018/03/31 [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 - 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
+- 2018/02/21 [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
+
 
 
 ### Open Source
