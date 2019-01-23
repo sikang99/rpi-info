@@ -122,6 +122,7 @@
 
 ### Information
 - cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
+- [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
