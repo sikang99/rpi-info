@@ -120,7 +120,8 @@
 - 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
 - 2018/02/21 [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 
-
+### Information
+- cdnjs for (tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
