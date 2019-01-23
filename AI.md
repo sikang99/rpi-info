@@ -104,6 +104,13 @@
 ### Open Source
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees
 
+
+---
+## [Tensorflow Lite](https://www.tensorflow.org/lite/)
+
+### Information
+
+
 ----
 ## [Tensorflow.js](https://js.tensorflow.org/)
 - 2018/12/11 [TensorFlow.js — Real-Time Object Detection in 10 Lines of Code](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
