@@ -255,6 +255,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [7 ways to stream RTSP on the page](https://flashphoner.com/7-ways-to-stream-rtsp-on-the-page/)
 - [Eyepot - Programming](https://chapelierfou.org/blog/eyepot-programming.html)
     - [paullouisageneau/eyepot](https://github.com/paullouisageneau/eyepot) - A four-legged teapot robot
+- [Raspberry Pi Video Preview in the Browser](https://www.hackster.io/maciek85/raspberry-pi-video-preview-in-the-browser-ebe576)
 
 
 ### Open Source
