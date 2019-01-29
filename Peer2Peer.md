@@ -12,6 +12,7 @@
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources
 - [retrohacker/awesome-p2p](https://github.com/retrohacker/awesome-p2p) - Awesome Decentralization
 - [mafintosh/awesome-p2p](https://github.com/mafintosh/awesome-p2p)
+- [sexy-p2p](https://sites.google.com/view/sexy-p2p/)
 
 
 ## Search
@@ -184,6 +185,7 @@
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+- [jbenet/go-peerstream](https://github.com/jbenet/go-peerstream) - p2p stream multi-multiplexing in Go
 
 ## Rust
 - [simmons/webrtc](https://github.com/simmons/webrtc) - A Rust implementation of WebRTC
