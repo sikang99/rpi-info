@@ -38,6 +38,8 @@
 - [JanusGraph](http://janusgraph.org/) - Distributed graph database
 - [RedisGraph](https://oss.redislabs.com/redisgraph/) - a graph database module for Redis
 - [GUN](https://gun.eco/) - Graph Database`
+- [Neo4j](https://neo4j.com/) - 3.5
+
 
 ### History
 - 2018/08/28 [Get your GraphQL server ready using GoLang in 5 minutes](https://hackernoon.com/graphql-with-golang-6e8da2054c25)
