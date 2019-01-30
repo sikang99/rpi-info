@@ -1,8 +1,13 @@
 # Database
 
 
+- 2018/04/25 [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://www.ciokorea.com/news/38041)
+
+
 --- 
 ## Relational
+- MySQL
+- ProgreSQL 
 
 
 ---
