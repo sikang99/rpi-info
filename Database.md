@@ -15,6 +15,7 @@
 - Mongo
 - Amazon DocumentDB
 
+- 2018/02/06 [Couchbase Server vs CosmosDB](https://blog.couchbase.com/couchbase-server-vs-cosmosdb/)
 
 ---
 ## NewSQL
