@@ -26,6 +26,7 @@
 - [RedisGraph](https://oss.redislabs.com/redisgraph/) - a graph database module for Redis
 
 ### History
+- 2018/08/28 [Get your GraphQL server ready using GoLang in 5 minutes](https://hackernoon.com/graphql-with-golang-6e8da2054c25)
 - 2017/12/10 [Lessons from Building a Graph DB in Go](https://mymemorysucks.wordpress.com/2017/10/12/lessons-from-building-a-graph-db-in-go/)
 
 
