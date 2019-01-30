@@ -9,7 +9,7 @@
 - MySQL
 - MariaDB
 - ProgreSQL 
-
+- InfluxDB
 
 ---
 ## NoSQL
