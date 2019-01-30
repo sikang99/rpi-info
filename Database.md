@@ -37,6 +37,7 @@
 - [AgensGraph](https://bitnine.net/agensgraph-2/) - Enterprise Graph Database
 - [JanusGraph](http://janusgraph.org/) - Distributed graph database
 - [RedisGraph](https://oss.redislabs.com/redisgraph/) - a graph database module for Redis
+- [GUN](https://gun.eco/) - Graph Database`
 
 ### History
 - 2018/08/28 [Get your GraphQL server ready using GoLang in 5 minutes](https://hackernoon.com/graphql-with-golang-6e8da2054c25)
@@ -51,4 +52,6 @@
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB https://dgraph.io
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [JanusGraph/janusgraph/](https://github.com/JanusGraph/janusgraph) - open-source, distributed graph database
+- [amark/gun](https://github.com/amark/gun) - A realtime, decentralized, offline-first, mutable graph database engine
+
 
