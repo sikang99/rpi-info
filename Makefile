@@ -66,7 +66,8 @@ git g:
 git-update gu:
 	git add *.md Makefile *.jpg
 	#git remote remove Flutter.md
-	git commit -m "add some new *.md"
+	git commit -m "add some new Database.md"
+	#git commit -m "add updates of *.md"
 	git push
 
 git-login gl:
