@@ -13,9 +13,12 @@
 
 ---
 ## NoSQL
+
+### Information
 - Mongo
 - Amazon DocumentDB
 
+### History
 - 2018/02/06 [Couchbase Server vs CosmosDB](https://blog.couchbase.com/couchbase-server-vs-cosmosdb/)
 
 ---
