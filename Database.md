@@ -7,6 +7,8 @@
 
 ---
 ## NoSQL
+- Mongo
+- Amazon DocumentDB
 
 
 ---
