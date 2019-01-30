@@ -24,5 +24,6 @@
 
 
 ### Open Source
+- [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB https://dgraph.io
 
