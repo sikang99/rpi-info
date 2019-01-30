@@ -11,7 +11,7 @@
 
 ---
 ## NewSQL
-- [CoachroachDB]()
+- [Cockroach Labs](https://www.cockroachlabs.com/) - CockroachDB: Ultra-resilient SQL for global business
 
 
 ---
