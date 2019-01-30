@@ -18,7 +18,7 @@
 ## Graph
 
 ### Information
-- [Dgraph](https://dgraph.io)
+- [Dgraph](https://dgraph.io) - Fast, Transactional, Distributed Graph Database
 
 ### History
 
