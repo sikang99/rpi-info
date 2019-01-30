@@ -22,6 +22,9 @@ edit-block eb:
 edit-container ec:
 	$(EDITOR) Container.md
 
+edit-database ed:
+	$(EDITOR) Database.md
+
 edit-web ew:
 	$(EDITOR) WebMedia.md
 
