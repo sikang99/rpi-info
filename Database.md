@@ -42,6 +42,7 @@
 ### History
 - 2018/08/28 [Get your GraphQL server ready using GoLang in 5 minutes](https://hackernoon.com/graphql-with-golang-6e8da2054c25)
 - 2018/06/14 [Using GraphQL with Microservices in Go](https://outcrawl.com/go-graphql-gateway-microservices)
+- 2018/05/09 [Getting Started With GraphQL Using Golang](https://www.thepolyglotdeveloper.com/2018/05/getting-started-graphql-golang/)
 - 2018/04/15 [Dgraph - A high performance graph database written in pure Go](https://speakerdeck.com/munisystem/dgraph-a-high-performance-graph-database-written-in-pure-go)
 - 2017/12/10 [Lessons from Building a Graph DB in Go](https://mymemorysucks.wordpress.com/2017/10/12/lessons-from-building-a-graph-db-in-go/)
 
