@@ -61,6 +61,7 @@
 - CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
+- 2019/01/31 [서버리스 컴퓨팅 표준 될까?··· ‘K네이티브’의 가치와 과제](http://www.ciokorea.com/news/116127)
 - 2018/12/12 [Serverless is Not a Bubble; It’s a Spectrum](https://www.cloudzero.com/blog/serverless-is-not-a-bubble-its-a-spectrum)
 - 2018/11/28 [Accelerate Innovation and Maximize Business Value with Serverless Applications](https://www.slideshare.net/AmazonWebServices/accelerate-innovation-and-maximize-business-value-with-serverless-applications-srv212r1-aws-reinvent-2018)
 - 2018/11/09 [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
@@ -73,6 +74,8 @@
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless)
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
 - [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers)
+- [knative](https://github.com/knative) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads
+
 
 ---
 ## GraphQL
