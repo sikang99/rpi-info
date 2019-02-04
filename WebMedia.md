@@ -466,7 +466,7 @@ $ ./build.sh # long time to build, don't use go build
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
 - [MSU Video Codec Comparison](http://compression.ru/video/codec_comparison/index_en.html)
 - [OpenVisualCloud/SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)
-- [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
+    - [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
 
 
 ---
