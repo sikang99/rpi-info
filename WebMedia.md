@@ -399,7 +399,7 @@
 - [feross/simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video/voice and data channels
 - [stephenlb/webrtc-sdk](https://github.com/stephenlb/webrtc-sdk) - WebRTC Simple Calling API + Mobile SDK
 - [GoogleChromeLabs/confluence](https://github.com/GoogleChromeLabs/confluence) - Service and API for Web API Confluence
-- [gortc](https://github.com/gortc)
+- [gortc](https://github.com/gortc) - Open source NAT traversal tools in go and WebRTC interop
     - [gortc/stun](https://github.com/gortc/stun) - Fast RFC5389 STUN implementation in go
     - [gortc/turn](https://github.com/gortc/turn)
     - [gortc/gortcd](https://github.com/gortc/gortcd) - WIP TURN and STUN server in go
