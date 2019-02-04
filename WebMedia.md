@@ -444,6 +444,7 @@ $ ./build.sh # long time to build, don't use go build
 ## AV1 Codec
 ### History
 - 2019/02/03 [Intel Publishes Open-Source AV1 Video Encoder "SVT-AV1"](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Open-Source-SVT-AV1)
+- 2019/01/29 [Mozilla Celebrates Release of Free, High-Quality Video Compression Technology AV1 in Firefox 65](https://medium.com/mozilla-tech/mozilla-celebrates-release-of-free-high-quality-video-compression-technology-av1-in-firefox-65-7c95f2b7e56)
 - 2018/12/18 [How to Play AV1 Videos in Windows 10 With the Free AV1 Codec](https://www.tekrevue.com/tip/play-av1-windows-10/)
 - 2018/12/04 [AV1: A First Look](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/AV1-A-First-Look-127133.aspx)
 - 2018/11/22 [dav1d to release soon with all features of AV1, and better performance than libaom](https://hub.packtpub.com/dav1d-to-release-soon-with-all-features-of-av1-and-better-performance-than-libaom/)
