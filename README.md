@@ -227,6 +227,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [lulop-k/kurento-rtsp2webrtc](https://github.com/lulop-k/kurento-rtsp2webrtc) - Kurento RTSP/HTTP URI to WebRTC example
 - [oweitman/squeezelite-bluetooth](https://github.com/oweitman/squeezelite-bluetooth)
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
+- [bndw/security-camera](https://github.com/bndw/security-camera) - Motion detecting security camera using a raspberry pi, webcam, s3, and slack
 
 
 ---
