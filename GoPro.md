@@ -9,8 +9,9 @@
 - [GstWebRTC 1.0 (1.14.4)](https://lazka.github.io/pgi-docs/GstWebRTC-1.0/index.html)
 
 ### History
+- 2018/03/27 [GStreamer VA-API 1.14: what’s new?](https://blogs.igalia.com/vjaquez/2018/03/27/gstreamer-va-api-1-14-whats-new/)
 - 2018/03/19 [GStreamer 1.14 Release Notes](https://gstreamer.freedesktop.org/releases/1.14/)
-    - WebRTC support
+    - WebRTCi, SRT support
 - 2018/02/03 [GStreamer has grown a WebRTC implementation](http://blog.nirbheek.in/2018/02/gstreamer-webrtc.html)
 
 
@@ -55,11 +56,17 @@ $ gst-inspect-1.0 v4l2src
 - [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) - Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query
 - [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream)
 - [RSATom/janus-gstreamer-plugin](https://github.com/RSATom/janus-gstreamer-plugin)
-- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos)
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
 - [evercam/evercam-gateway](https://gitlab.com/evercam/evercam-gateway) - Elixir/Erlang OTP
 - [cudmore/triggercamera](https://github.com/cudmore/triggercamera) - A Raspberry Pi camera that can be triggered to record video during a behavioral experiment
 - [luisbg/synchronised_media_playback](https://github.com/luisbg/synchronised_media_playback) - Synchronised Media Playback
-- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
 - [ystreet/gst-omx-nvidia](https://github.com/ystreet/gst-omx-nvidia) - NVidia's gst-omx source bundle plus patches for newer GStreamer
+- [ziutek/gst](https://github.com/ziutek/gst) - Go bindings for GStreamer (retired: currently I don't use/develop this package)
+- [andre-hub/go-gstreamer](https://github.com/andre-hub/go-gstreamer)
+- [lidouf/gst](https://github.com/lidouf/gst) - based on ziutek's `Go bindings for GStreamer` and make some fixes
+
+
+
+
 
 
