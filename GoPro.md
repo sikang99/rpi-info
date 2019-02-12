@@ -11,7 +11,7 @@
 ### History
 - 2018/03/27 [GStreamer VA-API 1.14: what’s new?](https://blogs.igalia.com/vjaquez/2018/03/27/gstreamer-va-api-1-14-whats-new/)
 - 2018/03/19 [GStreamer 1.14 Release Notes](https://gstreamer.freedesktop.org/releases/1.14/)
-    - WebRTCi, SRT support
+    - WebRTC, SRT, RTSP 2.0 support
 - 2018/02/03 [GStreamer has grown a WebRTC implementation](http://blog.nirbheek.in/2018/02/gstreamer-webrtc.html)
 
 
@@ -64,7 +64,7 @@ $ gst-inspect-1.0 v4l2src
 - [ziutek/gst](https://github.com/ziutek/gst) - Go bindings for GStreamer (retired: currently I don't use/develop this package)
 - [andre-hub/go-gstreamer](https://github.com/andre-hub/go-gstreamer)
 - [lidouf/gst](https://github.com/lidouf/gst) - based on ziutek's `Go bindings for GStreamer` and make some fixes
-
+- [thaytan/gst-rpicamsrc](https://github.com/thaytan/gst-rpicamsrc) - GStreamer element for the Raspberry Pi camera module
 
 
 
