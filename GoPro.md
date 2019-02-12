@@ -13,6 +13,7 @@
 - 2018/03/19 [GStreamer 1.14 Release Notes](https://gstreamer.freedesktop.org/releases/1.14/)
     - WebRTC, SRT, RTSP 2.0 support
 - 2018/02/03 [GStreamer has grown a WebRTC implementation](http://blog.nirbheek.in/2018/02/gstreamer-webrtc.html)
+- 2015/02/25 [Building a Raspberry Pi 2 WebRTC camera](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera)
 
 
 ## Theta
@@ -48,7 +49,7 @@
 - 2014/05/14 [Lightweight, Live Video in a Webpage with GStreamer and WebRTC](https://dustinoprea.com/2014/05/21/lightweight-live-video-in-a-webpage-with-gstreamer-and-webrtc/)
 
 ```sh
-$ 4l2-ctl -d /dev/video0 --list-formats-ext
+$ v4l2-ctl -d /dev/video0 --list-formats-ext
 $ gst-inspect-1.0 v4l2src
 ```
 
@@ -65,8 +66,6 @@ $ gst-inspect-1.0 v4l2src
 - [andre-hub/go-gstreamer](https://github.com/andre-hub/go-gstreamer)
 - [lidouf/gst](https://github.com/lidouf/gst) - based on ziutek's `Go bindings for GStreamer` and make some fixes
 - [thaytan/gst-rpicamsrc](https://github.com/thaytan/gst-rpicamsrc) - GStreamer element for the Raspberry Pi camera module
-
-
 
 
 
