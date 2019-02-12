@@ -1,10 +1,17 @@
 # Streaming Device
 
+
+## Gstreamer
 - [gstreamer](https://gstreamer.freedesktop.org/) - 1.14.4 (2018/10/02), [1.14.0](https://gstreamer.freedesktop.org/releases/1.14/) (2018/03/19)
     - [Gstreamer Conferences video archive](https://gstconf.ubicast.tv/)
     - [GstWebRTC GStreamer WebRTC Plug-in](https://www.youtube.com/watch?v=vEI6jV9fuJA)
     - NVidia [Accelerated Gstreamer User Guide](https://developer.download.nvidia.com/embedded/L4T/r28_Release_v2.0/DP/Docs/Jetson_TX1_and_TX2_Accelerated_GStreamer_User_Guide.pdf)
 - [GstWebRTC 1.0 (1.14.4)](https://lazka.github.io/pgi-docs/GstWebRTC-1.0/index.html)
+
+### History
+- 2018/03/19 [GStreamer 1.14 Release Notes](https://gstreamer.freedesktop.org/releases/1.14/)
+    - WebRTC support
+- 2018/02/03 [GStreamer has grown a WebRTC implementation](http://blog.nirbheek.in/2018/02/gstreamer-webrtc.html)
 
 
 ## Theta
@@ -44,8 +51,6 @@ $ 4l2-ctl -d /dev/video0 --list-formats-ext
 $ gst-inspect-1.0 v4l2src
 ```
 
-
-
 ### Open Source
 - [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) - Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query
 - [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream)
@@ -55,5 +60,6 @@ $ gst-inspect-1.0 v4l2src
 - [cudmore/triggercamera](https://github.com/cudmore/triggercamera) - A Raspberry Pi camera that can be triggered to record video during a behavioral experiment
 - [luisbg/synchronised_media_playback](https://github.com/luisbg/synchronised_media_playback) - Synchronised Media Playback
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Demo apps for using gstreamer's webrtc implementation
+- [ystreet/gst-omx-nvidia](https://github.com/ystreet/gst-omx-nvidia) - NVidia's gst-omx source bundle plus patches for newer GStreamer
 
 
