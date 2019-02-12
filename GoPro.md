@@ -39,6 +39,11 @@
 - 2015/04/01 [Performance analysis of the Janus WebRTC gateway](https://www.researchgate.net/publication/300727546_Performance_analysis_of_the_Janus_WebRTC_gateway)
 - 2014/05/14 [Lightweight, Live Video in a Webpage with GStreamer and WebRTC](https://dustinoprea.com/2014/05/21/lightweight-live-video-in-a-webpage-with-gstreamer-and-webrtc/)
 
+```sh
+$ 4l2-ctl -d /dev/video0 --list-formats-ext
+$ gst-inspect-1.0 v4l2src
+```
+
 
 
 ### Open Source
