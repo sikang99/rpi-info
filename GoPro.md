@@ -66,6 +66,7 @@ $ gst-inspect-1.0 v4l2src
 - [andre-hub/go-gstreamer](https://github.com/andre-hub/go-gstreamer)
 - [lidouf/gst](https://github.com/lidouf/gst) - based on ziutek's `Go bindings for GStreamer` and make some fixes
 - [thaytan/gst-rpicamsrc](https://github.com/thaytan/gst-rpicamsrc) - GStreamer element for the Raspberry Pi camera module
+- [EricssonResearch/openwebrtc](https://github.com/EricssonResearch/openwebrtc) - A cross-platform WebRTC client framework based on GStreamer
 
 
 
