@@ -7,6 +7,7 @@
 
 ## WebRTC
 - [Go for WebRTC](https://libs.garden/go/webrtc)
+- [Anatomy of a WebRTC SDP](https://webrtchacks.com/sdp-anatomy/)
 
 
 ### Open Source
