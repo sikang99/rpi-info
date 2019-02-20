@@ -279,7 +279,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [respeaker/respeaker_for_raspberrypi](https://github.com/respeaker/respeaker_for_raspberrypi) - Examples to use ReSpeaker series Mic Arrays on Raspberry Pi
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
     - [shiguredo/momo/releases](https://github.com/shiguredo/momo/releases) - ROS, Raspbian, Ubuntu
-
+- [pipe/webcam](https://github.com/pipe/webcam) - A simple, secure, private webcam for a Raspberry Pi https://pi.pe/
 
 ---
 ## Docker
