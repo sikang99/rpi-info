@@ -78,6 +78,7 @@
 
 
 ### History
+- 2019/02/20 [Add real-time video to your Flutter apps using the Agora Flutter SDK! ](https://medium.com/agora-io/add-real-time-video-to-your-flutter-apps-using-the-agora-flutter-sdk-68ae6d8fa6d8?__s=tuc1fnpu2n6c9hpix652)
 - 2018/12/18 [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/)
 - 2018/11/25 [FlutterとClearn Architectureでアプリ開発](https://at-sushi.work/blog/3)
 - 2018/11/23 [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
