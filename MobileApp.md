@@ -81,6 +81,7 @@
 - 2018/12/18 [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/)
 - 2018/11/25 [FlutterとClearn Architectureでアプリ開発](https://at-sushi.work/blog/3)
 - 2018/11/23 [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
+- 2018/11/22 [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e)
 - 2018/10/28 [Implementing Redux Architecture with Flutter](https://proandroiddev.com/implementing-redux-architecture-with-flutter-dd28640dd945)
 - 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
 - 2018/10/07 [Flutter PlatformView: How to create Widgets from Native Views](https://medium.com/flutter-community/flutter-platformview-how-to-create-flutter-widgets-from-native-views-366e378115b6)
