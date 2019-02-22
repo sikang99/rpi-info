@@ -21,6 +21,7 @@
     - [Github](https://github.com/fuchisia-mirror)
     - [Unofficial Google Fuchsia Wiki](https://fuchsia.miraheze.org/wiki/Main_Page)
     - [Flipboard for Fuschsia OS](https://flipboard.com/topic/fuchsiaos)
+    - [Google Fuchsia](https://en.wikipedia.org/wiki/Google_Fuchsia)
 
 
 ## Awesome
