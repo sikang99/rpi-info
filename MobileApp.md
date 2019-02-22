@@ -52,6 +52,10 @@
 - Codelab for [Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
 
 
+### Slides
+- [60 FPS UI of the Future](https://berlin2017.droidcon.cod.newthinking.net/sites/global.droidcon.cod.newthinking.net/files/media/documents/Flutter%20-%2060FPS%20UI%20of%20the%20future%20%20-%20DroidconDE%2017.pdf)
+
+
 ### Notice
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html) - Under active development
 - 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
