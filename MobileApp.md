@@ -47,7 +47,9 @@
 - 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
 - 2018/07/13 [Reflectly — From React Native to Flutter](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
 - 2018/05/17 [번역: Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
+- 2018/03/30 [Flutter Studio, Version 2](https://medium.com/@pmutisya/flutter-studio-version-2-41cce10fcf3d)
 - 2018/03/29 [Quire: Building a Sophisticated Mobile App with Google’s Flutter](https://proandroiddev.com/quire-building-a-sophisticated-mobile-app-with-googles-flutter-2770065284d6)
+
 
 ### Awesome
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
