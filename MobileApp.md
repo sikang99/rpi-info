@@ -119,7 +119,7 @@
 - [pedromassango/xtimer-flutter-app](https://github.com/pedromassango/xtimer-flutter-app) - Flutter timer app
 - [ibhavikmakwana/Fluttery-Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb
 - [roughike/inKino](https://github.com/roughike/inKino) - a multiplatform Dart project with code sharing between Flutter and web (40%)
-
+- [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Bringing Flutter to Windows, MacOS and Linux - through the power of Go and GLFW
 
 
 ### [Dart](https://www.dartlang.org/) Programming Language
