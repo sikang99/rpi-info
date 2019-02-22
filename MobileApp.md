@@ -42,6 +42,7 @@
 
 ### Notice
 - 2018/12/18 [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/)
+- 2018/11/25 [FlutterとClearn Architectureでアプリ開発](https://at-sushi.work/blog/3)
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html) - Under active development
 - 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
 - 2018/07/13 [Reflectly — From React Native to Flutter](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
