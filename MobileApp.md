@@ -52,8 +52,6 @@
 
 
 ### Notice
-- 2018/12/18 [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/)
-- 2018/11/25 [FlutterとClearn Architectureでアプリ開発](https://at-sushi.work/blog/3)
 - 2018/09/19 [Flutter Release Preview 2](https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html) - Under active development
 - 2018/09/11 [Flutter: Pros and Cons for Seamless Cross Platform Development](https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083)
 - 2018/07/13 [Reflectly — From React Native to Flutter](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
@@ -80,6 +78,8 @@
 
 
 ### History
+- 2018/12/18 [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/)
+- 2018/11/25 [FlutterとClearn Architectureでアプリ開発](https://at-sushi.work/blog/3)
 - 2018/11/23 [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
 - 2018/10/28 [Implementing Redux Architecture with Flutter](https://proandroiddev.com/implementing-redux-architecture-with-flutter-dd28640dd945)
 - 2018/10/10 [Cross-platform mobile apps with Flutter](https://medium.com/47billion/flutter-how-does-it-works-6e4c73842e67)
@@ -97,7 +97,6 @@
 - 2018/02/26 [Why Flutter Uses Dart](http://copypasteprogrammers.com/why-flutter-uses-dart-dd635a054ebf/)
 - 2018/02/16 [Flutter — 5 reasons why you may love it](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa)
 - 2017/02/25 [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
-
 
 ### Open Source
 - [flutter/flutter](https://github.com/flutter/flutter)
@@ -171,7 +170,6 @@
 
 ### Open Source
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing https://snapdrop.net
-
 
 
 ---
