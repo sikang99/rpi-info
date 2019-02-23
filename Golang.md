@@ -1,6 +1,8 @@
 # Golang Programming
 
 - Golang [Downloads](https://golang.org/dl/)
+- [Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
+
 
 ---
 ### CGO
