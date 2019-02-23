@@ -22,6 +22,11 @@
 
 
 ---
+## Cloud
+- [Go용 AWS SDK](https://aws.amazon.com/ko/sdk-for-go/)
+
+
+---
 ## Books
 - [https://github.com/parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 
