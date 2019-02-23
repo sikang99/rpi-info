@@ -1,5 +1,12 @@
 # Golang Programming
 
+- Golang [Downloads](https://golang.org/dl/)
+
+---
+### CGO
+- 2016/07/24 [golang cgo linker](https://medium.com/@alexguo123/golang-cgo-linker-64ee09f58b85)
+
+
 ---
 ## Multimedia
 
