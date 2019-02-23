@@ -8,6 +8,7 @@
 ---
 ### CGO
 - 2018/02/24 [Calling C code from go](https://karthikkaranth.me/blog/calling-c-code-from-go/)
+- 2018/02/17 [Writing an image-resizing server with go and libvips](https://karthikkaranth.me/blog/image-resizing-server-go-libvips/)
 - 2016/07/24 [golang cgo linker](https://medium.com/@alexguo123/golang-cgo-linker-64ee09f58b85)
 
 
