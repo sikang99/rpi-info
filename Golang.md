@@ -25,6 +25,9 @@
 ## Cloud
 - [Go용 AWS SDK](https://aws.amazon.com/ko/sdk-for-go/)
 
+### Open Source
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language
+
 
 ---
 ## Books
