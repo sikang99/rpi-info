@@ -25,6 +25,7 @@
 - 2017/10/21 [A new #WebRTC implementation is OUT!](http://webrtcbydralex.com/index.php/2017/10/21/a-new-webrtc-implementation-is-out/)
 - 2017/09/01 [Building and Installing WebRTC on Windows](https://sourcey.com/building-and-installing-webrtc-on-windows/)
 - 2017/08/29 [WebRTC Standards & Implementation Q&A - The Internals of WebRTC Browsers Implementation](https://www.slideshare.net/AmirZ/webrtc-standards-implementation-qa-the-internals-of-webrtc-browsers-implementation)
+- 2016/12/01 [Demystifying WebRTC's Data Channel Message Size Limitations](https://lgrahl.de/articles/demystifying-webrtc-dc-size-limit.html)
 - 2015/08/25 [webrtcH4cKS: ~ Making WebRTC source building not suck (Alex Gouaillard)](https://webrtchacks.com/building-webrtc-from-source/)
 - 2015/07/30 [Installing libwebrtc](http://webrtcbydralex.com/index.php/2015/07/30/installing-libwebrtc-locally-and-packaging-it/)
 
