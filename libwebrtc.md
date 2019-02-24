@@ -1,4 +1,4 @@
-# libwebrtc
+# libwebrtc - base package in WebRTC
 
 ## Work Process
 - 2019/02/21 libwebrtc is compiled successfully at the first
