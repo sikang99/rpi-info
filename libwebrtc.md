@@ -67,6 +67,7 @@
 - [rawrtc](https://github.com/rawrtc) WebRTC and ORTC with a little bit of RAWR!
     - [rawrtc/rawrtc](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC with a little bit of RAWR!
     - [rawrtc/rew](https://github.com/rawrtc/rew) - A sister library to libre with experimental code
+    - [rawrtc/rawrtc-data-channel](https://github.com/rawrtc/rawrtc-data-channel) - A standalone WebRTC and ORTC data channel implementation
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 
 
