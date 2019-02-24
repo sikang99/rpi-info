@@ -23,6 +23,7 @@
 
 ## History
 - 2019/02/18 [gnで自作のプロジェクト書いてみた](https://qiita.com/taktod/items/1fb3bb665643f96363c3)
+    - [mohamed/build-gn.sh](https://gist.github.com/mohamed/4fa7eb75807463d4dfa3)
 - 2019/02/06 [libwebRTCでFakeVideoしてみた](https://qiita.com/aikw/items/efb3726eb808a913d9da)
 - 2019/02/03 [Beyond the webrtc.org monoculture](https://fosdem.org/2019/schedule/event/beyond_webrtc_monoculture/) Alternative WebRTC implementations in C and Python
 - 2018/10/14 [Libwebrtc is open source, how hard can it be.](https://webrtcbydralex.com/index.php/2018/10/14/libwebrtc-is-open-source-how-hard-can-it-be/) 
