@@ -468,12 +468,16 @@ $ ./build.sh # long time to build, don't use go build
 - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
-- [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
 - [MSU Video Codec Comparison](http://compression.ru/video/codec_comparison/index_en.html)
 - [OpenVisualCloud/SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)
     - [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
 - [RTP Payload Format For AV1](https://aomediacodec.github.io/av1-rtp-spec/) - v0.1.6
 - [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/) - v1.0.0, 2019/02/19
+
+
+### Open Source
+- [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
+- [moisesmcardona/rav1e_gui](https://github.com/moisesmcardona/rav1e_gui) - GUI to encode video files to AV1, using the rav1e encoder
 
 
 ---
