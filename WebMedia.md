@@ -514,7 +514,7 @@ $ ./build.sh # long time to build, don't use go build
 - Intel [Scalable Video Technology for the Visual Cloud](https://01.org/sites/default/files/documentation/scalable_video_technology_for_the_visual_cloud.pdf)
 
 ### Open Source
-- [AOMediaCodec](https://github.com/AOMediaCodec)
+- [**AOMediaCodec**](https://github.com/AOMediaCodec)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
