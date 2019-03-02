@@ -12,6 +12,8 @@
 - [WebGPU](#WebGPU)
 - [WebDriver](#webdriver)
 - [Web Push](#web-push) - [RFC8030](https://tools.ietf.org/html/rfc8030)
+- [HLS, DASH](#hls-dash)
+- [FTL](#ftl) - Fast Than Light Protocol
 - [AV1 Codec](#av1-codec)
 - [Game Streaming](#game-streaming)
 - [3D Streaming](#3d-streaming)
