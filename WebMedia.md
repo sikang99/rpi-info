@@ -482,7 +482,7 @@ $ ./build.sh # long time to build, don't use go build
 ### History
 - 2019/02/28 [Why AV1 Could Be the Next Big Thing for Online Video](https://www.globalbankingandfinance.com/why-av1-could-be-the-next-big-thing-for-online-video/)
 - 2019/02/26 [rav1e GUI – A GUI to encode videos to AV1](https://moisescardona.me/rav1e-gui/)
-- 2019/02/11 [AV1コーデックメモ](https://qiita.com/yohhoy/items/b2b54b6012348f17eb95) - AV1 코덱 메모
+- 2019/02/11 [**AV1コーデックメモ**](https://qiita.com/yohhoy/items/b2b54b6012348f17eb95) - AV1 코덱 메모
 - 2019/02/03 [Intel Publishes Open-Source AV1 Video Encoder "SVT-AV1"](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Open-Source-SVT-AV1)
 - 2019/01/29 [Mozilla Celebrates Release of Free, High-Quality Video Compression Technology AV1 in Firefox 65](https://medium.com/mozilla-tech/mozilla-celebrates-release-of-free-high-quality-video-compression-technology-av1-in-firefox-65-7c95f2b7e56)
 - 2018/12/18 [How to Play AV1 Videos in Windows 10 With the Free AV1 Codec](https://www.tekrevue.com/tip/play-av1-windows-10/)
