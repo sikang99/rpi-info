@@ -506,8 +506,6 @@ $ ./build.sh # long time to build, don't use go build
 - YouTube: [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
 - [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
 - [AV1 Codec Library](https://aomedia.googlesource.com/aom/+/master/README.md)
-- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
-- [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 - [MSU Video Codec Comparison](http://compression.ru/video/codec_comparison/index_en.html)
 - [OpenVisualCloud/SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)
     - [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
@@ -517,10 +515,13 @@ $ ./build.sh # long time to build, don't use go build
 
 ### Open Source
 - [AOMediaCodec](https://github.com/AOMediaCodec)
+- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
+- [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
 - [moisesmcardona/rav1e_gui](https://github.com/moisesmcardona/rav1e_gui) - GUI to encode video files to AV1, using the rav1e encoder
 - [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
 - [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
+- [mbebenita/aomanalyzer](https://github.com/mbebenita/aomanalyzer) - AV1 / VP9 Bitstream Analyzer`
 
 ### Paper
 - 2018 [A Bayesian Approach to Block Structure Inference in AV1-based Multi-rate Video Encoding](https://www.researchgate.net/publication/326437720_A_Bayesian_Approach_to_Block_Structure_Inference_in_AV1-based_Multi-rate_Video_Encoding)
