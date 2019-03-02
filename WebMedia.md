@@ -473,6 +473,7 @@ $ ./build.sh # long time to build, don't use go build
 - [OpenVisualCloud/SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)
     - [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
 - [RTP Payload Format For AV1](https://aomediacodec.github.io/av1-rtp-spec/) - v0.1.6
+- [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/) - v1.0.0, 2019/02/19
 
 
 ---
