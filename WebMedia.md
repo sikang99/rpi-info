@@ -4,7 +4,7 @@
 - Canvas
 - Web Component
 - Web Worker
-- WebCrypto
+- [WebCrypto](#webcrypto)
 - [WebAssembly](#webassembly)
 - [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
 - [WebRTC](#webrtc)
@@ -27,7 +27,9 @@
 [Shadow DOM](https://caniuse.com/#search=shadow%20dom),
 
 ---
-## [W3C](https://www.w3.org/)
+## W3C
+### Information
+- [W3C](https://www.w3.org/)
 - [Framework for Web technology roadmaps](https://github.com/w3c/web-roadmaps)
     - [web-roadmaps - Framework for Web technology roadmaps](https://w3c.github.io/web-roadmaps/)
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
@@ -41,6 +43,7 @@
 
 ---
 ## Common
+### History
 - 2017/11/19 [Real-Time Collaboration On Your Website With TogetherJS](https://www.hongkiat.com/blog/togetherjs-real-time-collaboration/)
     - [TogetherJS](https://togetherjs.com/)
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
@@ -50,16 +53,19 @@
 
 ---
 ## Web Push
+### History
 - [The Definitive Guide to Web Push Notifications (Updated 2018)](https://blog.sendx.io/definitive-guide-to-browser-push-notifications/)
 
 
 ---
 ## WebAudio
+### History
 - [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 
 
 ---
 ## Web5G
+### History
 - [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
 - [W3C Workshop on Web5G](https://www.w3.org/2017/11/web5g-workshop/) - Aligning evolutions of network and Web technologies
 - 2018/07/09 [WebXR, if X = 5G](https://www.slideshare.net/DiegoGonzlezZiga/webxr-if-x-5g)
@@ -549,6 +555,4 @@ $ ./build.sh # long time to build, don't use go build
 ### Open Source
 - [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit)
 
-
----
 
