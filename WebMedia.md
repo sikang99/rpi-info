@@ -499,6 +499,7 @@ $ ./build.sh # long time to build, don't use go build
 
 
 ### Information
+- [Codecs and containers](https://wiki.archlinux.org/index.php/Codecs_and_containers)
 - [wiki/AV1](https://en.wikipedia.org/wiki/AV1)
 - Github Topics: [codec](https://github.com/topics/codec)
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) -A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding) - [WIP] Learn FFmpeg libav the Hard Way
@@ -512,12 +513,14 @@ $ ./build.sh # long time to build, don't use go build
 - [RTP Payload Format For AV1](https://aomediacodec.github.io/av1-rtp-spec/) - v0.1.6
 - [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/) - v1.0.0, 2019/02/19
 - Intel [Scalable Video Technology for the Visual Cloud](https://01.org/sites/default/files/documentation/scalable_video_technology_for_the_visual_cloud.pdf)
+- [NGCodec](https://ngcodec.com)
 
 ### Open Source
 - [**AOMediaCodec**](https://github.com/AOMediaCodec)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [videolan/dav1d](https://code.videolan.org/videolan/dav1d) - AV1 Decoder
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
+- [OpenVisualCloud/SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - SVT-AV1 encoder
 - [moisesmcardona/rav1e_gui](https://github.com/moisesmcardona/rav1e_gui) - GUI to encode video files to AV1, using the rav1e encoder
 - [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
 - [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
