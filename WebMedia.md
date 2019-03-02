@@ -519,6 +519,8 @@ $ ./build.sh # long time to build, don't use go build
 - [AOMediaCodec](https://github.com/AOMediaCodec)
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
 - [moisesmcardona/rav1e_gui](https://github.com/moisesmcardona/rav1e_gui) - GUI to encode video files to AV1, using the rav1e encoder
+- [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
+- [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
 
 ### Paper
 - 2018 [A Bayesian Approach to Block Structure Inference in AV1-based Multi-rate Video Encoding](https://www.researchgate.net/publication/326437720_A_Bayesian_Approach_to_Block_Structure_Inference_in_AV1-based_Multi-rate_Video_Encoding)
