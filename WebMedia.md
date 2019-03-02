@@ -68,21 +68,21 @@
 
 ---
 ## Web Push
-
 ### History
 - 2018/03/02 [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
 
 
 ---
 ## Web Component
-- [Web Components - Wikipedia](https://en.wikipedia.org/wiki/Web_Components)
-- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - Custom elements, Shadow DOM, HTML templates
-- [Web Component Essentials](https://leanpub.com/web-component-essentials)
-
 ### History
 - 2018/11/15 [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - 2018/07/06 [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - 2018/01/24 [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
+
+### Information
+- [Web Components - Wikipedia](https://en.wikipedia.org/wiki/Web_Components)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - Custom elements, Shadow DOM, HTML templates
+- [Web Component Essentials](https://leanpub.com/web-component-essentials)
 
 ### Open Source
 - [fluster/web-google-maps](https://github.com/fluster/web-google-maps) - A Web Component to easily integrate Google Maps into any web applications
@@ -91,14 +91,14 @@
 
 ---
 ## WebDriver
+### History
+- 2018/01/09 [What is Selenium WebDriver?](https://medium.com/@mindfiresolutions.usa/what-is-selenium-webdriver-62b6136f2c0c) 
+
+### Information
 - [WebDriver](https://www.w3.org/TR/webdriver1/) - W3C Recommendation 05 June 2018
 - [WebDriver](https://w3c.github.io/webdriver/) - Living Document
 - [MDN WebDriver](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
 - [WebDriver.io](http://webdriver.io/) - WebDriver bindings for Node.js
-
-
-### History
-- 2018/01/09 [What is Selenium WebDriver?](https://medium.com/@mindfiresolutions.usa/what-is-selenium-webdriver-62b6136f2c0c) 
 
 ### Open Source
 - [w3c/webdriver](https://github.com/w3c/webdriver)
@@ -107,13 +107,12 @@
 
 ---
 ## WebGPU
-- [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
-- [GPU for the Web Community Group](https://www.w3.org/community/gpu/)
-
-
 ### History
 - 2018/02/10 [Feasibility of low-level GPU access on the Web](http://kvark.github.io/web/gpu/2018/02/10/low-level-gpu-web.html)
 
+### Information
+- [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
+- [GPU for the Web Community Group](https://www.w3.org/community/gpu/)
 
 ### Open Source
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU on the Web work happens!
@@ -125,19 +124,6 @@
 
 ---
 ## Web / Service Worker
-- [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
-- [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
-- [Service Worker: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
-- [Web worker](https://en.wikipedia.org/wiki/Web_worker)
-- 2016 [Demystifying Web Workers and Service Workers](https://nolanlawson.github.io/cascadia-2016/)
-- [Getting Started with Service Workers](https://alligator.io/js/service-workers/)
-- [Servie Worker Exaplained](https://flaviocopes.com/service-workers/)
-- [The Service Worker Cookbook](https://serviceworke.rs/)
-- [HTML5 Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
-- [HTML5 Worker Test](https://html5workertest.com/)
-- Chrome Platform Status for [Servie Worker](https://www.chromestatus.com/feature/6561526227927040)
-
-
 ### History
 - 2018/08/30 [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
 - 2018/08/26 [Service Workers](https://frontendian.co/service-workers)
@@ -157,6 +143,19 @@
 - 2017/12/11 [Web Workers vs Service Workers in JavaScript](https://tech.ovoenergy.com/web-workers-vs-service-workers/)
 - 2015/07/20 [The difference between Service Workers, Web Workers and WebSockets](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
 
+### Information
+- [Service Worker API](https://developer.mozilla.org/ko/docs/Web/API/Service_Worker_API)
+- [Web Workers API](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API)
+- [Service Worker: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [Web worker](https://en.wikipedia.org/wiki/Web_worker)
+- 2016 [Demystifying Web Workers and Service Workers](https://nolanlawson.github.io/cascadia-2016/)
+- [Getting Started with Service Workers](https://alligator.io/js/service-workers/)
+- [Servie Worker Exaplained](https://flaviocopes.com/service-workers/)
+- [The Service Worker Cookbook](https://serviceworke.rs/)
+- [HTML5 Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
+- [HTML5 Worker Test](https://html5workertest.com/)
+- Chrome Platform Status for [Servie Worker](https://www.chromestatus.com/feature/6561526227927040)
+
 ### Open Source
 - [acacha/TinkeringWebWorkers](https://github.com/acacha/TinkeringWebWorkers) 
 - [goldhand/sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - SW Precache Webpack Plugin
@@ -165,6 +164,7 @@
 
 ---
 ## WebCrypto
+### Information
 - Wikipedia [Web cryptography API](https://en.wikipedia.org/wiki/Web_cryptography_API)
 - W3C [Web Cryptography API](https://www.w3.org/TR/WebCryptoAPI/) - W3C Recommendation 26 January 2017
 - Mozilla [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
@@ -180,6 +180,7 @@
 
 ---
 ## Canvas
+### Information
 - [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/)
 - [Capture a MediaStream From a Canvas, Video or Audio Element](https://developers.google.com/web/updates/2016/10/capture-stream)
@@ -202,6 +203,7 @@
 
 ---
 ## MSE (Media Soruce Extension)
+### Information
 - [W3C Media Source Extensions](https://w3c.github.io/media-source/)
 - [Codec and container switching in MSE Sample](https://googlechrome.github.io/samples/media/sourcebuffer-changetype.html)
 - [Support Opus in mp4 (ISO-BMFF) with Media Source Extensions (MSE)](https://www.chromestatus.com/feature/5100845653819392)
@@ -224,6 +226,7 @@
 
 ---
 ## HTML5 & Media
+### Information
 - [High Performance Browser Networking](https://hpbn.co/)
     - [WebRTC](https://hpbn.co/webrtc/)
 - [simpl.info/](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript
@@ -233,18 +236,21 @@
 
 ---
 ## HTML5 Video
+### Information
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 - [Camera stream in Web](https://jolicode.com/blog/camera-stream-in-web)
 
 
 ---
 ## HTML5 Animation
+### Information
 - [HTML5 Animations Tutorial with 10 Beautiful Examples](https://cloudinary.com/blog/creating_html5_animations)
 - [Computer Vision on the Web with WebRTC and TensorFlow](https://webrtchacks.com/webrtc-cv-tensorflow/)
 
 
 ---
 ## Web Authentication
+### Information
 - [wiki/WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
 - [WebAuthn demo](https://webauthn.org/)
     - [apowers313/fido2-server-demo/](https://github.com/apowers313/fido2-server-demo/)
@@ -257,13 +263,15 @@
 ### History
 - 2018/11/20 [All about FIDO2, CTAP2 and WebAuthn](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/All-about-FIDO2-CTAP2-and-WebAuthn/ba-p/288910)
 
+
 ---
 ## WebAudio
+### Information
 - [Web Audio Weekly](https://www.webaudioweekly.com/)
 - [W3C WebAudio API](https://www.w3.org/TR/webaudio/)
 - [MediaStream Integration](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/webrtc-integration.html) - WebRTC integration with the Web Audio API
 
-### Information
+### History
 - 2018/05/17 [Playing with MIDI in JavaScript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
 - 2018/03/19 [Getting Started With The Web MIDI API](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 - 2017/12/12 [WebAudio wasm benchmark pages and tools](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
@@ -272,8 +280,10 @@
 ### Open Source
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
 
+
 ---
 ## WebGL, WebVR/AR/MR/XR
+### Information
 - [WebGL Fundamentals](https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 - [WbVR](https://developers.google.com/web/fundamentals/vr/)
 - [The PortARble Museum: Developing Augmented Reality For The Web Using AR.Js](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)
@@ -297,6 +307,7 @@
 
 ---
 ## WebAssembly
+### Information
 - [wiki/WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [WebAeembly Rocks](https://www.wasmrocks.com/)
@@ -334,6 +345,7 @@
 
 ---
 ## WebRTC
+### Information
 - [Awesome WebRTC](https://github.com/openrtc-io/awesome-webrtc)
 - [wiki/WebRTC](https://en.wikipedia.org/wiki/WebRTC)
 - [Reddit for WebRTC](https://www.reddit.com/r/WebRTC/)
@@ -361,6 +373,7 @@
 
 ---
 ## WebRTC Data Channel
+### Information
 - [RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel)
 - [A simple RTCDataChannel sample](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Simple_RTCDataChannel_sample)
 - [openscreenprotocol](https://webscreens.github.io/openscreenprotocol/)
@@ -391,11 +404,12 @@
 
 ---
 ## WebRTC Stats
+### Information
 - [W3C Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/)
 - Kurento: [WebRTC Statistics](https://doc-kurento.readthedocs.io/en/6.6.1/mastering/webrtc_statistics.html)
 
 
-### Open Source for WebRTC
+### Open Source
 - Github [Topic:WebRTC](https://github.com/topics/webrtc)
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport
@@ -428,13 +442,14 @@ $ ./build.sh # long time to build, don't use go build
 - [webdriverio/webdriverrtc](https://github.com/webdriverio/webdriverrtc) - WebRTC testing tool for WebdriverIO
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - build network tunnels over WebRTC
 
+
 ---
 ## HLS, DASH
+### Information
 - [EME WTF?](https://www.html5rocks.com/en/tutorials/eme/basics/) - DRM, CENC, MSE
 - [Streamlink](https://streamlink.github.io/) - Command-line utility that extracts streams from various services and pipes them into a video player of choice
 
-
-### Open Source for Streaming
+### Open Source
 - [ireader/media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4
     - [ireader/sdk](https://github.com/ireader/sdk) - portable system call(aio/socket/thread/process/lock/event/pipe)
     - [ireader/avcodec](https://github.com/ireader/avcodec) - av encoder/decoder/render/player
@@ -500,6 +515,7 @@ $ ./build.sh # long time to build, don't use go build
 
 ---
 ## Game Streaming
+### Information
 - [wiki/Cloud gaming](https://en.wikipedia.org/wiki/Cloud_gaming)
 - Google [Project Stream](https://projectstream.google.com/) - WebRTC
 - Microsoft [Project xCloud]()
@@ -527,10 +543,12 @@ $ ./build.sh # long time to build, don't use go build
 
 ---
 ## 3D Streaming
+### Information
 - [3D Streaming Toolkit Documentation](https://3dstreamingtoolkit.github.io/docs-3dstk/) - WebRTC, Unity/WebGL/DX, NVENC
 
 ### Open Source
 - [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit)
 
 
+---
 
