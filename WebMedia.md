@@ -512,7 +512,7 @@ $ ./build.sh # long time to build, don't use go build
     - [OpenBenchmark.org](https://openbenchmarking.org) for [SVT-AV1](https://openbenchmarking.org/test/pts/svt-av1)
 - [RTP Payload Format For AV1](https://aomediacodec.github.io/av1-rtp-spec/) - v0.1.6
 - [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/) - v1.0.0, 2019/02/19
-
+- Intel [Scalable Video Technology for the Visual Cloud](https://01.org/sites/default/files/documentation/scalable_video_technology_for_the_visual_cloud.pdf)
 
 ### Open Source
 - [intel/SVT-HEVC](https://github.com/intel/SVT-HEVC) - Scalable Video Technology for HEVC Encoder (SVT-HEVC Encoder)
