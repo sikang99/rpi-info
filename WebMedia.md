@@ -9,6 +9,7 @@
 - [WebGL, WebXR/AR/MR/XR](#webgl-webvrarmrxr)
 - [WebRTC](#webrtc)
 - [WebGPU](#WebGPU)
+- [Web5G](#web5g)
 - [WebDriver](#webdriver)
 - [Web Push](#web-push) - [RFC8030](https://tools.ietf.org/html/rfc8030)
 - [HLS, DASH](#hls-dash)
