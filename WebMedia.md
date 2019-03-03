@@ -474,6 +474,10 @@ $ ./build.sh # long time to build, don't use go build
 - [RFC 6921](https://tools.ietf.org/html/rfc6921) - Design Considerations for Faster-Than-Light (FTL) Communication, 2013/04/01
 
 ### History
+- 2019/02/26 [Restream now supports Mixer FTL with OBS Studio](https://blog.restream.io/restream-now-supports-mixer-ftl-with-obs-studio-c774144f0899)
+- 2018/10/14 [Steps To Run Your Twitch/Mixer Broadcast](https://medium.com/gamerjibe/steps-to-run-your-twitch-mixer-broadcast-61c1788b0bd0)
+- 2018/02/18 [5 Ways Mixer Beats Twitch](https://www.tomsguide.com/us/mixer-better-than-twitch,news-26630.html)
+- 2017/03/07 [Low Latency Matters in Online Gaming](http://www.wowza.com/blog/low-latency-matters-in-online-gaming)
 
 ### Open Source
 - [mixer/ftl-sdk](https://github.com/mixer/ftl-sdk) - Software Development Kit for Mixer's FTL Protocol
