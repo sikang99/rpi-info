@@ -469,6 +469,7 @@ $ ./build.sh # long time to build, don't use go build
 ## FTL
 
 ### Information
+- [FTL (Faster Than Light Streaming Protocol)](https://watchbeam.zendesk.com/hc/en-us/articles/209659623-FTL-Faster-Than-Light-streaming-protocol-)
 
 ### History
 
