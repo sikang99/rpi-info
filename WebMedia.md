@@ -479,6 +479,7 @@ $ ./build.sh # long time to build, don't use go build
 ### History
 - 2019/02/26 [Restream now supports Mixer FTL with OBS Studio](https://blog.restream.io/restream-now-supports-mixer-ftl-with-obs-studio-c774144f0899)
 - 2018/10/14 [Steps To Run Your Twitch/Mixer Broadcast](https://medium.com/gamerjibe/steps-to-run-your-twitch-mixer-broadcast-61c1788b0bd0)
+- 2018/03/15 [The Complete Guide to Streaming on Mixer](https://medium.com/the-emergence/the-complete-guide-to-streaming-on-mixer-665e95781b6)
 - 2018/02/18 [5 Ways Mixer Beats Twitch](https://www.tomsguide.com/us/mixer-better-than-twitch,news-26630.html)
 - 2017/09/27 [Mixer の技術的視点での凄さ](https://medium.com/@voluntas/mixer-%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E8%A6%96%E7%82%B9%E3%81%A7%E3%81%AE%E5%87%84%E3%81%95-64d60b2c614f) - Mixer의 기술적 관점에서의 굉장함
     - 2017/08/31 [Co-Streaming (共同ストリーミング) という世界](https://medium.com/@voluntas/co-streaming-%E5%85%B1%E5%90%8C%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E3%81%A8%E3%81%84%E3%81%86%E4%B8%96%E7%95%8C-2fc4194a4c3a) - Co-Streaming (공동 스트리밍)라는 세계
