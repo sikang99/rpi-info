@@ -61,6 +61,7 @@
 - CloudFlare [Worker](https://developers.cloudflare.com/workers/) - Build Serverless Applications
 
 ### History
+- 2018/11/28 [나는 코드를 쓸테니, 너는 인프라를 맡거라](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
 - 2019/01/31 [Finding Serverless’ Hidden Costs](https://thenewstack.io/finding-serverless-hidden-costs/)
 - 2019/01/31 [서버리스 컴퓨팅 표준 될까?··· ‘K네이티브’의 가치와 과제](http://www.ciokorea.com/news/116127)
 - 2018/12/12 [Serverless is Not a Bubble; It’s a Spectrum](https://www.cloudzero.com/blog/serverless-is-not-a-bubble-its-a-spectrum)
@@ -76,7 +77,7 @@
 - [serverless/examples](https://github.com/serverless/examples) - A collection of ready-to-deploy Serverless Framework services
 - [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers)
 - [knative](https://github.com/knative) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads
-
+- [tmaiaroto/aegis](https://github.com/tmaiaroto/aegis) - Serverless Golang deploy tool and framework for AWS Lambda
 
 ---
 ## GraphQL
