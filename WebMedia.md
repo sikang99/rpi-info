@@ -65,6 +65,12 @@
 
 
 ---
+## Web Speech
+### History
+- [Web Speech API Demonstration](https://www.google.com/intl/en/chrome/demos/speech.html)
+
+
+---
 ## Web5G
 ### Information
 - [Web5G Roadmap](https://w3c.github.io/web-roadmaps/web5g/)/[5G Applications](https://w3c.github.io/web-roadmaps/web5g/applications.html)
