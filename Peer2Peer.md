@@ -47,6 +47,7 @@
     - [hyperswarm](https://github.com/hyperswarm) - A distributed networking stack for connecting peers.
 - [IPOP (IP-Over-P2P)](http://ipop-project.org/) - Open-source User-centric Software Virtual Network
 - [P2PSP](http://www.p2psp.org/en/) - Application layer protocol for the real-time streaming of multimedia content over the Internet
+- [OpenWebTorrent](https://openwebtorrent.com/)
 
 
 ## Player
