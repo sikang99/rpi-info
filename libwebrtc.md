@@ -81,3 +81,11 @@
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [seemk/WebUdp](https://github.com/seemk/WebUdp) - Minimal WebRTC datachannel server
 
+
+
+### Status
+```
+$ pkg-config --cflags --libs LibWebRTC
+-DWEBRTC_POSIX -D_GLIBCXX_USE_CXX11_ABI=0 -std=gnu++0x -pthread -I/usr/local/include -L/usr/local/lib -lwebrtc -lSM -lICE -lX11 -lXext -ldl -lrt
+```
+
