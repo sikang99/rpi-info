@@ -46,6 +46,8 @@
 - [t-mullen/Web-Broadcasting-Software](https://github.com/t-mullen/Web-Broadcasting-Software) - Broadcasting software for the web (WBS) [Demo](https://t-mullen.github.io/Web-Broadcasting-Software/)
 - [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite
 - [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - Free and open source streaming software built on OBS and Electron
+- [Xaymar/obs-stream-effects](https://github.com/Xaymar/obs-stream-effects) - Bring your stream back to life with modern effects!
+- [robotstreamer/robotstreamer_win_obs](https://github.com/robotstreamer/robotstreamer_win_obs) - Software to setup OBS with robotstreamer.com
 
 ### History
 - 2018/05/18 [The best free streaming software 2019](https://www.techradar.com/news/the-best-free-streaming-software)
