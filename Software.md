@@ -48,6 +48,9 @@
 - [stream-labs/streamlabs-obs/](https://github.com/stream-labs/streamlabs-obs/) - Free and open source streaming software built on OBS and Electron
 - [Xaymar/obs-stream-effects](https://github.com/Xaymar/obs-stream-effects) - Bring your stream back to life with modern effects!
 - [robotstreamer/robotstreamer_win_obs](https://github.com/robotstreamer/robotstreamer_win_obs) - Software to setup OBS with robotstreamer.com
+- [lebaston100/OBSliveTally](https://github.com/lebaston100/OBSliveTally) - Display the stream status or tally information for a scene on any device in the network
+
+
 
 ### History
 - 2018/05/18 [The best free streaming software 2019](https://www.techradar.com/news/the-best-free-streaming-software)
