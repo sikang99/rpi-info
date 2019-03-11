@@ -481,6 +481,8 @@ $ ./build.sh # long time to build, don't use go build
 - Mixer: [Blog](https://blog.mixer.com/)
 - [FTL (Faster Than Light Streaming Protocol)](https://watchbeam.zendesk.com/hc/en-us/articles/209659623-FTL-Faster-Than-Light-streaming-protocol-)
 - [RFC 6921](https://tools.ietf.org/html/rfc6921) - Design Considerations for Faster-Than-Light (FTL) Communication, 2013/04/01
+- [Open source releases from Microsoft](https://opensource.microsoft.com/): [mixer](https://opensource.microsoft.com/?tag=mixer)
+
 
 ### History
 - 2019/02/26 [Restream now supports Mixer FTL with OBS Studio](https://blog.restream.io/restream-now-supports-mixer-ftl-with-obs-studio-c774144f0899)
