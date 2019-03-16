@@ -165,6 +165,8 @@
 
 ---
 ## ✦ PWA (Progressive Web App)
+### Information
+- [Desktop Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/desktop)
 
 ### History
 - 2018/10/23 [칼럼 | MS와 구글이 '프로그레시브 웹 앱'에 올인하는 이유](http://www.ciokorea.com/news/39944?fbclid=IwAR3ZEflVb-Uuf2LMz_IvP_l2JsY610k296CfxfmeTl7cNPUlx-7CPFQzdcg)
