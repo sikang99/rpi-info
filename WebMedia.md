@@ -56,6 +56,7 @@
 ---
 ## Web Storage
 ### Information
+- wiki: [Web storage](https://en.wikipedia.org/wiki/Web_storage)
 - [Web Storage API 사용하기](https://developer.mozilla.org/ko/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 - [웹 저장소 개요](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/?hl=ko)
 - [HTML5 Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
