@@ -64,6 +64,8 @@
 
 
 ### History
+- 2018/07/17 [LocalStorage in JavaScript](https://blog.logrocket.com/the-complete-guide-to-using-localstorage-in-javascript-apps-ba44edb53a36)
+
 
 
 ---
