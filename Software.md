@@ -63,6 +63,7 @@
 - [OBS Table Remote](http://t2t2.github.io/obs-tablet-remote/)
 - [Streamlabs](https://streamlabs.com/) - Fast, reliable & feature packed streaming app
 - [OBS Studio Portable](https://portableapps.com/apps/music_video/obs-studio-portable) - Streamlabs OBS
+- [Camera for OBS Studio](https://obs.camera/)
 
 
 ### Device
@@ -112,6 +113,8 @@
 - [AgoraIO/Basic-Video-Broadcasting](https://github.com/AgoraIO/Basic-Video-Broadcasting)
 - [AgoraIO/Advanced-Video](https://github.com/AgoraIO/Advanced-Video)
 - [AgoraIO/Advanced-Interactive-Broadcasting](https://github.com/AgoraIO/Advanced-Interactive-Broadcasting)
+- [lebaston100/OBSmultiviewTally](https://github.com/lebaston100/OBSmultiviewTally)
+- [stream-labs/obs-studio-node](https://github.com/stream-labs/obs-studio-node)
 
 
 

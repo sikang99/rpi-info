@@ -53,6 +53,15 @@
 
 
 ---
+## Web Storage
+### Information
+- [Web Storage API 사용하기](https://developer.mozilla.org/ko/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+- [웹 저장소 개요](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/?hl=ko)
+
+### History
+
+
+---
 ## Web Push
 ### History
 - [The Definitive Guide to Web Push Notifications (Updated 2018)](https://blog.sendx.io/definitive-guide-to-browser-push-notifications/)
