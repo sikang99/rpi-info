@@ -1,20 +1,15 @@
 #
 # Makefile by Stoney
 #
-all: usage
-
 EDITOR=vi
 
+all: usage
 usage:
-	@echo ""
 	@echo "usage: make [edit|run|git]"
-	@echo ""
 
 # ---------------------------------------------------------------------------
 edit e:
-	@echo ""
-	@echo "make (edit) [make|readme|peer|web|flutter|blockchain]"
-	@echo ""
+	@echo "make (edit) [make|readme|peer|web|flutter|blockchain|study]"
 
 edit-block eb:
 	$(EDITOR) Blockchain.md
@@ -46,16 +41,15 @@ edit-lib el:
 edit-readme er:
 	$(EDITOR) README.md
 
+edit-study es:
+	$(EDITOR) Study.md
+
 edit-make em:
 	$(EDITOR) Makefile
 
 # ---------------------------------------------------------------------------
 run r:
 	./$(SCRIPT)
-
-cp:
-	cp ~/.bashrc go-funcs.sh
-	vi go-funcs.sh
 
 # ---------------------------------------------------------------------------
 git g:
