@@ -10,6 +10,7 @@
 - [WebRTC](#webrtc)
 - [WebGPU](#WebGPU)
 - [Web5G](#web5g)
+- [WebStorage](#webstorage)
 - [WebDriver](#webdriver)
 - [Web Push](#web-push) - [RFC8030](https://tools.ietf.org/html/rfc8030)
 - [HLS, DASH](#hls-dash)
@@ -228,7 +229,7 @@
 ---
 ## MSE (Media Soruce Extension)
 ### Information
-- [W3C Media Source Extensions](https://w3c.github.io/media-source/)
+- W3C [Media Source Extensions](https://w3c.github.io/media-source/)
 - [Codec and container switching in MSE Sample](https://googlechrome.github.io/samples/media/sourcebuffer-changetype.html)
 - [Support Opus in mp4 (ISO-BMFF) with Media Source Extensions (MSE)](https://www.chromestatus.com/feature/5100845653819392)
 - 2018/06/07 [Experimenting with DASH, MSE and EME](https://www.linkedin.com/pulse/experimenting-dash-mse-eme-marc-michel-rochat)
@@ -237,6 +238,8 @@
 - 2017/10/24 [Media Source Extension on Webkit (GStreamer Conference 2017)](https://www.slideshare.net/igalia/media-source-extension-on-webkit-gstreamer-conference-2017)
 - [HLS & DASH](https://www.visualon.com/index.php/hls-dash/) - Media Source Extension for Codecs
 - [Streaming Using WebSockets](http://docs.evostream.com/2.0/html5players_wsdemo.html)
+- [Media Source Extensions](https://developers.google.com/web/fundamentals/media/mse/basics)
+    - [Media Source Extensions for Audio](https://developers.google.com/web/fundamentals/media/mse/seamless-playback)
 
 
 ### Open Source
@@ -245,7 +248,7 @@
 - [kevinGodell/live-stream-media-source-extensions](https://github.com/kevinGodell/live-stream-media-source-extensions) - Live stream h264 encoded mp4 video on media source extensions using ffmpeg, node.js, socket.io, and express
 - [kevinGodell/mse-live-player](https://github.com/kevinGodell/mse-live-player)
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
-- [https://github.com/linkingvision/h5stream](https://github.com/linkingvision/h5stream) - HTML5 RTSP paly a HTML5 streaming server
+- [linkingvision/h5stream](https://github.com/linkingvision/h5stream) - HTML5 RTSP paly a HTML5 streaming server
 
 
 ---
