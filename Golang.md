@@ -47,6 +47,12 @@
 
 
 ---
+## Deep Learning
+### Open Source
+- [mattn/go-tflite](https://github.com/mattn/go-tflite) - Go binding for TensorFlow Lite
+
+
+---
 ## Books
 - [https://github.com/parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 
