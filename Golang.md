@@ -31,6 +31,7 @@
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 - [dave/play](https://github.com/dave/play) - jsgo playground: edit and run Go code in the browser
+- [dave/jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN
 
 
 ---
