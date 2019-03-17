@@ -30,6 +30,7 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+- [gashirar/lorca-sample](https://github.com/gashirar/lorca-sample) - Lorca Sample
 - [dave/play](https://github.com/dave/play) - jsgo playground: edit and run Go code in the browser
 - [dave/jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN
 
