@@ -30,12 +30,14 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+- [dave/play](https://github.com/dave/play) - jsgo playground: edit and run Go code in the browser
 
 
 ---
 ## Multimedia
 
 ### WebAssembly
+- [play.jsgo.io/](https://play.jsgo.io/)
 - [Go WebAssembly Tutorial - Building a Calculator Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 - 2018/12/07 [Go and WebAssembly: running Go programs in your browser](https://blog.gopheracademy.com/advent-2018/go-in-the-browser/)
 - 2019/02/06 Learning Golang through WebAssembly
