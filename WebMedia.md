@@ -41,7 +41,9 @@
 - [Identifiers for WebRTC's Statistics API](https://www.w3.org/TR/webrtc-stats/) - W3C Candidate Recommendation 03 July 2018
 - [Report from the World Wide Web Consortium](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8444999)
 - [Monthly Web](https://mozaic.fm/)
-- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+- [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools/)
+    - [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
+
 
 ---
 ## Common
