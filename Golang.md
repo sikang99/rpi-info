@@ -16,11 +16,11 @@
 ---
 ## Desktop
 - 2019/03/15 [Building Desktop App in Go](https://pepa.holla.cz/2019/03/15/building-desktop-app-in-go/)
-    - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-    - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 - 2019/03/02 FOSDEM'19: [Building modern desktop apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/)
 - 2019/01/29 [The world’s easiest introduction to WebAssembly](https://medium.freecodecamp.org/webassembly-with-golang-is-fun-b243c0e34f02)
 - 2018/06/15 [GopherJS vs WebAssembly for Go](https://dev.to/hajimehoshi/gopherjs-vs-webassembly-for-go-148m)
+ - [GopherJS](https://gojs.net/latest/index.html) - Interactive JavaScript Diagrams for the Web
+
 
 ### Open Source
 - [**gopherjs/gopherjs**](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -28,6 +28,8 @@
 - [dominikh/go-js-dom](https://github.com/dominikh/go-js-dom)
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
+- [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 
 
 ---
