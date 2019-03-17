@@ -36,7 +36,15 @@
 ### WebAssembly
 - [Go WebAssembly Tutorial - Building a Calculator Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 - 2018/12/07 [Go and WebAssembly: running Go programs in your browser](https://blog.gopheracademy.com/advent-2018/go-in-the-browser/)
+- 2019/02/06 Learning Golang through WebAssembly
+    - [Part 1 - Introduction and setup (this post)](https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/)
+    - Part 2 - Writing your first piece of Go
+    - [Part 3, Interacting with JavaScript from Go](https://www.aaron-powell.com/posts/2019-02-06-golang-wasm-3-interacting-with-js-from-go/)
+    - Part 4 - Sending a response to JavaScript
+    - Part 5 - Compiling Go with webpack
+    - Part 6 - Go, WASM, React and TypeScript
 - 2018/06/18 [Experiments with image manipulation in WASM using Go](https://agniva.me/wasm/2018/06/18/shimmer-wasm.html)
+
 
 ### Open Soure
 - [agnivade/shimmer](https://github.com/agnivade/shimmer) - Image transformation in wasm using Go
