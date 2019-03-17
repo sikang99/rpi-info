@@ -23,13 +23,24 @@
 - 2018/06/15 [GopherJS vs WebAssembly for Go](https://dev.to/hajimehoshi/gopherjs-vs-webassembly-for-go-148m)
 
 ### Open Source
-- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
+- [**gopherjs/gopherjs**](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
+- [**dennwc/dom**](https://github.com/dennwc/dom) - DOM library for Go and WASM
+- [dominikh/go-js-dom](https://github.com/dominikh/go-js-dom)
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 
 
 ---
 ## Multimedia
+
+### WebAssembly
+- [Go WebAssembly Tutorial - Building a Calculator Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)
+- 2018/12/07 [Go and WebAssembly: running Go programs in your browser](https://blog.gopheracademy.com/advent-2018/go-in-the-browser/)
+- 2018/06/18 [Experiments with image manipulation in WASM using Go](https://agniva.me/wasm/2018/06/18/shimmer-wasm.html)
+
+### Open Soure
+- [agnivade/shimmer](https://github.com/agnivade/shimmer) - Image transformation in wasm using Go
+
 
 ### WebRTC
 - [Go for WebRTC](https://libs.garden/go/webrtc)
