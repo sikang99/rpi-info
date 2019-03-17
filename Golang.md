@@ -19,11 +19,13 @@
     - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
     - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 - 2019/03/02 FOSDEM'19: [Building modern desktop apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/)
+- 2019/01/29 [The world’s easiest introduction to WebAssembly](https://medium.freecodecamp.org/webassembly-with-golang-is-fun-b243c0e34f02)
 - 2018/06/15 [GopherJS vs WebAssembly for Go](https://dev.to/hajimehoshi/gopherjs-vs-webassembly-for-go-148m)
 
 ### Open Source
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
+- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 
 
 ---
@@ -56,6 +58,13 @@
 ## Deep Learning
 ### Open Source
 - [mattn/go-tflite](https://github.com/mattn/go-tflite) - Go binding for TensorFlow Lite
+
+
+---
+## Blockchain
+- 2018/12/07 [Writing Chaincode in Golang - the OOP way](https://codeburst.io/writing-chaincode-in-golang-the-oop-way-4be3bb261dae)
+
+
 
 
 ---
