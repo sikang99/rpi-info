@@ -16,8 +16,8 @@
 ---
 ## Desktop
 - 2019/03/15 [Building Desktop App in Go](https://pepa.holla.cz/2019/03/15/building-desktop-app-in-go/)
-    - [zserge/lorca](https://github.com/zserge/lorca)
-    - [zserge/webview](https://github.com/zserge/webview)
+    - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
+    - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 
 
 ---
