@@ -9,5 +9,6 @@
     - [Web Fundamentals](https://developers.google.com/web/fundamentals/): Media & VR
     - [WebRTC Glossary](https://webrtcglossary.com/)
     - Hands on WebRTC Examples
+    - [Chrome Platform Status](https://www.chromestatus.com/features/schedule)
 
 
