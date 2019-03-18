@@ -91,7 +91,8 @@
     - [go-truffle/perigord-contract-example](https://gitlab.com/go-truffle/perigord-contract-example)
 - 2018/12/07 [Writing Chaincode in Golang - the OOP way](https://codeburst.io/writing-chaincode-in-golang-the-oop-way-4be3bb261dae)
 
-
+### Open Source
+- [polyswarm/perigord](https://github.com/polyswarm/perigord) - Perigord: Golang Tools for Ethereum Development
 
 
 ---
