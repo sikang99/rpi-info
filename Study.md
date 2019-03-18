@@ -7,6 +7,7 @@
 ## Plan
 - 2019/03/18
     - [Web Fundamentals](https://developers.google.com/web/fundamentals/): Media & VR
-    - Streaming for anything
+    - [WebRTC Glossary](https://webrtcglossary.com/)
+    - Hands on WebRTC Examples
 
 
