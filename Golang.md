@@ -87,6 +87,8 @@
 
 ---
 ## Blockchain
+- 2019/02/28 [Test Ethereum Smart-Contracts with Go: Tell JavaScript Goodbye](https://medium.com/@olena_stoliarova/test-ethereum-smart-contracts-with-go-tell-javascript-goodbye-561789abc04b?fbclid=IwAR0WPIpF6GA_Y0BGuZdF7qiClgIGNosekAisbyKRNj7xCpN4OOMp7sVXoEY)
+    - [go-truffle/perigord-contract-example](https://gitlab.com/go-truffle/perigord-contract-example)
 - 2018/12/07 [Writing Chaincode in Golang - the OOP way](https://codeburst.io/writing-chaincode-in-golang-the-oop-way-4be3bb261dae)
 
 
