@@ -146,7 +146,7 @@
 - [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud : WebRTC preview
 - [bbc/videocontext](https://github.com/bbc/videocontext) - An experimental HTML5 & WebGL video composition and rendering API
 - [bbc/html5-video-compositor](https://github.com/bbc/html5-video-compositor)
-
+- [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 
 
 
