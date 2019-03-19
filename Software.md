@@ -15,6 +15,8 @@
 ## VCMS (Video Contents Management System)
 
 ### History
+- 2019/01/08 [Storing Video in Your DAM with the Mezzanine File Format](https://www.widen.com/blog/the-mezzanine-storing-video-in-your-digital-asset-management-system)
+- 2019/00/00
 - 2018/10/18 [The Pros and Cons of Coupled, Decoupled, and Headless CMS Platforms](https://www.brightspot.com/blog/decoupled-cms-and-headless-cms-platforms)
 - 2018/07/06 [Top 10 Best Video Content Management Platforms](https://hackernoon.com/top-10-best-video-content-management-platforms-4a73b4b6dd90)
 - 2018/06/19 [Top 15 Enterprise Video Content Management Systems](https://www.cmswire.com/customer-experience/top-15-enterprise-video-content-management-systems/)
