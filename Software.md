@@ -9,6 +9,7 @@
 ### History
 - 2018/11/08 [An Easy Guide to 5 Contact Center as a Service Use Cases](https://www.callstats.io/blog/an-easy-guide-to-5-contact-center-as-a-service-use-cases)
 - 2018/10/09 [Benefits of enabling a WebRTC Contact Center](https://www.quobis.com/2018/09/10/2835/)
+- 2018/07/23 [The Complete Guide to Social Media Video Specs in 2018](https://blog.hootsuite.com/social-media-video-specs/)
 
 
 ---
@@ -33,6 +34,7 @@
 - [Kaltura](https://www.kaltura.org/)
 - [**Directus**](https://directus.io/)
 - [backbee](http://www.backbee.org/) - A NextGen CMS
+- Widen: [Video Asset Management](https://www.widen.com/video-management)
 
 
 ### Open Source
