@@ -16,6 +16,7 @@
 
 ### History
 - 2019/01/08 [Storing Video in Your DAM with the Mezzanine File Format](https://www.widen.com/blog/the-mezzanine-storing-video-in-your-digital-asset-management-system)
+    - digital asset management(DAM), mezzanine file
 - 2019/00/00
 - 2018/10/18 [The Pros and Cons of Coupled, Decoupled, and Headless CMS Platforms](https://www.brightspot.com/blog/decoupled-cms-and-headless-cms-platforms)
 - 2018/07/06 [Top 10 Best Video Content Management Platforms](https://hackernoon.com/top-10-best-video-content-management-platforms-4a73b4b6dd90)
