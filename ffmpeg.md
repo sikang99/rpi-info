@@ -10,4 +10,5 @@
 
 
 ### Open Source
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation)
