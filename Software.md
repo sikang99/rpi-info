@@ -37,6 +37,8 @@
 ### Open Source
 - [kaltura](https://github.com/kaltura)
 - [directus/directus](https://github.com/directus/directus) - Future-Proof Headless CMS & API for Custom Databases
+- [Xzya/headless-cms](https://github.com/Xzya/headless-cms) - A Headless CMS written in Go
+
 
 ---
 ## Broadcasting
