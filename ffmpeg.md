@@ -1,7 +1,7 @@
 ## FFMPEG
 
 ## Information
-- [FFmpeg](https://ffmpeg.org/)
+- [FFmpeg](https://ffmpeg.org/) - [wiki](https://trac.ffmpeg.org/wiki)
 
 
 ### Changes for deprecation
