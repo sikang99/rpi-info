@@ -15,6 +15,7 @@
 ## VCMS (Video Contents Management System)
 
 ### History
+- 2019/01/19 [A List of the Best Flat File CMS](https://www.cmscritic.com/flat-file-cms/)
 - 2019/01/08 [Storing Video in Your DAM with the Mezzanine File Format](https://www.widen.com/blog/the-mezzanine-storing-video-in-your-digital-asset-management-system)
     - digital asset management(DAM), mezzanine file
 - 2019/00/00
