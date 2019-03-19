@@ -102,3 +102,19 @@
 - [https://github.com/parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 
 
+
+---
+## Tips
+- [Enterprise web development using Go in 2019](https://www.reddit.com/r/golang/comments/b1qzkc/enterprise_web_development_using_go_in_2019/)
+```golang
+func withLogging(next http.HandlerFunc) http.HandlerFunc {
+  return func(w http.ResponseWriter, r *http.Request) {
+	log.Printf("Something to log)
+	ext.ServeHTTP(w, r)
+  }
+}
+```
+
+
+
+
