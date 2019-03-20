@@ -586,6 +586,7 @@ $ ./build.sh # long time to build, don't use go build
 - [GamingAnywhere](http://gaminganywhere.org/)
 - [Parsec](https://parsecgaming.com/) - Connect to a gaming PC from anywhere
 - [Snoost](https://www.snoost.com/)
+- [wiki/Google_Stadia](https://en.wikipedia.org/wiki/Google_Stadia)
 
 ### History
 - 2019/03/19 [Google Stadia News: Cloud Streaming, Hands-On, And More From GDC 2019](https://www.gamespot.com/articles/google-stadia-news-cloud-streaming-hands-on-and-mo/1100-6465658/)
