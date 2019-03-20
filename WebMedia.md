@@ -588,6 +588,8 @@ $ ./build.sh # long time to build, don't use go build
 - [Snoost](https://www.snoost.com/)
 
 ### History
+- 2019/03/19 [Google Stadia News: Cloud Streaming, Hands-On, And More From GDC 2019](https://www.gamespot.com/articles/google-stadia-news-cloud-streaming-hands-on-and-mo/1100-6465658/)
+- 2019/00/00
 - 2018/10/17 [Building a Cross-browser, Cross-platform, Real-time Game Streaming Protocol](https://blog.rainway.io/building-a-cross-browser-cross-platform-real-time-game-streaming-protocol-b00d000fe788)
 - 2018/10/16 [A Look at Game Streaming Tech in the Browser](https://blog.parsecgaming.com/game-streaming-tech-in-the-browser-with-parsec-5b70d0f359bc) - BUD, WebAssembly, WebRTC
 - 2018/10/08 [Microsoft’s Project xCloud game-streaming is about expanding the Xbox brand](https://venturebeat.com/2018/10/08/microsofts-project-xcloud/)
