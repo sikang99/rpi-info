@@ -374,6 +374,7 @@
 
 
 ### Open Source
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - Cloudflare Workers WebAssembly Demo
 - [webmproject/libwebp](https://github.com/webmproject/libwebp) 
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity https://bitmidi.com
