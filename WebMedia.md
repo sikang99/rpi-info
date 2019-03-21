@@ -68,6 +68,7 @@
 - Web API for [USB](https://developer.mozilla.org/en-US/docs/Web/API/USB)
 - [WebUSB on Dedicated Workers](https://www.chromestatus.com/feature/5928209916887040)
 - [Browser Compatibility Testing on the Web](https://www.lambdatest.com/web-usb)
+- [WebUSB Programmer](https://www.webusb-programmer.com/)
 
 
 ## History
