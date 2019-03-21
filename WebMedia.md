@@ -18,6 +18,7 @@
 - [AV1 Codec](#av1-codec)
 - [Game Streaming](#game-streaming)
 - [3D Streaming](#3d-streaming)
+- [WebUSB](#webusb)
 
 
 ## Status
@@ -54,6 +55,23 @@
     - [TogetherJS](https://togetherjs.com/)
 - 2017/10/27 [Introducing Web Face ID, how to use HTML5, Go and Facebox to verify your face](https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8)
     - [machinebox/webFaceID](https://github.com/machinebox/webFaceID) - see HTML5, Go and Facebox to implement face verification on a website
+
+
+---
+## WebUSB
+### Information
+- [wiki/WebUSB](https://en.wikipedia.org/wiki/WebUSB)
+- [WebUSB API](https://wicg.github.io/webusb/) - Editor’s Draft, 20 March 2019
+- [Building a Device for WebUSB](https://developers.google.com/web/fundamentals/native-hardware/build-for-webusb/)
+
+## History
+- 2018/06/01 [WebUSB - Bridge between USB devices and web browsers](https://www.visuality.pl/posts/webusb-bridge-between-usb-devices-and-web-browsers)
+- 2016/03/01 [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
+
+### Open Source
+- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web
+- [BlazorExtensions/WebUSB](https://github.com/BlazorExtensions/WebUSB) - HTML5 WebUSB APIs for Microsoft ASP.Net Core Blazor
+
 
 
 ---
