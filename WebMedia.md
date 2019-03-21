@@ -77,6 +77,7 @@
 - 2018/10/01 [Basic punch detection using Web USB](https://medium.com/@kennethrohde/basic-punch-detection-using-web-usb-d9fd4a1387f7)
 - 2018/09/14 [Chrome 70 adds biometric web authentication and shape detection](https://www.techspot.com/news/76443-chrome-70-adds-biometric-web-authentication-shape-detection.html)
 - 2018/09/13 [Chrome 70 beta: shape detection, web authentication, and more](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html)
+- 2018/06/13 [WebUSB in Google Chrome and Responsible Disclosure](https://www.yubico.com/2018/06/webusb-and-responsible-disclosure/)
 - 2018/06/01 [WebUSB - Bridge between USB devices and web browsers](https://www.visuality.pl/posts/webusb-bridge-between-usb-devices-and-web-browsers)
 - 2016/03/01 [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
 
