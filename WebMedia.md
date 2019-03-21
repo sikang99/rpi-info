@@ -330,6 +330,7 @@
 
 
 ### History
+- 2019/03/04 [W3C and FIDO Alliance Finalize Web Standard for Secure, Passwordless Logins](https://fidoalliance.org/w3c-and-fido-alliance-finalize-web-standard-for-secure-passwordless-logins/)
 - 2018/11/20 [All about FIDO2, CTAP2 and WebAuthn](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/All-about-FIDO2-CTAP2-and-WebAuthn/ba-p/288910)
 
 ### Open Source
