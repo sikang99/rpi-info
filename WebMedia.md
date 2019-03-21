@@ -65,6 +65,7 @@
 - [Building a Device for WebUSB](https://developers.google.com/web/fundamentals/native-hardware/build-for-webusb/)
 - Web API for [USB](https://developer.mozilla.org/en-US/docs/Web/API/USB)
 - [WebUSB on Dedicated Workers](https://www.chromestatus.com/feature/5928209916887040)
+- [Browser Compatibility Testing on the Web](https://www.lambdatest.com/web-usb)
 
 
 ## History
@@ -76,7 +77,7 @@
 ### Open Source
 - [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web
 - [BlazorExtensions/WebUSB](https://github.com/BlazorExtensions/WebUSB) - HTML5 WebUSB APIs for Microsoft ASP.Net Core Blazor
-
+- [atlas44/web-fusee-launcher](https://github.com/atlas44/web-fusee-launcher) - Fusee Launcher, in a browser!
 
 
 ---
