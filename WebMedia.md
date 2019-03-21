@@ -19,6 +19,7 @@
 - [Game Streaming](#game-streaming)
 - [3D Streaming](#3d-streaming)
 - [WebUSB](#webusb)
+- [Web Authentication](#web-authentication)
 
 
 ## Status
