@@ -28,6 +28,7 @@
 [Web Workers](https://caniuse.com/#search=web%20workers),
 [Service Workers](https://caniuse.com/#search=service%20workers),
 [Shadow DOM](https://caniuse.com/#search=shadow%20dom),
+[WebUSB](https://caniuse.com/#search=webusb)
 
 ---
 ## W3C
