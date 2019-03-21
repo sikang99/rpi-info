@@ -74,6 +74,7 @@
 ## History
 - 2018/12/24 [WebUSB 事始め](https://qiita.com/Aruneko/items/aebb75feca5bed12fe32)
 - 2018/11/20 [Designing a NFC Tag Reader with WebUSB support](https://tuna.moe/assets/slides/NFC-WebUSB.pdf) : 일본
+- 2018/10/01 [Basic punch detection using Web USB](https://medium.com/@kennethrohde/basic-punch-detection-using-web-usb-d9fd4a1387f7)
 - 2018/09/14 [Chrome 70 adds biometric web authentication and shape detection](https://www.techspot.com/news/76443-chrome-70-adds-biometric-web-authentication-shape-detection.html)
 - 2018/09/13 [Chrome 70 beta: shape detection, web authentication, and more](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html)
 - 2018/06/01 [WebUSB - Bridge between USB devices and web browsers](https://www.visuality.pl/posts/webusb-bridge-between-usb-devices-and-web-browsers)
