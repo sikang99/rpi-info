@@ -605,6 +605,7 @@ $ ./build.sh # long time to build, don't use go build
 - [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
 - [mbebenita/aomanalyzer](https://github.com/mbebenita/aomanalyzer) - AV1 / VP9 Bitstream Analyzer`
 - [Kagami/avif.js](https://github.com/Kagami/avif.js) - AVIF polyfill polyfill for the browser
+- [Kagami/go-avif](https://github.com/Kagami/go-avif) - Go AVIF library
 
 
 ### Paper
