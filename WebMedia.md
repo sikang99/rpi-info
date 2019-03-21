@@ -51,6 +51,7 @@
 ## Common
 ### History
 - 2019/03/01 [What's New In DevTools (Chrome 74)](https://developers.google.com/web/updates/2019/03/devtools)
+- 2018/11/05 [Web USB device detection and permission](https://toor.co/blog/web-usb-device-detection-and-permission/)
 - 2018/09/30 [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](https://arxiv.org/pdf/1810.00464.pdf)
 - 2017/11/19 [Real-Time Collaboration On Your Website With TogetherJS](https://www.hongkiat.com/blog/togetherjs-real-time-collaboration/)
     - [TogetherJS](https://togetherjs.com/)
