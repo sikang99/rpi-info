@@ -69,7 +69,7 @@
 
 ## History
 - 2018/12/24 [WebUSB 事始め](https://qiita.com/Aruneko/items/aebb75feca5bed12fe32)
-- 2018/11/20 [Designing a NFC Tag Reader with WebUSB support](https://tuna.moe/assets/slides/NFC-WebUSB.pdf)
+- 2018/11/20 [Designing a NFC Tag Reader with WebUSB support](https://tuna.moe/assets/slides/NFC-WebUSB.pdf) : 일본
 - 2018/06/01 [WebUSB - Bridge between USB devices and web browsers](https://www.visuality.pl/posts/webusb-bridge-between-usb-devices-and-web-browsers)
 - 2016/03/01 [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
 
