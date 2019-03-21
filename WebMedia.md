@@ -558,6 +558,7 @@ $ ./build.sh # long time to build, don't use go build
 ---
 ## AV1 Codec
 ### History
+- 2019/03/20 [SVT-AV1 Can Now Achieve 1080p @ 60 FPS AV1 Video Encoding On Select Configurations](https://www.phoronix.com/scan.php?page=news_item&px=SVT-AV1-Platinum-1080p-60-FPS)
 - 2019/02/28 [Why AV1 Could Be the Next Big Thing for Online Video](https://www.globalbankingandfinance.com/why-av1-could-be-the-next-big-thing-for-online-video/)
 - 2019/02/26 [rav1e GUI – A GUI to encode videos to AV1](https://moisescardona.me/rav1e-gui/)
 - 2019/02/11 [**AV1コーデックメモ**](https://qiita.com/yohhoy/items/b2b54b6012348f17eb95) - AV1 코덱 메모
