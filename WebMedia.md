@@ -604,6 +604,8 @@ $ ./build.sh # long time to build, don't use go build
 - [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
 - [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
 - [mbebenita/aomanalyzer](https://github.com/mbebenita/aomanalyzer) - AV1 / VP9 Bitstream Analyzer`
+- [Kagami/avif.js](https://github.com/Kagami/avif.js) - AVIF polyfill polyfill for the browser
+
 
 ### Paper
 - 2018 [A Bayesian Approach to Block Structure Inference in AV1-based Multi-rate Video Encoding](https://www.researchgate.net/publication/326437720_A_Bayesian_Approach_to_Block_Structure_Inference_in_AV1-based_Multi-rate_Video_Encoding)
