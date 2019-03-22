@@ -608,6 +608,7 @@ $ ./build.sh # long time to build, don't use go build
 - [mbebenita/aomanalyzer](https://github.com/mbebenita/aomanalyzer) - AV1 / VP9 Bitstream Analyzer`
 - [Kagami/avif.js](https://github.com/Kagami/avif.js) - AVIF polyfill polyfill for the browser
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - Go AVIF library
+- [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 
 
 ### Paper
