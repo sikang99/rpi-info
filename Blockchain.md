@@ -10,6 +10,7 @@
 
 ---
 ## Overview
+- 2019/03/19 [Amazon Managed Blockchain 기반 Hyperledger Fabric 애플리케이션 개발 및 배포](https://aws.amazon.com/ko/blogs/korea/build-and-deploy-an-application-for-hyperledger-fabric-on-amazon-managed-blockchain/)
 - 2018/10/12 [Decentralized Applications: The Blockchain-Empowered Software System](https://arxiv.org/pdf/1810.05365.pdf)
 - 2018/03/21 [Blockchain: The Next Breakthrough in the Rapid Progress of AI](https://juniperpublishers.com/raej/pdf/RAEJ.MS.ID.555592.pdf)
 - 2017/12/18 [The State of Decentralised Video Q4 2017](https://medium.com/paratii/the-state-of-decentralised-video-q4-2017-42663ff94b28)
