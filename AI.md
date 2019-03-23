@@ -17,6 +17,7 @@
     - [YOLO Live](https://ml4a.github.io/guides/YoloLive/)
 - [OpenYOLO Working Group](https://openid.net/wg/ac/)
 - [OpenYOLO for Android](https://openid.net/specs/openyolo-android-03.html)
+- [Tiny YOLO Demo](https://modeldepot.github.io/tfjs-yolo-tiny-demo/)
 
 
 ### History
