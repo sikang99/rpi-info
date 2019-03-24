@@ -2,7 +2,7 @@
 
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Deep Cognition](https://deepcognition.ai/) - AI development and deployment platform
-- Eureka [Artificial Intelligence Tutorials](https://www.edureka.co/blog/category/artificial-intelligence/)
+- Eureka: [*Artificial Intelligence Tutorials*](https://www.edureka.co/blog/category/artificial-intelligence/)
 
 ---
 ## Data Sets
