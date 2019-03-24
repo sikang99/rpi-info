@@ -18,6 +18,8 @@
 - [OpenYOLO Working Group](https://openid.net/wg/ac/)
 - [OpenYOLO for Android](https://openid.net/specs/openyolo-android-03.html)
 - [Tiny YOLO Demo](https://modeldepot.github.io/tfjs-yolo-tiny-demo/)
+- [Fast Online Object Tracking and Segmentation: A Unifying Approach](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+
 
 
 ### History
@@ -57,6 +59,8 @@
 
 
 ### Papers
+- 2018 [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://ivul.kaust.edu.sa/Documents/Publications/2018/TrackingNet%20A%20Large%20Scale%20Dataset%20and%20Benchmark%20for%20Object%20Tracking%20in%20the%20Wild.pdf)
+- 2018 [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050.pdf)
 - 2018 [Use computer vision to detect and track moving objects in video](https://developer.ibm.com/code/2018/05/11/using-computer-vision-to-detect-and-track-moving-objects-in-video/)
     - [IBM/powerai-counting-cars](https://github.com/IBM/powerai-counting-cars)
 - 2018 [YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers](https://arxiv.org/pdf/1811.05588.pdf)
