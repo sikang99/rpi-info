@@ -4,6 +4,7 @@
 - [Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
 - [Let’s Go ~ A Complete Guide](https://medium.com/mindorks/lets-go-a-complete-guide-147aec23fd5a)
 - [SWIG and Go](http://www.swig.org/Doc2.0/Go.html#Go_overview)
+- Coding Tutorials / [Go Tutorials, Courses, and Books](https://gitconnected.com/learn/golang)
 
 
 ---
