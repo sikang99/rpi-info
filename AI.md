@@ -33,6 +33,8 @@
 - 2019/01/01 [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 - 2019/00/00
 - 2018/12/18 [IIIT Hyderabad and Intel Release World's First Dataset for Driving in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.29axh3)
+- 2018/10/26 [Building Google Dataset Search and Fostering an Open Data Ecosystem](https://ai.googleblog.com/2018/09/building-google-dataset-search-and.html)
+- 2018/10/26 [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
 - 2018/10/03 [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 - 2018/10/02 [Lots of Free Open Source Datasets to Make Your AI Better](https://www.datasciencecentral.com/profiles/blogs/lots-of-free-open-source-datasets-to-make-your-ai-better)
 - 2018/04/27 [Image Datasets for Artificial Intelligence](https://towardsdatascience.com/image-datasets-for-artificial-intelligence-bbb12615edd7)
