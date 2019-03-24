@@ -23,6 +23,8 @@
 
 
 ### History
+- 2019/01/23 [Computer Vision: Tracking and Detecting Moving Objects](https://dzone.com/articles/computer-vision-tracking-and-detecting-of-moving-o)
+- 2019/00/00
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
@@ -162,6 +164,10 @@
 - [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Web Machine Learning (ML) API polyfill and examples
 - [huningxin/webml-examples](https://github.com/huningxin/webml-examples) - Host WebML examples
 
+
+---
+## Books
+- [Visual Object Tracking in the Deep Neural Networks Era](https://www.intechopen.com/welcome/e0ba384ed4b4e61f042d5147c97ab168)
 
 
 
