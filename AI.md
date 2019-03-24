@@ -4,7 +4,7 @@
 
 ---
 ## Data Sets
-- [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [MNIST](http://yann.lecun.com/exdb/mnist/) - handwritten digits
 - MS [COCO](http://cocodataset.org/#home) - Common Objects in Context
 - Google [AI Datasets](https://ai.google/tools/datasets/)
 - [Open Datasets](https://skymind.ai/wiki/open-datasets)
