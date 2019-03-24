@@ -131,6 +131,14 @@
 
 ----
 ## Tensorflow.js
+### Information
+- [Tensorflow.js](https://js.tensorflow.org/)
+- Medium for [Tensorflow](https://medium.com/tensorflow)
+- cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
+- [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
+- [Handtrack.js](https://victordibia.github.io/handtrack.js/#/)
+
+
 ### History
 - 2019/03/16 [Text classification using TensorFlow.js: An example of detecting **offensive language** in browser](https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce)
 - 2019/03/06 [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
@@ -150,14 +158,6 @@
 - 2018/03/31 [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 - 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
 - 2018/02/21 [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
-
-
-### Information
-- [Tensorflow.js](https://js.tensorflow.org/)
-- Medium for [Tensorflow](https://medium.com/tensorflow)
-- cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
-- [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
-- [Handtrack.js](https://victordibia.github.io/handtrack.js/#/)
 
 
 ### Open Source
