@@ -19,6 +19,8 @@
 - [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - MIT [Data Nutrition Project](http://datanutrition.media.mit.edu/)
+- [commaai/comma2k19](https://github.com/commaai/comma2k19) - A driving dataset for the development and validation of fused pose estimators and mapping algorithms
+
 
 
 
@@ -37,6 +39,7 @@
 - 2018/10/26 [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
 - 2018/10/03 [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 - 2018/10/02 [Lots of Free Open Source Datasets to Make Your AI Better](https://www.datasciencecentral.com/profiles/blogs/lots-of-free-open-source-datasets-to-make-your-ai-better)
+- 2018/08/20 [Auto-driving Cars Datasets](https://www.johnsnowlabs.com/auto-driving-cars-datasets/)
 - 2018/04/27 [Image Datasets for Artificial Intelligence](https://towardsdatascience.com/image-datasets-for-artificial-intelligence-bbb12615edd7)
 
 
