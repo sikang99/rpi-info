@@ -8,12 +8,14 @@
 - [wiki/List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [MNIST](http://yann.lecun.com/exdb/mnist/) - handwritten digits
 - MS [COCO](http://cocodataset.org/#home) - Common Objects in Context
+- [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) - The Stanford Question Answering Dataset
 - Google [AI Datasets](https://ai.google/tools/datasets/)
 - [Open Datasets](https://skymind.ai/wiki/open-datasets)
 - [fast.ai Datasets](https://course.fast.ai/datasets)
 - [Deep Learning datasets](http://deeplearning.net/datasets/)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 - [TorchCraft/StarData](https://github.com/TorchCraft/StarData) - Starcraft AI Research Dataset
+- [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 
 
