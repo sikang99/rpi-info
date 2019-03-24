@@ -17,7 +17,7 @@
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 - [TorchCraft/StarData](https://github.com/TorchCraft/StarData) - Starcraft AI Research Dataset
 - [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
-
+- [Google Research Datasets](https://github.com/google-research-datasets)
 
 
 ### History
