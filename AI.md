@@ -144,6 +144,7 @@
 - 2019/03/06 [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
     - [victordibia/handtrack.js/](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browse
 - 2019/02/26 [Shadow Art: How TensorFlow powered the AI experiment for Lunar New Years 2019](https://medium.com/tensorflow/shadow-art-how-tensorflow-powered-the-ai-experiment-for-lunar-new-years-2019-f260a708186e)
+    - [thebitstudio/shadowart_ai_experiment](https://github.com/thebitstudio/shadowart_ai_experiment)
 - 2019/00/00
 - 2018/12/11 [TensorFlow.js — Real-Time Object Detection in 10 Lines of Code](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
     - [full code](https://codesandbox.io/s/z364noozrm)
