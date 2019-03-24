@@ -53,9 +53,12 @@
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research
 - [aicamcam/aicamcam.github.io](https://github.com/aicamcam/aicamcam.github.io) - Object detection and recording video
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - face detection and face recognition
+- [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) - Paper list and source code for multi-object-tracking
 
 
 ### Papers
+- 2018 [Use computer vision to detect and track moving objects in video](https://developer.ibm.com/code/2018/05/11/using-computer-vision-to-detect-and-track-moving-objects-in-video/)
+    - [IBM/powerai-counting-cars](https://github.com/IBM/powerai-counting-cars)
 - 2018 [YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers](https://arxiv.org/pdf/1811.05588.pdf)
 - 2018 [Mobile Object Detection using TensorFlow Lite and Transfer Learning](http://kth.diva-portal.org/smash/get/diva2:1242627/FULLTEXT01.pdf)
 - 2018 [LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022018/)
