@@ -10,6 +10,7 @@
 - Google [AI Datasets](https://ai.google/tools/datasets/)
 - [Open Datasets](https://skymind.ai/wiki/open-datasets)
 - [fast.ai Datasets](https://course.fast.ai/datasets)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 
 
 ### History
@@ -17,6 +18,7 @@
 - 2019/03/13 [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
 - 2019/01/01 [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 - 2018/10/03 [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
+- 2018/10/02 [Lots of Free Open Source Datasets to Make Your AI Better](https://www.datasciencecentral.com/profiles/blogs/lots-of-free-open-source-datasets-to-make-your-ai-better)
 
 
 --- 
