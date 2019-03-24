@@ -126,6 +126,9 @@
 ----
 ## Tensorflow.js
 ### History
+- 2019/03/06 [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
+    - [victordibia/handtrack.js/](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browse
+- 2019/00/00
 - 2018/12/11 [TensorFlow.js — Real-Time Object Detection in 10 Lines of Code](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
     - [full code](https://codesandbox.io/s/z364noozrm)
 - 2018/10/02 [18 Tips for Training your own Tensorflow.js Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091) - Training efficient Image Classifiers and Object Detectors for the Web with Tensorflow.js
@@ -147,6 +150,7 @@
 - Medium for [Tensorflow](https://medium.com/tensorflow)
 - cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
 - [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
+- [Handtrack.js](https://victordibia.github.io/handtrack.js/#/)
 
 
 ### Open Source
