@@ -1,5 +1,6 @@
 # Artificial Intelligence
 
+- [Google AI Blog](https://ai.googleblog.com/)
 - [Deep Cognition](https://deepcognition.ai/) - AI development and deployment platform
 
 ---
