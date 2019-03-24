@@ -106,6 +106,7 @@
 - [aicamcam/aicamcam.github.io](https://github.com/aicamcam/aicamcam.github.io) - Object detection and recording video
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - face detection and face recognition
 - [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) - Paper list and source code for multi-object-tracking
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - Docker container for doing realtime object detection on RTSP feeds with Tensorflow
 
 
 ### Papers
