@@ -124,9 +124,10 @@
 
 
 ----
-## [Tensorflow.js](https://js.tensorflow.org/)
+## Tensorflow.js
 ### History
 - 2018/12/11 [TensorFlow.js — Real-Time Object Detection in 10 Lines of Code](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
+    - [full code](https://codesandbox.io/s/z364noozrm)
 - 2018/10/02 [18 Tips for Training your own Tensorflow.js Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091) - Training efficient Image Classifiers and Object Detectors for the Web with Tensorflow.js
 - 2018/08/07 [Machine Learning in Node.js With TensorFlow.js](http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/)
 - 2018/07/26 [Get to know TensorFlow.js in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
@@ -140,10 +141,13 @@
 - 2018/03/31 [TensorFlow.js Quick Start Tutorial](https://angularfirebase.com/lessons/tensorflow-js-quick-start/)
 - 2018/02/21 [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 
+
 ### Information
+- [Tensorflow.js](https://js.tensorflow.org/)
 - Medium for [Tensorflow](https://medium.com/tensorflow)
 - cdnjs for [tensorflow](https://cdnjs.com/libraries/tensorflow) - 0.14.2
 - [ML5.js](https://ml5js.org/) - building on top of TensorFlow.js
+
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
