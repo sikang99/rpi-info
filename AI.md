@@ -131,7 +131,7 @@
 ----
 ## Tensorflow.js
 ### History
-- 2019/03/16 [Text classification using TensorFlow.js: An example of detecting offensive language in browser](https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce)
+- 2019/03/16 [Text classification using TensorFlow.js: An example of detecting **offensive language** in browser](https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce)
 - 2019/03/06 [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
     - [victordibia/handtrack.js/](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browse
 - 2019/00/00
