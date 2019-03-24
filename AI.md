@@ -12,6 +12,8 @@
 - [fast.ai Datasets](https://course.fast.ai/datasets)
 - [Deep Learning datasets](http://deeplearning.net/datasets/)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
+- [TorchCraft/StarData](https://github.com/TorchCraft/StarData) - Starcraft AI Research Dataset
+
 
 
 ### History
