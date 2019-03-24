@@ -19,7 +19,10 @@
 - 2019/03/21 [Facebook’s VideoStory dataset trains AI to ‘automatically tell stories’](https://venturebeat.com/2018/10/31/facebooks-videostory-dataset-is-designed-to-train-ai-that-can-automatically-tell-stories/)
 - 2019/03/13 [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
 - 2019/02/21 [Spurring AI Development With a High-Quality Face Dataset](https://www.datainnovation.org/2019/02/spurring-ai-development-with-a-high-quality-face-dataset/)
+- 2019/01/09 [Sample Training Dataset for Autonomous Driving Now Available](https://mighty.ai/blog/new-open-training-dataset-for-autonomous-driving-now-available/)
 - 2019/01/01 [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
+- 2019/00/00
+- 2018/12/18 [IIIT Hyderabad and Intel Release World's First Dataset for Driving in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.29axh3)
 - 2018/10/03 [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 - 2018/10/02 [Lots of Free Open Source Datasets to Make Your AI Better](https://www.datasciencecentral.com/profiles/blogs/lots-of-free-open-source-datasets-to-make-your-ai-better)
 - 2018/04/27 [Image Datasets for Artificial Intelligence](https://towardsdatascience.com/image-datasets-for-artificial-intelligence-bbb12615edd7)
