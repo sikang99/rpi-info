@@ -25,8 +25,8 @@
 ### History
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
-- [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
+- 2018/09/20 [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
 - 2018/08/20 [Deep Learning based Object Detection using YOLOv3 with OpenCV (Python/C++)](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
