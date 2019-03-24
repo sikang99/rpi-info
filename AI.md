@@ -60,6 +60,8 @@
 - 2018 [Mobile Object Detection using TensorFlow Lite and Transfer Learning](http://kth.diva-portal.org/smash/get/diva2:1242627/FULLTEXT01.pdf)
 - 2018 [LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022018/)
 - 2018 [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+- 2018 [Web-Based Object Tracking Using Collaborated Camera Network](https://file.scirp.org/pdf/AIT_2018042614400521.pdf)
+
 
 ### Slide
 - 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
