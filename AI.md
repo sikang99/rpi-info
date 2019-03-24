@@ -160,6 +160,7 @@
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
+- [cloud-annotations/object-detection-react](https://github.com/cloud-annotations/object-detection-react) - Real-Time Custom Object Detection with TensorFlow.js
 
 
 ---
