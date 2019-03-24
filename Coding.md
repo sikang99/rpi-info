@@ -15,6 +15,7 @@
 
 
 ### Papers
+- 2018 [Enjoy the Benefit of Network Coding: Combat Pollution Attacks in 5G Multihop Networks](http://downloads.hindawi.com/journals/wcmc/2018/3473910.pdf)
 - 2018 [Distributed Systematic Network Coding for Reliable Content Uploading in Wireless Multimedia Sensor Networks](http://iotlab.skku.edu/publications/international-journal/DSNC-Sensors-2018.pdf)
 - 2015 [A Survey of Network Coding and Applications](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=3506&context=thesesdissertations)
 - 2007 [Network Coding Fundamentals](http://plan9.bell-labs.co/who/emina/papers/NCF.pdf)
