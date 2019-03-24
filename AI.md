@@ -23,7 +23,6 @@
 
 
 
-
 ### History
 - 2019/03/29 [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
 - 2019/03/21 [Facebook’s VideoStory dataset trains AI to ‘automatically tell stories’](https://venturebeat.com/2018/10/31/facebooks-videostory-dataset-is-designed-to-train-ai-that-can-automatically-tell-stories/)
@@ -155,6 +154,9 @@
 - [Tensorflow](https://www.tensorflow.org) - [Learn](https://www.tensorflow.org/learn)
     - [Tensorflow Lite](https://www.tensorflow.org/lite/)
     - [Tensorflow.js](https://js.tensorflow.org/)
+
+### History
+- 2019/02/25 [**TensorFlow Tutorial – Deep Learning Using TensorFlow**](https://www.edureka.co/blog/tensorflow-tutorial/)
 
 ### Open Source
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees
