@@ -28,6 +28,7 @@
 
 ### History
 - 2019/03/12 [**Object Detection Tutorial in TensorFlow: Real-Time Object Detection**](https://dzone.com/articles/object-detection-tutorial-in-tensorflow-real-time)
+- 2019/02/27 [How To Work With Tensorflow Object Detection](https://www.digitalvidya.com/blog/tensorflow-object-detection/)
 - 2019/01/23 [Computer Vision: Tracking and Detecting Moving Objects](https://dzone.com/articles/computer-vision-tracking-and-detecting-of-moving-o)
 - 2019/00/00
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
