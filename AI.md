@@ -51,7 +51,12 @@
 
 ### History
 - 2018/06/16 [Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector](https://itnext.io/realtime-javascript-face-tracking-and-face-recognition-using-face-api-js-mtcnn-face-detector-d924dd8b5740)
+- 2018/04/01 [pico.js: a face-detection library in 200 lines of JavaScript](https://tkv.io/posts/picojs-intro/)
 - 2018/03/12 [Face detection & recognition with Javascript](https://blog.beautifulinteractions.com/face-detection-and-recognition-with-javascript-9e0b51b1c012)
+
+
+### Open Source
+- [tehnokv/picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript
 
 
 --- 
