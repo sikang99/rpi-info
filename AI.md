@@ -208,6 +208,7 @@
 - 2018/12/11 [TensorFlow.js — Real-Time Object Detection in 10 Lines of Code](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
     - [full code](https://codesandbox.io/s/z364noozrm)
 - 2018/10/02 [18 Tips for Training your own Tensorflow.js Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091) - Training efficient Image Classifiers and Object Detectors for the Web with Tensorflow.js
+- 2018/09/04 [TensorFlow.js: Machine Learning in the Browser for Image Recognition](https://blog.scottlogic.com/2018/09/04/tensorflowjs-machine-learning-in-the-browser.html)
 - 2018/08/07 [Machine Learning in Node.js With TensorFlow.js](http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/)
 - 2018/07/26 [Get to know TensorFlow.js in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
 - 2018/07/24 [The Future of Machine Learning in the Browser with TensorFlow.js](https://www.intermix.io/blog/machine-learning-in-the-browser/)
