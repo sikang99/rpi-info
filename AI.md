@@ -87,6 +87,7 @@
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
 - 2018/08/20 [Deep Learning based Object Detection using YOLOv3 with OpenCV (Python/C++)](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
 - 2018/06/22 [GOTURN : Deep Learning based Object Tracking](https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/)
+- 2018/06/18 [Introduction to Computer Vision in JavaScript using OpenCV.js](https://scotch.io/tutorials/introduction-to-computer-vision-in-javascript-using-opencvjs)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/06/07 [YOLO for Real-Time Food Detection](http://bennycheung.github.io/yolo-for-real-time-food-detection)
 - 2018/06/04 [Implementing YOLO v3 in Tensorflow (TF-Slim)](https://itnext.io/implementing-yolo-v3-in-tensorflow-tf-slim-c3c55ff59dbe)
