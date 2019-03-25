@@ -176,6 +176,7 @@
 ## WebGPU
 ### History
 - 2019/03/10 [Graphics Programming weekly - Issue 76 — March 10, 2019](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-76/)
+- 2018/07/04 [WebGPU](https://ics.media/entry/18507/) - 차세대 WebGPU 가능성
 - 2018/02/10 [Feasibility of low-level GPU access on the Web](http://kvark.github.io/web/gpu/2018/02/10/low-level-gpu-web.html)
 
 
