@@ -1,14 +1,22 @@
 # Artificial Intelligence
 
+- [General](#general)
+- [Dataset](#dataset)
+
+---
+## General
+### Information
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Deep Cognition](https://deepcognition.ai/) - AI development and deployment platform
 - Eureka: [*Artificial Intelligence Tutorials*](https://www.edureka.co/blog/category/artificial-intelligence/)
 - KDnuggets: [2019 Feb Tutorials](https://www.kdnuggets.com/2019/02/tutorials.html)
 - [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning) - Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
 
+### History
+- 2018/03/27 [Machine Learning vs Deep Learning: Here’s what you must know!](https://www.learntek.org/blog/machine-learning-vs-deep-learning/)
 
 ---
-## Data Sets
+## Dataset
 - [**Google Dataset Search**](https://toolbox.google.com/datasetsearch)
 - [wiki/List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [MNIST](http://yann.lecun.com/exdb/mnist/) - handwritten digits
