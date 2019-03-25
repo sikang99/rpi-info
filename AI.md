@@ -64,6 +64,7 @@
 - [OpenYOLO for Android](https://openid.net/specs/openyolo-android-03.html)
 - [Tiny YOLO Demo](https://modeldepot.github.io/tfjs-yolo-tiny-demo/)
 - [Fast Online Object Tracking and Segmentation: A Unifying Approach](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+- GOTURN - Generic Object Tracking Using Regression Networks
 
 
 ### History
