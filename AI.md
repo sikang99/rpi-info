@@ -6,6 +6,7 @@
 - KDnuggets: [2019 Feb Tutorials](https://www.kdnuggets.com/2019/02/tutorials.html)
 - [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning) - Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
 
+
 ---
 ## Data Sets
 - [**Google Dataset Search**](https://toolbox.google.com/datasetsearch)
@@ -23,7 +24,6 @@
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - MIT [Data Nutrition Project](http://datanutrition.media.mit.edu/)
 - [commaai/comma2k19](https://github.com/commaai/comma2k19) - A driving dataset for the development and validation of fused pose estimators and mapping algorithms
-
 
 
 ### History
@@ -173,6 +173,7 @@
     - [Tensorflow.js](https://js.tensorflow.org/)
 
 ### History
+- 2019/03/25 [인공지능 서비스를 만든다면?...'텐서플로우'로 시작](https://decenter.kr/NewsView/1VGQ533RXE/GZ02)
 - 2019/02/25 [**TensorFlow Tutorial – Deep Learning Using TensorFlow**](https://www.edureka.co/blog/tensorflow-tutorial/)
 
 ### Open Source
