@@ -175,7 +175,9 @@
 ---
 ## WebGPU
 ### History
+- 2019/03/10 [Graphics Programming weekly - Issue 76 — March 10, 2019](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-76/)
 - 2018/02/10 [Feasibility of low-level GPU access on the Web](http://kvark.github.io/web/gpu/2018/02/10/low-level-gpu-web.html)
+
 
 ### Information
 - [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
@@ -187,6 +189,9 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal
 - [kvark/webgpu-servo](https://github.com/kvark/webgpu-servo) - WebGPU prototope in Servo browser
 - [DanRuta/GPGPU](https://github.com/DanRuta/GPGPU) - Small library for running arbitrary computations on the GPU, using JavaScript or WebAssembly
+
+### Persons
+- [Jendrik Illner](https://www.jendrikillner.com/) - Graphics Programming weekly
 
 
 ---
