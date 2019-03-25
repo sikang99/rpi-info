@@ -183,6 +183,8 @@
 ### Information
 - [wiki/WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 - [GPU for the Web Community Group](https://www.w3.org/community/gpu/)
+- [Mozilla Gfx Team Blog](https://mozillagfx.wordpress.com/) - WebRender newsletter
+
 
 ### Open Source
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU on the Web work happens!
