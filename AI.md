@@ -77,6 +77,7 @@
 - 2018/09/20 [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
 - 2018/08/20 [Deep Learning based Object Detection using YOLOv3 with OpenCV (Python/C++)](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
+- 2018/06/22 [GOTURN : Deep Learning based Object Tracking](https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/)
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/06/07 [YOLO for Real-Time Food Detection](http://bennycheung.github.io/yolo-for-real-time-food-detection)
 - 2018/06/04 [Implementing YOLO v3 in Tensorflow (TF-Slim)](https://itnext.io/implementing-yolo-v3-in-tensorflow-tf-slim-c3c55ff59dbe)
@@ -107,6 +108,7 @@
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - face detection and face recognition
 - [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) - Paper list and source code for multi-object-tracking
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - Docker container for doing realtime object detection on RTSP feeds with Tensorflow
+- [jeeliz/jeelizAR](https://github.com/jeeliz/jeelizAR) - JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL
 
 
 ### Papers
