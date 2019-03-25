@@ -2,6 +2,9 @@
 
 - [General](#general)
 - [Dataset](#dataset)
+- [Face Detection](#face-detection)
+- [Object Detection](#object-detection)
+
 
 ---
 ## General
