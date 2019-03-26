@@ -2,6 +2,7 @@
 
 - [General](#general)
 - [Dataset](#dataset)
+- [Transfer Learning](#transfer-learning)
 - [Face Detection](#face-detection)
 - [Object Detection](#object-detection)
 - [Tensorflow](#tensorflow)
@@ -25,6 +26,7 @@
 - 2018/10/09 [**25 Open-Source Machine Learning Repos to Inspire Your Next Project**](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)
 - 2018/08/30 [ML and the Evolution of Web-Based Experiences: Fast, Real-Time, and Fully Interactive](https://design.google/library/designing-emoji-scavengerhunt/)
 - 2018/06/29 [18 Machine Learning Platforms For Developers](https://dzone.com/articles/18-machine-learning-platforms-for-developers)
+- 2018/07/16 [Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)
 - 2018/06/10 [Embedding Machine Learning Models to Web Apps (Part-1)](https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428)
 - 2018/03/27 [Machine Learning vs Deep Learning: Here’s what you must know!](https://www.learntek.org/blog/machine-learning-vs-deep-learning/)
 
@@ -70,6 +72,9 @@
 - 2018/08/20 [Auto-driving Cars Datasets](https://www.johnsnowlabs.com/auto-driving-cars-datasets/)
 - 2018/04/27 [Image Datasets for Artificial Intelligence](https://towardsdatascience.com/image-datasets-for-artificial-intelligence-bbb12615edd7)
 
+
+--- 
+## Transfer Learning
 
 
 --- 
