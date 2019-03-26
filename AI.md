@@ -82,9 +82,12 @@
 - 2019/02/07 [What Is Transfer Learning?](https://blogs.nvidia.com/blog/2019/02/07/what-is-transfer-learning/)
 - 2018/11/15 [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 - 2018/04/23 [Transfer Learning](https://towardsdatascience.com/transfer-learning-946518f95666?fbclid=IwAR0qoYht0d4pJYTQLHTTbv6LV6dh0uIDQeGmXs4WdIhWeKd3sYYvAt9d6TI)
+- 2017/12/20 [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+
 
 ### Information
 - [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/)
+- [Transfer Learning Using Pretrained ConvNets](https://www.tensorflow.org/alpha/tutorials/images/transfer_learning)
 
 
 
