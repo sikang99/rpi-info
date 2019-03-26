@@ -13,10 +13,13 @@
 ## General
 ### Information
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Google Cloud AI products](https://cloud.google.com/products/ai/)
 - [Deep Cognition](https://deepcognition.ai/) - AI development and deployment platform
 - Eureka: [*Artificial Intelligence Tutorials*](https://www.edureka.co/blog/category/artificial-intelligence/)
 - KDnuggets: [2019 Feb Tutorials](https://www.kdnuggets.com/2019/02/tutorials.html)
 - [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning) - Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+- [OpenML](https://www.openml.org/) - Forum
+
 
 ### History
 - 2018/03/27 [Machine Learning vs Deep Learning: Here’s what you must know!](https://www.learntek.org/blog/machine-learning-vs-deep-learning/)
