@@ -20,9 +20,11 @@
 - KDnuggets: [2019 Feb Tutorials](https://www.kdnuggets.com/2019/02/tutorials.html)
 - [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning) - Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
 - [OpenML](https://www.openml.org/) - Forum
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
 ### History
+- 2018/12/09 [10 Tools for Modeling AI Components – Machine Learning without the code](https://modeling-languages.com/tools-modeling-artificial-intelligence-code/)
 - 2018/10/09 [**25 Open-Source Machine Learning Repos to Inspire Your Next Project**](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)
 - 2018/09/11 [The Top Cloud-Based AI Services](https://www.datamation.com/artificial-intelligence/the-top-cloud-based-ai-services.html)
 - 2018/08/30 [ML and the Evolution of Web-Based Experiences: Fast, Real-Time, and Fully Interactive](https://design.google/library/designing-emoji-scavengerhunt/)
@@ -97,7 +99,6 @@
 - [TensorFlow.js Transfer Learning Image Classifier](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html)
 
 ### Open Source
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [tensorflow/tfjs-examples/webcam-transfer-learning](https://github.com/tensorflow/tfjs-examples/tree/master/webcam-transfer-learning) - Transfer Learning to play Pacman via the Webcam
 
 
