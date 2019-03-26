@@ -78,6 +78,10 @@
 
 --- 
 ## Transfer Learning
+### History
+- 2018/04/23 [Transfer Learning](https://towardsdatascience.com/transfer-learning-946518f95666?fbclid=IwAR0qoYht0d4pJYTQLHTTbv6LV6dh0uIDQeGmXs4WdIhWeKd3sYYvAt9d6TI)
+
+### Information
 
 
 --- 
