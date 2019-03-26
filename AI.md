@@ -90,9 +90,11 @@
 
 
 ### Information
+- [Trasnsfer Learning](ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/torrey.handbook09.pdf) : pdf
 - [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/)
 - [Transfer Learning Using Pretrained ConvNets](https://www.tensorflow.org/alpha/tutorials/images/transfer_learning)
 - [Transfer Learning Introduction](https://www.hackerearth.com/practice/machine-learning/transfer-learning/transfer-learning-intro/tutorial/)
+- [TensorFlow.js Transfer Learning Image Classifier](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html)
 
 ### Open Source
 - [tensorflow/tfjs-examples/webcam-transfer-learning](https://github.com/tensorflow/tfjs-examples/tree/master/webcam-transfer-learning) - Transfer Learning to play Pacman via the Webcam
