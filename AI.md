@@ -24,6 +24,7 @@
 
 ### History
 - 2018/10/09 [**25 Open-Source Machine Learning Repos to Inspire Your Next Project**](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)
+- 2018/09/11 [The Top Cloud-Based AI Services](https://www.datamation.com/artificial-intelligence/the-top-cloud-based-ai-services.html)
 - 2018/08/30 [ML and the Evolution of Web-Based Experiences: Fast, Real-Time, and Fully Interactive](https://design.google/library/designing-emoji-scavengerhunt/)
 - 2018/06/29 [18 Machine Learning Platforms For Developers](https://dzone.com/articles/18-machine-learning-platforms-for-developers)
 - 2018/07/16 [Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)
