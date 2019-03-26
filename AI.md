@@ -29,6 +29,8 @@
 - 2018/07/16 [Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)
 - 2018/06/10 [Embedding Machine Learning Models to Web Apps (Part-1)](https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428)
 - 2018/03/27 [Machine Learning vs Deep Learning: Here’s what you must know!](https://www.learntek.org/blog/machine-learning-vs-deep-learning/)
+- 2018/04/09 [학습된 모델을 TensorFlow Lite 모델(tflite)로 변환하여 Android에서 Object Classification 해보기](https://gmground.tistory.com/entry/%ED%95%99%EC%8A%B5%EB%90%9C-%EB%AA%A8%EB%8D%B8%EC%9D%84-TensorFlow-Lite-%EB%AA%A8%EB%8D%B8tflite%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EC%97%AC-Android%EC%97%90%EC%84%9C-Object-Classification-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+    - [googlecodelabs/tensorflow-for-poets-2](https://github.com/googlecodelabs/tensorflow-for-poets-2)
 
 
 ### Papers
