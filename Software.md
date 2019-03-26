@@ -57,6 +57,8 @@
 - [Xaymar/obs-stream-effects](https://github.com/Xaymar/obs-stream-effects) - Bring your stream back to life with modern effects!
 - [robotstreamer/robotstreamer_win_obs](https://github.com/robotstreamer/robotstreamer_win_obs) - Software to setup OBS with robotstreamer.com
 - [lebaston100/OBSliveTally](https://github.com/lebaston100/OBSliveTally) - Display the stream status or tally information for a scene on any device in the network
+- [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi) - Network A/V in OBS Studio
+- [Palakis/obs-websocket](https://github.com/Palakis/obs-websocket) - WebSockets API for OBS Studio
 
 
 
