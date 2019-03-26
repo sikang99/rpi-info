@@ -245,6 +245,10 @@
 
 ---
 ## WebML
+### History
+
+### Information
+- [MLweb: Machine Learning on the Web](http://mlweb.loria.fr/)
 - [AngeloKai/ml-for-web](https://github.com/AngeloKai/ml-for-web) - Explainer: API Sets for Machine Learning on the Web
 
 ### Open Source
