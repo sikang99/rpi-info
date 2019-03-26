@@ -195,6 +195,8 @@
 - [Tensorflow](https://www.tensorflow.org) - [Learn](https://www.tensorflow.org/learn)
     - [Tensorflow Lite](https://www.tensorflow.org/lite/)
     - [Tensorflow.js](https://js.tensorflow.org/)
+- [Magenta](https://magenta.tensorflow.org/) - Make music and art using machine learning
+
 
 ### History
 - 2019/03/25 [인공지능 서비스를 만든다면?...'텐서플로우'로 시작](https://decenter.kr/NewsView/1VGQ533RXE/GZ02)
@@ -251,6 +253,7 @@
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [cloud-annotations/training/](https://github.com/cloud-annotations/training/) - Custom Object Detection and Classification Training
 - [cloud-annotations/object-detection-react](https://github.com/cloud-annotations/object-detection-react) - Real-Time Custom Object Detection with TensorFlow.js
+- [tensorflow/magenta-js/](https://github.com/tensorflow/magenta-js/) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser 
 
 
 ---
