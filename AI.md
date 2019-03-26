@@ -84,6 +84,8 @@
 - 2018/12/18 [Transfer Learning — Reusing a pre-trained Deep Learning model on a new task](https://medium.com/analytics-vidhya/reusing-a-pre-trained-deep-learning-model-on-a-new-task-transfer-learning-1c0a25a92dfb)
 - 2018/11/15 [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 - 2018/04/23 [Transfer Learning](https://towardsdatascience.com/transfer-learning-946518f95666?fbclid=IwAR0qoYht0d4pJYTQLHTTbv6LV6dh0uIDQeGmXs4WdIhWeKd3sYYvAt9d6TI)
+- 2018/01/19 [Transfer Learning: Leverage Insights from Big Data](https://www.datacamp.com/community/tutorials/transfer-learning)
+- 2018/00/00
 - 2017/12/20 [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 
 
