@@ -13,7 +13,7 @@
 ## General
 ### Information
 - [Google AI Blog](https://ai.googleblog.com/)
-- [Google Cloud AI products](https://cloud.google.com/products/ai/)
+- [Google Cloud AI products](https://cloud.google.com/products/ai/) - AutoML, TPU, ML, ...
 - [Deep Cognition](https://deepcognition.ai/) - AI development and deployment platform
 - Eureka: [*Artificial Intelligence Tutorials*](https://www.edureka.co/blog/category/artificial-intelligence/)
 - KDnuggets: [2019 Feb Tutorials](https://www.kdnuggets.com/2019/02/tutorials.html)
