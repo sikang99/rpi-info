@@ -281,6 +281,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
     - [shiguredo/momo/releases](https://github.com/shiguredo/momo/releases) - ROS, Raspbian, Ubuntu
 - [pipe/webcam](https://github.com/pipe/webcam) - A simple, secure, private webcam for a Raspberry Pi https://pi.pe/
+- [thaytan/gst-rpicamsrc](https://github.com/thaytan/gst-rpicamsrc) - GStreamer element for the Raspberry Pi camera module
 
 ---
 ## Docker
