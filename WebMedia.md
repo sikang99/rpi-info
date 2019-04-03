@@ -667,3 +667,21 @@ $ ./build.sh # long time to build, don't use go build
 - [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit)
 
 
+---
+## Video Steganography
+
+
+
+### Slides
+- 2013/04/26 [Video Steganography](https://www.slideshare.net/jamesridgway/video-steganography)
+
+### Papers
+- 2018 [Enhancement of Data Security using Video Steganography](https://www.ijcaonline.org/archives/volume181/number6/kaur-2018-ijca-917472.pdf)
+- 2018 [Review on Video Steganography Technique](https://www.ukessays.com/essays/computer-science/review-video-steganography-technique-9853.php)
+- 2017 [Video Steganography](https://www.researchgate.net/publication/322725728_Video_Steganography)
+
+
+
+
+
+
