@@ -691,6 +691,9 @@ $ ./build.sh # long time to build, don't use go build
 - 2018 [Review on Video Steganography Technique](https://www.ukessays.com/essays/computer-science/review-video-steganography-technique-9853.php)
 - 2017 [Video Steganography](https://www.researchgate.net/publication/322725728_Video_Steganography)
 
+### Open Source
+- [mwinensoaa/video-steganography](https://github.com/mwinensoaa/video-steganography) - this application encrypts and decrypts file using SHA-2 encryption technology and hides file behind video files to secure it for transfer over the internet.
+
 
 
 
