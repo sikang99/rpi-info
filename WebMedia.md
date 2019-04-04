@@ -626,6 +626,18 @@ $ ./build.sh # long time to build, don't use go build
 - 2017 [Performance comparison of AV1, JEM, VP9, and HEVC encoders](https://www.researchgate.net/publication/319925128_Performance_comparison_of_AV1_JEM_VP9_and_HEVC_encoders_Conference_Presentation)
 
 
+---
+## 3D Streaming
+### Information
+- [3D Streaming Toolkit Documentation](https://3dstreamingtoolkit.github.io/docs-3dstk/Tutorials/large-scale-tutorial.html)
+
+### History
+- 2019/03/19 [Real-time Streaming Of 3D Enterprise Applications From The Cloud To Low-powered Devices](https://www.microsoft.com/developerblog/2019/03/19/real-time-streaming-of-3d-enterprise-applications-from-the-cloud-to-low-powered-devices/)
+
+
+### Open Source
+- [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit) - A toolkit for building powerful stereoscopic 3D experiences that run on the cloud and stream to devices
+
 
 ---
 ## Game Streaming
@@ -669,7 +681,6 @@ $ ./build.sh # long time to build, don't use go build
 
 ---
 ## Video Steganography
-
 
 
 ### Slides
