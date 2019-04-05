@@ -203,6 +203,7 @@
     - 2018/03/17 [Faster R-CNN](http://incredible.ai/deep-learning/2018/03/17/Faster-R-CNN/)
     - 2018/03/09 [Faster R-CNN 논문 리뷰](https://zzsza.github.io/data/2018/05/09/Faster-RCNN-review/)
     - 2018/01/18 [Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
+    - 2017/05/28 [PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks](https://www.youtube.com/watch?v=kcPAGIgBGRs)
     - 2017/03/17 [분석 Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
     - [rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
     - Mathworks: [R-CNN, Fast R-CNN, and Faster R-CNN Basics](https://www.mathworks.com/help/vision/ug/faster-r-cnn-basics.html)
