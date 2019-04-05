@@ -198,11 +198,13 @@
     - 2018/09/15 [Review: Faster R-CNN (Object Detection)](https://towardsdatascience.com/review-faster-r-cnn-object-detection-f5685cb30202)
     - 2018/08/04 [Object Detection - two stage method(R-CNN, fast R-CNN, faster R-CNN)](https://nittaku.tistory.com/273)
     - 2018/05/22 [Faster R-CNN 논문읽기](https://medium.com/@lsrock125/faster-r-cnn-%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0-1a7fdc9c43ee)
+    - 2018/05/01 [Fast R-CNN](http://openresearch.ai/t/fast-r-cnn/240)
     - 2018/03/17 [Faster R-CNN](http://incredible.ai/deep-learning/2018/03/17/Faster-R-CNN/)
     - 2018/03/09 [Faster R-CNN 논문 리뷰](https://zzsza.github.io/data/2018/05/09/Faster-RCNN-review/)
     - 2017/03/17 [분석 Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
     - [rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
     - Mathworks: [R-CNN, Fast R-CNN, and Faster R-CNN Basics](https://www.mathworks.com/help/vision/ug/faster-r-cnn-basics.html)
+    - [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
 
 
 ### Slide
