@@ -129,7 +129,7 @@
 - [Tiny YOLO Demo](https://modeldepot.github.io/tfjs-yolo-tiny-demo/)
 - [Fast Online Object Tracking and Segmentation: A Unifying Approach](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 - GOTURN - Generic Object Tracking Using Regression Networks
-- [GluonCV: a Deep Learning Toolkit for Computer Vision](https://gluon-cv.mxnet.io/index.html)
+- [**GluonCV: a Deep Learning Toolkit for Computer Vision**](https://gluon-cv.mxnet.io/index.html)
 
 
 ### History
