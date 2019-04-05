@@ -130,6 +130,7 @@
 - [Fast Online Object Tracking and Segmentation: A Unifying Approach](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 - GOTURN - Generic Object Tracking Using Regression Networks
 - [**GluonCV: a Deep Learning Toolkit for Computer Vision**](https://gluon-cv.mxnet.io/index.html)
+- [CV-Tricks.com](https://cv-tricks.com/) - Learn Machine Learning, AI & Computer vision
 
 
 ### History
