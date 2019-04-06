@@ -215,6 +215,9 @@
 
 ### Slide
 - 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
+- 2018 [PR-057 Mask R-CNN](https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn)
+- 2017 [Mask R-CNN](https://www.slideshare.net/windmdk/mask-rcnn)
+
 
 
 ---
