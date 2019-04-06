@@ -184,9 +184,11 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - Docker container for doing realtime object detection on RTSP feeds with Tensorflow
 - [jeeliz/jeelizAR](https://github.com/jeeliz/jeelizAR) - JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+- [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
 
 
 ### Papers
+- 2018 [Beyond Grids: Learning Graph Representations for Visual Recognition](https://www.biostat.wisc.edu/~yli/preprints/yin_nips2018_camera_ready.pdf)
 - 2018 [Deep Learning for Generic Object Detection: A Survey](http://www.ee.oulu.fi/~lili/LiLiuHomepage_files/DetectionSurveySubmitted.pdf)
 - 2018 [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
 - 2018 [**Efficient Pose Tracking from Natural Features in Standard Web Browsers**](https://arxiv.org/pdf/1804.08424.pdf)
