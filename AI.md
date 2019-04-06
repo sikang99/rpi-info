@@ -187,6 +187,7 @@
 
 
 ### Papers
+- 2018 [Deep Learning for Generic Object Detection: A Survey](http://www.ee.oulu.fi/~lili/LiLiuHomepage_files/DetectionSurveySubmitted.pdf)
 - 2018 [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
 - 2018 [**Efficient Pose Tracking from Natural Features in Standard Web Browsers**](https://arxiv.org/pdf/1804.08424.pdf)
 - 2018 [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://ivul.kaust.edu.sa/Documents/Publications/2018/TrackingNet%20A%20Large%20Scale%20Dataset%20and%20Benchmark%20for%20Object%20Tracking%20in%20the%20Wild.pdf)
