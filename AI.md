@@ -145,6 +145,7 @@
 - 2018/12/11 [**Review of Deep Learning Algorithms for Image Semantic Segmentation**](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+- 2018/11/05 [1편: Semantic Segmentation 첫걸음!](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb)
 - 2018/10/16 [ARKit 2.0: Continuous Image Tracking and Object Detection with ViroReact](https://blog.viromedia.com/arkit-2-0-continuous-image-tracking-and-object-detection-with-viroreact-6823b94b0eb1)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 - 2018/09/20 [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
@@ -167,6 +168,9 @@
 - 2017/12/22 [Deep Learning made easy with Deep Cognition](https://becominghuman.ai/deep-learning-made-easy-with-deep-cognition-403fbe445351)
 - 2017/11/11 [Optimization of Real-Time Object Detection on Intel® Xeon® Scalable Processors](https://colfaxresearch.com/yolo-optimization/)
 - 2017/10/27 [Announcing OpenYOLO: the Power of a Password Manager for Your Android Apps](https://blog.dashlane.com/openyolo-password-managers-in-android-apps/)
+- 2018/00/00 --------------------------------------------------------------------------------------------------------------------------------
+- 2016/11/07 [https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
+
 
 
 ### Open Source
@@ -186,6 +190,7 @@
 - [jeeliz/jeelizAR](https://github.com/jeeliz/jeelizAR) - JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
+- [thalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 
 
 ### Papers
@@ -229,6 +234,7 @@
 
 
 ### Slide
+- 2018 [Semantic segmentation review](https://delta-course.org/docs/IntelCVSchool/IntelCVSchoolSemanticSegmentation.pdf)
 - 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
 - 2018 [PR-057 Mask R-CNN](https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn)
 - 2017 [Mask R-CNN](https://www.slideshare.net/windmdk/mask-rcnn)
