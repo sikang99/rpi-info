@@ -179,6 +179,7 @@
 - [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) - Paper list and source code for multi-object-tracking
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - Docker container for doing realtime object detection on RTSP feeds with Tensorflow
 - [jeeliz/jeelizAR](https://github.com/jeeliz/jeelizAR) - JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL
+- [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
 
 ### Papers
