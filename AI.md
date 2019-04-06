@@ -196,6 +196,7 @@
     - 2017/11/25 [The Best of ICCV 2017](https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0)
     - 2017/06/15 [From R-CNN to Mask R-CNN](https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/)
 - 2018 [Domain Adaptive Faster R-CNN for Object Detection in the Wild](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
+- 2017 [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242)
 - 2016 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
     - 2018/11/04 [A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 – with Python codes)](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/)
     - 2018/09/15 [Review: Faster R-CNN (Object Detection)](https://towardsdatascience.com/review-faster-r-cnn-object-detection-f5685cb30202)
