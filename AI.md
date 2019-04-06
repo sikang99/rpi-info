@@ -222,6 +222,13 @@
 - 2018 [PR-057 Mask R-CNN](https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn)
 - 2017 [Mask R-CNN](https://www.slideshare.net/windmdk/mask-rcnn)
 
+### Video
+- [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception](https://www.youtube.com/watch?v=s8Ui_kV9dhw)
+- [YOLOv2](https://www.youtube.com/watch?v=EhcpGpFHCrw)
+- [YOLOv3](https://www.youtube.com/watch?v=8jfscFuP_9k)
+- [Mask RCNN](https://www.youtube.com/watch?v=OOT3UIXZztE)
+- [Deeplab Xception](https://www.youtube.com/watch?v=ATlcEDSPWXY)
+
 
 
 ---
