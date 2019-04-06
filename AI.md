@@ -202,6 +202,7 @@
     - 2018/05/22 [Faster R-CNN 논문읽기](https://medium.com/@lsrock125/faster-r-cnn-%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0-1a7fdc9c43ee)
     - 2018/05/01 [Fast R-CNN](http://openresearch.ai/t/fast-r-cnn/240)
     - 2018/03/17 [Faster R-CNN](http://incredible.ai/deep-learning/2018/03/17/Faster-R-CNN/)
+    - 2018/03/12 [Recent FAIR CV Papers - FPN, RetinaNet, Mask and Mask-X RCNN](https://skrish13.github.io/articles/2018-03/fair-cv-saga)
     - 2018/03/09 [Faster R-CNN 논문 리뷰](https://zzsza.github.io/data/2018/05/09/Faster-RCNN-review/)
     - 2018/01/18 [Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
     - 2017/05/28 [PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks](https://www.youtube.com/watch?v=kcPAGIgBGRs)
