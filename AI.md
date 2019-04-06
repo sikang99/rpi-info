@@ -139,7 +139,7 @@
 - 2019/02/06 [Mask-RCNN Tutorial for Object Detection on Image and Video](http://www.aisangam.com/blog/mask-rcnn-tutorial-object-detection-image-video-segmentation/)
 - 2019/02/02 [Review: DCN — Deformable Convolutional Networks, 2nd Runner Up in 2017 COCO Detection (Object Detection)](https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44)
 - 2019/01/23 [Computer Vision: Tracking and Detecting Moving Objects](https://dzone.com/articles/computer-vision-tracking-and-detecting-of-moving-o)
-- 2019/00/00
+- 2019/00/00 --------------------------------------------------------------------------------------------------------------------------------
 - 2018/12/11 [**Review of Deep Learning Algorithms for Image Semantic Segmentation**](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
@@ -160,7 +160,7 @@
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - 2018/02/15 [Evolution of Object Detection and Localization Algorithms](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad?fbclid=IwAR305Ie9Wkwc-Q_ZrmO_7hlNCkilbqEfMza2PAj4GcXt0B-eibFyx38WzCQ)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
-- 2018/00/00
+- 2018/00/00 --------------------------------------------------------------------------------------------------------------------------------
 - 2017/12/28 [How To Implement Object Recognition on Live Stream](https://www.iotforall.com/objects-recognition-live-stream-yolo-model/)
 - 2017/12/22 [Deep Learning made easy with Deep Cognition](https://becominghuman.ai/deep-learning-made-easy-with-deep-cognition-403fbe445351)
 - 2017/11/11 [Optimization of Real-Time Object Detection on Intel® Xeon® Scalable Processors](https://colfaxresearch.com/yolo-optimization/)
