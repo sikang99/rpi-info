@@ -131,6 +131,7 @@
 - GOTURN - Generic Object Tracking Using Regression Networks
 - [**GluonCV: a Deep Learning Toolkit for Computer Vision**](https://gluon-cv.mxnet.io/index.html)
 - [CV-Tricks.com](https://cv-tricks.com/) - Learn Machine Learning, AI & Computer vision
+- [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models
 
 
 ### History
@@ -186,6 +187,7 @@
 
 
 ### Papers
+- 2018 [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
 - 2018 [**Efficient Pose Tracking from Natural Features in Standard Web Browsers**](https://arxiv.org/pdf/1804.08424.pdf)
 - 2018 [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://ivul.kaust.edu.sa/Documents/Publications/2018/TrackingNet%20A%20Large%20Scale%20Dataset%20and%20Benchmark%20for%20Object%20Tracking%20in%20the%20Wild.pdf)
 - 2018 [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050.pdf)
@@ -197,6 +199,7 @@
 - 2018 [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - 2018 [Web-Based Object Tracking Using Collaborated Camera Network](https://file.scirp.org/pdf/AIT_2018042614400521.pdf)
 - 2018 [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+    - 2018/10/01 [Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
     - 2018/04/23 [**Simple Understanding of Mask RCNN**](https://medium.com/@alittlepain833/simple-understanding-of-mask-rcnn-134b5b330e95)
     - 2017/11/25 [The Best of ICCV 2017](https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0)
     - 2017/06/15 [From R-CNN to Mask R-CNN](https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/)
