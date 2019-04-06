@@ -137,8 +137,10 @@
 - 2019/03/12 [**Object Detection Tutorial in TensorFlow: Real-Time Object Detection**](https://dzone.com/articles/object-detection-tutorial-in-tensorflow-real-time)
 - 2019/02/27 [How To Work With Tensorflow Object Detection](https://www.digitalvidya.com/blog/tensorflow-object-detection/)
 - 2019/02/06 [Mask-RCNN Tutorial for Object Detection on Image and Video](http://www.aisangam.com/blog/mask-rcnn-tutorial-object-detection-image-video-segmentation/)
+- 2019/02/02 [Review: DCN — Deformable Convolutional Networks, 2nd Runner Up in 2017 COCO Detection (Object Detection)](https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44)
 - 2019/01/23 [Computer Vision: Tracking and Detecting Moving Objects](https://dzone.com/articles/computer-vision-tracking-and-detecting-of-moving-o)
 - 2019/00/00
+- 2018/12/11 [**Review of Deep Learning Algorithms for Image Semantic Segmentation**](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/10/16 [ARKit 2.0: Continuous Image Tracking and Object Detection with ViroReact](https://blog.viromedia.com/arkit-2-0-continuous-image-tracking-and-object-detection-with-viroreact-6823b94b0eb1)
