@@ -163,6 +163,7 @@
 - 2018/03/29 [Understanding YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - 2018/02/15 [Evolution of Object Detection and Localization Algorithms](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad?fbclid=IwAR305Ie9Wkwc-Q_ZrmO_7hlNCkilbqEfMza2PAj4GcXt0B-eibFyx38WzCQ)
+- 2018/01/29 [Deeplab Image Semantic Segmentation Network](https://sthalles.github.io/deep_segmentation_network/)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
 - 2018/00/00 --------------------------------------------------------------------------------------------------------------------------------
 - 2017/12/28 [How To Implement Object Recognition on Live Stream](https://www.iotforall.com/objects-recognition-live-stream-yolo-model/)
