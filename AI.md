@@ -21,6 +21,7 @@
 - [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning) - Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
 - [OpenML](https://www.openml.org/) - Forum
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Supervisely](https://supervise.ly/) : [Documentatio](https://docs.supervise.ly/) - Vision platform
 
 
 ### History
@@ -136,7 +137,9 @@
 
 ### History
 - 2019/03/12 [**Object Detection Tutorial in TensorFlow: Real-Time Object Detection**](https://dzone.com/articles/object-detection-tutorial-in-tensorflow-real-time)
+- 2019/02/29 [How to Deploy Segmentation Models with TensorFlow Serving](https://mighty.ai/blog/how-to-deploy-segmentation-models-with-tensorflow-serving/)
 - 2019/02/27 [How To Work With Tensorflow Object Detection](https://www.digitalvidya.com/blog/tensorflow-object-detection/)
+- 2019/02/10 [Review: SegNet (Semantic Segmentation)](https://towardsdatascience.com/review-segnet-semantic-segmentation-e66f2e30fb96)
 - 2019/02/06 [Mask-RCNN Tutorial for Object Detection on Image and Video](http://www.aisangam.com/blog/mask-rcnn-tutorial-object-detection-image-video-segmentation/)
 - 2019/02/02 [Review: DCN — Deformable Convolutional Networks, 2nd Runner Up in 2017 COCO Detection (Object Detection)](https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44)
 - 2019/01/23 [Computer Vision: Tracking and Detecting Moving Objects](https://dzone.com/articles/computer-vision-tracking-and-detecting-of-moving-o)
@@ -191,12 +194,15 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - Docker container for doing realtime object detection on RTSP feeds with Tensorflow
 - [jeeliz/jeelizAR](https://github.com/jeeliz/jeelizAR) - JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+- [TuSimple/TuSimple-DUC](https://github.com/TuSimple/TuSimple-DUC) - Understanding Convolution for Semantic Segmentation
 - [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
 - [thalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
-- [TuSimple/TuSimple-DUC](https://github.com/TuSimple/TuSimple-DUC) - Understanding Convolution for Semantic Segmentation
+- [hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus) - A higher performance pytorch implementation of DeepLab V3 Plus(DeepLab v3+)
 
 
 ### Papers
+- 2018 [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1802.02611.pdf)
+- 2018 [**Understanding Convolution for Semantic Segmentation**](https://arxiv.org/pdf/1702.08502.pdf)
 - 2018 [Beyond Grids: Learning Graph Representations for Visual Recognition](https://www.biostat.wisc.edu/~yli/preprints/yin_nips2018_camera_ready.pdf)
 - 2018 [Deep Learning for Generic Object Detection: A Survey](http://www.ee.oulu.fi/~lili/LiLiuHomepage_files/DetectionSurveySubmitted.pdf)
 - 2018 [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
@@ -237,6 +243,7 @@
 
 
 ### Slide
+- 2018 [FCN to DeepLab.v3+](https://www.slideshare.net/WhiKwon/fcn-to-deeplabv3)
 - 2018 [Semantic segmentation review](https://delta-course.org/docs/IntelCVSchool/IntelCVSchoolSemanticSegmentation.pdf)
 - 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
 - 2018 [PR-057 Mask R-CNN](https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn)
