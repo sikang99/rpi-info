@@ -206,6 +206,7 @@
 - [kaichengyan/deeplab-v3-plus](https://github.com/kaichengyan/deeplab-v3-plus) - A PyTorch implementation of the DeepLab-v3+ model under development
 - [Haiik/DeepCut](https://github.com/Haiik/DeepCut) - Weakly-supervised Person Segmentation
 - [JackieZhangdx/WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList) - Weakly Supervised Semantic Segmentation list
+- [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 
 
 ### Papers
