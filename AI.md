@@ -150,6 +150,7 @@
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/11/05 [1편: Semantic Segmentation 첫걸음!](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb)
 - 2018/10/16 [ARKit 2.0: Continuous Image Tracking and Object Detection with ViroReact](https://blog.viromedia.com/arkit-2-0-continuous-image-tracking-and-object-detection-with-viroreact-6823b94b0eb1)
+- 2019/09/28 [DeepLab V3+ Code Review](http://haokun.tech/2018/09/28/DeepLab-V3-Code-Review/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
 - 2018/09/20 [YOLO Vs. SSD: Choice of a Precise Object Detection Method](https://technostacks.com/blog/yolo-vs-ssd/)
 - 2018/08/22 [What is object detection? Introduction to YOLO algorithm](https://appsilon.com/object-detection-yolo-algorithm/)
@@ -198,6 +199,7 @@
 - [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
 - [thalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus) - A higher performance pytorch implementation of DeepLab V3 Plus(DeepLab v3+)
+- [Haiik/DeepCut](https://github.com/Haiik/DeepCut) - Weakly-supervised Person Segmentation
 
 
 ### Papers
