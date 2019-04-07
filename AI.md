@@ -202,6 +202,7 @@
 - [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
 - [thalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus) - A higher performance pytorch implementation of DeepLab V3 Plus(DeepLab v3+)
+- [kaichengyan/deeplab-v3-plus](https://github.com/kaichengyan/deeplab-v3-plus) - A PyTorch implementation of the DeepLab-v3+ model under development
 - [Haiik/DeepCut](https://github.com/Haiik/DeepCut) - Weakly-supervised Person Segmentation
 - [JackieZhangdx/WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList) - Weakly Supervised Semantic Segmentation list
 
