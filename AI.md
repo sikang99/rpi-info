@@ -22,6 +22,9 @@
 - [OpenML](https://www.openml.org/) - Forum
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Supervisely](https://supervise.ly/) : [Documentatio](https://docs.supervise.ly/) - Vision platform
+- [googblogs.com](http://www.googblogs.com/) - All Google blogs and Press in one site
+- [Towards Data Science](https://towardsdatascience.com/)
+
 
 
 ### History
@@ -261,6 +264,8 @@
 - [YoloV2, Yolo 9000, SSD Mobilenet, Faster RCNN NasNet comparison](https://www.youtube.com/watch?v=V4P_ptn2FF4)
 - [8K 4x YOLO (Tiny YOLO, VOC, COCO, YOLO9000) Object detection #7](https://www.youtube.com/watch?v=ZKUUd1iXLQ0)
 
+### Persons
+- [**Vladimir Nekrasov**](https://drsleep.github.io/projects/) - Segmentation
 
 
 ---
