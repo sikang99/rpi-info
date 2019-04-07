@@ -268,6 +268,7 @@
 - [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception](https://www.youtube.com/watch?v=s8Ui_kV9dhw)
 - [YoloV2, Yolo 9000, SSD Mobilenet, Faster RCNN NasNet comparison](https://www.youtube.com/watch?v=V4P_ptn2FF4)
 - [8K 4x YOLO (Tiny YOLO, VOC, COCO, YOLO9000) Object detection #7](https://www.youtube.com/watch?v=ZKUUd1iXLQ0)
+- [Chanwoo Timothy Lee](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA) - 딥러닝 일반, Tensorflow
 
 ### Persons
 - [**Vladimir Nekrasov**](https://drsleep.github.io/projects/) - Segmentation
