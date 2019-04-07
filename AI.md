@@ -24,6 +24,7 @@
 - [Supervisely](https://supervise.ly/) : [Documentatio](https://docs.supervise.ly/) - Vision platform
 - [googblogs.com](http://www.googblogs.com/) - All Google blogs and Press in one site
 - [Towards Data Science](https://towardsdatascience.com/)
+- [Deep Learning for Vision](https://sif-dlv.github.io/)
 
 
 
@@ -250,6 +251,7 @@
 
 
 ### Slide
+- 2018 [**Progress in Computer Vision in the Last Decade & Open Problems: People Detection & Human Pose Estimation**](http://machinescansee.com/wp-content/uploads/2018/07/schiele-moskau-v1.pdf)
 - 2018 [FCN to DeepLab.v3+](https://www.slideshare.net/WhiKwon/fcn-to-deeplabv3)
 - 2018 [Semantic segmentation review](https://delta-course.org/docs/IntelCVSchool/IntelCVSchoolSemanticSegmentation.pdf)
 - 2018 [Practical Object Detection and Segmentation](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf)
@@ -267,7 +269,7 @@
 
 ### Persons
 - [**Vladimir Nekrasov**](https://drsleep.github.io/projects/) - Segmentation
-
+- [Lunit Tech Blog](https://blog.lunit.io/) - Paper survey
 
 ---
 ## Assistant
