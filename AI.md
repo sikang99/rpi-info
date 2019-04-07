@@ -193,6 +193,7 @@
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [leimao/DeepLab_v3](https://github.com/leimao/DeepLab_v3) - Google DeepLab v3 for Image Semantic Segmentation
 - [thalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
+- [TuSimple/TuSimple-DUC](https://github.com/TuSimple/TuSimple-DUC) - Understanding Convolution for Semantic Segmentation
 
 
 ### Papers
