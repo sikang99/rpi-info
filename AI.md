@@ -25,6 +25,7 @@
 - [googblogs.com](http://www.googblogs.com/) - All Google blogs and Press in one site
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Deep Learning for Vision](https://sif-dlv.github.io/)
+- [**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
 
 
