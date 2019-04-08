@@ -160,7 +160,7 @@
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/11/05 [1편: Semantic Segmentation 첫걸음!](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb)
-- 2018/10/25 [A Peek at Semantic Segmentation 2018](https://mc.ai/a-peek-at-semantic-segmentation-2018/)
+- 2018/10/25 [**A Peek at Semantic Segmentation 2018**](https://mc.ai/a-peek-at-semantic-segmentation-2018/)
 - 2018/10/16 [ARKit 2.0: Continuous Image Tracking and Object Detection with ViroReact](https://blog.viromedia.com/arkit-2-0-continuous-image-tracking-and-object-detection-with-viroreact-6823b94b0eb1)
 - 2019/09/28 [**DeepLab V3+ Code Review**](http://haokun.tech/2018/09/28/DeepLab-V3-Code-Review/)
 - 2018/09/25 [CYOLO – a pure C++ implementation of a YOLOv3 SPE for rt-ai](https://richardstechnotes.com/2018/09/25/cyolo-a-pure-c-implementation-of-a-yolov3-spe-for-rt-ai/)
