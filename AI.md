@@ -23,7 +23,7 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Supervisely](https://supervise.ly/) : [Documentatio](https://docs.supervise.ly/) - Vision platform
 - [googblogs.com](http://www.googblogs.com/) - All Google blogs and Press in one site
-- [Towards Data Science](https://towardsdatascience.com/)
+- [**Towards Data Science**](https://towardsdatascience.com/)
 - [Deep Learning for Vision](https://sif-dlv.github.io/)
 - [**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
@@ -215,6 +215,7 @@
 
 
 ### Papers
+- 2018 [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](http://files.is.tue.mpg.de/black/papers/VIP.pdf)
 - 2018 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://eccv2018.org/openaccess/content_ECCV_2018/papers/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.pdf)
 - 2018 [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf)
 - 2018 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://eccv2018.org/openaccess/content_ECCV_2018/papers/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.pdf)
