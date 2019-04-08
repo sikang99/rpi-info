@@ -28,6 +28,8 @@
 - [**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [mc.ai](https://mc.ai) - Aggregated news around AI and co.
 - [Neural Network Concepts](https://missinglink.ai/guides/neural-network-concepts/)
+- [Keras Documentation](https://keras.io) - The Python Deep Learning library
+
 
 
 ### History
