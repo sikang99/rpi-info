@@ -138,6 +138,9 @@
 - [**GluonCV: a Deep Learning Toolkit for Computer Vision**](https://gluon-cv.mxnet.io/index.html)
 - [CV-Tricks.com](https://cv-tricks.com/) - Learn Machine Learning, AI & Computer vision
 - [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models
+- [Learn OpenCV](https://www.learnopencv.com/)
+    - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV : C++ and Python Examples
+
 
 
 ### History
