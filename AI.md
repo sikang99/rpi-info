@@ -92,7 +92,7 @@
 - 2019/00/00
 - 2018/12/18 [Transfer Learning — Reusing a pre-trained Deep Learning model on a new task](https://medium.com/analytics-vidhya/reusing-a-pre-trained-deep-learning-model-on-a-new-task-transfer-learning-1c0a25a92dfb)
 - 2018/11/15 [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
-- 2018/04/23 [Transfer Learning](https://towardsdatascience.com/transfer-learning-946518f95666?fbclid=IwAR0qoYht0d4pJYTQLHTTbv6LV6dh0uIDQeGmXs4WdIhWeKd3sYYvAt9d6TI)
+- 2018/04/23 [Transfer Learning](https://towardsdatascience.com/transfer-learning-946518f95666)
 - 2018/01/19 [Transfer Learning: Leverage Insights from Big Data](https://www.datacamp.com/community/tutorials/transfer-learning)
 - 2018/00/00
 - 2017/12/20 [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
@@ -154,7 +154,7 @@
 - 2019/01/20 [**Review: DeepLabv3 — Atrous Convolution (Semantic Segmentation)**](https://towardsdatascience.com/review-deeplabv3-atrous-convolution-semantic-segmentation-6d818bfd1d74)
 - 2019/00/00 --------------------------------------------------------------------------------------------------------------------------------
 - 2018/12/11 [**Review of Deep Learning Algorithms for Image Semantic Segmentation**](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
-- 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65?fbclid=IwAR0AkvSUjmJLlSfR89FhJS5fRIjhxAip5GqGDI0s3dZgFTJosViQpVmOrGQ)
+- 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/11/05 [1편: Semantic Segmentation 첫걸음!](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb)
 - 2018/10/16 [ARKit 2.0: Continuous Image Tracking and Object Detection with ViroReact](https://blog.viromedia.com/arkit-2-0-continuous-image-tracking-and-object-detection-with-viroreact-6823b94b0eb1)
@@ -175,7 +175,7 @@
 - 2018/04/13 [Real-time and video processing object detection using Tensorflow, OpenCV and Docker](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)
 - 2018/03/29 [Understanding YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
 - 2018/03/18 [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
-- 2018/02/15 [Evolution of Object Detection and Localization Algorithms](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad?fbclid=IwAR305Ie9Wkwc-Q_ZrmO_7hlNCkilbqEfMza2PAj4GcXt0B-eibFyx38WzCQ)
+- 2018/02/15 [Evolution of Object Detection and Localization Algorithms](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad)
 - 2018/01/29 [Deeplab Image Semantic Segmentation Network](https://sthalles.github.io/deep_segmentation_network/)
 - 2018/01/12 [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
 - 2018/00/00 --------------------------------------------------------------------------------------------------------------------------------
