@@ -211,6 +211,7 @@
 
 
 ### Papers
+- 2018 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://eccv2018.org/openaccess/content_ECCV_2018/papers/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.pdf)
 - 2018 [Guide Me: Interacting with Deep Networks](http://campar.in.tum.de/pub/rupprecht2018cvpr/rupprecht2018cvpr.pdf)
 - 2018 [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells](https://arxiv.org/pdf/1810.10804.pdf)
 - 2018 [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1802.02611.pdf)
