@@ -276,6 +276,7 @@
 ### Persons
 - [**Vladimir Nekrasov**](https://drsleep.github.io/projects/) - Segmentation
 - [Lunit Tech Blog](https://blog.lunit.io/) - Paper survey
+- [등신한의 조재성](https://nittaku.tistory.com/) - 한의학, 빅데이터, 머신러닝
 
 ---
 ## Assistant
