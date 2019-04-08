@@ -166,6 +166,7 @@
 - 2018/06/16 [In-Browser object detection using YOLO and TensorFlow.js](https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c)
 - 2018/06/07 [YOLO for Real-Time Food Detection](http://bennycheung.github.io/yolo-for-real-time-food-detection)
 - 2018/06/04 [Implementing YOLO v3 in Tensorflow (TF-Slim)](https://itnext.io/implementing-yolo-v3-in-tensorflow-tf-slim-c3c55ff59dbe)
+- 2018/05/29 [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
 - 2018/04/23 [What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 - 2018/04/17 [Guide for using DeepLab in TensorFlow](https://beerensahu.wordpress.com/2018/04/17/guide-for-using-deeplab-in-tensorflow/)
 - 2018/04/13 [Real-time and video processing object detection using Tensorflow, OpenCV and Docker](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)
