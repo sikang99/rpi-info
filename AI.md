@@ -211,6 +211,7 @@
 
 
 ### Papers
+- 2018 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://eccv2018.org/openaccess/content_ECCV_2018/papers/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.pdf)
 - 2018 [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf)
 - 2018 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://eccv2018.org/openaccess/content_ECCV_2018/papers/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.pdf)
 - 2018 [Guide Me: Interacting with Deep Networks](http://campar.in.tum.de/pub/rupprecht2018cvpr/rupprecht2018cvpr.pdf)
