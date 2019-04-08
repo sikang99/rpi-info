@@ -10,6 +10,7 @@
     - [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
     - [Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
     - ML Cheatsheet: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+    - [Which activation function for output layer?](https://stats.stackexchange.com/questions/218542/which-activation-function-for-output-layer)
 
 
 
