@@ -27,7 +27,7 @@
 - [Deep Learning for Vision](https://sif-dlv.github.io/)
 - [**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [mc.ai](https://mc.ai) - Aggregated news around AI and co.
-
+- [Neural Network Concepts](https://missinglink.ai/guides/neural-network-concepts/)
 
 
 ### History

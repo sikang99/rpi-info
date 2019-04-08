@@ -13,6 +13,7 @@
     - ML Cheatsheet: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
     - [Which activation function for output layer?](https://stats.stackexchange.com/questions/218542/which-activation-function-for-output-layer)
     - 2018/11/26 [The Softmax Function, Simplified](https://towardsdatascience.com/softmax-function-simplified-714068bf8156)
+    - 2019/01/09 [A Gentle Introduction to the Rectified Linear Activation Function for Deep Learning Neural Networks](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
 
 
 
