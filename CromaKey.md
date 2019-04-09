@@ -23,3 +23,4 @@
 
 ### Open Source
 - [opentok-green-screen](https://github.com/kaustavdm/opentok-green-screen) - A green-screen WebRTC demo based on OpenTok 
+- [joelibaceta/chroma-key-js](https://github.com/joelibaceta/chroma-key-js) 
