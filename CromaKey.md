@@ -6,6 +6,7 @@
 - 2019/01/04 [Top 10 Free Green Screen Software You Need to Know](https://filmora.wondershare.com/video-editing-tips/free-green-screen-software.html)
 - 2019/00/00
 - 2018/12/28 [Background removal with Intel® RealSense™ Depth Camera](https://01.org/blogs/astojilj/2018/background-removal-intel-realsense-depth-camera-webrtc-and-webgl)
+- 2018/12/05 [How does OBS-Studio Chroma key work in real-time processing Alpha matting?](https://obsproject.com/forum/threads/how-does-obs-studio-chroma-key-work-in-real-time-processing-alpha-matting.97859/)
 - 2018/09/13 [What are the best chroma key apps for iPhone?](https://en.softonic.com/solutions/what-are-the-best-chroma-key-apps-for-iphone)
 - 2018/06/04 [How to Create a DIY Green Screen Video Effect](https://www.techsmith.com/blog/how-to-create-a-diy-green-scre/)
 
@@ -19,6 +20,7 @@
 - [캔버스(canvas)를 이용한 비디오 조작하기](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Manipulating_video_using_canvas)
 - [How to use Chroma Key for Webcam Overlay ](https://www.bandicam.com/how-to-use-chroma-key/)
 - [Chromavid](http://www.chromavid.com/) - App
+- [chroma.js](https://vis4.net/chromajs/)
 
 
 ### Open Source
@@ -28,3 +30,4 @@
 - [RaulSanchezVazquez/chroma-key-composition](https://github.com/RaulSanchezVazquez/chroma-key-composition) - python-based chroma-key script
 - [hecomi/uChromaKey](https://github.com/hecomi/uChromaKey) - Chroma key shader asset for Unity 
 - [IkeyaTakumu/masterspark](https://github.com/IkeyaTakumu/masterspark) - Chroma key and Mean shift tracking
+- [albu/albumentations](https://github.com/albu/albumentations) - fast image augmentation library and easy to use wrapper around other libraries
