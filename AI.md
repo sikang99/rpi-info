@@ -29,6 +29,7 @@
 - [mc.ai](https://mc.ai) - Aggregated news around AI and co.
 - [Neural Network Concepts](https://missinglink.ai/guides/neural-network-concepts/)
 - [Keras Documentation](https://keras.io) - The Python Deep Learning library
+- [CDM](https://cdm98.tistory.com/category) - Machine Learning & Deep Learninga
 
 
 
