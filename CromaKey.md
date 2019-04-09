@@ -22,5 +22,9 @@
 
 
 ### Open Source
+- Github for topic: [greenscreen-matting](https://github.com/topics/greenscreen-matting)
 - [opentok-green-screen](https://github.com/kaustavdm/opentok-green-screen) - A green-screen WebRTC demo based on OpenTok 
 - [joelibaceta/chroma-key-js](https://github.com/joelibaceta/chroma-key-js) 
+- [RaulSanchezVazquez/chroma-key-composition](https://github.com/RaulSanchezVazquez/chroma-key-composition) - python-based chroma-key script
+- [hecomi/uChromaKey](https://github.com/hecomi/uChromaKey) - Chroma key shader asset for Unity 
+- [IkeyaTakumu/masterspark](https://github.com/IkeyaTakumu/masterspark) - Chroma key and Mean shift tracking
