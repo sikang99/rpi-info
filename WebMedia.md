@@ -115,11 +115,13 @@
 
 ### History
 - 2018/10/31 [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/)
+- 2018/06/27 [Using WebAudioRecorder.js to Record MP3, Vorbis and WAV Audio on Your Website](https://blog.addpipe.com/using-webaudiorecorder-js-to-record-audio-on-your-website/)
 - 2018/01/31 [Using Audio Noise Reduction](https://atomisystems.com/tutorials/ap7/using-audio-noise-reduction/)
 - 2018/00/00
 - 2017/12/01 [Enter Audio Worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - 2017/10/10 [Filtering images using Web Audio API](https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad)
 - 2017/06/15 [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
+- 2017/02/27 [Record to an Audio File using HTML5 and JS](https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/)
 - 2017/02/15 [Introduction to Noise Filters for Smart Phone Audio Circuits](https://www.murata.com/en-global/products/emiconfun/emc/2017/01/31/20170131-p1)
 - 2012/02/16 [Mixing Positional Audio and WebGL](https://www.html5rocks.com/en/tutorials/webaudio/positional_audio/)
 
@@ -134,6 +136,8 @@
 - [Audio line noise suppression for smart phones: (1) Problems](https://www.murata.com/en-global/products/emc/emifil/audio/solution3)
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - A web audio Javascript library
 - [Howler.js](https://howlerjs.com/) - Audio library for the modern web
+- [How to disable Web-Audio analyzer filtering high frequencies](https://stackoverflow.com/questions/31306309/how-to-disable-web-audio-analyzer-filtering-high-frequencies)
+- [Making the Web Rock - Web Audio](https://webaudiodemos.appspot.com/slides/index.html#/)
 
 
 ### Open Source
