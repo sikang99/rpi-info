@@ -151,6 +151,7 @@
 
 
 ### History
+- 2019/04/08 [OpenVINO, OpenCV, and Movidius NCS on the Raspberry Pi](https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/)
 - 2019/03/12 [**Object Detection Tutorial in TensorFlow: Real-Time Object Detection**](https://dzone.com/articles/object-detection-tutorial-in-tensorflow-real-time)
 - 2019/02/29 [How to Deploy Segmentation Models with TensorFlow Serving](https://mighty.ai/blog/how-to-deploy-segmentation-models-with-tensorflow-serving/)
 - 2019/02/27 [How To Work With Tensorflow Object Detection](https://www.digitalvidya.com/blog/tensorflow-object-detection/)
