@@ -82,6 +82,7 @@
 - 2019/01/09 [Sample Training Dataset for Autonomous Driving Now Available](https://mighty.ai/blog/new-open-training-dataset-for-autonomous-driving-now-available/)
 - 2019/01/01 [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 - 2019/00/00
+- 2018/12/23 [Review: DSSD — Deconvolutional Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-dssd-deconvolutional-single-shot-detector-object-detection-d4821a2bbeb5)
 - 2018/12/18 [IIIT Hyderabad and Intel Release World's First Dataset for Driving in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.29axh3)
 - 2018/10/26 [Building Google Dataset Search and Fostering an Open Data Ecosystem](https://ai.googleblog.com/2018/09/building-google-dataset-search-and.html)
 - 2018/10/26 [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
