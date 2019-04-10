@@ -162,6 +162,7 @@
 - 2019/00/00 --------------------------------------------------------------------------------------------------------------------------------
 - 2018/12/11 [**Review of Deep Learning Algorithms for Image Semantic Segmentation**](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 - 2018/11/22 [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65)
+- 2018/11/20 [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 - 2018/11/19 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 - 2018/11/05 [1편: Semantic Segmentation 첫걸음!](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb)
 - 2018/10/25 [**A Peek at Semantic Segmentation 2018**](https://mc.ai/a-peek-at-semantic-segmentation-2018/)
