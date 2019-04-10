@@ -114,12 +114,14 @@
 ## WebAudio
 
 ### History
-- [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
+- 2018/10/31 [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/)
 - 2017/06/15 [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
+- 2017/02/15 [Introduction to Noise Filters for Smart Phone Audio Circuits](https://www.murata.com/en-global/products/emiconfun/emc/2017/01/31/20170131-p1)
 - 2012/02/16 [Mixing Positional Audio and WebGL](https://www.html5rocks.com/en/tutorials/webaudio/positional_audio/)
 
 
 ### Information
+- [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 - [Basic concepts behind Web Audio API](https://developer.mozilla.org/ko/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 - [MediaTrackSettings.noiseSuppression](https://developer.mozilla.org/en-US/docs/Web/API/MediaTrackSettings/noiseSuppression)
 - [Audio line noise suppression for smart phones: (1) Problems](https://www.murata.com/en-global/products/emc/emifil/audio/solution3)
