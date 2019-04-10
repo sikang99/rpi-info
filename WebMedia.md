@@ -122,11 +122,14 @@
 ### Information
 - [Basic concepts behind Web Audio API](https://developer.mozilla.org/ko/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 - [MediaTrackSettings.noiseSuppression](https://developer.mozilla.org/en-US/docs/Web/API/MediaTrackSettings/noiseSuppression)
+- [Audio line noise suppression for smart phones: (1) Problems](https://www.murata.com/en-global/products/emc/emifil/audio/solution3)
 
 
 ### Open Source
 - [jamesfiltness/web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio API
 - [heliosdesign/helios-audio-mixer](https://github.com/heliosdesign/helios-audio-mixer) - Web Audio API mixer library
+- [https://github.com/ericschmidt/noise-reduction](https://github.com/ericschmidt/noise-reduction) - Noise reduction via the web audio API
+
 
 
 ---
