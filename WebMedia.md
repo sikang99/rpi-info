@@ -701,6 +701,7 @@ $ ./build.sh # long time to build, don't use go build
 - 2018/10/08 [Microsoft’s Project xCloud game-streaming is about expanding the Xbox brand](https://venturebeat.com/2018/10/08/microsofts-project-xcloud/)
 - 2018/10/02 [Google Announces Project Stream, a Game-Streaming Service for Chrome](https://www.extremetech.com/gaming/277982-google-announces-project-stream-a-game-streaming-service-for-chrome)
 - 2018/08/18 [The Best Cloud Gaming Services for Streaming Video Games](https://www.howtogeek.com/362411/the-best-cloud-gaming-services-for-streaming-video-games/)
+- 2018/09/01 [Building a Cross-browser, Cross-platform, Real-time Game Streaming Protocol](https://rainway.com/blog/2018/09/17/building-a-cross-browser,-cross-platform,-real-time-game-streaming-protocol/)
 - 2018/05/08 [The Best Cloud Gaming Services: Welcome Gaming to the Web](https://www.cloudwards.net/top-five-cloud-services-for-gamers/)
 - 2017/09/07 [Real-time Communication For Everyone](https://blog.rainway.io/real-time-communication-for-everyone-6f27e02c2f14)
 
