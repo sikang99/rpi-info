@@ -30,6 +30,8 @@
 - [Neural Network Concepts](https://missinglink.ai/guides/neural-network-concepts/)
 - [Keras Documentation](https://keras.io) - The Python Deep Learning library
 - [CDM](https://cdm98.tistory.com/category) - Machine Learning & Deep Learninga
+- [coint.ai](https://cogint.ai/) - Exploring AI in voice, vision, and human communication
+    - [Which Machine Learning Project Wins with Developers on Github?](https://cogint.ai/ml-github-comparison/)
 
 
 
@@ -217,6 +219,7 @@
 - [Haiik/DeepCut](https://github.com/Haiik/DeepCut) - Weakly-supervised Person Segmentation
 - [JackieZhangdx/WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList) - Weakly Supervised Semantic Segmentation list
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [omarabid59/YOLO_Google-Cloud](https://github.com/omarabid59/YOLO_Google-Cloud) - Google Cloud Machine Learning for backend YOLO v3 object detection inference with a browser based WebRTC connection
 
 
 ### Papers
