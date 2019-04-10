@@ -129,12 +129,19 @@
 - [Basic concepts behind Web Audio API](https://developer.mozilla.org/ko/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 - [MediaTrackSettings.noiseSuppression](https://developer.mozilla.org/en-US/docs/Web/API/MediaTrackSettings/noiseSuppression)
 - [Audio line noise suppression for smart phones: (1) Problems](https://www.murata.com/en-global/products/emc/emifil/audio/solution3)
+- [Pizzicato.js](https://alemangui.github.io/pizzicato/) - A web audio Javascript library
+- [Howler.js](https://howlerjs.com/) - Audio library for the modern web
 
 
 ### Open Source
 - [jamesfiltness/web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio API
 - [heliosdesign/helios-audio-mixer](https://github.com/heliosdesign/helios-audio-mixer) - Web Audio API mixer library
-- [https://github.com/ericschmidt/noise-reduction](https://github.com/ericschmidt/noise-reduction) - Noise reduction via the web audio API
+- [ericschmidt/noise-reduction](https://github.com/ericschmidt/noise-reduction) - Noise reduction via the web audio API
+- [tuhinc/canceller](https://github.com/tuhinc/canceller) - Noise cancellation with WebAudio API
+- [dodiku/noise_reduction](https://github.com/dodiku/noise_reduction) - Speech noise reduction which was generated using existing post-production techniques implemented in Python
+- [web-audio-components/pink-noise](https://github.com/web-audio-components/pink-noise) - Web Audio Component of a pink noise filter for a white noise generator
+- [stephencwelch/Active-Noise-Cancellation](https://github.com/stephencwelch/Active-Noise-Cancellation) - 
+- [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears
 
 
 
