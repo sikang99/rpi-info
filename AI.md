@@ -290,10 +290,26 @@
 - [8K 4x YOLO (Tiny YOLO, VOC, COCO, YOLO9000) Object detection #7](https://www.youtube.com/watch?v=ZKUUd1iXLQ0)
 - [Chanwoo Timothy Lee](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA) - 딥러닝 일반, Tensorflow
 
+
 ### Persons
 - [**Vladimir Nekrasov**](https://drsleep.github.io/projects/) - Segmentation
 - [Lunit Tech Blog](https://blog.lunit.io/) - Paper survey
 - [등신한의 조재성](https://nittaku.tistory.com/) - 한의학, 빅데이터, 머신러닝
+- [richard's technote](https://richardstechnotes.com/)
+
+
+---
+## Video Streaming
+
+### History
+
+### Information
+
+### Papers
+- 2018 [Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network](https://arxiv.org/pdf/1805.00619.pdf)
+- 2018 [QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning](https://pdfs.semanticscholar.org/8745/0fda30dc413a26dbb184b3553c8660b0985d.pdf)
+
+
 
 ---
 ## Assistant
