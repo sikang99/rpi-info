@@ -125,6 +125,7 @@
 
 
 ### Information
+- [Web Audio API](https://www.w3.org/TR/webaudio/) - 18 September 2018
 - [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
     - [xiph/rnnoise/](https://github.com/xiph/rnnoise/)
 - [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
