@@ -121,6 +121,8 @@
 
 
 ### Information
+- [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
+    - [xiph/rnnoise/](https://github.com/xiph/rnnoise/)
 - [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 - [Basic concepts behind Web Audio API](https://developer.mozilla.org/ko/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 - [MediaTrackSettings.noiseSuppression](https://developer.mozilla.org/en-US/docs/Web/API/MediaTrackSettings/noiseSuppression)
