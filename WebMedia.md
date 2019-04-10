@@ -116,6 +116,8 @@
 ### History
 - 2018/10/31 [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/)
 - 2018/01/31 [Using Audio Noise Reduction](https://atomisystems.com/tutorials/ap7/using-audio-noise-reduction/)
+- 2018/00/00
+- 2017/12/01 [Enter Audio Worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - 2017/10/10 [Filtering images using Web Audio API](https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad)
 - 2017/06/15 [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
 - 2017/02/15 [Introduction to Noise Filters for Smart Phone Audio Circuits](https://www.murata.com/en-global/products/emiconfun/emc/2017/01/31/20170131-p1)
@@ -142,6 +144,8 @@
 - [web-audio-components/pink-noise](https://github.com/web-audio-components/pink-noise) - Web Audio Component of a pink noise filter for a white noise generator
 - [stephencwelch/Active-Noise-Cancellation](https://github.com/stephencwelch/Active-Noise-Cancellation) - 
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears
+- [goldfire/howler.js/](https://github.com/goldfire/howler.js/) - Javascript audio library for the modern web
+- [jonobr1/sound.js](https://gist.github.com/jonobr1/aed26be0ee8b056ab01d8e5e7e038941) - Handle loading, playing, and managing WebAudio API buffers as "simple" sound
 
 
 
