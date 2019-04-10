@@ -136,8 +136,13 @@
 - [Audio line noise suppression for smart phones: (1) Problems](https://www.murata.com/en-global/products/emc/emifil/audio/solution3)
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - A web audio Javascript library
 - [Howler.js](https://howlerjs.com/) - Audio library for the modern web
+- [wavesurfer.js](http://www.larevista.com.mx/assets/bower_components/wavesurfer.js/)
 - [How to disable Web-Audio analyzer filtering high frequencies](https://stackoverflow.com/questions/31306309/how-to-disable-web-audio-analyzer-filtering-high-frequencies)
 - [Making the Web Rock - Web Audio](https://webaudiodemos.appspot.com/slides/index.html#/)
+
+
+### Papers
+- 2018 [WAP: Ideas for a Web Audio Plug-in Standard](https://hal.univ-cotedazur.fr/hal-01893660/document)
 
 
 ### Open Source
