@@ -98,9 +98,11 @@
 
 ### History
 - 2019/01/22 [Why the GPGPU is Less Efficient than the TPU for DNNs](https://www.sigarch.org/why-the-gpgpu-is-less-efficient-than-the-tpu-for-dnns/)
+- 2019/00/00
 - 2018/12/23 [CPU then GPU and now NPU. What is Neural Processing Unit and how does it work?](https://www.quora.com/CPU-then-GPU-and-now-NPU-What-is-Neural-Processing-Unit-and-how-does-it-work)
 - 2018/12/17 [CPU, GPU, FPGA or TPU: Which one to choose for my Machine Learning training?](https://www.inaccel.com/cpu-gpu-fpga-or-tpu-which-one-to-choose-for-my-machine-learning-training/)
 - 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
+- 2018/11/17 [How to Use Keras on Google Colab TPU](http://www.kovera.org/keras-on-colab-tpu/)
 - 2018/10/17 [TPUs vs GPUs for Transformers (BERT)](http://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/)
 - 2018/10/09 [Tensorflow Keras on Local GPU vs Colab GPU vs Colab TPU](https://medium.com/@katnoria.ashish/tensorflow-keras-on-local-gpu-vs-colab-gpu-vs-colab-tpu-4fb738da599d)
 - 2018/08/31 [What makes TPUs fine-tuned for deep learning?](https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning)
