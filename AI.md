@@ -32,6 +32,7 @@
 - [CDM](https://cdm98.tistory.com/category) - Machine Learning & Deep Learninga
 - [coint.ai](https://cogint.ai/) - Exploring AI in voice, vision, and human communication
     - [Which Machine Learning Project Wins with Developers on Github?](https://cogint.ai/ml-github-comparison/)
+- [**OpenGenus**](https://iq.opengenus.org/) - Learn computer science concepts with simplicity and innovation
 
 
 
