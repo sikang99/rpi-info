@@ -106,6 +106,7 @@
 
 
 ### Information
+- [Processing Units - CPU, GPU, APU, TPU, VPU, FPGA, QPU](http://primo.ai/index.php?title=Processing_Units_-_CPU,_GPU,_APU,_TPU,_VPU,_FPGA,_QPU)
 - [Tensor Processing Unit (TPU) explained](https://iq.opengenus.org/tensor-processing-unit-tpu-explained/)
 - Examples
     - TPU by Google
@@ -113,6 +114,7 @@
     - NVDLA by Nvidia
     - AWS Inferentia by Amazon
     - Zeroth by Qualcomm
+- [GPU vs TPU.ipynb](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/GPUvsTPU.ipynb)
 
 
 ### Open source
