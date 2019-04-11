@@ -98,6 +98,7 @@
 
 ### History
 - 2018/12/23 [CPU then GPU and now NPU. What is Neural Processing Unit and how does it work?](https://www.quora.com/CPU-then-GPU-and-now-NPU-What-is-Neural-Processing-Unit-and-how-does-it-work)
+- 2018/12/17 [CPU, GPU, FPGA or TPU: Which one to choose for my Machine Learning training?](https://www.inaccel.com/cpu-gpu-fpga-or-tpu-which-one-to-choose-for-my-machine-learning-training/)
 - 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
 - 2018/10/17 [TPUs vs GPUs for Transformers (BERT)](http://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/)
 - 2018/10/09 [Tensorflow Keras on Local GPU vs Colab GPU vs Colab TPU](https://medium.com/@katnoria.ashish/tensorflow-keras-on-local-gpu-vs-colab-gpu-vs-colab-tpu-4fb738da599d)
