@@ -109,6 +109,8 @@
 
 
 ### Information
+- [A New Golden Age for Computer Architecture](https://cra.org/wp-content/uploads/2018/07/2018_CRA_Snowbird_Keynote_Patterson.pdf)
+- Lecture 8: [Hardware and Software](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
 - [Processing Units - CPU, GPU, APU, TPU, VPU, FPGA, QPU](http://primo.ai/index.php?title=Processing_Units_-_CPU,_GPU,_APU,_TPU,_VPU,_FPGA,_QPU)
 - [Tensor Processing Unit (TPU) explained](https://iq.opengenus.org/tensor-processing-unit-tpu-explained/)
 - Examples
