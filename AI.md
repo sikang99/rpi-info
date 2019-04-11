@@ -97,6 +97,7 @@
 ## Hardware
 
 ### History
+- 2019/04/03 [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 - 2019/01/22 [Why the GPGPU is Less Efficient than the TPU for DNNs](https://www.sigarch.org/why-the-gpgpu-is-less-efficient-than-the-tpu-for-dnns/)
 - 2019/00/00
 - 2018/12/23 [CPU then GPU and now NPU. What is Neural Processing Unit and how does it work?](https://www.quora.com/CPU-then-GPU-and-now-NPU-What-is-Neural-Processing-Unit-and-how-does-it-work)
