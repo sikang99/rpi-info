@@ -156,6 +156,7 @@
 ## Face Detection
 
 ### History
+- 2019/01/01 [A Picture is Worth a Thousand Words, Faces, and Barcodes—The Shape Detection API](https://developers.google.com/web/updates/2019/01/shape-detection)
 - 2018/10/06 [15 JavaScript Face Detection And Recognition Libraries 2019](https://www.edopedia.com/blog/javascript-face-detection-and-recognition-libraries/)
 - 2018/06/16 [Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector](https://itnext.io/realtime-javascript-face-tracking-and-face-recognition-using-face-api-js-mtcnn-face-detector-d924dd8b5740)
 - 2018/04/01 [pico.js: a face-detection library in 200 lines of JavaScript](https://tkv.io/posts/picojs-intro/)
