@@ -104,6 +104,7 @@
 - 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
 - 2018/11/17 [How to Use Keras on Google Colab TPU](http://www.kovera.org/keras-on-colab-tpu/)
 - 2018/10/17 [TPUs vs GPUs for Transformers (BERT)](http://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/)
+- 2018/10/08 [Five Trends to Watch in High Performance Computing](https://blog.rackspace.com/five-trends-to-watch-in-high-performance-computing)
 - 2018/10/09 [Tensorflow Keras on Local GPU vs Colab GPU vs Colab TPU](https://medium.com/@katnoria.ashish/tensorflow-keras-on-local-gpu-vs-colab-gpu-vs-colab-tpu-4fb738da599d)
 - 2018/08/31 [What makes TPUs fine-tuned for deep learning?](https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning)
 
