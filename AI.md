@@ -97,6 +97,7 @@
 ## Hardware
 
 ### History
+- 2019/01/22 [Why the GPGPU is Less Efficient than the TPU for DNNs](https://www.sigarch.org/why-the-gpgpu-is-less-efficient-than-the-tpu-for-dnns/)
 - 2018/12/23 [CPU then GPU and now NPU. What is Neural Processing Unit and how does it work?](https://www.quora.com/CPU-then-GPU-and-now-NPU-What-is-Neural-Processing-Unit-and-how-does-it-work)
 - 2018/12/17 [CPU, GPU, FPGA or TPU: Which one to choose for my Machine Learning training?](https://www.inaccel.com/cpu-gpu-fpga-or-tpu-which-one-to-choose-for-my-machine-learning-training/)
 - 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
