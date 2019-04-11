@@ -97,6 +97,7 @@
 ## Hardware
 
 ### History
+- 2018/12/23 [CPU then GPU and now NPU. What is Neural Processing Unit and how does it work?](https://www.quora.com/CPU-then-GPU-and-now-NPU-What-is-Neural-Processing-Unit-and-how-does-it-work)
 - 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
 - 2018/10/17 [TPUs vs GPUs for Transformers (BERT)](http://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/)
 - 2018/10/09 [Tensorflow Keras on Local GPU vs Colab GPU vs Colab TPU](https://medium.com/@katnoria.ashish/tensorflow-keras-on-local-gpu-vs-colab-gpu-vs-colab-tpu-4fb738da599d)
@@ -104,6 +105,14 @@
 
 
 ### Information
+- [Tensor Processing Unit (TPU) explained](https://iq.opengenus.org/tensor-processing-unit-tpu-explained/)
+- Examples
+    - TPU by Google
+    - NNP, Myriad and EyeQ by Intel
+    - NVDLA by Nvidia
+    - AWS Inferentia by Amazon
+    - Zeroth by Qualcomm
+
 
 ### Open source
 
