@@ -92,6 +92,20 @@
 - 2018/04/27 [Image Datasets for Artificial Intelligence](https://towardsdatascience.com/image-datasets-for-artificial-intelligence-bbb12615edd7)
 
 
+---
+## Hardware
+
+### History
+- 2018/12/08 [Central Processing Unit (CPU) vs Graphics Processing Unit (GPU) vs Tensor Processing Unit (TPU)](https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/)
+- 2018/10/09 [Tensorflow Keras on Local GPU vs Colab GPU vs Colab TPU](https://medium.com/@katnoria.ashish/tensorflow-keras-on-local-gpu-vs-colab-gpu-vs-colab-tpu-4fb738da599d)
+
+### Information
+
+### Open source
+
+
+
+
 --- 
 ## Transfer Learning
 ### History
