@@ -96,10 +96,14 @@
 
 ### History
 - 2019/01/05
+- 2018/09/29 [Ballerina: A Programming Language for Cloud Native Computing](https://thenewstack.io/ballerina-a-programming-language-for-cloud-native-computing/)
 
 ### Information
 - [Ballerina](https://ballerina.io/) - Cloud Native Programming Language
+- [Ballerina (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Ballerina_(programming_language))
 
+
+### Slides
 - 2018 [Ballerina: A Cloud Native Programming Language](https://www.slideshare.net/wso2.org/ballerina-a-cloud-native-programming-language)
 
 
