@@ -718,9 +718,12 @@ $ ./build.sh # long time to build, don't use go build
 ## 3D Streaming
 ### Information
 - [3D Streaming Toolkit Documentation](https://3dstreamingtoolkit.github.io/docs-3dstk/) - WebRTC, Unity/WebGL/DX, NVENC
+- [Godot](https://godotengine.org/)
+
 
 ### Open Source
 - [3DStreamingToolkit/3DStreamingToolkit](https://github.com/3DStreamingToolkit/3DStreamingToolkit)
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 
 ---
