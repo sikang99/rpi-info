@@ -201,6 +201,7 @@
 
 
 ### Papers
+- 2019 [A Pragmatic Road Map For Blockchain](https://www.ibm.com/downloads/cas/NKR0KOGR)
 - 2018 [State of Public and Private Blockchains: Myths and Reality](https://business.utsa.edu/wp-content/uploads/2018/12/State-of-Public-and-Private-Blockchains-Myths-and-Reality-Abstract-11-2018_.pdf)
 - 2018 [Private Blockchain for Enterprise](https://career.luxoft.com/upload/iblock/e83/402227_EB_Logeek-magazine-issue-8_final_WEB.pdf)
 - 2018 [Using blockchain to validate audit trail data in private business applications](https://esc.fnwi.uva.nl/thesis/centraal/files/f1051832702.pdf)
