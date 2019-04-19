@@ -194,9 +194,23 @@
     - [tendermint/go-amino](https://github.com/tendermint/go-amino) - Protobuf3 with Interface support - Designed for blockchains (deterministic, upgradeable, fast, and compact)
 - [Ethermint](https://ethermint.zone/) - Scalable and interoperable Ethereum, built on Proof-of-Stake
 
+
 ### Open Source
 - [PegaSysEng/pantheon](https://github.com/PegaSysEng/pantheon)
 - [insolar/insolar](https://github.com/insolar/insolar) - Enterprise-ready blockchain platform 
+
+
+### Papers
+- 2018 [State of Public and Private Blockchains: Myths and Reality](https://business.utsa.edu/wp-content/uploads/2018/12/State-of-Public-and-Private-Blockchains-Myths-and-Reality-Abstract-11-2018_.pdf)
+- 2018 [Private Blockchain for Enterprise](https://career.luxoft.com/upload/iblock/e83/402227_EB_Logeek-magazine-issue-8_final_WEB.pdf)
+- 2018 [Using blockchain to validate audit trail data in private business applications](https://esc.fnwi.uva.nl/thesis/centraal/files/f1051832702.pdf)
+- 2018 [Know Your Customer - Decentralized Secure Sharing Protocol on Quorum](https://isrdc.iitb.ac.in/blockchain/workshops/2019-iitb/papers/paper-23%20Know%20Your%20Customer%20-%20Decentralized%20Secure%20Sharing%20Protocol%20on%20Quorum.pdf)
+- 2018 [Blockchains Architecture, Design and Use Cases](http://textofvideo.nptel.ac.in/106105184/lec57.pdf)
+- 2018 [Performance Evaluation of the Quorum Blockchain Platform](https://arxiv.org/pdf/1809.03421.pdf)
+- 2018 [Blockchain and the decentralization revolution](https://www.jpmorgan.com/jpmpdf/1320745566550.pdf)
+- 2017 [Proposal for Protocol on a Quorum Blockchain with Zero Knowledge](https://eprint.iacr.org/2017/1093.pdf)
+
+
 
 
 ---

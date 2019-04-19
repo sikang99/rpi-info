@@ -576,15 +576,24 @@ $ ./build.sh # long time to build, don't use go build
 ## WebRTC DSCP(DiffServ Control Point)
 
 ### History
+- 2018/07/03 [WebRTC Updates](https://www.apiacademy.co/standards/2018/07/webrtc-updates)
 
 ### Information
 - [WebRTC DSCP Control API](https://w3c.github.io/webrtc-dscp-exp/) - Editor’s Draft, 3 October 2018
 - [DSCP Packet Markings for WebRTC QoS](https://tools.ietf.org/html/draft-ietf-tsvwg-rtcweb-qos-18)
+- [Part I. 네트워킹 101 - 3. UDP 기초 다지기 ](http://blog.daum.net/endlessole/176)
+
 
 ### Open Source
 
+### Slides
+- 2019 [FloodBox: A tool for Measuring the Impact of IP DiffServ Code Point in the Internet](https://datatracker.ietf.org/meeting/104/materials/slides-104-maprg-floodbox-a-tool-for-measuring-the-impact-of-ip-diffserv-code-point-in-the-internet-runa-barik-01)
+
 ### Papers
 - 2018 [Can WebRTC QoS Work? A DSCP Measurement Study](https://www.researchgate.net/publication/326610393_Can_WebRTC_QoS_Work_A_DSCP_Measurement_Study)
+- 2015 [The Role of QoS in WebRTC and IMS-based IPTV Services](https://www.researchgate.net/publication/279755332_The_Role_of_QoS_in_WebRTC_and_IMS-based_IPTV_Services)
+
+
 
 
 
