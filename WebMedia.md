@@ -221,6 +221,7 @@
 - 2019/03/10 [Graphics Programming weekly - Issue 76 — March 10, 2019](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-76/)
 - 2018/07/04 [WebGPU](https://ics.media/entry/18507/) - 차세대 WebGPU 가능성
 - 2018/02/10 [Feasibility of low-level GPU access on the Web](http://kvark.github.io/web/gpu/2018/02/10/low-level-gpu-web.html)
+- 2017/04/05 [WebGPU Prototype and Demos](https://webkit.org/blog/7504/webgpu-prototype-and-demos/) - WebMetal
 - 2017/02/07 [Next-generation 3D Graphics on the Web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/)
 
 
@@ -230,6 +231,9 @@
 - [Mozilla Gfx Team Blog](https://mozillagfx.wordpress.com/) - WebRender newsletter
 - [WebGPU: An Explicit Graphics API for the Web](https://docs.google.com/presentation/d/1URnqb1Vuf2jPieHnt_eqXsPV_Es9Oog00_8LKZUdo6g/edit#slide=id.p)
 - 2016 [HW 기반 웹 고속화 기술동향](https://ettrends.etri.re.kr/ettrends/160/0905002145/31-4_65-76.pdf)
+- [Dawn, a WebGPU implementation](https://dawn.googlesource.com/dawn)
+- [Enabling WebGPU on iOS 11](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html)
+
 
 
 ### Open Source
@@ -240,6 +244,8 @@
 - [DanRuta/GPGPU](https://github.com/DanRuta/GPGPU) - Small library for running arbitrary computations on the GPU, using JavaScript or WebAssembly
 - [servo/webrender/](https://github.com/servo/webrender/) - A GPU-based renderer for the web
 - [CIS565-Fall-2018/Project6-Vulkan-Grass-Rendering](https://github.com/CIS565-Fall-2018/Project6-Vulkan-Grass-Rendering)
+- [kvark/webgpu-servo](https://github.com/kvark/webgpu-servo) - WebGPU prototope in Servo browser
+- [XimingCheng/webgpu](https://github.com/XimingCheng/webgpu) - webgpu GPU code implementation, including CUDA, OpenCL, OpenACC and C++ AMP
 
 
 ### Persons
