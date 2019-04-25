@@ -74,6 +74,11 @@
 - [enobufs/main.go](https://gist.github.com/enobufs/7d8e2996022658b31c04019afac91393) - Pion data channel example
 - [enobufs/webrtc-audio-streaming](https://github.com/enobufs/webrtc-audio-streaming) - Audio streaming from a file using WebRTC
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
+- [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - build network tunnels over WebRTC
+- [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
+- [gortc](https://github.com/gortc) - Open source NAT traversal tools in go and WebRTC interop
+- [strukturag/spreed-webrtc](https://github.com/strukturag/spreed-webrtc) - WebRTC audio/video call and conferencing server
+- [go-yuv2webRTC/tree/master](https://github.com/poi5305/go-yuv2webRTC/tree/master) - Encode RGBA/YUV images to VP8 buffer with WebRTC streaming
 
 
 ---
