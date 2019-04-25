@@ -61,6 +61,7 @@
 - [Go for WebRTC](https://libs.garden/go/webrtc)
 - [Anatomy of a WebRTC SDP](https://webrtchacks.com/sdp-anatomy/)
 - [Go webrtc signaling server](https://libs.garden/go/search?q=webrtc%20signaling%20server)
+- [RTCTunnel: Building a WebRTC Proxy with Go](https://www.doxsey.net/blog/rtctunnel--building-a-webrtc-proxy-with-go)
 
 
 ### Open Source
@@ -71,6 +72,8 @@
 - [pion/webrtc](https://github.com/pions/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
 - [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC use Pion WebRTC
 - [enobufs/main.go](https://gist.github.com/enobufs/7d8e2996022658b31c04019afac91393) - Pion data channel example
+- [enobufs/webrtc-audio-streaming](https://github.com/enobufs/webrtc-audio-streaming) - Audio streaming from a file using WebRTC
+- [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 
 
 ---
