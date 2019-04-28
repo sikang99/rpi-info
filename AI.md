@@ -153,6 +153,17 @@
 - [tensorflow/tfjs-examples/webcam-transfer-learning](https://github.com/tensorflow/tfjs-examples/tree/master/webcam-transfer-learning) - Transfer Learning to play Pacman via the Webcam
 
 
+---
+## Background Removal
+- 2018/06/27 [**Background Removal in Real-Time Video Chats using TensorflowJS, Part 1**](https://medium.com/@jmlbeaujour/real-time-matting-of-webcam-video-on-the-browser-part-1-2c71a330ed08)
+
+
+### Open source
+- [SaoYan/bgsCNN](https://github.com/SaoYan/bgsCNN) - Background subtraction using deep learning method.
+- [jmlb/insight_project](https://github.com/jmlb/insight_project) - Keep It private! A background segmentation app build with Tensorflow JS
+
+
+
 --- 
 ## Face Detection
 
