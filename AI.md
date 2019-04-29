@@ -155,6 +155,8 @@
 
 ---
 ## Background Removal
+- 2019/02/27 [ntelligent and Real-Time Video Background Removal on Intel® Graphics Technology Using XSplit VCam](https://software.intel.com/en-us/articles/intelligent-and-real-time-video-background-removal-on-intel-graphics-technology-using-xsplit-vcam)
+- 2018/08/22 [This AI Can Automatically Remove the Background from a Photo](https://news.developer.nvidia.com/this-ai-can-automatically-remove-the-background-from-a-photo/)
 - 2018/06/27 [**Background Removal in Real-Time Video Chats using TensorflowJS, Part 1**](https://medium.com/@jmlbeaujour/real-time-matting-of-webcam-video-on-the-browser-part-1-2c71a330ed08)
 
 
@@ -162,6 +164,9 @@
 - [SaoYan/bgsCNN](https://github.com/SaoYan/bgsCNN) - Background subtraction using deep learning method.
 - [jmlb/insight_project](https://github.com/jmlb/insight_project) - Keep It private! A background segmentation app build with Tensorflow JS
 
+
+### Paper
+- 2019 [Background Subtraction on Depth Videos with Convolutional Neural Networks](https://arxiv.org/pdf/1901.05676.pdf)
 
 
 --- 
