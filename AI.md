@@ -155,11 +155,19 @@
 
 ---
 ## Background Removal / Subtraction
+
+
+### History
 - 2019/02/27 [ntelligent and Real-Time Video Background Removal on Intel® Graphics Technology Using XSplit VCam](https://software.intel.com/en-us/articles/intelligent-and-real-time-video-background-removal-on-intel-graphics-technology-using-xsplit-vcam)
 - 2018/12/13 [Background Removal with Tensorflow.js](https://01.org/node/29971)
 - 2018/08/22 [This AI Can Automatically Remove the Background from a Photo](https://news.developer.nvidia.com/this-ai-can-automatically-remove-the-background-from-a-photo/)
 - 2018/07/17 [Background Blurring with Semantic Image Segmentation using DeepLabv3+](http://zubairahmed.net/2018/07/17/background-blurring-with-semantic-image-segmentation-using-deeplabv3/)
 - 2018/06/27 [**Background Removal in Real-Time Video Chats using TensorflowJS, Part 1**](https://medium.com/@jmlbeaujour/real-time-matting-of-webcam-video-on-the-browser-part-1-2c71a330ed08)
+
+
+### Information
+- [removebg](https://www.remove.bg/?ref=producthunt) - Remove Image Background
+- [Background Subtraction Website](https://sites.google.com/site/backgroundsubtraction/)
 
 
 ### Open source
@@ -171,6 +179,8 @@
 ### Paper
 - 2019 [Background Subtraction on Depth Videos with Convolutional Neural Networks](https://arxiv.org/pdf/1901.05676.pdf)
 - 2018 [Deep Neural Network Concepts for Background Subtraction: A Systematic Review and Comparative Evaluation](https://www.groundai.com/project/deep-neural-network-concepts-for-background-subtraction-a-systematic-review-and-comparative-evaluation/)
+- 2018 [Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Yang_Seeing_Deeply_and_ECCV_2018_paper.pdf)
+
 
 
 --- 
