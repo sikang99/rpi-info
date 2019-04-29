@@ -154,7 +154,7 @@
 
 
 ---
-## Background Removal
+## Background Removal / Subtraction
 - 2019/02/27 [ntelligent and Real-Time Video Background Removal on Intel® Graphics Technology Using XSplit VCam](https://software.intel.com/en-us/articles/intelligent-and-real-time-video-background-removal-on-intel-graphics-technology-using-xsplit-vcam)
 - 2018/12/13 [Background Removal with Tensorflow.js](https://01.org/node/29971)
 - 2018/08/22 [This AI Can Automatically Remove the Background from a Photo](https://news.developer.nvidia.com/this-ai-can-automatically-remove-the-background-from-a-photo/)
