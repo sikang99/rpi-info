@@ -170,6 +170,7 @@
 
 ### Paper
 - 2019 [Background Subtraction on Depth Videos with Convolutional Neural Networks](https://arxiv.org/pdf/1901.05676.pdf)
+- 2018 [Deep Neural Network Concepts for Background Subtraction: A Systematic Review and Comparative Evaluation](https://www.groundai.com/project/deep-neural-network-concepts-for-background-subtraction-a-systematic-review-and-comparative-evaluation/)
 
 
 --- 
