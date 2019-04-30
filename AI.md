@@ -158,8 +158,12 @@
 
 
 ### History
+- 2019/04/03 [Image Segmentation for Android — Smart Background Replacement with Fritz](https://heartbeat.fritz.ai/image-segmentation-for-android-smart-background-replacement-with-fritz-a09d8b0592a4)
 - 2019/02/27 [ntelligent and Real-Time Video Background Removal on Intel® Graphics Technology Using XSplit VCam](https://software.intel.com/en-us/articles/intelligent-and-real-time-video-background-removal-on-intel-graphics-technology-using-xsplit-vcam)
 - 2018/12/13 [Background Removal with Tensorflow.js](https://01.org/node/29971)
+- 2018/10/18 [Real-time Portrait Segmentation on Smartphones](https://blog.prismalabs.ai/real-time-portrait-segmentation-on-smartphones-39c84f1b9e66)
+- 2018/11/09 [Mask R-CNN with OpenCV](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+- 2018/08/23 [Video background subtraction using a Gaussian Mixture Model in Rust](https://barkeywolf.consulting/posts/background-subtraction/)
 - 2018/08/22 [This AI Can Automatically Remove the Background from a Photo](https://news.developer.nvidia.com/this-ai-can-automatically-remove-the-background-from-a-photo/)
 - 2018/07/17 [Background Blurring with Semantic Image Segmentation using DeepLabv3+](http://zubairahmed.net/2018/07/17/background-blurring-with-semantic-image-segmentation-using-deeplabv3/)
 - 2018/06/27 [**Background Removal in Real-Time Video Chats using TensorflowJS, Part 1**](https://medium.com/@jmlbeaujour/real-time-matting-of-webcam-video-on-the-browser-part-1-2c71a330ed08)
@@ -174,13 +178,15 @@
 - [SaoYan/bgsCNN](https://github.com/SaoYan/bgsCNN) - Background subtraction using deep learning method.
 - [jmlb/insight_project](https://github.com/jmlb/insight_project) - Keep It private! A background segmentation app build with Tensorflow JS
 - [zubairahmed-ai/Live-Background-Blur](https://github.com/zubairahmed-ai/Live-Background-Blur) - Live Background Blur like Microsoft Teams
+- [jjhbw/background-modelling](https://github.com/jjhbw/background-modelling) - Computer vision: GMM-based background subtraction in Rust 
 
 
 ### Paper
 - 2019 [Background Subtraction on Depth Videos with Convolutional Neural Networks](https://arxiv.org/pdf/1901.05676.pdf)
+- 2018 [Background Subtraction Using Dominant Directional Pattern](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8384226)
 - 2018 [Deep Neural Network Concepts for Background Subtraction: A Systematic Review and Comparative Evaluation](https://www.groundai.com/project/deep-neural-network-concepts-for-background-subtraction-a-systematic-review-and-comparative-evaluation/)
 - 2018 [Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Yang_Seeing_Deeply_and_ECCV_2018_paper.pdf)
-
+- 2018 [Real-time Extraction of Objects from Any Background Using Machine Learning](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201812fa2.html)
 
 
 --- 
