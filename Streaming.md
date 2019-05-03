@@ -64,7 +64,21 @@
 ## RIST (Reliable Internet Stream Transport)
 
 ### History
+- 2019/03/15 [Recent Demonstration Shows RIST Protocol Ready for Broadcast Contribution Applications](https://www.thebroadcastbridge.com/content/entry/12835/recent-demonstration-shows-rist-protocol-ready-for-broadcast-contribution-a)
+- 2019/02/20 [#7745 (RIST - Reliable Internet Stream Transport Protocol) – FFmpeg](https://trac.ffmpeg.org/ticket/7745)
+- 2019/02/19 [zixi releases commercially available implementation of rist](https://zixi.com/2019/02/19/zixi-releases-commercially-available-implementation-of-rist/)
 - 2019/01/11 [Install VLC Media Player 4.0 on Ubuntu & Linux Mint System](http://www.theubuntumaniac.com/2019/01/install-vlc-media-player-40-on-ubuntu.html)
+    - [vlc/modules/access/rist.c](https://github.com/videolan/vlc/blob/master/modules/access/rist.c)
+- 2018/12/06 [Open Broadcast Systems Launches Support for RIST](http://radicalmovespr.com/open-broadcast-systems-launches-support-for-rist/)
+- 2018/10/31 [RIST - Reliable Internet Stream Transport](https://www.linkedin.com/pulse/rist-reliable-internet-stream-transport-chris-shaw/)
+
+
+### Slides
+- 2019 [Reliable Internet Stream Transport](https://fosdem.org/2019/schedule/event/media_rist/attachments/slides/3147/export/events/attachments/media_rist/slides/3147/Slides.)
+- 2018 [What is RIST](http://www.ipshowcase.org/wp-content/uploads/2018/11/Rick-Ackermans-Rick-Ackermans-RIST-Presentation-18-Sept-2018-1400.pdf)
+
+### Papers
+- 2018 [Preamble to Video Services Forum (VSF) Technical Recommendation TR-06-1](http://www.videoservicesforum.org/download/technical_recommendations/VSF_TR-06-1_2018_10_17.pdf)
 
 
 ---
