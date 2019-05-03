@@ -20,7 +20,8 @@
 
 
 ### Books
-- [PRTP: Audio and Video for the Internet](http://read.pudn.com/downloads121/ebook/515800/RTP.pdf), Addison Wesley, 2003 
+- [RTP: Audio and Video for the Internet](http://read.pudn.com/downloads121/ebook/515800/RTP.pdf), Addison Wesley, 2003 
+- [RFC3500](https://www.rfc-editor.org/rfc/rfc3550.pdf) -RTP: A Transport Protocol for Real-Time Applications
 
 
 ### Paper : [Google Scholar Search](https://scholar.google.co.kr/schhp)
