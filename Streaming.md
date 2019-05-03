@@ -13,6 +13,7 @@
 - 2018/03/16 [Live video in Browser](https://medium.com/@cybillshepherd1985/live-video-in-browser-e2a8d534c182)
 - 2018/01/05 [Streamlabs OBS — Livestreaming Reinvented](https://blog.streamlabs.com/streamlabs-obs-livestreaming-reinvented-4ddf8324f395)
 - [Streaming Protocol Suite](https://slideplayer.com/slide/13148126/) - RTSP/RTP/RTCP
+- [Unified Streaming](https://www.unified-streaming.com/)
 
 ---
 ## Research & Technology
@@ -35,6 +36,12 @@
 - 2018 [QuARTCS: A Tool Enabling End-to-Any Speech Quality Assessment of WebRTC-based Calls](https://www.researchgate.net/profile/Martin_Meszaros2/publication/327204322_QuARTCS_A_Tool_Enabling_End-to-Any_Speech_Quality_Assessment_of_WebRTC-Based_Calls/links/5ba8a63c299bf13e60482fa0/QuARTCS-A-Tool-Enabling-End-to-Any-Speech-Quality-Assessment-of-WebRTC-Based-Calls.pdf)
 - 2018 [Open Video Datasets over Operational Mobile Networks with MONROE](https://www.monroe-project.eu/wp-content/uploads/2018/09/monroe-mmsys18.pdf) - MONROE-WebRTC
 - 2016 [Analysis of challenges faced by WebRTC videoconferencing and a remedial architecture](https://arxiv.org/abs/1701.09182)
+
+
+### Open Source
+- [unifiedstreaming](https://github.com/unifiedstreaming?tab=repositories) - MSE/EME
+    - [unifiedstreaming/mse-toolbox](https://github.com/unifiedstreaming/mse-toolbox) - EME/MSE play-out tools [Demo](https://unifiedstreaming.github.io/mse-toolbox/uapi/bin/)
+
 
 
 ---
