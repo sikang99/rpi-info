@@ -78,7 +78,11 @@
 - [RIST Forum](https://www.rist.tv/)
 - [VSF: Video Service Forum](http://www.videoservicesforum.org/index.shtml)
 - Zixi: [Best-in-Class Quality of Service on Any device - Anywhere](https://zixi.com/solutions/delivery/)
+- Revolvy: [Reliable Internet Stream Transport](https://www.revolvy.com/page/Reliable-Internet-Stream-Transport)
 
+###
+- 2019 [A Performance Measurement Study of the Reliable Internet Stream Transport Protocol Ciro Aloisio No](https://www.youtube.com/watch?v=EOdlxgEZy98)
+- 2019 [RIST - an evolutionary video transport protocol](https://www.youtube.com/watch?v=Q21XFMS_Sw8)
 
 ### Slides
 - 2019 [Reliable Internet Stream Transport](https://fosdem.org/2019/schedule/event/media_rist/attachments/slides/3147/export/events/attachments/media_rist/slides/3147/Slides.pdf)
