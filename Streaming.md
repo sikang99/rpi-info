@@ -38,7 +38,7 @@
 
 
 ---
-## Youtube Live
+## YouTube Live
 
 - [Live Streaming over HTTP using VLC Streaming](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_http.php)
 - [Stream screen to Youtube with VLC](https://superuser.com/questions/1293581/stream-screen-to-youtube-with-vlc)
