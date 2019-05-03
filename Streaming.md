@@ -64,6 +64,7 @@
 ## RIST (Reliable Internet Stream Transport)
 
 ### History
+- 2019/04/04 [GStreamer support for the RIST Specification](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-support-for-the-rist-specification.html)
 - 2019/03/15 [Recent Demonstration Shows RIST Protocol Ready for Broadcast Contribution Applications](https://www.thebroadcastbridge.com/content/entry/12835/recent-demonstration-shows-rist-protocol-ready-for-broadcast-contribution-a)
 - 2019/02/20 [#7745 (RIST - Reliable Internet Stream Transport Protocol) – FFmpeg](https://trac.ffmpeg.org/ticket/7745)
 - 2019/02/19 [zixi releases commercially available implementation of rist](https://zixi.com/2019/02/19/zixi-releases-commercially-available-implementation-of-rist/)
