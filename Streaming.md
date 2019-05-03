@@ -64,7 +64,8 @@
 ## RIST (Reliable Internet Stream Transport)
 
 ### History
-- 2019/04/04 [GStreamer support for the RIST Specification](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-support-for-the-rist-specification.html)
+- 2019/04/09 [GStreamer support for the RIST Specification](https://ndufresne.ca/2019/04/gstreamer-support-for-the-rist-specification/)
+- 2019/03/25 [RIST Forum Established With 21 Members, Promotes Interoperable Internet Video Transport Solution At NAB 2019](https://www.tvtechnology.com/the-wire-blog/rist-forum-established-with-21-members-promotes-interoperable-internet-video-transport-solution-at-nab-2019)
 - 2019/03/15 [Recent Demonstration Shows RIST Protocol Ready for Broadcast Contribution Applications](https://www.thebroadcastbridge.com/content/entry/12835/recent-demonstration-shows-rist-protocol-ready-for-broadcast-contribution-a)
 - 2019/02/20 [#7745 (RIST - Reliable Internet Stream Transport Protocol) – FFmpeg](https://trac.ffmpeg.org/ticket/7745)
 - 2019/02/19 [zixi releases commercially available implementation of rist](https://zixi.com/2019/02/19/zixi-releases-commercially-available-implementation-of-rist/)
@@ -73,6 +74,9 @@
 - 2018/12/06 [Open Broadcast Systems Launches Support for RIST](http://radicalmovespr.com/open-broadcast-systems-launches-support-for-rist/)
 - 2018/10/31 [RIST - Reliable Internet Stream Transport](https://www.linkedin.com/pulse/rist-reliable-internet-stream-transport-chris-shaw/)
 
+### Information
+- Zixi: [Best-in-Class Quality of Service on Any device - Anywhere](https://zixi.com/solutions/delivery/)
+
 
 ### Slides
 - 2019 [Reliable Internet Stream Transport](https://fosdem.org/2019/schedule/event/media_rist/attachments/slides/3147/export/events/attachments/media_rist/slides/3147/Slides.pdf)
@@ -80,6 +84,7 @@
 - 2018 [Introduction to NDI](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/pdf/NDI-3.8-Introduction.pdf)
 
 ### Papers
+- 2018 [RIST – Reliable Internet Stream Transport](http://www.videoservicesforum.org/activity_groups/RIST_poster_for_VidTrans2018Feb25.pdf)
 - 2018 [Preamble to Video Services Forum (VSF) Technical Recommendation TR-06-1](http://www.videoservicesforum.org/download/technical_recommendations/VSF_TR-06-1_2018_10_17.pdf)
 
 
