@@ -61,6 +61,13 @@
 
 
 ---
+## RIST (Reliable Internet Stream Transport)
+
+### History
+- 2019/01/11 [Install VLC Media Player 4.0 on Ubuntu & Linux Mint System](http://www.theubuntumaniac.com/2019/01/install-vlc-media-player-40-on-ubuntu.html)
+
+
+---
 ## Simulcast
 
 ### History
