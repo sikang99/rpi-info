@@ -74,8 +74,9 @@
 
 
 ### Slides
-- 2019 [Reliable Internet Stream Transport](https://fosdem.org/2019/schedule/event/media_rist/attachments/slides/3147/export/events/attachments/media_rist/slides/3147/Slides.)
+- 2019 [Reliable Internet Stream Transport](https://fosdem.org/2019/schedule/event/media_rist/attachments/slides/3147/export/events/attachments/media_rist/slides/3147/Slides.pdf)
 - 2018 [What is RIST](http://www.ipshowcase.org/wp-content/uploads/2018/11/Rick-Ackermans-Rick-Ackermans-RIST-Presentation-18-Sept-2018-1400.pdf)
+- 2018 [Introduction to NDI](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/pdf/NDI-3.8-Introduction.pdf)
 
 ### Papers
 - 2018 [Preamble to Video Services Forum (VSF) Technical Recommendation TR-06-1](http://www.videoservicesforum.org/download/technical_recommendations/VSF_TR-06-1_2018_10_17.pdf)
