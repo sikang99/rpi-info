@@ -76,6 +76,7 @@
 
 ### Information
 - [RIST Forum](https://www.rist.tv/)
+- [VSF: Video Service Forum](http://www.videoservicesforum.org/index.shtml)
 - Zixi: [Best-in-Class Quality of Service on Any device - Anywhere](https://zixi.com/solutions/delivery/)
 
 
