@@ -19,6 +19,10 @@
 - [Live streaming web audio and video](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_delivery/Live_streaming_web_audio_and_video)
 
 
+### Books
+- [PRTP: Audio and Video for the Internet](http://read.pudn.com/downloads121/ebook/515800/RTP.pdf), Addison Wesley, 2003 
+
+
 ### Paper : [Google Scholar Search](https://scholar.google.co.kr/schhp)
 - 2018 **[What you pay is what you get?](https://link.springer.com/content/pdf/10.1007%2Fs41233-018-0018-9.pdf)**
     - Fundamentals of charging Internet services based on end user Quality of Experience
@@ -64,6 +68,7 @@
 ## RIST (Reliable Internet Stream Transport)
 
 ### History
+- 2019/04/18 [Can RIST slow SRT’s growing momentum?](http://www.csimagazine.com/csi/Can-RIST-slow-SRTs-growing-momentum.php)
 - 2019/04/09 [GStreamer support for the RIST Specification](https://ndufresne.ca/2019/04/gstreamer-support-for-the-rist-specification/)
 - 2019/03/25 [RIST Forum Established With 21 Members, Promotes Interoperable Internet Video Transport Solution At NAB 2019](https://www.tvtechnology.com/the-wire-blog/rist-forum-established-with-21-members-promotes-interoperable-internet-video-transport-solution-at-nab-2019)
 - 2019/03/15 [Recent Demonstration Shows RIST Protocol Ready for Broadcast Contribution Applications](https://www.thebroadcastbridge.com/content/entry/12835/recent-demonstration-shows-rist-protocol-ready-for-broadcast-contribution-a)
