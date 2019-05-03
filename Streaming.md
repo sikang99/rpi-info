@@ -3,6 +3,9 @@
 ## Terminology
 - CMAF Low Latency Chunks (LLC)
 - Low Latency HLS (LHLS)
+- Secure Reliable Transport (SRT)
+- Reliable Internet Stream Transport (RIST)
+
 
 ## Common
 - 2018/08/10 [UDP-Based Streaming Modes Battle For Traction as Paths to Low Latency](http://www.screenplaysmag.com/2018/08/14/udp-based-streaming-modes-battle-for-traction-as-paths-to-low-latency/)
@@ -21,7 +24,7 @@
 
 ### Books
 - [RTP: Audio and Video for the Internet](http://read.pudn.com/downloads121/ebook/515800/RTP.pdf), Addison Wesley, 2003 
-- [RFC3500](https://www.rfc-editor.org/rfc/rfc3550.pdf) -RTP: A Transport Protocol for Real-Time Applications
+- [RFC3500](https://www.rfc-editor.org/rfc/rfc3550.pdf) -RTP: A Transport Protocol for Real-Time Applications, 2003
 
 
 ### Paper : [Google Scholar Search](https://scholar.google.co.kr/schhp)
