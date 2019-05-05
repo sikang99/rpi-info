@@ -112,7 +112,7 @@
 
 ### Open Soruces
 - [rist](https://gitlab.collabora.com/rist)
-
+- [rist](https://people.collabora.com/~nicolas/rist/html/gst-plugins-bad-plugins-plugin-rist.html) - Source and Sink for RIST TR-06-1 streaming specification
 
 
 ---
