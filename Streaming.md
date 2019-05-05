@@ -91,7 +91,7 @@
 - 2018/10/31 [RIST - Reliable Internet Stream Transport](https://www.linkedin.com/pulse/rist-reliable-internet-stream-transport-chris-shaw/)
 
 ### Information
-- [RIST Forum](https://www.rist.tv/)
+- [RIST Forum](https://www.rist.tv/) - [NAB Show 2019](https://www.rist.tv/events/2019/4/6/nab-show-2019)
 - [VSF: Video Service Forum](http://www.videoservicesforum.org/index.shtml)
 - Zixi: [Best-in-Class Quality of Service on Any device - Anywhere](https://zixi.com/solutions/delivery/)
 - Revolvy: [Reliable Internet Stream Transport](https://www.revolvy.com/page/Reliable-Internet-Stream-Transport)
@@ -108,6 +108,11 @@
 ### Papers
 - 2018 [RIST – Reliable Internet Stream Transport](http://www.videoservicesforum.org/activity_groups/RIST_poster_for_VidTrans2018Feb25.pdf)
 - 2018 [Preamble to Video Services Forum (VSF) Technical Recommendation TR-06-1](http://www.videoservicesforum.org/download/technical_recommendations/VSF_TR-06-1_2018_10_17.pdf)
+
+
+### Open Soruces
+- [rist](https://gitlab.collabora.com/rist)
+
 
 
 ---
