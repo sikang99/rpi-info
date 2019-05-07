@@ -729,6 +729,7 @@ $ ./build.sh # long time to build, don't use go build
 - [wiki/Google_Stadia](https://en.wikipedia.org/wiki/Google_Stadia)
 
 ### History
+- 2019/04/21 [Stadia: everything you need to know about Google's game-streaming service](https://www.techradar.com/news/stadia-everything-you-need-to-know-about-googles-game-streaming-service)
 - 2019/03/19 [Google Stadia News: Cloud Streaming, Hands-On, And More From GDC 2019](https://www.gamespot.com/articles/google-stadia-news-cloud-streaming-hands-on-and-mo/1100-6465658/)
 - 2019/00/00
 - 2018/10/17 [Building a Cross-browser, Cross-platform, Real-time Game Streaming Protocol](https://blog.rainway.io/building-a-cross-browser-cross-platform-real-time-game-streaming-protocol-b00d000fe788)

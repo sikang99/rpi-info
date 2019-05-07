@@ -9,6 +9,7 @@
 
 
 ## Common
+- 2019/05/04 [Akamai Announces Support for Ultra-Low Latency With CMAF](https://cdnhosting.com/akamai-announces-support-for-ultra-low-latency-with-cmaf/)
 - 2019/04/25 [The State of WebRTC and Low-Latency Streaming 2019](https://www.pledo.co/post/the-state-of-webrtc-and-low-latency-streaming-2019)
 - 2018/08/10 [UDP-Based Streaming Modes Battle For Traction as Paths to Low Latency](http://www.screenplaysmag.com/2018/08/14/udp-based-streaming-modes-battle-for-traction-as-paths-to-low-latency/)
 - 2018/05/25 [Re-Engineering Real-Time Video Delivery](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Re-Engineering-Real-Time-Video-Delivery-125300.aspx)
@@ -49,20 +50,19 @@
 
 
 ---
-## YouTube Live
+## SNS Streaming
+### YouTube Live
 
 - [Live Streaming over HTTP using VLC Streaming](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_http.php)
 - [Stream screen to Youtube with VLC](https://superuser.com/questions/1293581/stream-screen-to-youtube-with-vlc)
 - 2015/08/15 [Streaming to YouTube Live with VLC and FFMPEG](https://blog.vucica.net/2015/08/streaming-to-youtube-live-with-vlc-and-ffmpeg.html)
 
 
----
-## Facebook Live
+### Facebook Live
 - 2018/04/04 [How to Set Up Multi-Camera Streaming to Facebook Live With Free Software](https://hackernoon.com/how-to-set-up-multi-camera-streaming-to-facebook-live-with-free-software-f6c66deb8619)
 
 
----
-## Twitter Periscope
+### Twitter Periscope
 - 2017/07/22 [Introducing LHLS Media Streaming](https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) - Periscope
 
 
