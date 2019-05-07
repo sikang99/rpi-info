@@ -345,6 +345,7 @@
 - [Streaming Using WebSockets](http://docs.evostream.com/2.0/html5players_wsdemo.html)
 - [Media Source Extensions](https://developers.google.com/web/fundamentals/media/mse/basics)
     - [Media Source Extensions for Audio](https://developers.google.com/web/fundamentals/media/mse/seamless-playback)
+- [MSEPrimer](https://webplatform.github.io/docs/tutorials/MSEPrimer/)
 
 
 ### Open Source
