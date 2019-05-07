@@ -11,6 +11,7 @@
 ## Common
 - 2019/05/04 [Akamai Announces Support for Ultra-Low Latency With CMAF](https://cdnhosting.com/akamai-announces-support-for-ultra-low-latency-with-cmaf/)
 - 2019/04/25 [The State of WebRTC and Low-Latency Streaming 2019](https://www.pledo.co/post/the-state-of-webrtc-and-low-latency-streaming-2019)
+- 2019/04/18 [The Ultra-Low Latency video streaming roadmap: from WebRTC to CMAF — part 2](https://medium.com/exmachinagroup/the-ultra-low-latency-video-streaming-roadmap-from-webrtc-to-cmaf-part-2-14956b9a81e0)
 - 2019/03/19 [**The Ultra-Low Latency video streaming roadmap: from WebRTC to CMAF**](https://medium.com/exmachinagroup/the-ultra-low-latency-video-streaming-roadmap-from-webrtc-to-cmaf-5b0d8b4ceec2)
 - 2019/01/31 [Powering Low Latency Streaming](https://blogs.akamai.com/2019/01/powering-low-latency-live-streaming.html)
 - 2019/01/23 [The Low Latency Live Streaming Landscape in 2019](https://mux.com/blog/the-low-latency-live-streaming-landscape-in-2019/)
