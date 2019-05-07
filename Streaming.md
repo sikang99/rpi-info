@@ -2,7 +2,7 @@
 
 ## Terminology
 - Low Latency HLS (LHLS)
-- CMAF Low Latency Chunks (LLC)
+- CMAF Low Latency Chunks (LLC), Ultra Low Latency (ULL)
 - Secure Reliable Transport (SRT)
 - Reliable Internet Stream Transport (RIST)
 - MPEG Media Transport (MMT)
@@ -26,6 +26,7 @@
 - [Salsify/](https://snr.stanford.edu/salsify/) - Video is better when the codec and transport work together
 - [MONROE project](https://github.com/MONROE-PROJECT/)
 - [Live streaming web audio and video](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_delivery/Live_streaming_web_audio_and_video)
+- 2019 [NTT Group’s Activities in ONF](https://www.opennetworking.org/wp-content/uploads/2019/04/NTT-Groups-Activities-in-ONF.pdf)
 
 
 ### Books
