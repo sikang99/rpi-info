@@ -70,7 +70,8 @@
 - [adwpc/rtcsdp](https://github.com/adwpc/rtcsdp) - webrtc sdp encoder/decoder by golang [T]
 - [shiguredo/ayame](https://github.com/shiguredo/ayame) - WebRTC Signaling Server Ayame
 - [pions/webrtc](https://github.com/pions/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
-- [**pion/webrtc**](https://github.com/pion/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
+- [pion](https://github.com/pion) - The Open Source, Cross Platform Stack for Real-time Media and Data Communication.
+    - [pion/webrtc](https://github.com/pion/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
 - [gortc](https://github.com/gortc) - Open source NAT traversal tools in go and WebRTC interop
     - [gortc/dev](https://github.com/gortc/dev) - Goals, principles and development status https://gortc.io
     - [gortc/gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config
