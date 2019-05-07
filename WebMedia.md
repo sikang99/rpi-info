@@ -354,7 +354,7 @@
 - [kevinGodell/mse-live-player](https://github.com/kevinGodell/mse-live-player)
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
 - [linkingvision/h5stream](https://github.com/linkingvision/h5stream) - HTML5 RTSP paly a HTML5 streaming server
-
+- [ilsanbao/webrtc-mse-demo](https://github.com/ilsanbao/webrtc-mse-demo) - WEBRTC & MSE demo
 
 ---
 ## HTML5 & Media
