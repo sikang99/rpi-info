@@ -85,6 +85,7 @@
 - [go-yuv2webRTC/tree/master](https://github.com/poi5305/go-yuv2webRTC) - Encode RGBA/YUV images to VP8 buffer with WebRTC streaming
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [**hashicorp/mdns**](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
+- [Gaboose/mdns](https://github.com/Gaboose/mdns) - Simple mDNS client/server library in Golang
 - [davecheney/mdns](https://github.com/davecheney/mdns) - Multicast DNS library for Go http://www.multicastdns.org/
 
 
