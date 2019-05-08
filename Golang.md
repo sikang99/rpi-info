@@ -59,7 +59,7 @@
 
 
 ### WebRTC
-- [Go for WebRTC](https://libs.garden/go/webrtc)
+- [libs.garden](https://libs.garden) for [Go](https://libs.garden/go)/[WebRTC](https://libs.garden/go/webrtc)
 - [Anatomy of a WebRTC SDP](https://webrtchacks.com/sdp-anatomy/)
 - [Go webrtc signaling server](https://libs.garden/go/search?q=webrtc%20signaling%20server)
 - [RTCTunnel: Building a WebRTC Proxy with Go](https://www.doxsey.net/blog/rtctunnel--building-a-webrtc-proxy-with-go)
