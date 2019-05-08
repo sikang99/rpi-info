@@ -70,6 +70,7 @@
 - [hakobera/serverless-webrtc-signaling-server](https://github.com/hakobera/serverless-webrtc-signaling-server) - Serverless WebRTC Signaling Server
 - [adwpc/rtcsdp](https://github.com/adwpc/rtcsdp) - webrtc sdp encoder/decoder by golang [T]
 - [shiguredo/ayame](https://github.com/shiguredo/ayame) - WebRTC Signaling Server Ayame
+- [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 - [pions/webrtc](https://github.com/pions/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly, old version
 - [**pion**](https://github.com/pion) - The Open Source, Cross Platform Stack for Real-time Media and Data Communication.
     - [pion/webrtc](https://github.com/pion/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
