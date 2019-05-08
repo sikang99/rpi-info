@@ -87,6 +87,7 @@
 - [**hashicorp/mdns**](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
 - [Gaboose/mdns](https://github.com/Gaboose/mdns) - Simple mDNS client/server library in Golang
 - [davecheney/mdns](https://github.com/davecheney/mdns) - Multicast DNS library for Go http://www.multicastdns.org/
+- [davecheney/mdns-test](https://github.com/davecheney/mdns-test) - mDNS test 
 
 
 ---
