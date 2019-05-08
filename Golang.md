@@ -89,7 +89,7 @@
 - [Gaboose/mdns](https://github.com/Gaboose/mdns) - Simple mDNS client/server library in Golang
 - [davecheney/mdns](https://github.com/davecheney/mdns) - Multicast DNS library for Go http://www.multicastdns.org/
 - [davecheney/mdns-test](https://github.com/davecheney/mdns-test) - mDNS test 
-
+- [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go
 
 ---
 ## Cloud
