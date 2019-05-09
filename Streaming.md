@@ -87,6 +87,16 @@
 
 ### Open Source
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
+- [russelltg/gosrt](https://github.com/russelltg/gosrt) - Go bindings for SRT
+
+
+---
+## FTL (Faster Than Light)
+
+
+### Open Soruces
+- [rhettg/ftl](https://github.com/rhettg/ftl) - An S3 based simple deployment system
+- [m-asama/ftl](https://github.com/m-asama/ftl) - 
 
 
 ---
@@ -200,6 +210,15 @@
 
 ### Open Source
 - [videolabs/libspatialaudio](https://github.com/videolabs/libspatialaudio) - Ambisonic encoding / decoding and binauralization library
+
+
+
+---
+## FFmpeg
+
+### Open Source
+- [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
+
 
 
 
