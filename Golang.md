@@ -71,6 +71,7 @@
 - [adwpc/rtcsdp](https://github.com/adwpc/rtcsdp) - webrtc sdp encoder/decoder by golang [T]
 - [shiguredo/ayame](https://github.com/shiguredo/ayame) - WebRTC Signaling Server Ayame
 - [**keroserene/go-webrtc**](https://github.com/keroserene/go-webrtc) - WebRTC for Go
+- [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport
 - [licoyqtc/webRtc](https://github.com/licoyqtc/webRtc) - go webRtc demo
 - [pions/webrtc](https://github.com/pions/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly, old version
 - [**pion**](https://github.com/pion) - The Open Source, Cross Platform Stack for Real-time Media and Data Communication.
