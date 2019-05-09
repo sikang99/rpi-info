@@ -78,6 +78,8 @@
     - [pion/webrtc](https://github.com/pion/webrtc) - A Go implementation of the WebRTC AP, https://pion.ly
 - [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC use Pion WebRTC
 - [rukavina/sfutest](https://github.com/rukavina/sfutest) - SFU WEBRTC test based on pion
+- [mxseba/rtc-ssh](https://github.com/mxseba/rtc-ssh) - SSH Console via WebRTC https://sqs.io
+    - [mxseba/browser](https://github.com/mxseba/browser) - Library RtcSSH2.js
 - [**gortc**](https://github.com/gortc) - Open source NAT traversal tools in go and WebRTC interop
     - [gortc/dev](https://github.com/gortc/dev) - Goals, principles and development status https://gortc.io
     - [gortc/gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config
