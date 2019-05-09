@@ -297,6 +297,7 @@
 - [JackieZhangdx/WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList) - Weakly Supervised Semantic Segmentation list
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [omarabid59/YOLO_Google-Cloud](https://github.com/omarabid59/YOLO_Google-Cloud) - Google Cloud Machine Learning for backend YOLO v3 object detection inference with a browser based WebRTC connection
+- [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners
 
 
 ### Papers
