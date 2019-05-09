@@ -89,6 +89,11 @@
 - [go-yuv2webRTC/tree/master](https://github.com/poi5305/go-yuv2webRTC) - Encode RGBA/YUV images to VP8 buffer with WebRTC streaming
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [coreos/go-webrtc-datachannel](https://github.com/coreos/go-webrtc-datachannel) - 
+- [lempiy/Signaller](https://github.com/lempiy/Signaller) - Signaller for WebRTC P2P Data
+- [d4l3k/webrtc-lobby](https://github.com/d4l3k/webrtc-lobby) - A lobby service for webrtc
+- [eyedeekay/samrtc](https://github.com/eyedeekay/samrtc) - Experiments with making webRTC applications use the SAM bridge, in particular WebTorrent
+- [adwpc/rtcsdp](https://github.com/adwpc/rtcsdp) - webrtc sdp encoder/decoder by golang
+
 
 ---
 ## mDNS
