@@ -700,6 +700,7 @@ $ ./build.sh # long time to build, don't use go build
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - Go AVIF library
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
+- [yohhoy/av1-tech](https://github.com/yohhoy/av1-tech) - coding tools study in AOM AV1 video codec
 
 
 ### Paper
