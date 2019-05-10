@@ -685,6 +685,7 @@ $ ./build.sh # long time to build, don't use go build
 - Intel [Scalable Video Technology for the Visual Cloud](https://01.org/sites/default/files/documentation/scalable_video_technology_for_the_visual_cloud.pdf)
 - [NGCodec](https://ngcodec.com)
 
+
 ### Open Source
 - [**AOMediaCodec**](https://github.com/AOMediaCodec)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
@@ -698,6 +699,7 @@ $ ./build.sh # long time to build, don't use go build
 - [Kagami/avif.js](https://github.com/Kagami/avif.js) - AVIF polyfill polyfill for the browser
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - Go AVIF library
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
+- [yohhoy/av1parser](https://github.com/yohhoy/av1parser) - AV1 video codec bitstream parser (not decoder!)
 
 
 ### Paper
