@@ -72,6 +72,7 @@
 - MIT [Data Nutrition Project](http://datanutrition.media.mit.edu/)
 - [commaai/comma2k19](https://github.com/commaai/comma2k19) - A driving dataset for the development and validation of fused pose estimators and mapping algorithms
 - [**VisualData**](https://www.visualdata.io/) - Discover Computer Vision Datasets
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 
 
 ### History
