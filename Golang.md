@@ -131,14 +131,22 @@
 
 ---
 ## Cloud
+### History
+- 2018/04/11 [Upload files to AWS S3 using pre-signed POST data and a Lambda function](https://blog.webiny.com/upload-files-to-aws-s3-using-pre-signed-post-data-and-a-lambda-function-7a9fb06d56c1)
+- 2019/03/01 [Direct uploads to AWS S3 from the browser (crazy performance boost)](https://softwareontheroad.com/aws-s3-secure-direct-upload/)
+- 2018/10/07 [File Or Image Uploads on Amazon Web Services ( AWS ) using React, Node and Express JS ( aws-sdk )](https://medium.com/@imranhsayed/file-or-image-uploads-on-amazon-web-services-aws-using-react-node-and-express-js-aws-sdk-252742286162)
+- 2018/08/23 [React Native — Write Files to S3 With aws-amplify](https://medium.com/@ballenwillis/react-native-write-files-to-s3-with-aws-amplify-f4b32f96d22e)
+
+### Information
 - [Go용 AWS SDK](https://aws.amazon.com/ko/sdk-for-go/)
 - [Faster builds in Docker with Go 1.11](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
 - [Lean Go Containers with Multi-Stage Dockerfiles](https://container-solutions.com/lean-go-containers-multi-stage-dockerfiles/)
+- [Amplify Framework](https://aws-amplify.github.io/)
 
 
 ### Open Source
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language
-
+- [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services
 
 ---
 ## Deep Learning
