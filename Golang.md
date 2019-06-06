@@ -147,6 +147,8 @@
 ### Open Source
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services
+- [**open-guides/og-aws**](https://github.com/open-guides/og-aws) - Amazon Web Services - a practical guide
+
 
 ---
 ## Deep Learning
