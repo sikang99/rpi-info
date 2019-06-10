@@ -748,10 +748,13 @@ $ ./build.sh # long time to build, don't use go build
 - 2018/05/08 [The Best Cloud Gaming Services: Welcome Gaming to the Web](https://www.cloudwards.net/top-five-cloud-services-for-gamers/)
 - 2017/09/07 [Real-time Communication For Everyone](https://blog.rainway.io/real-time-communication-for-everyone-6f27e02c2f14)
 
+
 ### Open Source
 - [parsec-cloud/web-client](https://github.com/parsec-cloud/web-client)
 - [RainwayApp/spitfire](https://github.com/RainwayApp/spitfire) - An easy to use WebRTC library for .NET applications
 - [Rune Dalton/Snoost Cloud Gaming](https://bitbucket.org/runedalton/snoost-cloud-gaming)
+- [**giongto35/cloud-game**](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming Service
+
 
 ### Paper
 - 2018 [Cloud Gaming With Foveated Graphics](https://arxiv.org/pdf/1809.05823.pdf)
