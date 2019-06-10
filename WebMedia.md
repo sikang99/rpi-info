@@ -733,6 +733,7 @@ $ ./build.sh # long time to build, don't use go build
 - [wiki/Google_Stadia](https://en.wikipedia.org/wiki/Google_Stadia)
 
 ### History
+- [https://cloud.google.com/solutions/gaming/cloud-game-infrastructure](클라우드 게임 인프라 개요)
 - 2019/05/08 [**Google engineers detail the streaming tech behind Stadia’s “imperceptible” latency**](https://www.pcgamesn.com/stadia/google-game-streaming-technology-latency-quality)
 - 2019/05/05 [Google Stadia vs. Project xCloud: Here’s what we know so far](https://www.digitaltrends.com/gaming/google-stadia-vs-project-xcloud/)
 - 2019/04/21 [Stadia: everything you need to know about Google's game-streaming service](https://www.techradar.com/news/stadia-everything-you-need-to-know-about-googles-game-streaming-service)
