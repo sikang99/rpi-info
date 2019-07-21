@@ -84,6 +84,8 @@ $ sudo apt-get install xrdp
 
 
 ### Foreign Information
+- 2019/07/10 [How to Upgrade Raspbian Stretch to Raspbian Buster](https://pimylifeup.com/upgrade-raspbian-stretch-to-raspbian-buster/)
+- 2019/06/26 [Update Raspberry Pi to Raspbian Buster 10](https://www.scivision.dev/updating-raspberry-pi-to-latest-debian-raspbian/)
 - [Trigger Camera](http://blog.cudmore.io/triggercamera/)
 - 2018/10/10 [Download/Install Android 8.1 Oreo On Raspberry Pi 3 (Lineage OS 15.1)]
 - 2018/03/28 [Install Android on his Raspberry Pi](https://howtoraspberrypi.com/install-android-raspberry-pi/)
@@ -229,6 +231,7 @@ $ vlc rtsp://<ip:8554>/unicast
 - [oweitman/squeezelite-bluetooth](https://github.com/oweitman/squeezelite-bluetooth)
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 - [bndw/security-camera](https://github.com/bndw/security-camera) - Motion detecting security camera using a raspberry pi, webcam, s3, and slack
+- [nickfox-taterli/upgrade_raspbian_to_buster.sh](https://gist.github.com/nickfox-taterli/fcddd0ac724ec066b51f8e777800fea2)
 
 
 ---
