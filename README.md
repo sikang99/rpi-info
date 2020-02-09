@@ -83,6 +83,8 @@ $ sudo apt-get install xrdp
 - 2018/06/01 [라즈베리파이3 B+ 개봉 및 부팅테스트](https://m.blog.naver.com/nettrail/221289334287)
 - 2018/03/20 [모니터 없이 라즈베리파이 3 모델 B+의 SSH, VNC 원격접속 설정](https://m.blog.naver.com/PostView.nhn?blogId=specialist0&logNo=221232983680&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
+### Foreign Information
+- 2019/08/31 [i카메라없이 라즈빠이과 momo 테스트 영상을 WebRTC에 전달](https://qiita.com/tetsu_koba/items/789a19cb575953f41a1a)0
 
 ### Foreign Information
 - 2019/07/10 [How to Upgrade Raspbian Stretch to Raspbian Buster](https://pimylifeup.com/upgrade-raspbian-stretch-to-raspbian-buster/)
