@@ -187,7 +187,7 @@ RPi RTSP Server Test
 $ v4l2rtspserver
 $ v4l2rtspserver -F -W 1920 -H 1080 -P8554 /dev/video0
 $ vlc rtsp://<ip:8554>/unicast
-$ vlc rtsp://imoment:imoment@192.168.0.18/axis-media/media.amp
+$ cvlc rtsp://imoment:imoment@192.168.0.18/axis-media/media.amp
 ```
 
 ### Magazine & Books
